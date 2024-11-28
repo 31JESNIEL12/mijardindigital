@@ -51,3 +51,69 @@
 
 ✔ **ETA**
 - Estimed Time of Arrival 
+- "Hora aproximada de llegada" 
+
+✔ **FAQ** 
+- Frequently Asked Questions 
+- "Preguntas frecuentes" 
+
+✔ **FYI**
+- For you information 
+- "Para su información" 
+
+✔ **GB**
+- Great Britain 
+- "Gran Bretaña" 
+
+✔ **Max** 
+- Maximum 
+- "Máximo" 
+
+✔ **Min** 
+- Minimum 
+- "Mínimo" 
+
+✔ **PC** 
+- Personal Computer 
+- "Ordenador personal" 
+
+✔ **PM**
+- Post - Meridiem 
+- "Después del mediodía" 
+
+✔ **PO Box** 
+- Post Office Box 
+- "Aparatado de correos" 
+
+✔ **Prf** 
+- Professor
+- "Profesor" 
+
+✔ **Rd**
+- Road
+- "Carretera" 
+
+✔ **Sq** 
+- Square
+- "Plaza" 
+
+✔ **St**
+- Street 
+- "Calle" 
+
+✔ **UK** 
+- United Kingdom 
+- "Reino Unido"
+
+✔ **USA** 
+- United States of America 
+- "Estados Unidos de Unidos" 
+
+✔ **VAT** 
+- Value Added Tax
+- "Impuesto sobre el valor añadido" 
+
+✔ **VIP** 
+- Very Important Person 
+- "Persona muy importante"
+
