@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/14-psicologia/teoria/escuelas-psicologicas/","dgPassFrontmatter":true}
+{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/escuelas-psicologicas/","dgPassFrontmatter":true}
 ---
 
 # TEORÍA
