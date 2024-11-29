@@ -10,11 +10,6 @@
 >[RESUMEN DE PSICOLOGÍA UNMSM - IPLUTON](https://youtu.be/dbT_bw9rzZ4?si=4ZTb-5_fLrcQzRK3) 
 >[PSICOLOGÍA MARATÓN FREE 2023-1 - GRUPO CIENCIAS](https://www.youtube.com/watch?v=G4EA0N6J5Mk) 
 
->[!isidenote]- **TODOS LOS COMPLEJOS** 
->![[Todos los Complejos en 9 minutos.mp4]] 
-
->[!sidenote]- **TODOS LOS SESGOS COGNITIVOS** 
->![[Todos los Sesgos Cognitivos en 9 minutos.mp4]]
 
 ---
 **HISTORIA DE LA PSICOLOGÍA**
