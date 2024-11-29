@@ -1,0 +1,80 @@
+---
+{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/teoria-sobre-la-literatura/","dgPassFrontmatter":true}
+---
+
+# TEORÍA Y PRÁCTICA DE LITERATURA
+---
+
+>[[13. LITERATURA/TEORÍA/Resumen de Literatura\|RESUMEN DE LITERATURA]]
+
+>[[13. LITERATURA/TEORÍA/Conocimientos Previos\|CONOCIMIENTOS PREVIOS]]
+
+>[[13. LITERATURA/TEORÍA/Clasicismo universal\|CLASICISMO UNIVERSAL]]
+
+ >[[13. LITERATURA/TEORÍA/Medievalismo universal\|MEDIEVALISMO UNIVERSAL]]
+
+>[[13. LITERATURA/TEORÍA/Renacimiento Universal\|RENACIMIENTO UNIVERSAL]]
+
+ >[[13. LITERATURA/TEORÍA/Neoclasicismo universal\|NEOCLASICISMO UNIVERSAL]]
+
+>[[13. LITERATURA/TEORÍA/Romanticismo Universal\|ROMANTICISMO UNIVERSAL]]
+
+ >[[13. LITERATURA/TEORÍA/Realismo Universal\|REALISMO UNIVERSAL]]
+
+>[[13. LITERATURA/TEORÍA/Simbolismo Universal\|SIMBOLISMO UNIVERSAL]]
+
+>[[13. LITERATURA/TEORÍA/Literatura contemporánea\|LITERATURA CONTEMPORÁNEA]]
+
+>[[13. LITERATURA/TEORÍA/Medievalismo Español\|MEDIEVALISMO ESPAÑOL]]
+
+>[[13. LITERATURA/TEORÍA/Prerrenacimiento español\|PRERENACIMIENTO ESPAÑOL]]
+
+>[[13. LITERATURA/TEORÍA/Renacimiento y Barroco\|RENACIMIENTO Y BARROCO]]
+
+ >[[13. LITERATURA/TEORÍA/Narrativa de la edad de oro\|NARRATIVA DE LA EDAD DE ORO]]
+
+>[[13. LITERATURA/TEORÍA/Romanticismo Español\|ROMANTICISMO ESPAÑOL]]
+
+ >[[13. LITERATURA/TEORÍA/Generación del 98\|GENERACIÓN DEL 98]]
+
+>[[13. LITERATURA/TEORÍA/Generación del 27\|GENERACIÓN DEL 27]]
+
+ >[[13. LITERATURA/TEORÍA/Generación de la Post Guerra\|GENERACIÓN DE LA POST-GUERRA]]
+
+ >[[13. LITERATURA/TEORÍA/Colonia y Emancipación\|COLONIA Y EMANCIPACIÓN]]
+
+ >[[13. LITERATURA/TEORÍA/Romanticismo Hispanoamericano\|ROMANITCISMO HISPANOAMERICANO]]
+
+>[[13. LITERATURA/TEORÍA/Modernismo Hispanoamericano\|MODERNISMO HISPANOAMERICANO]]
+
+>[[13. LITERATURA/TEORÍA/Vanguardismo Hispanoamericano\|VANGUARDISMO HISPANOAMERICANO]]
+
+ >[[13. LITERATURA/TEORÍA/Regionalismo Hispanoamericano\|REGIONALISMO HISPANOAMERICANO]]
+
+>[[13. LITERATURA/TEORÍA/Posmodernismo Hispanoamericano\|POSTMODERNISMO HISPANOAMERICANO]]
+
+ >[[13. LITERATURA/TEORÍA/Nueva narrativa latinoamericana\|NUEVA NARRATIVA LATINOAMERICANA]]
+
+ >[[13. LITERATURA/TEORÍA/Boom Latinoamericano\|BOOM LATINOAMERICANO]]
+
+ >[[13. LITERATURA/TEORÍA/Literatura Pre Republicana\|LITERATURA PRE REPUBLICANA]]
+
+ >[[13. LITERATURA/TEORÍA/Costumbrismo peruano\|COSTUMBRISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Romanticismo Peruano\|ROMANTICISMO PERUANO]]
+
+>[[13. LITERATURA/TEORÍA/Realismo Peruano\|REALISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Modernismo Peruano\|MODERNISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Posmodernismo Peruano\|POSMODERNISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Simbolismo Peruano\|SIMBOLISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Vanguardismo Peruano\|VANGUARDISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Indigenismo Peruano\|INDIGENISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Urbanismo Peruano\|URBANISMO PERUANO]]
+
+ >[[13. LITERATURA/TEORÍA/Literatura Regional\|LITERATURA REGIONAL]]
