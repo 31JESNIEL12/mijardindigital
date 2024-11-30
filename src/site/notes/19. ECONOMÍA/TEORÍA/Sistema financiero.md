@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/19-economia/teoria/sistema-financiero/","dgPassFrontmatter":true}
+{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/sistema-financiero/","dgPassFrontmatter":true}
 ---
 
 # TEORÍA
@@ -9,9 +9,6 @@
 >[!sidenote]- **LINKS EXTERNOS DE CLASES** 
 >[SISTEMA FINANCIERO - IPLUTON](https://youtu.be/942kvHAVlQk)
 >[INTERMEDIACIÓN FINANCIERA - GRUPO CIENCIAS](https://youtu.be/I2fLFZbKJs0?si=1tHFXiMHhf2lMo7W)
-
->[!sidenote]- **ARTES RUPESTRES**
->![Sistema financiero y bancario.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sistema%20financiero%20y%20bancario.png)
 
 ✔ **DEFINICIÓN**
 - Conjunto de instituciones financieras encargadas de la circulación del flujo monetario y cuya responsabilidad principal es canalizar los recursos financieros de los ==**AHORRISTAS (AGENTES ECONÓMICOS SUPERAVITARIOS)**== hacia quienes desean hacer ==**INVERSIONES PRODUCTIVAS (AGENTES ECONÓMICOS DEFICITARIOS)**==. 
