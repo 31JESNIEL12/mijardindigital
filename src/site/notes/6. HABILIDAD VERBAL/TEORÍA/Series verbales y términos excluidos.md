@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/series-verbales-y-terminos-excluidos/","dgPassFrontmatter":true}
+{"tags":["RV","Teoría"],"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/series-verbales-y-terminos-excluidos/","dgPassFrontmatter":true}
 ---
 
 # TEORÍA
