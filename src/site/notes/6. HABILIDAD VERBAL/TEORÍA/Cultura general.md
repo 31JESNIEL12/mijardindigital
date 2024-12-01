@@ -6,16 +6,6 @@
 ---
 **CULTURA GENERAL** 
 
->[!sidenote]- **CULTURA GENERAL UNPRG** 
->![Cultura General de la UNPRG 1.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%201.jpg)
->![Cultura General de la UNPRG 2.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%202.jpg) 
->![Cultura General de la UNPRG 3.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%203.jpg)
->![Cultura General de la UNPRG 4.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%204.jpg)
->![Cultura General de la UNPRG 5.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%205.jpg)
->![Cultura General de la UNPRG 6.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%206.jpg)
->![Cultura General de la UNPRG 7.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%207.jpg)
->![Cultura General de la UNPRG 8.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cultura%20General%20de%20la%20UNPRG%208.jpg)
-
 | ANIMAL        | ONOMATOPEYA           | ANIMAL         | CRÍA               |
 | ------------- | --------------------- | -------------- | ------------------ |
 | Abeja         | Zumba                 | Águila         | Aguilucho          |
