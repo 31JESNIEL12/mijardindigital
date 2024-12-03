@@ -95,7 +95,7 @@
 ---
 **TODAS LAS INTELIGENCIAS EN 9 MINUTOS**
 
-![[Tipos de Inteligencia en 9 minutos.mp4]]
+![[Tipos de Inteligencia en 9 minutos.mp4\|Tipos de Inteligencia en 9 minutos.mp4]]
 
 ---
 **MEDICIÓN DE LA INTELIGENCIA**
