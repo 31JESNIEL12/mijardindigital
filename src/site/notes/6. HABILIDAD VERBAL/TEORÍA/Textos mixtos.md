@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/textos-mixtos/"}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/textos-mixtos/","tags":["RV","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
