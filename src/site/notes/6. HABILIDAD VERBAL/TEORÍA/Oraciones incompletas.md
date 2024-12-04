@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/oraciones-incompletas/"}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/oraciones-incompletas/","tags":["RV","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
