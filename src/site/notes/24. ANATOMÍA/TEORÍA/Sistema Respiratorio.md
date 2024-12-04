@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-respiratorio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-respiratorio/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -40,8 +40,8 @@ PRESENCIA DE ALVEOLOS
 ✔ **PORCIÓN CONDUCTORA** 
 - Solo conduce aire
 - No hay presencia de alveolos
-- Volumen espacio muerto anatómico ==**(VEMA)**==: 150 ml
-- Epitelio Pseudoestratificado Cilíndrico Ciliado ==**(EPITELIO RESPIRATORIO)**== → Fosas Nasales, Faringe, Laringe, Tráquea y Bronquio primario
+- Volumen espacio muerto anatómico ==(VEMA)==: 150 ml
+- Epitelio Pseudoestratificado Cilíndrico Ciliado ==(EPITELIO RESPIRATORIO)== → Fosas Nasales, Faringe, Laringe, Tráquea y Bronquio primario
 - Epitelio Monoestratificado Cilíndrico Ciliado → Bronquio secundario, Bronquiolo terciario y Bronquiolo terminal
 
 ✔ **PORCIÓN RESPIRATORIO** 
@@ -58,6 +58,7 @@ PRESENCIA DE ALVEOLOS
 
 ---
 **VÍAS RESPIRATORIAS**
+
 Conductos por donde conduce el aire
 
 ✔ **NARIZ**
@@ -286,8 +287,7 @@ Conductos por donde conduce el aire
 - Están rodeados y separados entre sí por una delgada capa de tejido conectivo que contiene abundantes capilares sanguíneos
 - Son los responsables de la estructura esponjosa del pulmón
 - Existen unos 300 millones de alvéolos entre ambos pulmones  
-- Las paredes alveolares que son muy delgadas ==**(EPITELIO SIMPLE PLANO)**==, están en estrecho contacto con redes capilares 
-- Existen en la paredes, ==**POROS ALVEOLARES DE KOHN**==, los cuales permiten el intercambio de aire en los alvéolos cuyas vías de oxigenación se han obstruido 
+- Las paredes alveolares que son muy delgadas ==**(EPITELIO SIMPLE PLANO)**==, están en estrecho contacto con redes capilares
 
 🔹 **NEUMOCITOS I**
 - Células epiteliales que revisten los alvéolos, favoreciendo la hematosis
@@ -296,7 +296,9 @@ Conductos por donde conduce el aire
 
  🔹 **NEUMOCITOS II**
  - Células redondas, grandes y secretoras de una mezcla de fosfolípidos y lipoproteínas denominada sustancia ==**TENSIOACTIVA**== o ==**SURFACTANTE**==, el cual evita la que las paredes alveolares colapsen durante el proceso de la espiración ([[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Atelectasia\|ATELECTASIA]])  
-- PORCENTAJE: 60% de la población celular alveolar y el 5% de la superficie alveolar 
+ - Esta sustancia se produce desde la ==7MA MES (28 - 32 SEMANAS)== de gestación 
+	 - DEFICIENCIA: En bebe prematuros → [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Enfermedad de la membrana Hialina\|Enfermedad de la membrana Hialina]] 
+- PORCENTAJE: 60% de la población celular alveolar y el 5% de la superficie alveolar
 
 |          **COMPONENTES**           | **COMPOSICIÓN PORCENTUAL** |
 |:----------------------------------:|:--------------------------:|
@@ -315,21 +317,27 @@ Conductos por donde conduce el aire
 - Son los que permiten la comunicación entre los alveolos adyacentes, y de esta manera, permite la circulación de aire de uno a otro alveolo 
 
 🔹 **[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumonía\|NEUMONÍA]]** 
-- Es una infección aguda de los alveolos pulmonares 
+- Es una infección aguda de los alveolos pulmonares, en la cual los sacos alveolares se llenan de líquido y leucocitos dificultando la difusión del O<sub>2</sub> 
+- PERSONAS PROPENSAS: Ancianos, lactantes y fumadores 
 
 >[!sidenote]- **ALVEOLO PULMONAR** 
 ![Anatomía del Alveolo pulmonar.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Anatom%C3%ADa%20del%20Alveolo%20pulmonar.png)
 
 ✅ **MEMBRANA ALVEOLOCAPILAR O RESPIRATORIA** 
 - Conjunto de capas a través de las cuales tiene que difundir los gases respiratorios 
+- GROSO PROMEDIO: 0,5 mm
 - CONFORMADO POR:
+	- Capa de sustancia surfactante
 	- Una capa de células alveolares tipos I y II con macrófagos alveolares libres que forman la pared alveolar (EPITELIAL)
-	- Una membrana basal epitelial 
-	- Una membrana basal capilar 
-	- Las células endoteliales del capilar 
+	- Una membrana basal del epitelio alveolar
+	- Una membrana basal del endotelio capilar que suele estar fusionada con la membrana basal epitelial 
+	- Una capa endotelial del capilar sanguíneo 
+
+![Membrana respiratoria.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Membrana%20respiratoria.png)
 
 >[!sidenote]- **TENER EN CUENTA:** 
->
+>El O<sub>2</sub> atraviesa primero la sustancia surfactante, y al final la capa endotelial del capilar sanguíneo.
+>En cambio el CO<sub>2</sub>, atraviesa primero la capa endotelial del capilar sanguíneo, y al final la sustancia surfactante
 
 ---
 **FISIOLOGÍA RESPIRATORIA** 
@@ -421,6 +429,14 @@ Conductos por donde conduce el aire
 - VALOR: 5800 ml = CV + VAR
 
 >[!sidenote]- **VOLUMEN MÍNIMO** 
+>Es el aire que permanece en los pulmones después de que estos se  hayan expandido por primera vez al respirar
+>Se utiliza como una herramienta médico - legal. En la prueba de ==**DOCIMASIA PULMONAR HIDROSTÁTICA**== 
+>Si los pulmones flotan, el bebé respiró 
+>Si se hunden, el bebe no respiró después del nacimiento 
+>![Prueba de docimasia pulmonar hidrostática.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Prueba%20de%20docimasia%20pulmonar%20hidrost%C3%A1tica.png) 
+>>[!sidenote]- **MÁS INFORMACIÓN:** 
+>>[Recomendaciones para la asistencia respiratoria en el recién nacido (IV)](https://www.analesdepediatria.org/es-recomendaciones-asistencia-respiratoria-el-recien-articulo-S1695403317301777?utm) 
+>>[Manual de cuidados respiratorios en recién nacidos](https://prematuro.cl/ventilacion_mecanica_neonatal/Taller_VM_Mayo_2021/Manual_Cuidados_Respiratorios_RN.pdf?utm) 
 
 ![Capacidades pulmonares 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Capacidades%20pulmonares%201.png)
 
