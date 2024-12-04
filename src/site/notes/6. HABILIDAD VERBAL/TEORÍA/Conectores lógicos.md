@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/conectores-logicos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/conectores-logicos/","tags":["RV","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
