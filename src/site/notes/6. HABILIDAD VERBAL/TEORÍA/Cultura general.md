@@ -1,5 +1,5 @@
 ---
-{"tags":["RV","Cultura","Teoría"],"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/cultura-general/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/cultura-general/","tags":["RV","Cultura","Teoría"]}
 ---
 
 # TEORÍA
