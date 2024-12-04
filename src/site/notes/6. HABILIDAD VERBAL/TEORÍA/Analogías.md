@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/analogias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/analogias/"}
 ---
 
 # TEORÍA
