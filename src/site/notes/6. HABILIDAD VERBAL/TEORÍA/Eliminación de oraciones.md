@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/eliminacion-de-oraciones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/6-habilidad-verbal/teoria/eliminacion-de-oraciones/","tags":["RV","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
