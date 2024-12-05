@@ -1,5 +1,5 @@
 ---
-{"tags":["Cívica","Teoría"],"dg-publish":true,"permalink":"/15-civica/teoria/resumen-de-civica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/15-civica/teoria/resumen-de-civica/","tags":["Cívica","Teoría"]}
 ---
 
 # RESUMEN Y MNEMOCTENIAS
