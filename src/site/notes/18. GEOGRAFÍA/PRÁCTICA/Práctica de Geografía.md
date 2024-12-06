@@ -1,5 +1,5 @@
 ---
-{"tags":["Geografía","Práctica"],"dg-publish":true,"permalink":"/18-geografia/practica/practica-de-geografia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/18-geografia/practica/practica-de-geografia/","tags":["Geografía","Práctica"]}
 ---
 
 # PRÁCTICAS DE GEOGRAFÍA
