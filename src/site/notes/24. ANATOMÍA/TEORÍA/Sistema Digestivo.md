@@ -10,6 +10,7 @@
 >[DIGESTIVO PARTE 1 - HIBITO](https://www.youtube.com/watch?v=3Q1lNmVPZDs)
 >[DIGESTIVO PARTE 2 - HIBITO](https://youtu.be/EmHYTvgCg2k?si=J5qHjTazn_aKmuIB) 
 >[APARATO DIGESTIVO AUDIOLIBRO TÓRTORA](https://youtu.be/8KlUMtEB6Vw?si=69uvM91wwEtNZEob) 
+>>[DIFERENCIAS ENTRE INTESTINO DELGADO E INTESTINO GRUESO - HIBITO](https://youtu.be/PZQ94zlqu0Y?si=zKoZka0L-acGFvGU)
 
 ✔ **DEFINICIÓN**
 - Conjunto de órganos encargados de la digestión y absorción de nutrientes para permitir su paso a la sangre y ser distribuidas por todo el organismos
@@ -466,7 +467,8 @@ Quinta semana
 - CÉLULAS CALICIFORMES: Son glándulas unicelulares 
 	- Elaboran ==MUCÍGENO==, cuya forma hidratada en ==MUCINA==, un componente del moco, que forma una capa protectora que reviste la luz
 - CÉLULAS DE PANETH: Ubicadas en el fondo de las ==CRIPTAS DE LIEBERKÜHN==, elaboran ==LISOZIMA==, un agente antimicrobiano 
-- CÉLULAS ENTEROENDOCRINAS: Producen hormonas paracrinas y endocrinas 
+- CÉLULAS ENTEROENDOCRINAS (APUD): Producen hormonas paracrinas y endocrinas 
+	- Dada fundamentalmente por ==LA SECRETINA Y LA COLECISTOCININA==, las cuales estimulan la producción de jugo intestinal 
 - CÉLULAS M: Son células escamosas ubicadas en las regiones que sobresalen del epitelio ==(NÓDULOS LINFOIDES)==
 	- Fagocitan (MACRÓFAGOS) y transportan los antígenos que se encuentran en la luz intestinal 
 
@@ -478,125 +480,180 @@ Quinta semana
 - Compuesta por una capa circular interna y longitudinal externa (CILE) de células de músculo liso
 - Durante la digestión estas fibras se contraen en manera rítmica 
 
+✅ **SUBMUCOSA** 
+- Compuesta por tejido conectivo fibroelástico, abundante vasos linfáticos y sanguíneos, e inervada por el ==PLEXO SUBMUCOSO (DE MEISSNER)== parasimpático
+- DUODENO: Se localizan las ==GLÁNDULAS DUODENALES O DE BRÜNEER==, las cuales secretan un material mucoide alcalino (pH: 8,0 - 9,5) que protege a la mucosa intestinal frente al ==QUIMO ÁCIDO== 
+	- Esta glándula elabora también la ==HORMONA POLIPEPTÍDICA UROGASTRONA== que ==INHIBE== la producción de ==HCl== y aumenta la ==ACTIVIDAD MITÓTICA== de las ==CÉLULAS EPITELIALES== 
+- ÍLEON: Se encuentran agregaciones permanentes de nódulos linfoides, llamados ==PLACAS DE PEYER==, cuya función es ==EVITAR== que ==INGRESEN BACTERIAS== a la circulación sanguínea 
 
+✅ **MUSCULAR**
+- Constituida por dos capas de músculo liso; una capa interna y una capa longitudinal externa (CILE)
+
+✅ **SEROSA**
+- Corresponde al ==PERITONEO VISCERAL== 
+- Está constituida por mesotelio y tejido conectivo laxo
 
 >[!sidenote]- **HISTOLOGÍA DEL SISTEMA DELGADO** 
 ![Histología del Intestino Delgado.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Histolog%C3%ADa%20del%20Intestino%20Delgado.png)
 
-
-
-
-- La superficie liminal sufre modificaciones
-- VÁLVULAS CONNIVENTES (Kerckring)
-- Mucosa y submucosa
-- Pliegues circulares
-✅ Se elabora el Quilo = Quimo + Bilis + Jugo Pancreático + Jugo Intestinal
-✅ E.M.C. con chapa → Glándula de Lieberkhun → Enterocinasa
-- 2000 - 3000 ml/24 horas
-- pH: 7,8 - 8,0
-
-✅ Elabora el jugo intestinal = H2O + Mucus + Enzimas
-- Transforma el quimo a quilo (Nutrientes)
-
-✔ **ENZIMAS**
-- Peptidasas y disacaridasas
-- Amilasa intestinal
-- Lipasa intestinal
-- **LISOZIMA**
-
-
-
-✔ **HORMONAS**
-- Enterogastrona: Inhibe la gastrina
-- Colecistocinina: Secreción de bilis
-- Pancreozimina: Secreción de jugo pancreático con enzimas
-- Secretina: Secreción de jugo pancreático con H₂O y bicarbonato
-
-![Intestino Delgado 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Intestino%20Delgado%201.png)
-
-
-
 >[!sidenote]- **HISTOLOGÍA DEL DUODENO Y EL ÍLEON**
 ![Histología del Duodeno e Íleon.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Histolog%C3%ADa%20del%20Duodeno%20e%20%C3%8Dleon.png)
 
----
-**HISTOLOGÍA DEL INTESTINO DELGADO**
+✔ **REGULACIÓN DE LA SECRECIÓN Y MOTILIDAD INTESTINAL**
+- El medio más importante es la ==GENERACIÓN DE REFLEJO LOCALES== en respuesta a la presencia de quimo
+- La hormona denominada ==PÉPTIDO INTESTINAL VASOACTIVO (PIV)== estimula la secreción de ==JUGO INTESTINAL== 
+- Los movimientos segmentación dependen principalmente de la ==DISTENSIÓN INTESTINAL== que origina impulsos nerviosos hasta los ==PLEXOS SUBMUCOSO (MEISSNER) Y MIENTÉRICO (AUERBACH)== y hasta el sistema nervioso central (SNC)
+	- Los reflejos locales y los impulsos parasimpáticos de retorno procedentes del SNC aumentan la motilidad
+	- Los impulsos simpáticos disminuyen la motilidad intestinal 
+- El ==PERISTALTISMO== aumenta cuando se ha absorbido la mayor parte de nutrientes y de agua
+	- Las paredes del intestino delgado están menos distendidas
+	- Con un peristaltismo más enérgico, el quimo se desplaza hacia el intestino grueso a una velocidad de ==10 cm/seg== 
+- Los primeros residuos de una comida alcanzan el intestino grueso en aproximadamente ==CUATRO HORAS== 
 
-✅ **MUCOSA**
-- Células absorbentes: Absorción
-- Células caliciformes: Mucus
-- Células M: Fagocitosis
-- Células de Paneth: Lisozima
-- Células APUD: Secretina Colecistocinina
+✔ **FISIOLOGÍA**
+- MOTORA: Mezcla el quimo proveniente del estómago con las ==SECRECIONES PANCREÁTICAS, BILIAR E INTESTINAL== 
+	- Existen contracción de ==MEZCLADO Y PROPULSIÓN==, este último permite el avance progresivo del contenido luminal
+- SECRETORA: Elabora ==JUGO INTESTINAL== en un volumen de ==2 - 3 LITROS/DÍA== y un ==pH ALCALINO== 
+- DIGESITVA: ==FINALIZA== la digestión de ==CARBOHIDRATOS, PROTEÍNAS Y LÍPIDOS== 
+- ABSORCIÓN: Absorbe los productos finales de la digestión  
+- HORMONAL: Dada fundamentalmente por ==LA SECRETINA Y LA COLECISTOCININA==, las cuales estimulan la producción de jugo intestinal 
 
-✅ **SUBMUCOSA**
-- Plexo de Meissner
-- Glándulas de Brunner (Duodeno)
-- Placas de Peyer (Íleon)
-- Amígdala de Roux (Apéndice)
-
-✅ **MUSCULAR**
-- Plexo de Auerbach
-
-✅ **SEROSA**
-- Mesenterio
-
-
-
-
----
-**ABSORCIÓN DE NUTRIENTES EN EL INTESTINO DELGADO**
-
+>[!sidenote]- **ABSORCIÓN DE NUTRIENTES EN EL INTESTINO DELGADO**
 ![Digestión de nutrientes en el Intestino delgado I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Digesti%C3%B3n%20de%20nutrientes%20en%20el%20Intestino%20delgado%20I.png)
-
 ![Digestión de nutrientes en el Intestino delgado II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Digesti%C3%B3n%20de%20nutrientes%20en%20el%20Intestino%20delgado%20II.png)
+
+![Intestino Delgado 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Intestino%20Delgado%201.png)
 
 ---
 **INTESTINO GRUESO**
 
-✔ **GENERALIDADES** 
+✔ **DEFINICIÓN** 
 - Es el segmento terminal del tubo digestivo comprendido entre el intestino delgado y el orificio anal
+
+✔ **CARACTERÍSTICAS**
 - LONGITUD: 1,4 y 1,8 metros
 - Presenta ==**ABOLLADURAS (COLIS)**==, por sus **==CINTILLAS LONGITUDINALES (TENIA COLIS)**== y por sus ==**APÉNDICES EPICLOICOS**== 
 
 ✔  **CIEGO**
-- Porción inicial y más dilatada
-- Mide de 6 - 7 cm
-- ANEXO: Apéndice cecal
+- Es la porción ==MÁS DILATADA DEL INTESTINO GRUESO== 
+- Es una bolsa cerrada que se extiende por debajo de la válvula ileocecal y se continúa con el colon ascendente 
+- UBICACIÓN: Fosa Iliaca Derecha
+- Se conecta con el íleon a través del ==ESFÍNTER O VÁLVULA ILEOCECAL== 
+- Se encuentra cubierto por peritoneo 
 
- ✔**COLÓN**
-- ASCENDENTE
-- TRANSVERSO: Mide 50 cm, porción más ==**MÓVIL**==
-- DESCENDENTE: Porción más estrecha
-- SIGMOIDES
+✅ **APÉNDICE CECAL O VERMIFORME** 
+- 
+
+✔ **COLON ASCENDENTE** 
+- LONGITUD: 15 cm
+- Está fijado a la pared abdominal, posterior del peritoneo 
+- Asciende desde la ==VÁLVULA ILEOCECAL== hasta la superficie inferior del hígado 
+
+✔ **COLON TRANSVERSO** 
+- Es la porción ==MAS MÓVIL DEL COLON== 
+- LONGITUD: 50 cm
+- Se extiende en el plano horizontal desde el ángulo cólico derecho (HEPÁTICO) hasta el ángulo cólico izquierdo (ESPLÉNICO)
+- Está unido a la pared posterior y al cuerpo del páncreas por el mesenterio 
+
+✔ **COLON DESCENDENTE** 
+- Es la parte ==MÁS ESTRECHA DEL COLON==
+- LONGITUD: 30 cm
+- Se extiende desde el ángulo cólico izquierdo hasta el borde pélvico en la región lateral, donde se convierte en colon sigmoides 
+
+✔ **COLON SIGMOIDES** 
+- LONGITUD: 40 cm
+- UBICACIÓN: Fosa Iliaca Izquierda
+- Se extiende desde el borde pélvico izquierdo hasta el inicio del recto a nivel de S<sub>3</sub> 
+- Se une a la pared pélvica por un mesenterio en forma de V
 
 ✔ **RECTO**
-- Porción terminal del intestino grueso
-- Mide 12 cm
+- Se continúa con el colon sigmoides a nivel proximal, y con el ano a nivel distal
+- Comienza a nivel de S<sub>3</sub> en la parte posterior de la pelvis y forma un asa hacia la punta del hueso coxis, antes de ensancharse para formar la ==AMPOLLA RECTAL== 
+- Se encuentra cubierto parcialmente por el ==PERITONEO== 
+- LONGITUD: 12 cm 
 
-✔ **FISIOLOGÍA**
-- PARTE DERECHA: Absorción de agua, electrolitos y algunas vitaminas; y la producción de vitaminas B y K por la ==**FLORA BACTERIANA**== 
-	- Escherichia coli
-	- Enterobacter
-	- Bacteroides fragilis 
-- DIGESTIÓN MÍNIMA: Metabolismo bacteriano 
-- PARTE IZQUIERDA: Secreción de moco, almacenamiento del bolo fecal (COLON IZQUIERDO) y Peristaltismo en masa 
+✔ **CONDUCTO ANAL** 
+- La abertura del conducto anal hacia el exterior se denomina ==ANO== 
+- LONGITUD: 3 cm
 
 ![Intestino Grueso.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Intestino%20Grueso.png)
 
-✔ **HISTOLOGÍA DEL INTESTINO GRUESO**
+✔ **ESTRUCTURA HISTOLÓGICA** 
+- Las capas del intestino grueso son las mismas capas que las del resto del tubo digestivo
+- Sin embargo; la pared es más gruesa, la luz es mayor y la capa muscular longitudinal externa forma tres bandas ==(TENIAS COLI)== visibles en la superficie externa
 
+✅ **MUCOSA** 
+- Constituida por epitelio monoestratificado cilíndrico (EMC) 
+- Contiene numerosas glándulas tubulares rectas que comprenden todo su espesor 
+- Sus células epiteliales ==REABSORBEN AGUA== 
+
+✅ **SUBMUCOSA**
+- Constituida por tejido conectivo laxo
+
+✅ **MUSCULAR**
+- Es de músculo liso y se encuentra dispuesta en una capa circular interna y otra longitudinal externa (CILE), esta última se divide en ==TRES CINTILLAS== llamadas ==TENIAS COLI==, las cuales inician en el ==APÉNDICE CECAL== y llegan hasta el ==COLON SIGMOIDES==  
+- Las tenias coli, al estar constantemente en ==SEMICONTRACCIÓN==, provocan la formación de pequeñas dilatación en la pared del intestino grueso, las cuales se denominan ==HAUSTRAS O ABOLLADURAS== 
+
+✅ **SEROSA**
+- Constituida por tejido conectivo laxo y mesotelio
+- Presenta ==DEPÓSITOS DE GRASA== llamados ==APÉNDICES EPIPLOICOS== 
+
+>[!sidenote]- **HISTOLOGÍA DEL INTESTINO GRUESO**
 ![Histología del Intestino Grueso.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Histolog%C3%ADa%20del%20Intestino%20Grueso.png)
-
 ![Histología del Intestino Grueso II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Histolog%C3%ADa%20del%20Intestino%20Grueso%20II.png)
-
 ![Histología del Intestino Grueso III.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Histolog%C3%ADa%20del%20Intestino%20Grueso%20III.png)
+}
+
+✔ **FISIOLOGÍA**
+- ABSORCIÓN: Absorbe agua, electrolitos y algunas vitaminas
+	- Se realiza mayormente en ==EL CIEGO Y EL COLON ASCENDENTE== 
+- MOTORA: Realiza movimientos ==DE MEZCLA Y DE PROPULSIÓN== 
+	- Existe un ==TERCER TIPO DE MOVIMIENTO== denominado ==PERISTALTISMO DE MASA==, el cual empuja la ==MATERIA FECAL== del ==COLON SIGMOIDEO== hacia el ==RECTO== 
+	- La distensión resultante de la pared rectal inicia un reflejo para la defecación 
+- PRODUCCIÓN DE VITAMINAS: Se sintetiza algunas vitaminas del ==COMPLEJO B== y ==VITAMINA K== 
+	- Es gracias a la ==FLORA BACTERIANA== 
+- SECRETA MUCUS: Este protege a la mucosa y sirve como lubricantes de las materias fecales
+- FORMACIÓN Y ALMACENAMIENTO DE HECES: Las heces están constituidas por agua, sales inorgánicas, células epiteliales desprendidas de la mucosa, bacterias, productos de la descomposición bacteriana y partes no digeridas de alimentos
+
+>[!sidenote]- **FLORA BACTERIANA** 
+>Los microorganismos presentes en el colon incluyen no solo bacilos como ==ESCHERICHIA COLI== y ==ENTEROBACTER AEROGENES==, sino también microorganismos pleomorfos como ==BACTEROIDES FRAGILIS==, cocos de varias especies y microorganismos del tipo de los ==BACILOS DE LA GANGRENA GASEOSA==, que causan enfermedad grave en los tejidos fuera del colon.
 
 ---
->[DIFERENCIAS ENTRE INTESTINO DELGADO E INTESTINO GRUESO HIBITO](https://youtu.be/PZQ94zlqu0Y?si=zKoZka0L-acGFvGU)
+**PERITONEO**
+
+✔ **DEFINICIÓN**
+- Membrana serosa del abdomen y la mayor del todo el organismos 
+- A diferencia del pericardio y la pleura, el peritoneo presenta grandes pliegues que se introducen entre las vísceras con los que unen los órganos entre sí y a las paredes de la cavidad
+
+✔ **HOJAS**
+- PARIETAL: Reviste la pared abdominal
+- VISCERAL: Recubre algunos órganos abdominales constituyendo su ==SEROSA==
+- Ambas limitan un espacio virtual llamado ==CAVIDAD PERITONEAL== que contiene ==LÍQUIDO SEROSO==; ambas membranas formadas por ==MESOTELIO== 
+
+✔ **MESENTERIO**
+- Es una extensión amplia del peritoneo, de doble hoja y que en forma de abanico recubre y suspende el yeyuno e íleon a la pared abdominal posterior
+
+✔ **EPIPLÓN MENOR** 
+- Conformado por los ligamentos ==HEPATOGÁSTRICO Y HEPATODUODENAL==, se origina como dos pliegues de la serosa gástrica y duodenal, suspendiendo al estómago y el duodeno del hígado
+
+✔ **EPIPLÓN MAYOR** 
+- Cuelga desde la curvatura mayor del estómago, cubre el colon transverso y desciende por delante de las vísceras abdominales
+- Contiene gran cantidad de tejido adiposo y toma aspecto de un =="DELANTAL GRASO"== 
+- Comprende a los ligamentos ==GASTROCÓLICO, ESPLENORENAL Y GASTROESPLÉNICO== 
+
+![Peritoneo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Peritoneo.png)
+
+---
+**GLÁNDULAS ANEXAS** 
+
+✔ **DEFINICIÓN**
+- Estructuras accesorias que poseen conductos excretores que vierten sus secreciones al interior del tubo digestivo 
 
 ---
 **GLÁNDULAS SALIVALES**
+
+✔ **DEFINICIÓN**
+- Son glándulas pares con conductos largos, constituidas por unidades morfofuncionales llamadas ==ADENÓMEROS==  
 
 ✔ **SALIVA** 
 - ENZIMA: ==**PTIALINA O ALFA AMILASA SALIVAL**== 
