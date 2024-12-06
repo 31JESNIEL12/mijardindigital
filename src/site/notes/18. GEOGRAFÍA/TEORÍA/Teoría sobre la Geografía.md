@@ -1,5 +1,5 @@
 ---
-{"tags":["Geografía","Teoría"],"dg-publish":true,"permalink":"/18-geografia/teoria/teoria-sobre-la-geografia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/18-geografia/teoria/teoria-sobre-la-geografia/","tags":["Geografía","Teoría"]}
 ---
 
 # TEORÍA Y PRÁCTICA DE GEOGRAFÍA
