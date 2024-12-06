@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-nervioso/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-nervioso/","tags":["Anatomía","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
@@ -17,290 +17,207 @@
 >[ENCÉFALO Y NERVIOS CRANEALES AUDIOLIBRO TÓRTORA](https://youtu.be/vFqa-FSKbRo?si=CMU6RHhm5FSp5zLT) 
 >[SISTEMA SENSITVIO, MOTOR E INTEGRADOR AUDIOLIBRO TÓRTORA](https://youtu.be/y46JBmlq7Vo?si=EcvMA6eBKjR2CPVl) 
 
----
-**TEJIDO NERVIOSO**
-
-✔ **DEFINICIÓN**
-- Tejido formado por  células muy especializadas llamadas neuronas capaces de transformar los estímulos del medio ambiente en impulso nerviosos y de llevar a los órganos efectores impulsos nerviosos como respuesta ante estos estímulos
-
-✔ **GENERALIDADES**
-- 4° Tejido fundamental
-- Ectodermo
-- EXCEPTO: Microglía y Duramadre (MESODERMO)
-
----
-**NEURONA, CÉLULA NERVIOSA O NEUROCITO**
-- Células altamente especializadas, ==**EXCITABLES**== y con capacidad de conducción
-- No se reproducen (SIN CENTRIOLOS)
-- No se divide, debido a que las neuronas llevan a cabo La fase G0 (No posee centriolos)
-- EXCEPCIÓN: ==**LAS NEURONAS BIPOLARES DE LA REGIÓN OLFARORIA**== de las fosas nasales, son las únicas que se pueden dividir (SON ATACADAS POR EL COVID-19)
--  MIELINA: Lipoproteína que permite la  ==**CONDUCCIÓN SALTATORIA==**
-- Existen más de cien mil millones 
-- ALTO METABOLISMO: O₂ - C₆H₁₂O₆
-- FUNCIÓN: Transmitir el impulso nervioso
-- Célula representativa y muy específica
-
->[!sidenote]- **OBSERVACIONES**:
->**SNC**: Sistema Nervioso Central
->**SNP**: Sistema Nervioso Periférico
->**SNA**: Sistema Nervioso Autónomo
->**LCR**: Líquido Cefalorraquídeo 
-
----
-**POPIEDADES**
-
-✔ **EXCITABILIDAD**
-- Capacidad de ==**GENERAR**== impulsos nerviosos como respuesta a estímulos
-
-✔ **CONDUCTIBILIDAD**
-- Capacidad de ==**CONDUCIR**== los impulsos nerviosos que la excitación origina a través de su membrana
-
-✔ **TRANSMISIBILIDAD**
-- Capacidad de ==**TRANSMITIR**== el impulso eléctrico a otra célula
-
----
-**ELEMENTOS DEL TEJIDO NERVIOSO**
-
-✔ **CUERPO CELULAR O NEURONAL, SOMA O PERICARIÓN**
-- Son grandes o pequeños redondos o piramidales
-- Se encuentran en la ==**SUSTANCIA GRIS DEL SNC**==, en los ==**GANGLIOS DEL SNP Y SNA**==, y en algunos ==**ÓRGANOS SENSORIALES**==
-- En su ==**CITOPLASMA**== encontramos mitocondrias, aparato de Golgi y abundantes ==**CORPÚSCULOS DE NISSL O SUSTANCIA CROMATÓFILA (RER)**==
-- Además, presenta ==NEUROFIBRILLAS Y LIPOFUCSINA== (PIGMENTO)
-
-✔ **DENDRITAS**
-- Prolongaciones cortas y ramificadas
-- Conducen impulsos nerviosos aferentes ==(CENTRÍPETOS: DE LA PERIFERIA AL SOMA)==
-- Con estructura semejante al cuerpo, pero sin aparato de Golgi
-
-✔ **AXÓN, CILINDROEJE O NEURITA**
-- Prolongación única, constante en toda neurona
-- Es un cilindro largo, delgado, conduce impulsos nerviosos eferentes ==(CENTRÍFUGOS: DEL SOMA A LA PERIFERIA)==
-- Puede presentar ramificaciones laterales, y una ramificación terminal llamado ==TELODENDRÓN== 
-- Esta cubierto de la ==VAINA DE MIELINA==, una membrana de naturaleza lipoproteica, que rodea al axón; y por la ==VAINA DE SCHAWANN O NEURILEMA==, formada por células especiales, las cuales intervienen en la ==NUTRICIÓN Y REGENERACIÓN== de las neuronas
-
-![Neurona.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Neurona.png)
-
----
-**CLASIFICACIÓN:**
-
-✔**POR SU TAMAÑO**
-- NEURONA DE GOLGI TIPO 1: Axón largo
-- NEURONA DE GOLGI TIPO 2: Axón corto
-
-![Neurona tipo Golgi I.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Neurona%20tipo%20Golgi%20I.jpg)
-![Neurona tipo Golgi II.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Neurona%20tipo%20Golgi%20II.jpg)
-
-✔ **POR SUS RAMIFICACIONES**
-- UNIPOLAR: 1 Ramificación (GANGLIOS)
-- BIPOLAR: 2 Ramificaciones (ÓRGANOS DE LOS SENTIDOS)
-- MULTIPOLAR: Muchas ramificaciones (LA MÁS ABUNDANTE)
-- PSEUDOMONOPOLAR: Aparentemente 2 ramificaciones
-
-![Tipo de Neurona según su estructura.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Tipo%20de%20Neurona%20seg%C3%BAn%20su%20estructura.png)
-
-✔**POR SU FUNCIÓN**
-- AFERENTE, SENSITIVA O ASCENDENTE: Sensitiva
-- EFERENTE, MOTOR O DESCENDENTE: Motora
-- ASOCIACIÓN O INTERCALAR: Interneurona (Millones de neuronas de asociación forman el ==CUERPO CALLOSO==) (LA MÁS ABUNDANTE)
-
-![Tipos de neurona según su función.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Tipos%20de%20neurona%20seg%C3%BAn%20su%20funci%C3%B3n.png)
-
----
-**NEUROGLIAS O GLÍAS**
-- Células de sostén en el tejido nervioso
-- No transmiten impulsos nerviosos
-- Se consideran que en el SNC por cada neurona existen unas 10 glías, pero solo representan el 50% del tejido
-- Se pueden dividir
-
-✔ **ASTROCITO**
-- La ==MÁS GRANDE==
-- Protege, sostiene y nutre la neurona mediante dilataciones llamadas ==PIES CHUPADORES==
-- ==BARRERA HEMATOENCEFÁLICO==
-- A. Fibroso - A. Protoplasmático
-
-✔ **OLIGODENDROCITO O NEUROLEMOCITO**
-- Elabora ==MIELINA== en el ==SNC==
-
-✔ **MICROGLIA**
-- "MACRÓFAGO CEREBRAL"
-- La ==MÁS PEQUEÑA==
-- Deriva del ==MESODERMO==
-- Se fusiona con el ==MONOCITO==
-
-✔ **CÉLULAS DE SHWANN**
-- Elabora ==MIELINA== en el ==SNP==
-
-✔ **CÉLULAS EPENDIMARIA**
-- Revisten las ==CAVIDADES CEREBRALES==
-- Está en los ==PLEXOS COROIDEOS==
-- Participa en la producción del ==LCR==
-
-![Células gliales.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/C%C3%A9lulas%20gliales.png)
-
----
-**ESTRUCTURA DEL TEJIDO NERVIOSO**
-
-✔ **SUSTANCIA GRIS**
-- Conjunto de cuerpos neuronales, fibras nerviosas ==AMIELÍNICAS== y neuroglias
-- FUNCIÓN: Integradora
-
-✔ **SUSTANCIA BLANCA**
-- Conjunto de fibras ==MIELÍNICAS== y neuroglias
-- FUNCIÓN: Conducción
-
-✔ **NERVIOS**
-- Son estructuras cordonales en el SNP, formados por un ==CONJUNTO DE AXONES==
-- FUNCIÓN: Permiten la conducción
-
-✔ **GANGLIOS**
-- Nódulos en el SNP que contienen ==CUERPOS NEURONALES, CÉLULAS SATÉLITES Y ALGUNAS FIBRAS NERVIOSAS==
-- FUNCIÓN: Es la conexión, sirven de estación de las vías nerviosas
-
----
-**NEUROFISIOLOGÍA**
-
-✔ **POTENCIAL DE REPOSO DE LA MEMBRANA**
-- La membrana de una neurona que no está conduciendo un impulso es ==POSITIVA EN EL EXTERIOR== y ==NEGATIVA EN EL INTERIOR== 
-- VALOR TÍPICO: -70 mV ==(MEMBRANA POLARIZADA)==
-- Las bombas sodio - potasio compensan la lenta entrada del Na<sup>+</sup> hacia la célula, bombeando fuera de ella
-
-✔ **POTENCIAL DE ACCIÓN O IMPULSO NERVIOSO** 
-- Los canales de sodio y potasio de puerta de voltaje se abren de forma escalonada ==(DESPORALIZACIÓN)== 
-- La pérdida y posterior inversión de la ==POLARIZACIÓN== de la membrana
-- De -70 mV a 0 y +30 mV
-- Por último la ==REPORALIZACIÓN== con recuperación del potencial de reposo
-- De +30 mV pasa a -70 mV
-- Durante el ==PERIODO REFRACTORIO== no pueden generarse nuevos impulsos, solo pueden ser desencadenados por un estímulo ==SUPRAUMBRAL==
-- ==PRINCIPIO DE TODO O NADA==: Si un estímulo es suficientemente fuerte (UMBRAL), como para generar un potencial de acción, el impulso viaja con una fuerza constante y máxima para las condiciones existentes
-- CONDUCCIÓN SALTATORIA: La conducción del impulso nervioso en la que salta por un ==NÓDULO NEUROFIBRILAR O DE RANVIER== a otro 
-- Las fibras de diámetros más grandes conducen los impulsos a mayor velocidad que los diámetros más pequeños
-- Las fibras más mielinizadas conducen el impulso a mayor velocidad que las no mielinizadas
-
->[!sidenote]- **RECORDAR**
->mV: Milivoltio
-
-```flashcard
-Q: Si un estímulo es más fuerte, ¿Hace que el estímulo sea mayor?
-A: No, debido al principio de "De todo o nada"
-```
-
-**TENER EN CUENTA**
-A mayor diámetro y mielinizada una fibra nerviosa, mayor velocidad el impulso nerviosa
-- FIBRAS A: Mielinizadas (Velocidad: 120-130 m/s)
-- FIBRAS C: Desmielinizadas (Velocidad: 5 m/s)
-
----
-**SIPNASIS**
-Unión fisiológica entre una neurona y otra neurona, un músculo o una glándula
-
----
-**SIPNASIS QUÍMICA**
-- Unión funcional ente una neurona y otra, por mediación química (UNIÓN NEUROMUSCULAR)
-- Es de ==**LENTA ACCIÓN**==
-- Tiene un ==**EFECTO PROLONGADO**==
-- Es ==**UNIDIRECCIONAL**== (SOLO CONDUCE EN UN SENTIDO)
-- Presenta tres partes
-- MEMBRANA PRESIPNÁTICA: Terminal axónico de la neurona que envía la señal
-- MEMBRANA POSTSINÁPTICA: Porción de la neurona que recibe el mensaje
-- HENDIDURA SINÁPTICA: Espacio de 20 a 50nm, ubicado entre las membranas antes mencionadas
-- Potencial llega a a la membrana presináptica → Se despolariza → Libera un neurotransmisor → Se difunde a través de la hendidura → Actúa sobre los receptores de la membrana postsináptica → Produce un potencial postsináptico  
-
-![Sinapsis Química.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sinapsis%20Qu%C3%ADmica.png)
-
----
-**NEUROTRANSMISORES**
-Moléculas sintetizadas en las terminaciones nerviosas axónicas
-
-✔ **EXCITADORES**
-- ==DESPORALIZA== la membrana presináptica
-- GLUTAMATO O ÁCIDO GLUTÁMICO
-- ASPARTATO
-- PIMELATO
-- SUSTANCIA P: Nocirreceptor (DOLOR)
-
-✔ **INHIBIDORES**
-- ==REPORALIZA== la membrana presináptica
-- G.A.B.A: Ácido Gamma Amino Butírico. Inhibidor del ==ENCÉFALO==. Su ==DÉFICIT== provoca ==[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Epilepsia\|EPILEPSIA]]==; y en el ==NÚCLEO CAUDADO==, ==[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS HEREDITARIAS/Huntington\|HUNTINGTON]]==
-- GLICINA: Inhibidor de la ==MÉDULA==
-- ENDORFINAS
-
-✔ **BIMODALES**
-- Despolarización y repolarización
-- ACETÍLCOLINA (Ach). Su ==DÉFICIT== provoca ==[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Alzheimer\|ALZHEIMER]]==
-- DOPAMINA: Sustancia negra. Su ==DÉFICIT== provoca ==[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Parkinson\|PARKINSON]]==. Su ==AUMENTO== en la ==VÍA MESOLÍMBICA== provoca ==[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS PSIQUIÁTRICAS/Esquizofrenia\|ESQUIZOFRENIA]]==
-- ADRENALINA
-- SEROTONINA
-- NORADRENALINA
-- DOPAMINA
-
->[!sidenote]- **TENER EN CUENTA**
->**CATECOLAMINAS**: Adrenalina, Noradrenalina y Dopamina. Son sintetizados a partir del ==**AMINOÁCIDO TIROSINA**==
-
----
-**SIPNASIS ELÉCTRICA**
-- Son uniones neuronales que permiten el paso de ==IONES== de una célula a otra (UNIÓN INTERNEURONAL)
-- Son ==POCO FRECUENTES==
-- Se ubican en el ==TRONCO ENCEFÁLICO, RETINA Y CORTEZA CEREBRAL==
-- Es de ==RÁPIDA ACCIÓN==
-- Tiene ==EFECTO CORTO==
-- Es ==BIDIRECCIONAL== (VA EN DOS SENTIDOS)
-
-![Sipnasis Eléctrica.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sipnasis%20El%C3%A9ctrica.jpg)
-
----
-**EMBRIOLOGÍA**
+✔ **EMBRIOLOGÍA**
 - Ectodermo (Excepto Microglía y Duramadre: Mesodermo)
 - Ectodermo → Placa Neural → Tubo Neural → SNC
 - Tubo Neural → SNC
 - Cresta Neural → SNP
 
+✅ **VESÍCULAS PRIMARIAS (3)** 
+- SEMANA: 3ra
+- PROSENCÉFALO: Cerebro anterior
+	- Se divide en Telencéfalo y Diencéfalo
+- MESENCÉFALO: Cerebro medio
+- ROMBOENCÉFALO: Cerebro posterior
+	- Se divide en Metencéfalo y Mielencéfalo
+- MNEMOTECNIA: "Te di en el Pro"
+
+✅ **VESÍCULAS SECUNDARIAS (5)** 
+- SEMANA: 5ta - 6ta
+- TELENCÉFALO: Cerebro, I y II par craneal y Cuerpo estriado 
+- DIENCÉFALO: Tálamo, Hipotálamo, Epitálamo y Subtálamo 
+	- Cerebro intermedio
+- MESENCÉFALO: Pedúnculos cerebrales, Tubérculos cuadragésimos, III y IV par craneal 
+- METENCÉFALO: Cerebelo, Protuberancia anular (V, VI, VII, VII PAR CRANEAL)
+- MIELENCÉFALO: Bulbo raquídeo y IX, X, XII y XII par craneal 
+- MNEMOTECNIA: "Mete Miel en el Rombo"
+
 ![Placa y Tubo Neural.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Placa%20y%20Tubo%20Neural.png)
 ![Embriología del SN.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Embriolog%C3%ADa%20del%20SN.jpg)
 
-3 Vesículas Primarias: PRO - MES - ROMBO
-" Te di en el Pro"
-
-| PROSENCÉFALO     | MESENCÉFALO   | ROMBOENCÉFALO     |
-| ---------------- | ------------- | ----------------- |
-| Cerebro anterior | Cerebro medio | Cerebro posterior |
-
-5 Vesículas Secundarias: 5TA - 6TA SEMANA
-"Mete Miel en el Rombo"
-
-| TELENCÉFALO                                                               | DIENCÉFALO                               | MESENCÉFALO                                                           | METENCÉFALO                                             | MIELENCÉFALO                                |
-| ------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------- |
-|                                                                           | Cerebro Intermedio                       | Cerebro Medio                                                         |                                                         |                                             |
-| Cerebro, I y II par craneal, Cuerpo estriado (N. Caudado - N. Lenticular) | Tálamo, Hipotálamo, Epitálamo, Subtálamo | Pedúnculos cerebrales, Tubérculos Cuadrigéminos, III y IV par craneal | Cerebelo, Protuberancia (V, VI, VII y VIII par craneal) | Bulbo raquídeo, IX, X, XI y XII par craneal |
+✔ **FUNCIONES**
+- SENSORIAL
+- INTEGRATIVA
+- MOTORA
 
 ---
+**DIVISIÓN DEL SISTEMA NERVIOSO** 
+ 
+✔ **SISTEMA NERVIOSO SOMÁTICO (SNS)**
+- "VIDA CONSCIENTE O DE RELACIÓN"
 
-|         | CONJUNTO DE SOMAS | CONJUNTO DE AXONES |
-| ------- | ----------------- | ------------------ |
-| **SNC** | Sustancia Gris    | Sustancia Blanca   |
-| **SNP** | Ganglio           | Nervio             |
+✅ **SISTEMA NERVIOSO CENTRAL (SNC)** 
+- Constituido por el encéfalo y la médula espinal 
+- El encéfalo se encuentra conformado por el cerebro, cerebelo, diencéfalo y tronco encefálico
+	- TRONCO ENCEFÁLICO: Mesencéfalo, protuberancia anular y bulbo raquídeo 
+	- UBICACIÓN: Se encuentra en la cavidad orgánica dorsal craneal
+- Se encarga de recibir y procesar la información y controlar las respuestas corporales 
 
-**Sistema Nervioso Somático**
-"Vida consciente" "Vida de relación"
+>[!sidenote]- **TENER EN CUENTA** 
+**MÉDULA ESPINAL**: Sustancia Gris es central, y la blanca es periférica
+**ENCÉFALO**: Sustancia Blanca es central, y la gris es periférica
 
-**SISTEMA NERVIOSO CENTRAL**
-✅ C. Orgánica Dorsal
-✅ Médula Espinal: Sustancia Gris es central, y la blanca es periférica
-✅ Encéfalo: Sustancia Blanca es central, y la gris es periférica
-- Diencéfalo: Tálamo e Hipotálamo
-- Cerebro
-- Cerebelo: Árbol de la vida
-
-✔ **ENCÉFALO**
-
-✅ **Partes**:
-- Cerebro
-- Cerebelo
-- Diencéfalo (Cerebro intermedio)
-- Tronco Encefálico (Mesencéfalo, Protuberancia anular y Bulbo Raquídeo)
-
+>[!sidenote]- **EN ENCÉFALO** 
 ![El Encéfalo.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/El%20Enc%C3%A9falo.jpg)
 
+**SISTEMA NERVIOSO PERIFÉRICO**
+
 ---
+**[[24. ANATOMÍA/TEORÍA/Histología animal\|HISTOLOGÍA]]**
+
+✔ **SUSTANCIA GRIS** 
+- Constituida de ==CUERPOS O SOMAS== neuronales, porciones ==AMIELÍNICAS== de los axones y neuroglias
+- Se ubica en el ==SNC==
+
+✔ **SUSTANCIA BLANCA** 
+- Es la reunión de ==FIBRAS NERVIOSAS MIELÍNICAS== y neuroglias 
+- Recibe este nombre por la gran cantidad de un material blanquecino denominado ==MIELINA==, el cual envuelve los axones de las neuronas
+- Se localiza en el ==SNC==
+
+✔ **GANGLIO** 
+- Es la agrupación de ==CUERPOS O SOMAS== neuronales y fibras nerviosas que entran y salen de la neurona
+- Los somas se encuentran en los ==GANGLIOS== 
+- Se ubica en el ==SNP==
+
+✔ **NERVIO** 
+- Reunión de fibras nerviosas que llevan información sensitiva y motora entre los órganos y tejidos del organismo, entre el encéfalo y la médula espinal
+- Se localiza en el ==SNP== 
+
+---
+<center>SISTEMA NERVIOSO CENTRAL</center> 
+
+---
+**MÉDULA ESPINAL**
+
+✔ **DEFINICIÓN** 
+- Estructura cilíndrica, alargada y aplanada en sentido antero - posterior, que se localiza en el conducto vertebral o raquídeo de la columna vertebral, ocupando sus dos tercios superiores
+
+✔ **CARACTERÍSTICAS**
+- "CENTRO NERVIOSO DE LOS ACTOS REFLEJOS"
+- LONGITUD: 40 - 45 cm
+- PESO: 26 - 30 gr
+- 
+
+✔ **MORFOLOGÍA EXTERNA** 
+- CARAS: Una anterior, una posterior y dos laterales
+- Posee un surco medio anterior y posterior; un surco colateral anterior y posterior 
+
+✅ **SEGMENTOS MEDULARES** 
+- CERVICALES: 8
+- DORSALES O TORÁXICOS: 12
+- LUMBARES: 5
+- SACROS: 5
+- COXÍGEO: 1
+
+>[!sidenote]- **DATO**
+>La punción lumbar, se administra un anestésico local y se inserta luego una aguja larga en el espacio subaracnoideo. Se realiza entre L<sub>3</sub> y L<sub>4</sub> o L<sub>4</sub> y L<sub>5</sub>
+![Punción lumbar.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Punci%C3%B3n%20lumbar.jpg)
+
+![Médula Espinal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/M%C3%A9dula%20Espinal.png)
+
+✔ **MORFOLOGÍA INTERNA**
+
+✅ **SUSTANCIA GRIS**
+- Localizada en la parte central, tiene la forma de la letra H y se encuentra rodeada de sustancia blanca 
+- Constituida principalmente por cuerpos neuronales (SOMAS), neuroglias y axones no mielinizados 
+- ASTAS ANTERIORES: Voluminosas y con somas de la ==NEURONAS MOTORAS== 
+- ASTAS POSTERIORES: Sensitivas y con somas  de las ==SEGUNDAS NEURONAS SENSITIVAS== 
+- ASTAS LATERALES: Vegetativas y con somas de las ==NEURONAS DEL SNA== 
+- COMISURA GRIS: Columna horizontal de la H
+	- CONDUCTO CENTRAL O DEL ==EPÉNDIMO==: Se encuentra en el centro, el cual se encuentra revestido por ==CÉLULAS EPENDIMARIAS== y contiene ==LÍQUIDO CEFALORRAQUÍDEO (LCR)== 
+
+✅ **SUSTANCIA BLANCA** 
+- Se encuentra rodeado en la sustancia gris 
+- Constituido por axones mielinizados de neuronas motoras y sensitivas formado por ==VÍAS ASCENDENTES O SENSITIVAS== y ==DESCENDENTES O MOTORAS== de la médula espinal.
+- Estas vías forman los cordones anteriores, laterales y posteriores 
+
+🔹 **FASCÍCULOS ASCENDENTES O SENSITIVAS** 
+- ESPINOTALÁMICO ANTERIOR: Lleva estímulos de tacto y presión
+- ESPINOTALÁMICO LATERAL: Lleva estímulos de dolor y temperatura 
+- DE GOLL (GRACILLIS): Lleva estímulos de sensibilidad profunda (TACTO)
+- DE CUNEIFORME: Lleva estímulos de los huesos, músculos, tendones y articulaciones 
+- ESPINOCEREBELOSO ANTERIOR (VENTRAL): Lleva estímulos de equilibrio y tono muscular (PROPIOCEPCIÓN INCONSCIENTE)
+- ESPINOCEREBELOSO POSTERIOR (DORSAL): Lleva estímulos de equilibrio y tono muscular (PROPIOCEPCIÓN INCONSCIENTE)
+
+🔹 **FASCÍCULOS DESCENDENTES O MOTORAS** 
+- CORTICOESPINAL: Lleva impulsos nerviosos del Área 4 hacia la médula espinal 
+- CORTICONUCLEAR: Lleva impulsos nerviosos del Área 4 hacia los pares craneales (MOTORES)
+- RUBROESPINAL: Lleva impulsos nerviosos para el control del tono muscular 
+- TECTOESPINAL: Lleva impulsos nerviosos para el control del reflejo oculocefalogiro 
+- VESTIBULOESPINAL: Lleva impulsos nerviosos para el control del equilibrio 
+- RETICULOESPINAL: 
+	- LATERAL: Inhibe los reflejos de músculos extensores
+	- ANTERIOR: Estimula los reflejos de músculos extensores  
+
+>[!sidenote]- **VIÍAS DE LA MÉDULA ESPINAL** 
+![Vías de la médula espinal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/V%C3%ADas%20de%20la%20m%C3%A9dula%20espinal.png)
+
+>[!sidenote]- **MORFOLOGÍA INTERNA** 
+![Morfología interna de la Médula Espinal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Morfolog%C3%ADa%20interna%20de%20la%20M%C3%A9dula%20Espinal.png)
+
+✔ **FUNCIONES** 
+
+✅ **VÍA DE CONDUCCIÓN**
+- Transmite impulsos sensitivos de los nervios periféricos al encéfalo (VÍAS ASCENDENTES) e impulsos motores del encéfalo a los nervios periféricos (VÍAS DESCENDENTES)
+
+✅ **CENTRO DE LOS ACTOS REFLEJOS** 
+- Es la respuesta inmediata e involuntaria de un órgano efector ante un estímulo producido en un órgano receptor 
+- El ==ARCO REFLEJO== es la vía nerviosa que sigue el ==ACTO REFLEJO== 
+- ÓRGANO RECEPTOR: Capta el estímulo
+- NEURONA AFERENTE O SENSITIVA: Conduce el impulso nervioso sensitiva hasta el asta posterior 
+- NEURONA INTERCALAR O ASOCIATIVA: Conduce el impulso nervioso de la neurona sensitiva a la neurona motora
+- NEURONA MOTORA O EFERENTE: Conduce el impuso nervioso motor del asta anterior a los órganos efectores
+- ÓRGANO EFECTOR: Ejecuta la respuesta 
+	- La respuesta se llama ==REFLEJO== y comprende tanto un incremento como una disminución muscular o un incremento o disminución en la secreción de las glándulas. [[24. ANATOMÍA/COMPLEMENTO/REFLEJOS/Reflejos\|MÁS INFORMACIÓN]]
+
+🔹 **REFLEJO DE ESTIRAMIENTO**
+- Solo intervienen una neurona sensitiva y otra motora
+- En su vía presenta una solo sinapsis (REFLEJO MONOSINÁPTICO)
+- Provoca la contracción brusca del músculo efector si dicho músculo está distendido 
+- RECEPTORES: Husos musculares 
+- EJEMPLOS: 
+	- [[24. ANATOMÍA/COMPLEMENTO/REFLEJOS/Reflejo rotuliano\|REFLEJO ROTULIANO]]: El golpe sobre el tendón rotuliano provoca la extensión de la articulación de la rodilla
+	- [[24. ANATOMÍA/COMPLEMENTO/REFLEJOS/Reflejo de Aquileo\|REFLEJO DE AQUILEO]]  
+	- [[24. ANATOMÍA/COMPLEMENTO/REFLEJOS/Reflejo Bicipital\|REFLEJO BICIPITAL]] 
+	- [[24. ANATOMÍA/COMPLEMENTO/REFLEJOS/Reflejo Tricipital\|REFLEJO TRICIPITAL]]
+
+🔹 **REFLEJO TENDINOSO** 
+- Actúa como mecanismo de retroalimentación para controlar la tensión muscular, haciendo que el músculo se relaje 
+- Es un reflejo de tipo ==POLISINÁPTICO== 
+- RECEPTORES: "Órganos tendinosos de Golgi" 
+
+![Actos reflejos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Actos%20reflejos.png)
+
+---
+**BULBO RAQUÍDEO O MÉDULA OBLONGADA**
+
+✔ **DEFINICIÓN** 
+- Es la parte inferior del tronco encefálico
+
+✔ **CARACTERÍSTICAS** 
+- LONGITUD: 3 cm
+- PESO: 6 - 7 gr
+- LÍMITES:
+	- SUPERIOR: Protuberancia anular a través del surco bulbo - protuberancial  
+	- INFERIOR: Médula espinal a través de la decusación de las pirámides 
+
+✔ **MORFOLOGÍA EXTERNA** 
+
+✅ **CARA ANTERO LATERAL** 
+- Posee el surco medio anterior 
+
+
+
 **CEREBRO**
 Porción más voluminosa e importante del neuroeje, constituye la parte ==ANTERIOR Y SUPERIOR DEL ENCÉFALO==
 
@@ -333,7 +250,9 @@ Porción más voluminosa e importante del neuroeje, constituye la parte ==ANTERI
 ✔ **CORTEZA CEREBRAL**
 - Mide 2 a 3 mm de grosor
 - 10 a 20 millones de Neuronas
-- Formada por 6 capas:
+
+✅ **CAPAS**: 
+- MNEMOTECNIA: "Mi Gran Pirámide Guarda Piezas Fabulosas"
 - CAPA MOLECULAR (EXTERNA): En contacto con la Piamadre. Células de Cajal
 - CAPA GRANULAR EXTERNA
 - CAPA PIRAMIDAL EXTERNA
@@ -468,73 +387,6 @@ Regula:
 ![Tronco encefálico.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Tronco%20encef%C3%A1lico.jpg)
 
 ---
-**MÉDULA ESPINAL**
-
-**Recordar:**
-Médula espinal: Sustancia gris es central; la sustancia blanca, periférica
-Encéfalo: Sustancia gris es periférica; la sustancia blanca, central
-
-![Médula espinal.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/M%C3%A9dula%20espinal.jpg)
-
-La punción lumbar, se administra un anestésico local y se inserta luego una aguja larga en el espacio subaracnoideo. Se realiza entre L3 y L4 o L4 y L5
-
-![Punción lumbar.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Punci%C3%B3n%20lumbar.jpg)
-
-La Cauda equidna (Cola de caballo), constituye todos los nervios raquídeos, meninges y demás estructuras que caen después de la L1 - L2
-
-![Cauda equidna.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cauda%20equidna.jpg)
-
-| Segmentos  | Columna Vertebral | Médula Espinal |
-| ---------- | ----------------- | -------------- |
-| CERVICALES | 7                 | 8              |
-| DORSALES   | 12                | 12             |
-| LUMBARES   | 5                 | 5              |
-| SACRO      | 1                 | 5              |
-| COCCIGEO   | 1                 | 1              |
-
-✔ **ARCO REFLEJO**: Recorrido del impulso nervioso
-1. Órgano receptor
-2. Neurona aferente (Sensitiva)
-3. Centro nervioso (Neurona de Asociación)
-4. Neurona eferente (Motora)
-5. Órgano efector
-
-No confundir con ACTO REFLEJO (Acción muscular involuntaria)
-
-FISIOLOGÍA DE LA MÉDULA ESPINAL → Centro de los actos reflejos → Involuntario, de protección y específico
-
-![Arco reflejo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Arco%20reflejo.png)
-
-![Vías de la médula espinal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/V%C3%ADas%20de%20la%20m%C3%A9dula%20espinal.png)
-
-**FASCÍCULOS ASCENDENTES (SENSITIVOS)**
-
-| NOMBRE                                        | FUNCIÓN                                                                    |
-| --------------------------------------------- | -------------------------------------------------------------------------- |
-| Fascículo Espinotalámico Anterior             | Lleva estímulos de tacto y presión                                         |
-| Fascículo Espinotalámico Lateral              | Lleva estímulos de dolor y temperatura                                     |
-| Fascículo de Goll (Gracillis)                 | Lleva estímulos de sensibilidad profunda (tacto)                           |
-| Fascículo de Cuneiforme                       | Lleva estímulos de los huesos, músculos, tendones y articulaciones         |
-| Fascículo Espinocerebeloso Anterior (Ventral) | Lleva estímulos de equilibrio y tono muscular (propiocepción inconsciente) |
-| Fascículo Espinocerebeloso Posterior (Dorsal) | Lleva estímulos de equilibrio y tono muscular (propiocepción inconsciente) |
-
-**FASCÍCULOS DESCENDENTES (MOTORES)**
-
-|           Nombre           | Función                                                                                                      |
-|:--------------------------:| ------------------------------------------------------------------------------------------------------------ |
-|  Fascículo Corticoespinal  | Lleva impulsos nerviosos del Área 4 hacia la médula espinal.                                                 |
-|  Fascículo Corticonuclear  | Lleva impulsos nerviosos del Área 4 hacia los pares craneales (motores).                                     |
-|   Fascículo Rubroespinal   | Lleva impulsos nerviosos para el control del tono muscular.                                                  |
-|   Fascículo Tectoespinal   | Lleva impulsos nerviosos para el control del reflejo oculocefalorígo.                                        |
-| Fascículo Vestibuloespinal | Lleva impulsos nerviosos para el control del equilibrio.                                                     |
-| Fascículo Reticuloespinal  | Lateral: Inhibe los reflejos de músculos extensores. Anterior: Estimula los reflejos de músculos extensores. |
-
-![Sistema Nervioso Central.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sistema%20Nervioso%20Central.png)
-
----
-**SISTEMA NERVIOSO PERIFÉRICO**
-✅ Ganglios
-✅ Nervios
 
 ✔ Par Raquídeos (31)
 - Cervicales: 8
@@ -744,12 +596,14 @@ L. C. R (Plexos coroideos)
 - Algunos linfocitos
 - Volumen aprox: 80-150 ml
 
+✔ **PATOLOGÍA**:
+- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Hidrocefalia\|HIDROCEFALIA]]
+
 ✅ Produce: 500 ml / d
 ✅ Velocidad de producción: 20 ml / h
 ✅ Circula: 150 ml / d
 ✅ Drenaje: 350 ml / d
 ✅ Aspecto: Claro
-✅ Patología: Hidrocefalia
 
 ---
 **PRÁCTICA**
