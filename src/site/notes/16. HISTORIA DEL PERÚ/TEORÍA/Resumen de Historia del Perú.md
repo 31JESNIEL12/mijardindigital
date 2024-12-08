@@ -1,5 +1,5 @@
 ---
-{"tags":["Historia","Teoría"],"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/resumen-de-historia-del-peru/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/resumen-de-historia-del-peru/","tags":["Historia","Teoría"]}
 ---
 
 # RESÚMENES Y MNEMOCTENIAS
