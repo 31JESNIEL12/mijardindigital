@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/17-historia-universal/teoria/generalidades-de-la-historia/"}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/generalidades-de-la-historia/","tags":["Historia","Teoría"]}
 ---
 
 # TEORÍA
