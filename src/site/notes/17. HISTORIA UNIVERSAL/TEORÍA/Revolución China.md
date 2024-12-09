@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/17-historia-universal/teoria/revolucion-china/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/revolucion-china/","tags":["Historia","Teoría"]}
 ---
 
 # TEORÍA
