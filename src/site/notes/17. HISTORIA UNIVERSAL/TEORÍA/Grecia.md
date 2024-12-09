@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/17-historia-universal/teoria/grecia/","tags":["Historia","Teoría"]}
 ---
 
-
 # TEORÍA
 ---
 **CULTURA GRIEGA**
