@@ -1,5 +1,5 @@
 ---
-{"tags":["Historia","Teoría"],"dg-publish":true,"permalink":"/17-historia-universal/teoria/egipto/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/egipto/","tags":["Historia","Teoría"]}
 ---
 
 # TEORÍA
