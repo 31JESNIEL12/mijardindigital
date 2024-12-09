@@ -1,5 +1,5 @@
 ---
-{"tags":["Historia","Teoría"],"dg-publish":true,"permalink":"/17-historia-universal/teoria/resumen-de-historia-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/resumen-de-historia-universal/","tags":["Historia","Teoría"]}
 ---
 
 # RESÚMENES Y MNEMOTECNIAS
