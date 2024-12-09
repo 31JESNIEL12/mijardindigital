@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/17-historia-universal/teoria/fenicios/"}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/fenicios/","tags":["Historia","Teoría"]}
 ---
 
 # TEORÍA
