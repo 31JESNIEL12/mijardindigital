@@ -58,8 +58,10 @@ PRESENCIA DE ALVEOLOS
 
 ---
 **VÍAS RESPIRATORIAS**
+PORCIÓN CONDUCTORA
 
-Conductos por donde conduce el aire
+✔ **DEFINICIÓN**
+- Conjunto de cavidades y tubos interconectadas que conducen el aire hasta los pulmones
 
 ✔ **NARIZ**
 - CONCEPTO: Prominencia voluminosa, impar y media de forma de pirámide triangular 
@@ -85,11 +87,12 @@ Conductos por donde conduce el aire
 >El Tabique Nasal es formado por ==**VÓMER**== y la Lámina perpendicular de ==**ETMOIDES**== 
 
 ✅ **SENOS PARANASALES**
-- Son cavidades neumáticas, excavadas en algunos huesos de la cabeza y revestidas por la ==**MUCOSA PITUITARIA**== 
-- Se ubican en Maxilar Superior ==**(ANTRO DE HIGHMORE)**==, Frontal, Etmoides y Esfenoides 
+- Son cavidades neumáticas, excavadas en algunos huesos de la cabeza y revestidas por la ==MUCOSA PITUITARIA== 
+- Se ubican en Maxilar Superior ==(ANTRO DE HIGHMORE)==, Frontal, Etmoides y Esfenoides 
 - Disminuyen el peso de la parte anterior de la cabeza
-- Órganos de ==**RESONANCIA**== de la voz
-- ==**CALIENTAN EL AIRE**== 
+- Órganos de ==RESONANCIA== de la voz
+- FUNCIÓN: ==CALIENTAN EL AIRE== 
+- PATOLOGÍA: [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Sinusitis\|SINUSITIS]]
 - MNEMOTECNIA: "El Frontal Es Maxilar"
 
 ✔ **FARINGE**
@@ -197,8 +200,7 @@ Conductos por donde conduce el aire
 |  LOBULARES   |          3           |          2           |
 | SEGMENTARIOS |          10          |          8           |
 
-✅ **ÁRBOL BRONQUIAL**
-
+>[!sidenote]- **ÁRBOL BRONQUIAL**
 ![El árbol bronquial.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/El%20%C3%A1rbol%20bronquial.png)
 
 ---
@@ -227,7 +229,7 @@ Conductos por donde conduce el aire
 	- Presenta la ==**ESCOTADURA CARDIACA**== y la ==**LÍNGULA**== 
 
 >[!sidenote]- **RECORDAR**: 
->La [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Antracosis\|ANTRACOSIS]] es la lesión pulmonar más inofensiva inducida por el carbón que aparece en los mineros del carbón, también en todos los habitantes de las ciudades y en los fumadores.
+>La [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Antracosis\|ANTRACOSIS]] es la lesión pulmonar más inofensiva inducida por el carbón que aparece en los mineros del carbón, también en todos los habitantes de las ciudades y en los fumadores.
 >El pigmento que se inhala del carbón es atrapado por los macrófagos alveolares o del intersticio y luego se acumula bien en el ==**TEJIDO CONECTIVO**== o en el ==**TEJIDO LINFOIDEO**== 
 
 ✔ **MORFOLOGÍA EXTERNA** 
@@ -257,23 +259,23 @@ Conductos por donde conduce el aire
 
 ✅ **HOJA PARIETAL** 
 - Se encuentra adherida a toda la superficie interna de la pared torácica 
-- Ambas hojas están constituidas por ==**MESOTELIO**== y ==**TEJIDO CONECTIVO**== y determinan el ==**ESPACIO PLEURAL**==, que normalmente contiene una secreción lubricante denominada ==**LÍQUIDO PLEURAL**==, la cual evita el roce de las hojas pleurales durante los movimientos respiratorios
+- Ambas hojas están constituidas por ==MESOTELIO== y ==TEJIDO CONECTIVO== y determinan el ==ESPACIO PLEURAL==, que normalmente contiene una secreción lubricante denominada ==LÍQUIDO PLEURAL==, la cual evita el roce de las hojas pleurales durante los movimientos respiratorios
 - LÍQUIDO PLEURAL:
 	- CANTIDAD NORMAL: 50 - 80 ml
-	- EXCESO: [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Derrame pleural\|Derrame pleural]] 
+	- EXCESO: [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Derrame pleural\|Derrame pleural]] 
 
 ✅ **PATOLOGÍAS** 
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Hemotórax\|HEMOTÓRAX]]: Sangre en el espacio pleural
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumotórax\|NEUMOTÓRAX]]: Aire en el espacio pleural
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Hidrotórax\|HIDROTÓRAX]]: Agua en el espacio pleural 
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Quilotórax\|QUILOTÓRAX]]: Linfa en el espacio pleural 
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Piotórax\|PIOTÓRAX]]: Pus en el espacio pleural (EMPIEMIA) 
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Pleuresía\|PLEURESÍA O PLEURITIS]]: Inflamación pleural  
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Hemotórax\|HEMOTÓRAX]]: Sangre en el espacio pleural
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumotórax\|NEUMOTÓRAX]]: Aire en el espacio pleural
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Hidrotórax\|HIDROTÓRAX]]: Agua en el espacio pleural 
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Quilotórax\|QUILOTÓRAX]]: Linfa en el espacio pleural 
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Piotórax\|PIOTÓRAX]]: Pus en el espacio pleural (EMPIEMIA) 
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Pleuresía\|PLEURESÍA O PLEURITIS]]: Inflamación pleural  
 
 ✔ **HISTOLOGÍA**  
 
 ✅ **LOBULILLO PULMONAR** 
-- Es la ==**UNIDAD ANATOFUNCIONAL**== del pulmón 
+- Es la ==UNIDAD ANATOFUNCIONAL== del pulmón 
 - Son sacos de aire
 - Tiene forma piramidal y contiene un vaso linfático, una arteriola, una vénula y una rama de un bronquiolo terminal.
 	- BRONQUIOLO TERMINAL: Bronquiolo terminal, bronquiolo respiratorio, conducto y sacos alveolares y alvéolos 
@@ -295,9 +297,9 @@ Conductos por donde conduce el aire
 - PORCENTAJE: 40% de la población alveolar y el 95% de la superficie de los alveolos 
 
  🔹 **NEUMOCITOS II**
- - Células redondas, grandes y secretoras de una mezcla de fosfolípidos y lipoproteínas denominada sustancia ==**TENSIOACTIVA**== o ==**SURFACTANTE**==, el cual evita la que las paredes alveolares colapsen durante el proceso de la espiración ([[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Atelectasia\|ATELECTASIA]])  
+ - Células redondas, grandes y secretoras de una mezcla de fosfolípidos y lipoproteínas denominada sustancia ==**TENSIOACTIVA**== o ==**SURFACTANTE**==, el cual evita la que las paredes alveolares colapsen durante el proceso de la espiración ([[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Atelectasia\|ATELECTASIA]])  
  - Esta sustancia se produce desde la ==7MA MES (28 - 32 SEMANAS)== de gestación 
-	 - DEFICIENCIA: En bebe prematuros → [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Enfermedad de la membrana Hialina\|Enfermedad de la membrana Hialina]] 
+	 - DEFICIENCIA: En bebe prematuros → [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Enfermedad de la membrana Hialina\|Enfermedad de la membrana Hialina]] 
 - PORCENTAJE: 60% de la población celular alveolar y el 5% de la superficie alveolar
 
 |          **COMPONENTES**           | **COMPOSICIÓN PORCENTUAL** |
@@ -316,7 +318,7 @@ Conductos por donde conduce el aire
 🔹 **POROS DE KHON** 
 - Son los que permiten la comunicación entre los alveolos adyacentes, y de esta manera, permite la circulación de aire de uno a otro alveolo 
 
-🔹 **[[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumonía\|NEUMONÍA]]** 
+🔹 **[[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumonía\|Neumonía]]** 
 - Es una infección aguda de los alveolos pulmonares, en la cual los sacos alveolares se llenan de líquido y leucocitos dificultando la difusión del O<sub>2</sub> 
 - PERSONAS PROPENSAS: Ancianos, lactantes y fumadores 
 
@@ -349,22 +351,22 @@ Conductos por donde conduce el aire
 - Es el intercambio de gases entre la atmósfera y los alveolos pulmonares 
 
 ✅ **INSPIRACIÓN** 
-- Es el ==**INGRESO**== del aire atmosférico a los pulmones 
-- El músculo diafragma se contrae y desciende
+- Es el ==INGRESO== del aire atmosférico a los pulmones 
+- El músculo diafragma se ==CONTRAE Y ASCIENDE==
 - Las costillas se elevan por la contracción de los músculos intercostales externos
 - La cavidad torácica se expande por aumento de sus diámetros vertical y antero - posterior 
 - Disminuye la presión intrapulmonar (758 mmHg) 
-- Es un proceso ==**ACTIVO**== (GASTO DE ENERGÍA)
+- Es un proceso ==ACTIVO== (GASTO DE ENERGÍA)
 - Dura 2 segundos 
 - Durante una inspiración forzada aparte del diafragma y los intercostales externos, también intervienen los escalenos, esternocleidomastoideos y pectorales mayores y menores
 
 ✅ **ESPIRACIÓN** 
-- Es la ==**SALIDA**== del aire hacia la atmósfera 
-- El músculo del diafragma se relaja y desciende 
+- Es la ==SALIDA== del aire hacia la atmósfera 
+- El músculo del diafragma se ==RELAJA Y DESCIENDE== 
 - Las costillas bajan por relajación de los músculos intercostales externos 
 - La cavidad torácica se reduce por disminución de sus diámetros vertical y antero - posterior 
 - Aumenta la presión intrapulmonar (762 mmHg) 
-- Es un proceso ==**PASIVO**== (SIN GASTO DE ENERGÍA)
+- Es un proceso ==PASIVO== (SIN GASTO DE ENERGÍA)
 - Dura 3 segundos
 - Durante una espiración forzada, se contraen los músculos espiratorios; músculos de la prensa abdominal y los intercostales internos
 
@@ -541,13 +543,14 @@ Conductos por donde conduce el aire
 
 ---
 **CONTROL NERVIOSO DE LA RESPIRACIÓN** 
+BULBO RAQUÍDEO
 
 ✔ **GENERALIDADES** 
 - Formado por grupos de neuronas ampliamente dispersos 
 - ÁREA RÍTMICA BULBAR: Controla el ritmo de la respiración 
 - ÁREA NEUMOTÁXICA DE LA PROTUBERANCIA: Prolonga la inspiración (FACILITA LA INSPIRACIÓN)
 - ÁREA APNEÚSTICA DE LA PROTUBERANCIA: Prolonga la inspiración (INHIBE LA ESPIRACIÓN)
-- En el pulmón hay receptores de la distensión, localizados en pleura visceral y bronquiolos, ==**REFLEJOS HERING - BREUER**== 
+- En el pulmón hay receptores de la distensión, localizados en pleura visceral y bronquiolos, ==REFLEJOS HERING - BREUER== 
 
 ![Centro de la Respiración.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Centro%20de%20la%20Respiraci%C3%B3n.png)
 
@@ -566,13 +569,6 @@ Conductos por donde conduce el aire
 ![Embriología del Sistema Respiratorio 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Embriolog%C3%ADa%20del%20Sistema%20Respiratorio%201.png)
 ![Embriología del Sistema Respiratorio 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Embriolog%C3%ADa%20del%20Sistema%20Respiratorio%202.png)
 ![Embriología del Sistema Respiratorio 3.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Embriolog%C3%ADa%20del%20Sistema%20Respiratorio%203.png)
-
-✔ **RINITIS** 
-- Inflamación de la nariz
-
-✔ **SINITIS** 
-- Inflamación de los senos paranasales 
-
 
 ---
 **PRÁCTICA**: 
