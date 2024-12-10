@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-oseo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-oseo/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -12,6 +12,7 @@
 >[ESQUELETO APENDICULAR AUDIOLIBRO TÓRTORA](https://www.youtube.com/watch?v=NfVZov7dk1Y)  
 >[ARTICULACIONES AUDIOLIBRO TÓRTORA](https://youtu.be/BvBdPgJTwOE?si=vwG5mrVLTKNZjTCm) 
 >[ESQUELETO APENDICULAR - HIBITO](https://www.youtube.com/watch?v=aGdAOBQ1aB0)  
+>[CLASIFICACIÓN Y FUNCIONES DE LAS ARTICULACIONES](https://www.youtube.com/watch?v=YGTWm987DcM)
 
 ✔ **HISTOLOGÍA DEL TEJIDO ÓSEO**
 - Se caracteriza por su resistencia y rigidez que permite soportar grandes presiones, sirve de soporte a las partes blandas, protege a las partes blandas, protege a los órganos y constituye un elemento pasivo de locomoción
@@ -138,68 +139,6 @@ Pueden clasificarse de diversas formas: abiertas o cerradas, completas o incompl
 4. Remodelación
 
 ---
-**GLOSARIO**
-
-✔ **OSTEOSPOROSIS**
-- Enfermedad metabólica que ataca preferentemente a las ==MUJERES POSMENOPÁUSICA==, produciendo disminución de la matriz ósea
-- CAUSA: Déficit de hormonas sexuales
-
-✔ **ENFERMEDAD DE PAGET**
-- Aceleración del proceso de remodelación, teniendo como consecuencia un engrosamiento irregular como reblandecimiento de los huesos
-
-✔ **OSTEOMIELITIS**
-- Infección local o generalizada del hueso y médula ósea
-- CAUSA: Introducción de bacterias a través de traumatismo, cirugía y otros
-
-✔ **OSTEOSARCOMA**
-- Tumor maligno formado por tejido óseo
-
-✔ **ESCOLIOSIS**
-- Inclinación lateral de la columna vertebral 
-- CAUSAS: Malformaciones congénitas, malas posturas, entre otras
-
-✔ **ACONDROPLASIA**
-- La osificación imperfecta del cartílago de los huesos largos durante la vida fetal
-
-✔ **OSTEOMALACIA**
-- Trastorno del hueso laminar, caracterizado por la pérdida de la calcificación de la matriz
-- CAUSA: Déficit de calcio, fósforo, o vitamina D
-
-✔ **RAQUITISMO**:
-- Enfermedad provocada por el déficit de vitamina D, calcio y, habitualmente fósforo
-- CAUSA: Desarrollo óseo anormal en lactantes y niños
-
-✔ **MAL DE POTT**
-- Tuberculosis con compromiso vertebral
-
-✔ **REUMATISMO**
-- Trastorno doloroso de las estructuras de sostén del cuerpo como huesos, ligamentos, tendones, articulaciones y músculos
-
-✔ **ARTRITIS REUMATOIDE**
-- Enfermedad autoinmune que produce inflamación de la membrana sinovial, con dolor hinchazón e incapacidad funcional. Sino se trata la membrana se engrosa y produce un tejido de granulación anormal llamada ==PANNUS==
-
-✔ **ARTRITIS GOTOSA**
-- Cuando los ==CRISTALES DE URATO DE SODIO== se depositan en los tejidos blandos de las articulaciones, irritan el cartílago causando inflamación, hinchazón y dolor agudo
-
-✔ **DISTENSIÓN**
-- Estiramiento excesivo de un músculo
-
-✔ **ENGUINCE**
-- Estiramiento de una articulación contra rotura parcial de las estructuras que se insertan en ella, pero sin luxación
-
-✔ **LUXACIÓN**
-- Desplazamiento de un hueso fuera de su articulación
-
-✔ **ARTRALGIA**
-- Dolor en una articulación
-
-✔ **ANQUILOSIS**
-- Pérdida del movimiento de una articulación
-
-✔ **OSTEOARTRITIS**
-- Enfermedad articular degenerativa que se caracteriza por deterioro del cartílago articular y formación de ==ESPOLONES ÓSEOS==
-
----
 **SUSTANCIA INTERCELULAR O MATRIZ ÓSEA**
 
 ✔**PORCIÓN ORGÁNICA (OSTEOIDE)**
@@ -311,10 +250,6 @@ Se inicia de la 6ta o 7ma semana de vida embrionaria y que se mantiene hasta la 
 
 ---
 **ARTICULACIÓNES**
-
-
----
->[CLASIFICACIÓN Y FUNCIONES DE LAS ARTICULACIONES](https://www.youtube.com/watch?v=YGTWm987DcM)
 
 ---
 **DIVISIÓN DEL ESQUELETO**
@@ -649,7 +584,7 @@ Comienzan a osificarse entre los 20 y 30 años ,==EXCEPTO LA METÓPICA QUE DESAP
 
 ---
 **ANTERIOR TEMA:** 
->[[23. BIOLOGÍA/TEORÍA/Histología animal\|HISTOLOGÍA ANIMAL]]
+>[[24. ANATOMÍA/TEORÍA/Histología animal\|HISTOLOGÍA ANIMAL]]
 
 
 
