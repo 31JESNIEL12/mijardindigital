@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-reproductor-masculino/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-reproductor-masculino/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -217,30 +217,6 @@ Externamente
 ✔ **Moco lubricante**
 
 ![Glándulas anexas del Sistema reproductor.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gl%C3%A1ndulas%20anexas%20del%20Sistema%20reproductor.png)
-
-**ANOMALÍAS**
-
-✔ **FIMOSIS Y PARAFIMOSIS**
-
-| FIMOSIS | PARAFIMOSIS |
-| ------- | ----------- |
-|         |             |
-
-✔ **CRIPTORQUÍDEA**
-- Uno o ambos testículo no descienden (Orquidopexia)
-
-✔ **ANORQUÍDEA / ANORQUIA**
-- Ausencia de ambos testículos
-
-✔ **ORQUITIS**
-- Inflamación de uno de los testículos o ambos (Ibuprofeno - Naproxenosódico)
-
-✔ **ENEUCOIDISMO**
-- Hipogonadismo
-- Estado intersexual que se produce por insuficiencia de la función testicular
-
-✔ **VARICOCELE**
-- Aumento de volumen del cordón espermático
 
 ---
 **PRÁCTICA:** 
