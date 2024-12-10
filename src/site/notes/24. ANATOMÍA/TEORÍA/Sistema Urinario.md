@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-urinario/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-urinario/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -236,32 +236,6 @@ Arteria renal ⏩ Arterias segmentarias ⏩ Arterias interlobulares ⏩ Arterias
 
 ![Formación de la Orina.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Formaci%C3%B3n%20de%20la%20Orina.png)
 ![Fisiología del Sistema Urinario.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Fisiolog%C3%ADa%20del%20Sistema%20Urinario.png)
-
----
-**TRANSTORNOS URINARIOS**
-
-✔ **DESEQUILIBRIOS HOMEOSTÁTICOS**
-- Cálculos Renales
-- Infecciones Urinarias
-- Enfermedades glomerulares
-- Insuficiencia Renal
-- Riñón Poliquístico
-- Cáncer de Vejiga
-
-✔ **TERMINOLOGÍA MÉDICA**
-- Azoemia
-- Cistocele
-- Disuria
-- Enuresis
-- Enuresis nocturna
-- Estenosis
-- Hidronefrosis
-- Nefropatía diabética
-- Nefropatía
-- Pielografía intravenosa
-- Poliuria
-- Retención urinaria
-- Uremia
 
 ---
 **PRÁCTICA:** 
