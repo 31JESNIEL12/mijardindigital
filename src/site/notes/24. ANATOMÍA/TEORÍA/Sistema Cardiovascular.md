@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-cardiovascular/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-cardiovascular/","tags":["Anatomía","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
@@ -633,7 +633,7 @@ DATOS:
 
 ![Sistema ABO I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sistema%20ABO%20I.png)
 
-✔ **[[24. ANATOMÍA/ENTIDADES CLÍNICAS/TRASTORNOS INMUNOLÓGICOS/Eritroblastosis Fetal\|ERITROBLASTOSIS FETAL]]**
+✔ **[[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/TRASTORNOS INMUNOLÓGICOS/Eritroblastosis Fetal\|ERITROBLASTOSIS FETAL]]**
 
 ![Eritroblastosis Fetal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Eritroblastosis%20Fetal.png)
 
