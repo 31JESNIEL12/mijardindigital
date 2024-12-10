@@ -136,13 +136,11 @@ Quinta semana
 - PARED SUPERIOR: Paladar óseo
 - PARED INFERIOR: Suelo de la boca (MÚSCULO MILOHIOIDEO) y lengua
 - ANEXOS: Dientes y lengua
-- BOLSA ADIPOSA DE BICHAT: Cúmulos de tejido graso situado debajo de los pómulos, cuya función es soportar y dotar estructura al rostro (RESERCIÓN: Bichectomía)
+- BOLSA ADIPOSA DE BICHAT: Cúmulos de tejido graso situado debajo de los pómulos, cuya función es soportar y dotar estructura al rostro 
+	- RESERCIÓN: [[24. ANATOMÍA/COMPLEMENTO/TRATAMIENTOS Y CIRUGÍAS/Bichectomía\|Bichectomía]]
 
-**BOLSA DE BICHAT**
+>[!sidenote]- **BOLSA DE BICHAT**
 ![Pasted image 20240620020933.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020240620020933.png)
-
->[!sidenote]- **BICHECTOMÍA**
->![[Bichectomía.mp4]]
 
 ![Boca.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Boca.png)
 
@@ -285,7 +283,7 @@ Quinta semana
 - SUPERIOR: Constituido por músculo estriado y es parte del músculo ==CRICOFARÍNGEO==  
 - INFERIOR: Esfínter fisiológico formado por los 4 centímetros inferiores de músculo liso esofágico 
 	- Su incompetencia puede producir ==REFLUJO GASTROESOFÁGICO==, es decir, que el contenido gástrico puede refluir e irritar la pared esofágica originando una ==SENSACIÓN DE ARDOR==, que recibe el nombre de ==PIROSIS O ACIDEZ ESTOMACAL==  
-	- Si no puede cerrarse adecuadamente después de que los alimentos ingresaron al estómago, el contenido gástrico puede influir hacia la parte inferior del estómago, esta afección se conoce como [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Reflujo gastrointestinal\|Enfermedad por reflujo gastrointestinal (RGE)]] 
+	- Si no puede cerrarse adecuadamente después de que los alimentos ingresaron al estómago, el contenido gástrico puede influir hacia la parte inferior del estómago, esta afección se conoce como [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Reflujo gastrointestinal\|Enfermedad por reflujo gastrointestinal (RGE)]] 
 
 ✔ **FISIOLOGÍA**
 - Transportar el bolo alimenticio hacia el estómago
@@ -532,7 +530,7 @@ Quinta semana
 
 ✔ **CARACTERÍSTICAS**
 - LONGITUD: 1,4 y 1,8 metros
-- Presenta ==**ABOLLADURAS (COLIS)**==, por sus **==CINTILLAS LONGITUDINALES (TENIA COLIS)**== y por sus ==**APÉNDICES EPICLOICOS**== 
+- Presenta ==ABOLLADURAS (COLIS)==, por sus ==CINTILLAS LONGITUDINALES (TENIA COLIS)== y por sus ==APÉNDICES EPICLOICOS== 
 
 ✔  **CIEGO**
 - Es la porción ==MÁS DILATADA DEL INTESTINO GRUESO== 
@@ -542,7 +540,14 @@ Quinta semana
 - Se encuentra cubierto por peritoneo 
 
 ✅ **APÉNDICE CECAL O VERMIFORME** 
-- 
+- Pequeño divertículo (BOLSA) tubular de externo cerrado, que se origina en el ciego 
+- LONGITUD: 5 - 10 cm
+- DIÁMETRO: 0,8 cm
+- La pared del apéndice se compone de una capa muscular que tiene un componente longitudinal externo y otro circular interno (CILE); así, como el resto del tubo digestivo
+- La submucosa contiene vasos sanguíneos, nervios y tejido linfoide 
+- El epitelio de la mucosa es como la del colon 
+- En los niños, la ==LÁMINA PROPIA== y la ==SUBMUCOSA== contienen ==ABUNDANTE TEJIDO LINFOIDE==; estas estructuras no existen en el recién nacido, pero se van formando progresivamente en el apéndice a lo largo de los primeros 10 años, para ir desapareciendo poco a poco más adelante
+- INFLAMACIÓN: Se le denomina ==[[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Apendicitis\|APENDICITIS]]== y exige su inmediata extirpación quirúrgica, ya que su ruptura da origen al desarrollo de ==[[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Peritonitis\|PERITONITIS]]== 
 
 ✔ **COLON ASCENDENTE** 
 - LONGITUD: 15 cm
@@ -689,107 +694,318 @@ Quinta semana
 ![Glándulas anexas I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gl%C3%A1ndulas%20anexas%20I.png)
 
 ---
+**PÁNCREAS** 
+
+✔ **DEFINICIÓN** 
+- Glándula mixta debido a que posee una porción exocrina y una porción endocrina de forma irregular "martillo"
+
+✔ **CARACTERÍSTICAS** 
+- UBICACIÓN: ==EPIGASTRIO== (CABEZA Y CUERPO) e ==HIPONCONDRIO IZQUIERDO== (COLA), delante de la pared abdominal posterior y detrás de peritoneo ==(RETROPERITONAL)==
+- Se extiende desde el marco duodenal hasta el bazo 
+- VOLUMEN: 16 - 20 cm de largo, 4 - 5 cm de altura y 2 - 3 cm de grosos
+- PESO: 70 g
+
+✔ **PARTES**
+- EXTREMO DERECHO: Cabeza
+- EXTREMO MEDIO: Cuerpo
+- EXTREMO IZQUIERDO: Cola
+
+✔ **PÁNCREAS EXOCRINO** 
+- Constituidos por grupos celulares denominados ==ACINOS PANCREÁTICOS==, que representa la mayor parte de masa pancreática ==(99% DE SU PESO)== 
+- Estas células secretan una mezcla de líquidos  enzimas denominada ==JUGO PANCREÁTICO==
+- Esta mezcla es vertido a la ==SEGUNDA PORCIÓN DEL DUODENO== (DESCENDENTE) a través del ==CONDUCTO PANCREÁTICO PRINCIPAL O DE WIRSUNG== y el ==CONDUCTO PANCREÁTICO ACCESORIO O DE SANTORINI==, que desembocan en la carúncula mayor y menor, respectivamente.
+- El sistema de conducto del páncreas se inicia en el ==CENTRO== del ==ACINO== con los ==CONDUCTOS INTERCALARES==, estos conductos se unen entre sí para formar los ==CONDUCTOS INTRALOBULILLARES==, que, al converger, forman los ==CONDUCTOS INTERLOBULARES== y descargan su contenido en el ==CONDUCTO DE WIRSUNG== 
+
+✔ **PÁNCREAS ENDOCRINO**
+- Constituido por células endocrinas que se agrupan formando pequeños conglomerados conocidos como los =="ISLOTES DE LANGERHANS"== y constituye el ==1% DEL PESO== del páncreas
+
+✅ **CÉLULAS BETA (β)** 
+- PORCENTAJE: 70%
+- Concentradas en el centro del islote 
+- Liberan la ==INSULINA== 
+
+✅ **CÉLULAS ALFA (α)** 
+- PORCENTAJE: 20%
+- Ubicadas en la periferia del islote 
+- Secretan ==GLUCAGÓN== 
+
+✅ **CÉLULAS DELTA (δ)** 
+- PORCENTAJE: 15% 
+- Secretan ==SOMATOSTATINA== que disminuye la motilidad del tubo digestivo y vesícula biliar
+
+✅ **CÉLULAS G**
+- PORCENTAJE: 1%
+- Secretan ==GASTRINA== que estimula la producción de ==HCl== por las células parietales del estómago
+
+✅ **CÉLULAS PP O CÉLULA FF** 
+- PORCENTAJE: 1%
+- Secreta el ==POLIPÉPTIDO PANCREÁTICO== que inhibe las secreciones del páncreas 
+
+✔ **JUGO PANCREÁTICO** 
+- Es un líquido transparente e incoloro elaborado por los ==ACINOS PANCREÁTICOS== 
+- pH = 8 - 8,3 (ALCALINO) 
+- PRODUCCIÓN: 1200 - 1500 ml/día 
+- Se secreta principalmente, en respuesta al ==QUIMO== a nivel del ==DUODENO== 
+
+✅ **COMPOSICIÓN:** 
+-  ENZIMAS PROTEOLÍTICAS: Tripsina, Quimiotripsina, Carboxipeptidasas, Elastasas, Nucleasas, Lipasas y Colesterol esterasa
+	- Las enzimas proteolíticas rompen proteínas completas o parcialmente digeridas
+	- Las nucleasas rompen los dos tipos de ácidos nucleicos 
+	- La lipasa digiere las grasas 
+	- El colesterol esterasa, hidroliza las ésteres de colesterol 
+	- La amilasa digiere los almidones y casi todos los demás polisacáridos (EXCEPTO LA CELULOSA)
+- BICARBONATO: CO<sub>3</sub><sup>-2</sup> 
+- AGUA: H<sub>2</sub>O 
+
+✔ **REGULACIÓN DE LAS SECRECIONES PANCREÁTICAS** 
+- A través del ==NERVIO VAGO O NEUMOGÁSTRICO (X PAR)==, durante la digestión gástrica (FASE CEFÁLICA Y GÁSTRICA), se envían también impulsos ==PARASIMPÁTICOS== al páncreas, el resultado es el aumento de la secreción pancreática 
+- La ==SECRETINA==, una hormona que estimula el flujo pancreático rico en bicarbonato, y la ==COLESCITOCININA (CCC)==, hormona que estimula las secreción pancreática rica en enzimas digestivas; ambos son estimulados en respuesta al ==QUÍMO ÁCIDO== proveniente del estómago y a la presencia de ==GRASAS Y PROTEÍNAS== parcialmente digeridas
+	- Ambas hormonas son secretadas por ==CÉLULAS ENTEROENDOCRINAS== de la mucosa del intestino delgado 
+
+---
 **HÍGADO** 
 
-✔ **GENERALIDADES** 
-- Es la ==**MÁS VOLUMINOSA**== de las ==**VÍSCERAS**== 
-- PESO CADAVÉRICO: 1400 - 1500 gramos
-- PESO FISIOLÓGICO: 2200 - 2400 gramos
+✔ **DEFINICIÓN** 
+- Es la ==GLÁNDULA MÁS GRANDE== de todo el organismo y un órgano interno homogéneo, liso y friable
+	- También es la ==MÁS VOLUMINOSA== de las ==VÍSCERAS== 
+- Es una ==GLÁNDULA MIXTA==, ya que posee función tanto exocrina como endocrina 
+
+✔ **CARACTERÍSTICAS** 
+- UBICACIÓN: A nivel del ==HIPONCONDRIO DERECHO== principalmente y parte del ==EPIGASTRIO==, inmediatamente por debajo del diafragma
+- PESO CADAVÉRICO O SECO: 1400 - 1500 gramos
+	- ADULTO: 1/50 de su peso
+	- RECIÉN NACIDO: 1/25 de su peso
+- PESO FISIOLÓGICO: 2200 - 2400 gramos 
 	- Esta diferencia de pesos es debido a la circulación de 600 a 800 ml de sangre
 - COLOR: Rojo pardo 
-- CONSISTENCIA: Friable y maleable 
+- VOLUMEN: 28 cm de largo, 20 cm de ancho y 8 cm de espesor 
 
-✔ **CONFIGURACIÓN EXTERNA**
-- CARA ANTERIOR SUPERIOR: Convexa y lisa, dividida por el ==**LIGAMENTO FALCIFORME**== en 2 lóbulos
-- CARA POSTERO INFERIOR: Plana, presenta el ==**HILIO HEPÁTICO**== y surcos que lo dividen en lóbulos 
-- SURCO LONGITUDINAL DERECHO: Aloja la vesícula biliar (ANTERIOR) y vena cava (POSTERIOR)
-- SURCO LONGITUDINAL IZQUIERDO: Aloja al ==**LIGAMENTO REDONDO**== (ANTERIOR), atrofia post natal de la ==**VENA UMBILICAL**==; y el ==**LIGAMENTO DE ARANCIO**== (POSTERIOR), vestigio del ==**CONDUCTO VENOSO**==.
-- HILIO HEPÁTICO ==**(SURCO TRANSVERSO)**==: Salen o penetran la ==**VENA PORTA**== con sus dos ramas, la arteria hepática con sus ramas, plexos nerviosos y el conducto hepático
+✔ **CONFIGURACIÓN EXTERNA** 
+
+✅ **CARA ANTERO - SUPERIOR O DIAFRAGMÁTICA** 
+- Es convexa y lisa y se adapta a la concavidad derecha de la cúpula del músculo diafragma, al cual se une mediante el ==LIGAMENTO CORONARIO== 
+- En esta cara se distingue también al ==LIGAMENTO FALCIFORME==, el cual ==DIVIDE== al hígado en ==LÓBULO DERECHO E IZQUIERDO== respectivamente  
+
+✅ **CARA POSTERO - INFERIOR O VISCERAL** 
+- Es cóncava y está en relación con las vísceras abdominales como estómago e intestinos
+- Presenta tres surcos, dispuestos en ==FORMA DE H== , que ==DIVIDEN== al hígado en ==CUATRO LÓBULOS== 
+- Contiene al ==HILIO HEPÁTICO==, constituido por arteria hepática, vena porta, conductos hepáticos, vasos linfáticos y nervios vegetativos 
+
+✔ **IRRIGACIÓN SANGUÍNEA** 
+- VASOS AFERENTES: Arteria hepática y vena porta
+- VASOS EFERENTES: Venas hepáticas
+
+✅ **ARTERIA HEPÁTICA** 
+- PORCENTAJE: ==25% DE SANGRE== 
+- Transporta sangre oxigenada hacia el hígado a partir del ==TRONCO CELIACO==, rama de la ==ARTERIA AORTA ABDOMINAL==, por lo que proporciona al hígado una ==IRRIGACIÓN NUTRICIONAL== 
+
+✅ **VENA PORTA** 
+- PORCENTAJE: ==75% DE SANGRE== 
+- Transporta hacia el hígado sangre venosa, proveniente de los principales órganos abdominales, que es pobre en oxígeno, pero que contiene gran cantidad de nutrientes recién absorbidos en el intestino, células sanguíneas degradadas en el bazo y secreciones endocrinas del páncreas 
+- Antes y durante el nacimiento, hasta la ligadura, la ==VENA UMBILICAL== lleva sangre al hígado la ==SANGRE ARTERIAL== de la madre procedente de la placenta 
+- Después de la ligadura del cordón umbilical, la vena umbilical se oblitera quedando como ==VESTIGIO FIBROSO==, el ==LIGAMENTO REDONDO== 
+
+✅ **VASOS EFERENTES** 
+- Está dada por las ==VENAS HEPÁTICAS O SUPRAHEPÁTICAS==, que drenan la sangre venosa del hígado, desde los lóbulos hepáticos hacia la ==VENA CAVA INFERIOR== 
+
+![Irrigación hepática.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Irrigaci%C3%B3n%20hep%C3%A1tica.png)
+
+✔ **HISTOLOGÍA** 
+
+✅ **ESTROMA**
+- Constituido por tejido conectivo como soporte, está dado por la ==CÁPSULA DE GLISSON== (TEJIDO CONECTIVO DENSO), que se introduce a nivel del ==HILIO== y se ramifica hasta alcanzar los ==ESPACIOS PORTA==, que es una porción de tejido conectivo, el cual contiene una ==ARTERIOLA== (RAMA DE LA ARTERIA HEPÁTICA), una ==VÉNULA== (RAMA DE LA VENA PORTA), un conducto biliar y un vaso linfático 
+
+✅ **PARÉNQUIMA** 
+- Constituido por células epiteliales especializadas, llamadas ==CÉLULAS HEPÁTICAS O HEPATOCITOS==, que son de forma poligonal, dispuestas en cordones de una a dos células de espesor llamadas ==COLUMNAS DE HEPATOCITOS== 
+- Entre esos cordones se hallan los ==CAPILARES SINUSOIDALES O SINUSOIDES==, cuya pared está revestida por células endoteliales y ==CÉLULAS DE KÜPFFER O ESTRELLADAS RETICULOENDOTELIALES==, estas últimas son ==MACRÓFAGOS FIJOS== que tienen la función de destruir leucocitos y eritrocitos envejecidos, así como también bacterias y sustancias tóxicas 
+- Entre la pared del sinusoide y la columna de hepatocitos se localiza el ==ESPACIO DE DISSE O PERISINUSOIDAL== que es el sitio de intercambio de materiales entre la sangre y las células hepáticas, además se encuentra un tercer tipo celular que es el ==LIPOCITO, ADIPOCITO O CÉLULA DE ITO== que almacena la ==VITAMINA A== (RETINOL)
+- Existen diferentes formas de observar la disposición de las columnas de hepatocitos, a los que se ha denominado ==LOBULILLOS HEPÁTICOS==, consideradas como las ==UNIDADES FUNCIONALES DEL HÍGADO== 
+🔹 **LÓBULILLO HEPÁTICO (CLÁSICO)** 
+- Es la descripción tradicional de la organización del parénquima hepático
+- FORMA: Prisma hexagonal de unos 2 mm de longitud y 700 um de diámetro 
+- Esta forma considera que las ==COLUMNAS DE HEPATOCITOS O DE REMACK== se disponen de manera radial, desde la ==VENA CENTRAL== hasta la ==PERIFERIE DEL LOBULILLO== 
+- La ==VEN CENTRAL== se localiza al ==CENTRO DEL LOBULILLO (CENTROLOBULILLAR)==, en la cual drenan los sinusoides
+- En los ==ÁNGULOS DEL HEXÁGONO== se encuentran los ==ESPACIOS PORTALES O DE KIERNAN==, compuesta por tejido conectivo laxo, que contienen la ==TRIADA PORTAL==; rama de la venta porta, arteria hepática y conducto biliar respectivamente 
+
+🔹 **ACINO HEPÁTICO (ACINO PORTAL DE RAPPAPORT)** 
+- Tiene forma ==ROMBOIDAL== y considera que las columnas de hepatocitos se disponen alrededor de las ==RAMAS LATERALES== de la ==ARTERIA Y VENA== del ==ESPACIO PORTA== 
+- El eje menor está definido por las ramas de la triada portal 
+- El eje mayor es la línea trazada entre las dos venas centrales más cercanas al eje menor
+- Esta forma permite describir mejor la correlación entre ==PERFUSIÓN SANGUÍNEA, ACTIVIDAD METABÓLICA Y PATOLOGÍA HEPÁTICA== 
+
+🔹 **LOBULILLO PORTAL** 
+- Esta forma destaca las ==FUNCIONES EXOCRINAS HEPÁTICAS== (SECRECIÓN BILIAR) 
+- Sus márgenes están determinados por líneas imaginarias que unen las tres venas centrales circundantes a la triada portal 
+
+![Estructura histológica del parénquima hepático.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Estructura%20histol%C3%B3gica%20del%20par%C3%A9nquima%20hep%C3%A1tico.png)
+
+>[!sidenote]- **HISTOLOGÍA DEL HÍGADO** 
+![Lobulillo hepático I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20I.png)
+![Lobulillo hepático II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20II.png)
+![Lobulillo hepático III.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20III.png)
+![Lobulillo hepático IV.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20IV.png)
 
 ✔ **MEDIOS DE FIJACIÓN** 
 - PERITONEO HEPÁTICO: Forma 7 pliegues; ligamento falciforme, ligamento coronario, ligamento triangular derecho, ligamento triangular izquierdo, epiplón, gastro hepático, ligamento hepatorrenal y ligamento hepatocólico 
 - VENA CAVA INFERIOR
 - PRESION INTRAABDOMINAL
 
-✔ **HISTOLOGÍA**
-- PARÉNQUIMA: Formado por ==**HEPATOCITOS**== dispuestos en columnas llamadas ==**COLUMNAS DE REMACK**==, entre las cuales se hallan los sinusoides hepáticos, donde están las ==**CÉLULAS DE KUPFFER**== 
-- ESTROMA: Formado por la ==**CÁPSULA DE GLISSON**== y los ==**TABIQUES CONECTIVOS**== 
-
-![Lobulillo hepático I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20I.png)
-
-![Lobulillo hepático II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20II.png)
-
-![Lobulillo hepático III.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20III.png)
-
-![Lobulillo hepático IV.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lobulillo%20hep%C3%A1tico%20IV.png)
-
 ✔ **FISIOLOGÍA**
-- Metabolismo de ==**GLÚCIDOS, LÍPIDOS Y PROTEÍNAS**== 
-- Almacenamiento de Vitaminas A, D, B<sub>12</sub>, B<sub>1</sub>, B<sub>2</sub>, B<sub>3</sub>, B<sub>4</sub> y K
-- Almacenamiento de ==**HIERRO**== 
-- Síntesis de factores de coagulación (I, II, V, VII, IV, X)
-- Desintoxicación 
-- Metabolismo de las hormonas esteroideas 
-- Secreción de bilis 
-- Hematopoyesis fetal y hemocatéresis en la etapa post natal 
+- =="LABORATORIO CENTRAL" DEL CUERPO== 
+- El hígado puede realizar hasta cien funciones diferentes, efectuados en su mayor parte por los hepatocitos 
 
->[!sidenote]- **RECORDAR**
->**FACTORES DE COAGULACIÓN** 
+✅ **METABOLISMO DE CARBOHIDRTATOS** 
+- OBJETIVO: Mantener la concentración de glucosa en sangre (GLICEMIA) dentro de los valores normales 
+
+🔹 **GLUCOGÉNESIS O GLUCOGENOGÉNESIS** 
+- Proceso por el cual muchos unidades de glucosa se unen y forman una molécula de cadena larga denominada ==GLUCÓGENO== 
+- Se da cuando la ==GLICEMIA ES ALTA== 
+- Formando glucógeno, nuestro organismo lo puede almacenar hasta ==500 GRAMOS== 
+	- HÍGADO: 25%
+	- FIBRAS MUSCULARES: 75% 
+
+![Glucogenogénesis mediante la glucosa.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Glucogenog%C3%A9nesis%20mediante%20la%20glucosa.png)
+
+🔹 **GLUCOGENÓLISIS** 
+- Es el proceso de ==DEGRADACIÓN DE GLUCÓGENO== en glucosa 
+- Esto se da generalmente entre comidas 
+
+🔹**GLUCONEOGÉNESIS** 
+- Es el proceso mediante el cual se ==FORMA GLUCOSA== a partir de ==AMINOÁCIDOS== y del ==GLICEROL== de los triglicéridos 
+- Se da cuando la reserva corporal de carbohidratos disminuye 
+
+![Gluconeogénesis.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gluconeog%C3%A9nesis.png)
+
+🔹 **GLUCÓLISIS** 
+- Es el ==CATABOLISMO DE LA GLUCOSA==, la cual se realiza en todos los tejidos 
+- Como producto, se obtiene energía en forma de ==ATP== 
+
+>[!sidenote]- **TENER EN CUENTA**
+>**GLICEMIA ALTA**: Glucogénesis 
+>**GLICEMIA BAJA**: Glucogenólisis y/o gluconeogénesis 
+
+✅ **METABOLISMO DE LÍPIDOS** 
+- Los lípidos provenientes de la alimentación, son utilizados por el hígado para la ==FORMACIÓN DE LIPOPROTEÍNAS==, los mismos que son elementos de transporte de lípidos hacia el ==TEJIDO ADIPOSO==, u otros lugares.
+- También una parte se puede utilizar para ==PRODUCIR ENERGÍA (ATP)== o para ==REDUCIRLOS A GLICEROL==, que puede ser usado para ==FORMAR GLUCOSA== u otros procesos 
+- También se sintetiza ==COLESTEROL== y otros lípidos a partir de carbohidratos, principalmente. 
+- El colesterol puede ser usado para la ==FORMACIÓN== de ==SALES BILIARES==, para estabilizar membranas celulares o ser exportados a glándulas endocrinas para la ==FORMACIÓN DE HORMONAS ESTEROIDEAS== 
+
+>[!sidenote]- **LIPOPROTEÍNA**
+>![Lipoproteínas.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Lipoprote%C3%ADnas.png)
+
+![Metabolismo lipídico.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Metabolismo%20lip%C3%ADdico.png)
+
+✅ **SÍNTESIS DE PROTEÍNAS** 
+- Los aminoácidos de la digestión de las proteínas ingeridas en la dieta, donde se van a utilizar para sintetizar proteínas de importancia capital como; ==ALBÚMINA==, que es una proteína plasmática que mantiene la ==PRESIÓN ONCÓTICA== y que también sirve para transportar otras sustancias; ==ENZIMAS==, que catalizan reacciones químicas en muchas regiones corporales; ==FIBRINÓGENO== y otros ==FACTORES DE COAGULACIÓN== que son liberados al plasma para su participación en la ==HEMOSTASIA==, además de otras proteínas como las ==GLOBULINAS== y proteínas estructurales 
+- En el metabolismo proteico la función del hígado es esencial, de lo contrario, la muerte se produciría en pocos días. 
+	- Transforma el ==[[22. QUÍMICA/COMPLEMENTARIO/NOMENCLATURA INORGÁNICA/HIDRUROS NO METÁLICOS/Trihidruro de nitrógeno\|AMONIACO]]== (NH<sub>3</sub>), una sustancia tóxica, en una sustancia menos tóxica llamada ==[[22. QUÍMICA/COMPLEMENTARIO/NOMENCLATURA ORGÁNICA/Úrea\|ÚREA]]== que se ==EXCRETA EN LA ORINA== 
+
+>[!sidenote]- **FACTORES DE COAGULACIÓN** 
 >![Cuadro de los Factores de Coagulación Tortora.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cuadro%20de%20los%20Factores%20de%20Coagulaci%C3%B3n%20Tortora.png)
+
+✅ **FUNCIÓN EXCRETORA** 
+- El amoniaco se forma por la ==DESAMINACIÓN== de los ==AMINOÁCIDOS== en los ==HEPATOCITOS== y por la síntesis de amoniaco propiamente dicho a nivel de la ==FLORA BACTERIANA== 
+- También en el hígado se ==SINTETIZA [[22. QUÍMICA/COMPLEMENTARIO/NOMENCLATURA ORGÁNICA/Ácido úrico\|ÁCIDO ÚRICO]]==  a partir de las ==PURINAS== (BASES NITROGENADAS); este ácido úrico, al igual que la úrea, se excreta en la orina
+- En la ==HEMOCATERESIS==, la destrucción de hematíes viejos o alterados, se libera el ==NÚCLEO HEM== de la hemoglobina y a partir de él se produce ==BILIRRUBINA NO CONJUGADA (INSOLUBLE)==, que al pasar por el hepatocito se conjuga, transformándose en una sustancia soluble mediante el ==ÁCIDO GLUCORÓNICO== y luego excretado de los hepatocitos por un proceso de ==TRANSPORTE ACTIVO== a los ==CANÍCULOS BILIARES== 
+- La ==BILIRRUBINA== será excretada como ==UROBILINA== en la ==ORINA== y como ==ESTERCOBILINA== en las ==HECES== 
+
+✅ **SECRECIÓN DE BILIS** 
+- Los hepatocitos producen constantemente la bilis, conformada principalmente por agua, sales biliares, fosfolípidos, bilirrubina, colesterol y electrolitos 
+- PRODUCCIÓN: 600 - 1200 ml/día
+- La bilis producida se dirige a la vesícula biliar (COLECISTO) donde se concentrará (DISMINUYE LA CANTIDAD DE AGUA) y almacenará 
+- Ante la ingesta de lípidos, la bilis se elimina en el duodeno, donde emulsificará la grasa gracias a las sales biliares, formando micelas para su absorción 
+
+✅ **FUNCIÓN DE DESTOXIFICACIÓN** 
+- Participa el complejo enzimático del ==CITOCROMO P - 450==, la cual transforma las sustancias con potencial tóxico en otro de tipo de sustancias, que por lo general, son menos tóxicas o inocuas.
+- Detoxifica o excreta en la bilis, ==FÁRMACOS== como la penicilina, eritromicina y sulfonamidas
+
+✅ **OTRAS FUNCIONES** 
+- FUNCIÓN ENDOCRINA: El hígado sintetiza la hormona ==SOMATOMEDINA C==, que actúa sobre los diversos tejido, estimulando su ==CRECIMIENTO== 
+	- Dels mismo modo interviene en la ==ACTIVACIÓN== de la ==VITAMINA D== (COLECALCIFEROL), junto con la piel y los riñones
+- HEMOCATERESIS: El hígado, junto con el bazo y la médula ósea roja, participan en la ==DESTRUCCIÓN DE HEMATÍES== 
+- HEMATOPOYESIS FETAL: El hígado forma elementos formes entre la ==QUINTA SEMANA Y EL SEXTO MES== de vida 
+- ALMACENAMIENTO: Almacena vitaminas (A, D, B<sub>12</sub>, B<sub>1</sub>, B<sub>2</sub>, B<sub>3</sub>, B<sub>4</sub>, K), minerales (Fe, Cu)
+	- Los hepatocitos contienen la ==APOFERRITINA== que fija el hierro para formar ==FERRITINA==, depósito de hierro en el hígado
+- FAGOCITOSIS: Función realizada por las ==CÉLULAS DE KÜPFFER== 
 
 ![Glándulas anexas II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gl%C3%A1ndulas%20anexas%20II.png)
 ![Glándulas anexas III.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gl%C3%A1ndulas%20anexas%20III.png)
 
 ---
-**VESÍCULA BILIAR** 
+**VÍAS BILIARES** 
 
-✔ **GENERALIDADES**
-- CONCEPTO: Receptáculo membranoso, que almacena y concentra bilis
-- BILIS: Líquido de color amarillo pardo con débil reacción ==**ALCALINA (pH: 7 - 7,6)**==, sabor amargo, compuesta a base de agua, sales biliares, pigmentos ==**(BILLIRRUBINA)**== proveniente de la destrucción de los glóbulos rojos ==**(HEMOCATERESIS)**==, colesterol, etc. 
-- Se produce de ==**700 - 1200 ml**== de bilis al día 
-- Su conductor ==**EXCRETOR**== se denomina ==**CÍSTICO**==, el cual al fusionarse con el ==**CONDUCTO HEPÁTICO**== origina el ==**CONDUCTO COLÉDOCO**== que presenta el ==**ESFÍNTER DE ODDI**== 
-- ESTERCOBILINA: Color de las heces
-- ESCATOL: Olor de las heces
+✔ **DEFINICIÓN** 
+- Conjunto de conductos que transporta bilis desde el hígado hasta la segunda porción del duodeno (DESCENDENTE) 
 
-✔ **FUNCIONES DE LA BILIS** 
-- Amortigua la acidez del quimo 
-- Impide la putrefacción 
-- Emulsiona grasas 
-- Limpia el intestino 
+✔ **VÍAS BILIARES INTRAHEPÁTICAS** 
+- Recogen la bilis producida por el hígado y tiene como función transportar la bilis desde el ==PARÉNQUIMA HEPÁTICO== hasta las ==VÍAS BILIARES EXTRAHEPÁTICAS== 
+- Tenemos primero a los ==CAPILARES BILIARES O CANÍCULOS== que desembocan en los ==COLANGIOLOS== formando los ==CONDUCTOS DE HERRING==, ramas delgadas de los conductos interlobulillares, los cuales forman lo ==CONDUCTOS BILIARES== que desembocarán en los ==CONDUCTOS HEPÁTICOS== 
 
->[!sidenote]- **HEMOCATERESIS** 
+✔ **VÍAS BILIARES EXTRAHEPÁTICAS** 
+- Son conductos que salen del hígado y se dirigen hacia la segunda porción de duodeno
 
-![Anatomía y Fisiología de la Vesícula Biliar.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Anatom%C3%ADa%20y%20Fisiolog%C3%ADa%20de%20la%20Ves%C3%ADcula%20Biliar.png)
+✅ **CONDUCTOS HEPÁTICOS** 
+- Son dos conductos, derecho e izquierdo
+- Recogen bilis del lóbulo derecho e izquierdo del ==HÍGADO==
 
->[!sidenote]- **COLECISTETOMÍA**
->![[Colecistetomía Abierta.mp4]]
+✅ **CONDUCTO HEPÁTICO COMÚN** 
+- Resulta la unión de los conductos hepáticos derecho e izquierdo del hígado 
+
+✅ **CONDUCTO CÍSTICO** 
+- Comunica la ==VESÍCULA BILIAR== con el conducto hepático común 
+
+✅ **COLÉDOCO** 
+- Es el ==CONDUCTO BILIAR PRINCIPAL== 
+- Se origina por la unión del conducto hepático común y el conducto cístico 
+- Se dirige hacia el duodeno y desemboca, junto a ==CONDUCTO PANCREÁTICO==, en un área denominada ==AMPOLLA HEPATOPANCREÁTICA O DE VÁTER==, que se comunica con la segunda porción del duodeno
 
 ---
-**PÁNCREAS** 
+**VESÍCULA BILIAR O COLECISTO** 
 
-✔ **GENERALIDADES** 
-- CONCEPTO: Glándula mixta de forma irregular "martillo", de color blanco grisáceo, mide 16 - 20 cm y pesa 70 gramos
-- Su porción exocrina constituye una glándula anexa al tubo digestivo, secreta ==**JUGO PANCREÁTICO**== que es vertido en el ==**DUODENO**== 
-- CONDUCTO EXCRETOR PRINCIPAL: ==**WIRSUNG**== 
-- CONDUCTO EXCRETOR ACCESORIO: ==**SANTORINI**== 
+✔ **DEFINICIÓN** 
+- Es un saco en forma de pera, receptáculo membranoso, que almacena y concentra bilis
 
-✔ **JUGO PANCREÁTICO** 
-- PRODUCCIÓN: 1200 ml/día
-- pH: 8 - 8,3 (ALCALINO) 
-- COMPOSICIÓN: 
-	- ENZIMAS PROTEOLÍTICAS: Tripsina, Quimiotripsina, Carboxipeptidasas, Elastasas, Nucleasas, Lipasas y Colesterol esterasa
-	- BICARBONATO: CO<sub>3</sub><sup>-2</sup> 
-	- AGUA: H<sub>2</sub>O 
-- Las enzimas proteolíticas rompen proteínas completas o parcialmente digeridas
-- Las nucleasas rompen los dos tipos de ácidos nucleicos 
-- La lipasa digiere las grasas 
-- El colesterol esterasa, hidroliza las ésteres de colesterol 
-- La amilasa digiere los almidones y casi todos los demás polisacáridos (EXCEPTO LA CELULOSA)
+✔ **CARACTERÍSTICAS**
+- LONGITUD: 7 - 10 cm
+- UBICACIÓN: Adosada en la cara posteroinferior del hígado 
+- CAPACIDAD: 20 - 60 ml
 
-![Glándulas anexas II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gl%C3%A1ndulas%20anexas%20II.png)
+✔ **CIRUGÍAS**
+- [[24. ANATOMÍA/COMPLEMENTO/TRATAMIENTOS Y CIRUGÍAS/Colecistectomía\|COLECISTECTOMÍA]]
 
->[!sidenote]- **LA AMILASA Y LIPASA EN UN AMBIENTE CLÍNICO**
->![[La Amilasa y Lipasa en un ambiente clínico.mp4\|La Amilasa y Lipasa en un ambiente clínico.mp4]]
+✔ **PORCIONES** 
+- FONDO: Redondeado 
+- CUERPO CILÍNDRICO: Cuando disminuye de tamaño, forma al cuello
+- CUELLO: Flexuoso y en forma de "S" itálica
+
+✔ **ESTRUCTURA HISTOLÓGICA** 
+
+✅ **MUCOSA** 
+- Formada por epitelio cilíndrico simple (ECS), en las cuales alguna de sus células presentan microvellosidades y se dispone en forma de pliegues semejantes a los pliegues gástricos
+- Presenta lámina propia de tejido conectivo laxo
+- ==CARECE DE SUBMUCOSA== 
+
+✅ **MUSCULAR** 
+- Delgada y constituida por tejido muscular liso, cuyas fibras están dispuestas tanto oblicua como longitudinalmente de manera ==IRREGULAR== 
+
+✅ **ADVENTICIA O SEROSA** 
+- Constituye la capa externa
+- ADVENTICIA: envuelve a la capa muscular en la zona en que la vesícula biliar se adhiere al hígado 
+- SEROSA: cubre la parte libre de la vesícula biliar y está formada por ==PERITONEO VISCERAL== 
+
+✔ **FISIOLOGÍA** 
+
+✅ **ALMACENAMIENTO Y CONCENTRACIÓN DE LA BILIS**
+- ==HASTA 10 VECES== 
+- Normalmente la vesícula biliar puede almacenar de ==20 - 60 ml DE BILIS== 
+- Sin embargo, puede almacenar toda la bilis secretada durante 12 horas, ==450 ml APROXIMADAMENTE==, gracias a la capacidad absortiva de agua y electrolitos 
+
+✅ **REABSORCIÓN DE AGUA Y ELECTROLITOS** 
+- El agua pasa desde el citoplasma y la luz biliar hacia el espacio intercelular por gradiente osmótico
+- Los electrolitos como Na<sup>+</sup>, Cl<sup>-</sup> y HCO<sub>3</sub><sup>-</sup> son transportados activamente
+
+✅ **LIBERACIÓN DE BILIS CONCENTRADA** 
+- Se evacúa la bilis gracias a la contracción de la musculatura lisa de sus paredes en respuesta a la estimulación de la hormona ==COLECISTOCININA== liberada ante la presencia del ==QUIMO EN EL DUODENO== 
 
 ---
 **ABSORCIÓN DE NUTRIENTES**
