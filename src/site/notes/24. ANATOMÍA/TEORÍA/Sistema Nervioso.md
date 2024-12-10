@@ -597,7 +597,7 @@ L. C. R (Plexos coroideos)
 - Volumen aprox: 80-150 ml
 
 ✔ **PATOLOGÍA**:
-- [[24. ANATOMÍA/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Hidrocefalia\|HIDROCEFALIA]]
+- [[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Hidrocefalia\|HIDROCEFALIA]]
 
 ✅ Produce: 500 ml / d
 ✅ Velocidad de producción: 20 ml / h
