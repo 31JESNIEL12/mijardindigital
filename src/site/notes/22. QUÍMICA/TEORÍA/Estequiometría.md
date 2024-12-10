@@ -12,6 +12,9 @@
 >[ESTEQUIOMETRÍA II - DAVID ERRE](https://www.youtube.com/watch?v=PkplVCX90oQ) 
 >[ESTEQUIOMETRÍA - VON NEUMANN](https://www.youtube.com/watch?v=vRSvARD-Ofk) 
 
+✔ **ETIMOLOGÍA**
+- De las voces griegas "Stoicheion" que significa elemento, y "Metron" que significa medida
+
 ✔ **DEFINICIÓN**
 - Es la parte de la Química que estudia las relaciones cuantitativas entre las sustancias que participan en las reacciones químicas
 
@@ -64,136 +67,83 @@
 - Cuando dos pesos fijos de sustancias distintas se combinan separadamente con un mismo peso de una tercera sustancia, entonces se combinaran entre sí en la misma proporción en peso o múltiplos de ellos.
 - Esta ley permitió establecer el ==PESO DE COMBINACIÓN== o peso equivalente de un gramo de una elemento
 - EJEMPLO:
-	- Si:  C (12g) + O₂ (32g) → CO₂ y  H₂ (4g) + O₂ (32g) → 2H₂O
-Entonces:
+	- C (12g) + O<sub>2</sub> ==(32g)== → CO<sub>2</sub> 
+	- 2 H<sub>2</sub> (4g) + O<sub>2</sub> ==(32g)== → 2 H<sub>2</sub>O 
+	- C (12g) + 2 H<sub>2</sub> (4g) → CH<sub>4</sub>
 
-3.  C (12g) + H₂ (4g) → CH₄
+✔ **LEYES VOLUMÉTRICAS** 
+- Referente a volúmenes
+- UNIDADES: Litro, cc, m<sup>3</sup>, mm<sup>3</sup> 
+- Solo aplicable para sustancias gaseosas
+- AUTOR: ==GAY LUSSAC== 
 
----
-**LEYES VOLUMÉTRICAS** (Referentes a volúmenes)
-Solo para sustancias gaseosas
+✅ **LEY DE RELACIONES SENCILLAS** 
+- A las mismas condiciones de presión y temperaturas constantes ==(CONDICIONES DE AVOGRADO)==, los volúmenes gaseosos son proporcionales a los coeficientes 
+- 1 N<sub>2 (g)</sub> + 3 H <sub>2 (g)</sub> → 2 NH <sub>3 (g)</sub>
+	- 1L + 3L → 2L
 
-(Gay Lussac)
-✅ A las mismas condiciones de Avogadro (Presión y temperatura constante) los volúmenes son proporcionales a los coeficientes
+✔ **CONTRACCIÓN VOLUMÉTRICA (C.V.)**
+- Es la relación que existe entre la disminución de los volúmenes gaseosos reaccionantes 
 
-1 N₂ (g) + 3 H₂ (g) → 2 NH₃ (g)
-1L + 3L → 2L
+![Contracción volumétrica.jpeg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Contracci%C3%B3n%20volum%C3%A9trica.jpeg)
 
----
-**INTERPRETACIÓN DE LA ESTEQUIOMETRÍA**
+✔ **PORCENTAJE DE PUREZA O RIQUEZA DE UNA MUESTRA QUÍMICA (P)** 
+- En una reacción química solo intervienen sustancias químicamente puras
+- Las impurezas no reaccionan 
 
-$$
-2 C (s) + 1 O₂ (g) → 2 CO (g)
-$$
+![Porcentaje de pureza.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Porcentaje%20de%20pureza.png)
 
-| ÁTOMOS      | MOLES | MASA     | VOLUMEN    | NA   | PARTÍCULAS  |
-| ----------- | ----- | -------- | ---------- | ---- | ----------- |
-| 2 átomos    | 2     | 2 (12) g |            | 2 NA | 2 (6 x10²³) |
-| 1 molécula  | 1     | 1 (32) g | 1 (22,4) L | 1 NA | 1 (6 x10²³) |
-| 2 moléculas | 2     | 2 (28) g | 2 (22,4) L | 2 NA | 2 (6 x10²³) |
+✔ **PORCENTAJE DE RENDIMIENTO O EFICIENCIA (R)** 
 
----
-**CONTRACCIÓN VOLUMÉTRICA (C.V.)**
-Generalmente en la reacción en fase gaseosa existe disminución de volumen
+✅ **RENDIMIENTO TEÓRICO** 
+- Es la cantidad máxima de un producto cuando se ha consumido totalmente (100%)
 
-![Contracción volumétrica.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Contracci%C3%B3n%20volum%C3%A9trica.jpg)
+✅ **RENDIMIENTO REAL** 
+- Es la cantidad obtenido de un producto en la práctica o en forma experimental 
 
-✔ **CÁLCULO**
-- MOLAR (n): Moles
-- VOLUMÉTRICO (V): Moles
-- MÁSICO (m): Peso molecular
+![Rendimiento o eficiencia de una reacción química.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Rendimiento%20o%20eficiencia%20de%20una%20reacci%C3%B3n%20qu%C3%ADmica.png)
 
----
-**MASA EQUIVALENTE (Me)**
-Indica la capacidad de una sustancia para poder combinarse en una reacción
+>[!sidenote]- **IMPORTANTE** 
+>Cuando en un problema nos den un rendimiento y nos pidan la cantidad real de producto obtenido, calcularemos primero la cantidad teórica con factores de conversión, y después la cantidad real de producto.
+>Cuando nos den la cantidad real obtenida y nos pidan la cantidad de reactivo utilizada en el proceso, calcularemos primero la cantidad teórica que se debería haber obtenido, y después con factores de conversión la cantidad del reactivo. 
 
-✔ **PARA UN ELEMENTO**
-- M.A. = Masa atómica
-- V = Valencia
-
-$$
-\frac{M.A.}{V}
-$$
-
-
-| ELEMENTOS | MASA | VALENCIA | ME   |
-| --------- | ---- | -------- | ---- |
-| H+1       | 1    | 1        | 1    |
-| O-2       | 16   | 2        | 8    |
-| Al+3      | 27   | 3        | 9    |
-| Fe+2      | 56   | 2        | 28   |
-| Fe+3      | 56   | 3        | 18,6 |
-
-✔ **PARA UN COMPUESTO**
-- M: Masa molar
-- θ: Parámetro de carga
-
-$$
-\frac{M}{θ}
-$$
-
-|               |          θ          |
-| ------------- |:-------------------:|
-| **ÓXIDO**     |    Número de "O"    |
-| **HIDRÓXIDO** |   Número de "OH"    |
-| **ÁCIDO**     |    Número de "H"    |
-| **SAL**       | Carga neta de metal |
-
-✔ **EQUIVALENTE QUÍMICO (E.Q.)**
-
-$$
-E.Q. = Me (g)
-$$
-
-✔ **NÚMERO EQUIVALENTE**
-- Me: Masa equivalente
-- m: Masa
-
-$$
-N°EQ = \frac{{m}}{Me}
-$$
+>[!sidenote]- **CÁLCULO**
+>- MOLAR (n): Moles
+>- VOLUMÉTRICO (V): Moles
+>- MÁSICO (m): Peso molecular
 
 ---
 **ECUACIÓN DE LOS GASES IDEALES**
+
+✔ **DEFINICIÓN**
 - Para un gas está determinado por los parámetros presión, volumen y temperatura  a partir de las leyes empíricas se tendrá
-
-$$
-R = \frac{PV}{nT}
-$$
-
-Si al cambiar la presión (P), el valor de “R” no cambia; a dichos gases se le denominará Gas Ideal:
-
-$$
-PV = RTn
-$$
 
 >[!sidenote]- **MNEMOCTENIA**
 >**PAVO IGUAL A RATÓN**
 
-✔ **PRESIÓN (P)**
-- Pa (PASCAL)
+✅ **PRESIÓN (P)** 
+- UNIDAD: Pascal
 
-✔ **VOLUMEN**
-- m³ (METROS CÚBICOS)
-- cm³ = cc (CENTÍMETRO CÚBICOS)
+✅ **VOLUMEN (V)**
+- UNIDAD: m<sup>3</sup>, cm<sup>3</sup> (cc), litros
 
-✔ **CONSTANTE UNIVERSAL DE LOS GASES (R)**
-- 8,314 J / mol.K
-- 0,082 atm.L / mol.K
-- 1,987 cal / mol.K
-- 62,363 mmHg . L / mol.K
+✅ **CONSTANTE UNIVERSAL DE LOS GASES (R)** 
+- VALOR: 
+	-  8,314 J / mol.K
+	- 0,082 atm.L / mol.K
+	- 1,987 cal / mol.K
+	- 62,363 mmHg . L / mol.K
 
-✔ **TEMPERATURA (T)**
-- Temperatura en Kelvin
+✅ **TEMPERATURA (T)**
+- UNIDAD: Kelvin
 
-✔ **NÚMERO DE MOLES (n)**
+✅ **NÚMERO DE MOLES (n)**
+- UNIDAD: mol
 
+![Ley de los gases ideales 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ley%20de%20los%20gases%20ideales%201.png)
 
-**EN FUNCIÓN DE LA DENSIDAD**
-
-$$
-P.M=T.R.P
-$$
+>[!sidenote]- **EN FUNCIÓN DE LA DENSIDAD**
+>![Densidad del gas ideal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Densidad%20del%20gas%20ideal.png)
 
 ---
 **PRÁCTICA**:
