@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-muscular/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-muscular/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -25,73 +25,6 @@
 - DISTANCIA ENTRE DOS LÍNEAS Z CONSECUTIVAS: Sarcómero
 - SARTORIO: El más largo
 - ESTAPEDIO: El más pequeño
-
----
-**TEJIDO MUSCULAR**
-- Es el tejido responsable de los movimientos corporales
-- Altamente vascularizado
-- Posee abundantes células pero escasa sustancia intercelular
-- ORIGEN: Mesodermo 
-- EXCEPTO: Iris y el pilo erector (ECTODERMO) y Lengua (ENDODERMO)
-
-**FUNCIONES**
-- ==**MOVIMIENTO ACTIVO**== del cuerpo (Gasto de energía: ATP)
-- Mantenimiento de la postura corporal
-- PRODUCCIÓN DE CALOR: Hasta el 85% del calor corporal se genera como resultado de la contracción muscular
-- Almacén de proteínas y glucógeno 
-- Movimiento de sustancias en el cuerpo
-- Respiración (Diafragma)
-- Vómito, estornudo, hipo, micción
-- Participa en el parto
-
->[!sidenote]- **RECORDAR**
->El ==**MOVIMIENTO PASIVO**== del cuerpo lo realiza el sistema esquelético
-
-**CARACTERÍSTICAS**
-- EXCITABILIDAD: Responder a estímulos
-- CONTRACTIBILIDAD: Capacidad de acortarse, engrosarse o contraerse
-- ELASTICIDAD: Capacidad de recuperar su forma original después de su contracción
-- EXTENSIBILIDAD: El músculo puede ser distendido sin que el tejido sufra daño
-- TONICIDAD: Estado de ==**SEMICONTRACCIÓN**== → "Listo para actuar"
-
- **ESTÍMULO LIMINAL:**
- Mínima energía para generar contracción muscular
-
----
-**COMPOSICIÓN QUÍMICA**
-- AGUA: 75,8%
-- GLUCÓGENO: 10%
-- LÍPIDO NEUTROS
-- FOSFOLÍPIDOS
-- FOSFOCREATINA o PC
-- ATP
-- ADN Y ARN
-- MIOGLOBINA: Pigmento rojo del músculo (Proteína) y almacena O₂
-- PROTEÍNAS: 20%
-
----
-**PROTEÍNAS**
-
-✔ **CONTRÁCTILES**
-- ACTINA: 22%
-- MIOSINA: 44%. La ==**CINASA DE LA MIOSINA ESTÁ EN EL TML**==
-
-✔ **REGULADORAS**
-- TROPONINA: 5%. ==**NO ESTÁ PRESENTE EN EL TML**==
-- TROPOMIOSINA: 5%
-- CALMODULINA: En el ==**TML**== y se ==**UNE AL CALCIO**==
-
-✔ **ESTRUCTURALES**
-- MIOMESINA: Forma la ==**LÍNEA M**== y los une a los filamentos gruesos (3%)
-- NEBULINA: Se inserta en la línea Z y envuelve a los filamentos delgados (3%)
-- TITINA: Une los filamentos delgados al sarcolema. Es responsable de la ==**ELASTICIDAD Y EXTENSIBILIDAD**== (9%)
-- ALFA ACTININA: Se ubica en la línea Z y los une con los filamentos delgados
-
-✔ **ESTABILIZADORA**
-- CONECTINA: 9%
-
-**CALSECUESTRINA (CSQ)**
-Es la proteína más abundante en el interior del Retículo Sarcoplásmico, en donde constituye la ==**PRINCIPAL PROTEÍNA QUE UNE Ca**== y es capaz de ==**ALMACENAR CALCIO**== en un cantidad suficiente para permitir contracciones repetida
 
 ---
 **SISTEMA DE PALANCAS**
@@ -292,22 +225,7 @@ Cilindro rígido que se mueve alrededor de un punto fijo llamado ==**FULCRO**== 
 - Músculos triangulares → PECTORAL MAYOR
 
 ---
-**GLOSARIO**
 
-✔ **RIGOR MORTIS O RIGIDEZ CADAVÉRICA**
-- Se inicia de 3 a 4 horas después de fallecer y dura casi 24 horas
-
-1. Después de la muerte aumenta la permeabilidad de las membranas celulares
-2. Los iones Ca salen del REL hacia el citosol (Miosina se une a la actina)
-3. Se interrumpe la síntesis de ATP (La miosina no se puede separar del ATP)
-4. Los músculos se tornan rígidos (No se contraen ni estiran)
-5. Luego desaparee cuando las enzimas proteolíticas de los lisosomas digieren los puentes cruzados
-
-![Rigor Mortis o Rigidez Cadavérica.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Rigor%20Mortis%20o%20Rigidez%20Cadav%C3%A9rica.png)
-
----
-✔ **ATROFIA MUSCULAR**
-- Es la disminución del tamaño de las fibras musculares, por desuso o interrupción de la inervación muscular
 
 ✔ **HIPERTROFIA MUSCULAR**
 - Aumento del diámetro de la fibra muscular (Por aumento de las miofibrillas), como resultado de una actividad muscular repetida y potente
@@ -562,7 +480,7 @@ Cilindro rígido que se mueve alrededor de un punto fijo llamado ==**FULCRO**== 
 ---
 **TRIÁNGULO DE SCARPA**
 - Región triangular situado en la parte anterior del muslo
-- Formado por el ==ARCO FEMORAL , SARTORIO (EXTERNO) Y ADUCTOR MEDIANO (INTERIOR)
+- Formado por el ==ARCO FEMORAL , SARTORIO (EXTERNO) Y ADUCTOR MEDIANO (INTERIOR)== 
 
 ![Pasted image 20240607134153.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020240607134153.png)
 
@@ -574,8 +492,8 @@ Cilindro rígido que se mueve alrededor de un punto fijo llamado ==**FULCRO**== 
 
 ---
 **TENDÓN DE AQUILES O CALCÁNEO**
-- Tendón de los ==**GEMELOS**== y el soleo, se inserta en la mitad inferior de la cara posterior del calcáneo
-- Es el ==**MÁS FUERTE Y VOLUMINOSO**== del cuerpo humano, mide 5 a 6 cm de longitud
+- Tendón de los ==GEMELOS== y el soleo, se inserta en la mitad inferior de la cara posterior del calcáneo
+- Es el ==MÁS FUERTE Y VOLUMINOSO== del cuerpo humano, mide 5 a 6 cm de longitud
 
 ![Pasted image 20240607134845.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020240607134845.jpg)
 
