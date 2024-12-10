@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-reproductor-femenino/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-reproductor-femenino/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
@@ -200,14 +200,6 @@ Infección de la Episiotomía
 ![Ciclo reproductor femenino.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ciclo%20reproductor%20femenino.png)
 
 ![Regulación de las hormonas ováricas y uterinas.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Regulaci%C3%B3n%20de%20las%20hormonas%20ov%C3%A1ricas%20y%20uterinas.png)
-
----
-**HISTERESTOMÍA VAGINAL**
-
-![[Histerectomía Total Vaginal.mp4]]
-
----
-**GLOSARIO**
 
 ---
 **PRÁCTICA**: 
