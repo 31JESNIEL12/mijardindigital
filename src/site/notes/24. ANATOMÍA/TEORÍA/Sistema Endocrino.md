@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-endocrino/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-endocrino/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
