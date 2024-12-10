@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-sensorial/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/sistema-sensorial/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA
