@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/18-geografia/teoria/recursos-naturales-y-desarrollo-sostenible/","tags":["Geografía","Teoría","Incompleto"]}
 ---
 
-
 # TEORÍA
 ---
 
