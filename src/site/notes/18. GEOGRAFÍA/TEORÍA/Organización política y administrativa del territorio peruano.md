@@ -2,14 +2,10 @@
 {"dg-publish":true,"permalink":"/18-geografia/teoria/organizacion-politica-y-administrativa-del-territorio-peruano/","tags":["Geografía","Teoría","Incompleto"]}
 ---
 
-
 # TEORÍA
 ---
 **GEOGRAFÍA DEL PERÚ**
->[!sidenote]- **ARTE RUPESTRE**
->![Geografía del Perú.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Geograf%C3%ADa%20del%20Per%C3%BA.png)
 
----
 **LOCALIZACIÓN**
 
 ✔ **MUNDIAL** 
