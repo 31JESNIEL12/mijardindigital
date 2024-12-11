@@ -1,5 +1,5 @@
 ---
-{"tags":["Geografía","Teoría"],"dg-publish":true,"permalink":"/18-geografia/teoria/resumen-de-geografia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/18-geografia/teoria/resumen-de-geografia/","tags":["Geografía","Teoría"]}
 ---
 
 # RESUMEN Y MNEMOCTENIAS
