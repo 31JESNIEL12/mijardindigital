@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/18-geografia/teoria/ecorregiones/","tags":["Geografía","Teoría","Incompleto"]}
 ---
 
-
 # TEORÍA
 ---
 **ECORREGIONES**
