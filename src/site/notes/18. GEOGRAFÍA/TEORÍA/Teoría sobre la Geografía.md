@@ -7,8 +7,6 @@
 
 >[[18. GEOGRAFÍA/TEORÍA/Resumen de Geografía\|RESUMEN DE GEOGRAFÍA]]
 
->[[18. GEOGRAFÍA/TEORÍA/Geografía\|FLASHCARDS DE GEOGRAFÍA]]
-
 >[[18. GEOGRAFÍA/TEORÍA/Introducción de la Geografía\|INTRODUCCIÓN DE LA GEOGRAFÍA]]
 
 >[[18. GEOGRAFÍA/TEORÍA/Líneas imaginarias terrestres\|LÍNEAS IMAGINARIAS TERRESTRES]]
