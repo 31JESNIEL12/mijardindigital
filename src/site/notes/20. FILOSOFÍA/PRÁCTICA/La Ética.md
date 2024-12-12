@@ -11,7 +11,12 @@
 
 ```exercise
 Es característica de la ética marxista, excepto:
-$choice{"Proponer una repartición equitativa de la riqueza" , "Afirma que la causa principal de la desigualdad social es la propiedad privada" , "Plantea la moral con carácter de clases" , "Propone una sociedad sin clases" , *"Propone eliminar los impuestos"}
+A) Proponer una repartición equitativa de la riqueza
+B) Afirma que la causa principal de la desigualdad social es la propiedad privada
+C) Plantea la moral con carácter de clases
+D) Propone una sociedad sin clases
+E) Propone eliminar los impuestos
+$choice{"A" , "B" , "C" , "D" , *"E"}
 ```
 
 ```exercise
@@ -25,33 +30,33 @@ $match{"Facultad humana de obra de una u otra forma y la de no obrar" => "El bie
 ```
 
 ```exercise
-Una persona actúa moralmente en función de la opinión de los demás, posee una moral:
-$input{"Heterogénea"}
-```
-
-```exercise
 Un juez que recibe una coima a cambio de beneficiar a alguien con una sentencia, es una persona inmoral porque, comete actos contra la moral pero:
-$choice{"No conoce la moral" , "Tiene una formación profesional" , "Está al margen de ser una persona moral" , *"Sabe lo que es bueno y malo" , "Tiene mayoría de edad"}
+A) No conoce la moral
+B) Tiene una formación profesional
+C) Está al margen de ser una persona moral
+D) Sabe lo que es bueno y malo
+E) Tiene mayoría de edad
+$choice{"A" , "B" , "C" , *"D" , "E"}
 ```
 
 ```exercise
 ¿Cuáles son dos condiciones para que Rafael pueda ser considerado una persona moral?
-$choice{"Conocimiento del bien y valor moral" , "Valor moral y acto moral" , "Igualdad y acciones y buenas" , *"Conciencia moral y libertad moral" , "Dignidad y justicia"}
-```
-
-```exercise
-La expresión: "El ceviche es delicioso", se está refiriendo a un tipo de valor:
-$input{"Sensorial"}
+A) Conocimiento del bien y valor moral
+B) Valor moral y acto moral
+C) Igualdad y acciones y buenas
+D) Conciencia moral y libertad moral
+E) Dignidad y justicia
+$choice{"A" , "B" , "C" , *"D" , "E"}
 ```
 
 ```exercise
 El utilitarismo define el bien como:
-$choice{"Busquedad de la utilidad individual" , "Aquello que resulta eficaz" , "Los pragmáticamente" , "Lo ideal inalcanzable pero necesario" , *"La mayor felicidad para el mayor número de personas"}
-```
-
-```exercise
-Si Nicolás actúa moralmente, en función de su propia conciencia, posee una moral:
-$input{"Autónoma"}
+A) Busqueda de la utilidad individual
+B) Aquello que resulta eficaz
+C) Los pragmáticamente
+D) Lo ideal inalcanzable pero necesario
+E) La mayor felicidad para el mayor número de personas
+$choice{"A" , "B" , "C" , "D" , *"E"}
 ```
 
 ```exercise
@@ -114,10 +119,6 @@ $choice{"Hedonismo" , "Utilitarismo" , "Bien" , "Axiología" , *"Eudemonismo"}
 ```
 
 ```exercise
-La $select{"responsabilidad" , "voluntad" , *"libertad"} en sentido moral, es la facultad de $select{*"escoger" , "actuar" , "obrar"} la realización de un $select{*"acto" , "propósito" , "objetivo" , "hecho"} teniendo como base la $select{"libertad" , *"responsabilidad" , "justicia" , "igualdad" , "dignidad"}
-```
-
-```exercise
 La ética estoica es conocida como ética de:
 $choice{"Provecho" , "La libertad" , "La imperturbabilidad" , *"La resignación" , "La paz"}
 ```
@@ -145,11 +146,6 @@ C) Tener pleno dominio de sus facultades mentales
 D) Asumir las consecuencias de sus acciones
 E) Tener conciencia de sí mismo
 $choice{*"A" , "B" , "C" , "D" , "E"}
-```
-
-```exercise
-Relacionar:
-$match{"Dignidad" => "Consideración que el hombre se tiene a sí mismo" , "Solidaridad" => "Consiste en la identificación espiritual y material" , "Bien" => "Valor supremo de la persona y la sociedad" , "Libertad" => "Facultad de escoger la realización de un acto teniendo como base la responsabilidad"}
 ```
 
 ```exercise
@@ -261,6 +257,86 @@ $choice{"Normas" , "Principios" , "Valores" , "Conducta" , *"Costumbre"}
 UNICEF y Mattel España han firmado un acuerdo de colaboración con el objetivo de emprender una acción de sensibilización dirigida a todos los niños en favor de los del Tercer Mundo. Estas acciones obedecen a la tarea de educar para la:
 $choice{"Vida" , "Justicia" , "Verdad" , "Democracia" , *"Solidaridad"}
 ```
+
+```exercise
+Considera que una acción moral es correcta por los efectos que produce, es adoptar una posición:
+$choice{"Intuicionista" , "Axiológica" , "Intencional" , "Deontológica" , *"Teleológica"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>Toda ética teleológica considera que una acción moral es correcta en tanto produzca algún efecto positivo en la sociedad o en la persona moral. 
+
+```exercise
+¿En qué alternativa ubicamos un cuestionamiento ético?
+A) ¿Por qué respetar a los ancianos?
+B) ¿Debo optar por pedir un crédito?
+C) ¿Qués es el bien?
+D) ¿Qué hace legítima a una ley?
+E) ¿Qué es el hombre?
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Cuando se dice: Hay que tratar a los demás como fines y nunca como medios, se pone de relieve el valor de la:
+$choice{"Justicia" , "Solidaridad" , "Igualdad" , "Libertad" , *"Dignidad"}
+```
+
+```exercise
+Señale lo incorrecto respecto a la persona moral.
+A) Sus actos son correctos o incorrectos
+B) No es un bebé o demente
+C) Es libre de elegir hacer lo correcto
+D) Es inconsciente de sus actos
+E) Asume la responsabilidad de sus propios actos
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El elegir el justo medio al momento de actuar es propio de la teoría ética de:
+$choice{"Sócrates" , "Platón" , "Epicuro" , "Kant" , *"Aristóteles"}
+```
+
+```exercise
+Relacione las definiciones del bien con sus respectivas teorías éticas.
+$match{"El bien es aquello que lleva a la felicidad" => "Eudemonismo" , "El bien está en el beneficio de la mayoría" => "Utilitarismo" , "Lo bueno está ligado al cumplimiento del deber" => "Ética formal" , "Lo bueno es fruto de alejarse del dolor" => "Hedonismo" , "Lo bueno es aceptar el orden natural" => "Estoicismo"}
+```
+
+```exercise
+La frase "Si quieres vivir muchos años, tienes que conservar la salud" vale para cada ser humano. Si destruye su salud, enfermará y morirá. Pero solo vale para mí con la condición de que yo le dé algún valor a vivir muchos años. Dentro de la ética kantiana, semejantes frases expresarían imperativos hipotéticos. Valen universal, pero solo condicionalmente. Por el contrario, las frases que valgan también universal, pero incondicionalmente, expresarían imperativos categóricos, los únicos que tienen un auténtico carácter moral. En ese sentido, una frase compatible con los imperativos categóricos sería:
+A) "Conservar la salud, siempre que aprecies la vida"
+B) "Para conservar la vida, debes vivir muchos años"
+C) "Vivir saludablemente permite vivir muchos años"
+D) "La vida es valiosa solo cuando conservas la salud"
+E) "Conserva la salud, solo porque tienes que hacerlo"
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+---
+Que la única finalidad por la cual el poder puede, con pleno derecho, ser ejercido sobre un miembro de una comunidad civilizada contra su voluntad, es evitar que perjudique a los demás. Su propio bien, físico o moral, no es justificación suficiente. Nadie puede ser obligado justificadamente a realizar o no realizar determinados actos, porque eso fuera mejor para él, porque le haría feliz, porque, en opinión de los demás, hacerlo sería más acertado o más justo. Estas son buenas razonas para discutir, razonar y persuadirle, pero no para obligarle o causarle algún prejuicio si obra de manera diferente. Para justificar esto sería preciso pensar que la conducta de la que se trata de disuadirle producía un prejuicio a algún otro. La única parte de la conducta de cada uno por la que él es responsable ante la sociedad es la que se refiere a los demás. En la parte que la concierne meramente a él, su independencia es, de derecho, absoluta. 
+Sobre sí mismo, sobre su propio cuerpo y espíritu, el individuo es soberano. 
+Mill, J. S. (1994). Sobre la libertad
+
+```exercise
+Se infiere que, para el autor, la libertad del individuo:
+A) Posee, en general, un carácter irrestricto 
+B) Está limitada por la de otros individuos
+C) Depende del tipo de organización política
+D) Se realiza al margen de la vida en sociedad
+E) Es fuente de conflictos en toda comunidad
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Con relación a su propia existencia física y espiritual, cada miembro de una sociedad civilizada.
+A) Dispone de total autonomía
+B) Depende de sus semejantes
+C) Debe responder ante los demás
+D) Carece de plenos derechos
+E) Posee una libertad relativa
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+---
 
 
 
