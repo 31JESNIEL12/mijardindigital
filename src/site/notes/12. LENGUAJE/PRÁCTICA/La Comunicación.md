@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Lenguaje","Práctica"],"permalink":"/12-lenguaje/practica/la-comunicacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/la-comunicacion/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

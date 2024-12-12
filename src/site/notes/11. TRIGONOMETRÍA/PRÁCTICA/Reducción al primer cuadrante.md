@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/reduccion-al-primer-cuadrante/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/reduccion-al-primer-cuadrante/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

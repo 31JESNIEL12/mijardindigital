@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/angulos-en-posicion-normal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/angulos-en-posicion-normal/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

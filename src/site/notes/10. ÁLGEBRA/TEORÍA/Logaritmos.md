@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Teoría","Incompleto"],"dg-publish":true,"permalink":"/10-algebra/teoria/logaritmos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/logaritmos/","tags":["Álgebra","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
@@ -9,17 +9,16 @@
 >[!sidenote]- **LINKS EXTERNOS DE CLASES** 
 >[LOGARITMOS - VON NEUMANN](https://youtu.be/t-oeEdm88_U?si=fF2bgNa73B6uWQQD)
 
-
-**DEFINICIÓN**:
-Se denomina de un número real positivo al exponente al cual se deberá elevar una base positiva y diferente de la unidad para obtener como resultado una potencia igual al número propuesto:
+✔ **DEFINICIÓN**:
+- Se denomina de un número real positivo al exponente al cual se deberá elevar una base positiva y diferente de la unidad para obtener como resultado una potencia igual al número propuesto:
 
 ![Logaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmo.png)
 
-**TEOREMA**
+✔ **TEOREMA**
 
 ![Teorema de Logaritmos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Teorema%20de%20Logaritmos.png)
 
-**TEOREMAS ADICIONALES**
+✔ **TEOREMAS ADICIONALES**
 
 ![Teoremas adicionales de Logaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Teoremas%20adicionales%20de%20Logaritmo.png)
 

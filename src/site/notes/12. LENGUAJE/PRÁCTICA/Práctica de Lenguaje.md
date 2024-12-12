@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Práctica"],"dg-publish":true,"permalink":"/12-lenguaje/practica/practica-de-lenguaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/practica-de-lenguaje/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICAS DE LENGUAJE

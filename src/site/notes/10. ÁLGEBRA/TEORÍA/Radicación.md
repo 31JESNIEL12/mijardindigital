@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-algebra/teoria/radicacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/radicacion/","tags":["Álgebra","Teoría"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría","Complemento","Incompleto"],"dg-publish":true,"permalink":"/13-literatura/obras/obras-universales/utopia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/obras/obras-universales/utopia/","tags":["Literatura","Teoría","Complemento","Incompleto"]}
 ---
 
 # TEORÍA

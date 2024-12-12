@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/circunferencia-trigonometrica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/circunferencia-trigonometrica/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

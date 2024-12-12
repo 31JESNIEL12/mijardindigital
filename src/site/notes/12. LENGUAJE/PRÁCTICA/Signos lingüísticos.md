@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Lenguaje","Práctica"],"permalink":"/12-lenguaje/practica/signos-lingueisticos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/signos-lingueisticos/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

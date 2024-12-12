@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/11-trigonometria/practica/longitud-de-arco/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/longitud-de-arco/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

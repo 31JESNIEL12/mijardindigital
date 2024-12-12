@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Práctica"],"dg-publish":true,"permalink":"/23-biologia/practica/la-biologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/practica/la-biologia/","tags":["Biología","Práctica"]}
 ---
 
 # PRÁCTICA

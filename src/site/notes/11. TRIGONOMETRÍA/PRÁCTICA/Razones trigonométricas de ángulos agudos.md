@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/razones-trigonometricas-de-angulos-agudos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/razones-trigonometricas-de-angulos-agudos/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

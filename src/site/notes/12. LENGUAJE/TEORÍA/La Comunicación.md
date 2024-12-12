@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Teoría"],"dg-publish":true,"permalink":"/12-lenguaje/teoria/la-comunicacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/teoria/la-comunicacion/","tags":["Lenguaje","Teoría"]}
 ---
 
 # TEORÍA

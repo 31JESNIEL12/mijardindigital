@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Teoría"],"dg-publish":true,"permalink":"/12-lenguaje/teoria/vicios-del-lenguaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/teoria/vicios-del-lenguaje/","tags":["Lenguaje","Teoría"]}
 ---
 
 # TEORÍA

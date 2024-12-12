@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Práctica"],"dg-publish":true,"permalink":"/12-lenguaje/practica/secuencia-de-vocales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/secuencia-de-vocales/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

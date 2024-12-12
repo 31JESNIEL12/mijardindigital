@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-algebra/teoria/factorizacion/"}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/factorizacion/","tags":["Álgebra","Teoría"]}
 ---
 
 # TEORÍA

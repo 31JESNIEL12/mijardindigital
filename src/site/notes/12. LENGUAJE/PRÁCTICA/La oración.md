@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Práctica"],"dg-publish":true,"permalink":"/12-lenguaje/practica/la-oracion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/la-oracion/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

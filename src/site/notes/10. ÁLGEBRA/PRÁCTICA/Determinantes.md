@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Práctica"],"dg-publish":true,"permalink":"/10-algebra/practica/determinantes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/practica/determinantes/","tags":["Álgebra","Práctica"]}
 ---
 
 # PRÁCTICA

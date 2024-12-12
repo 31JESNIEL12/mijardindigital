@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Lenguaje","Práctica"],"permalink":"/12-lenguaje/practica/signos-de-puntuacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/signos-de-puntuacion/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

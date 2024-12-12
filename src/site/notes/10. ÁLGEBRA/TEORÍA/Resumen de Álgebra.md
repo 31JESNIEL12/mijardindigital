@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Teoría"],"dg-publish":true,"permalink":"/10-algebra/teoria/resumen-de-algebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/resumen-de-algebra/","tags":["Álgebra","Teoría"]}
 ---
 
 # RESUMEN Y FÓRMULAS

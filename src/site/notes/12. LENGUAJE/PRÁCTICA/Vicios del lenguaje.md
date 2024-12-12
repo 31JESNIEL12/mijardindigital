@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Lenguaje","Práctica"],"permalink":"/12-lenguaje/practica/vicios-del-lenguaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/vicios-del-lenguaje/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

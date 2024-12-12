@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Teoría"],"dg-publish":true,"permalink":"/10-algebra/teoria/teoria-sobre-el-algebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/teoria-sobre-el-algebra/","tags":["Álgebra","Teoría"]}
 ---
 
 # TEORÍA SOBRE EL ÁLGEBRA

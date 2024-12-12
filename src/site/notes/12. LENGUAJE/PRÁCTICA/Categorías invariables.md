@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Práctica"],"dg-publish":true,"permalink":"/12-lenguaje/practica/categorias-invariables/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/categorias-invariables/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

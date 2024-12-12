@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Práctica"],"dg-publish":true,"permalink":"/24-anatomia/practica/sistema-respiratorio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/practica/sistema-respiratorio/","tags":["Anatomía","Práctica"]}
 ---
 
 # PRÁCTICA
@@ -834,5 +834,174 @@ $choice{"2,5 mmHg" , "25 mmHg" , "-25 mmHg" , "-2,5 mmHg" , *"40 mmHg"}
 
 ```exercise
 La frecuencia respiratoria es de $select{"6" , "36" , "40" , *"12" , "7"} veces por minuto.
+```
+
+```exercise
+Patolofía causada por la deficiencia en la producción de surfactante ocasionando dificultad respiratoria en el recién nacido se conoce como:
+$choice{"Asma" , "Neumonía" , "EPOC" , *"Membrana Hialina" , "TBC"}
+```
+
+```exercise
+Las células de polvo encargadas de fagocitar partículas extrañas se encuentran en:
+$choice{"Fagocitos" , "Neumocito I" , "Vasos capilares" , "Músculo de Reisseisen" , *"Alveolo respiratorio"}
+```
+
+```exercise
+De qué forma el mayor porcentaje de CO<sub>2</sub> es transportado en la sangre.
+$choice{"Combinado al CO₂" , "Carboxihemoglobina" , "Disuelto en plasma" , "Oxihemoglobina" , *"Ion bicarbonato"}
+```
+
+```exercise
+La sustancia surfactante se produce aproximadamente:
+$choice{"4° mes" , "8° mes" , "6° mes" , "9° mes" , *"7° mes"}
+```
+
+```exercise
+Qué nombre toma la célula encargada de la formación de la sustancia surfactante a nivel alveolar:
+$choice{"Macrófago alveolar" , "Fibroblasto" , "Osteoblasto" , "Neumocito II" , *"Neumocito I"}
+```
+
+```exercise
+En la neumonía la afectación se encuentra a nivel de:
+$choice{"Bronquios" , "Bronquiolos" , "Saco alveolar" , "Fosa nasal" , *"Alveolos"}
+```
+
+```exercise
+La eliminación de la tos productiva sanguinolenta se conoce como:
+$choice{"Epistaxis" , "Atelectasia" , "Disnea" , "EPOC" , *"Hemoptisis"}
+```
+
+```exercise
+Cuadro caracterizado por dificultad respiratoria progresiva cuya causa principal es el humo del tabaco:
+$choice{"Absceso" , "Asma" , "Neumonía" , "Empiema" , *"EPOC"}
+```
+
+```exercise
+El colapso pulmonar se le conoce como:
+$choice{"Disnea" , "Eupnea" , "Hemoptisis" , "Epistaxis" , *"Atelectasia"}
+```
+
+```exercise
+La presión del oxígeno a nivel alveolar es:
+$choice{"90 mmHg" , "120 mmHg" , "40 mmHg" , "60 mmHg" , *"105 mmHg"}
+```
+
+```exercise
+La destrucción de las paredes alveolares se le conoce como:
+$choice{"Bronquitis" , "Bronquiolitis" , "Atelectasia" , "Asma" , *"Enfisema"}
+```
+
+```exercise
+Estructuras que permiten la comunicación entre los alveolos:
+$choice{"Seno Lambert" , "Trompa Falopio" , "Ventana oval" , "Aditus laringeo" , *"Poros Khon"}
+```
+
+```exercise
+La lesión a nivel de la mancha vascular de Kiesselbach causando hemorragia se conoce como:
+$choice{"EPOC" , "Bisinosis" , "Hemoptisis" , "Empiema" , *"Epistaxis"}
+```
+
+```exercise
+Con que otro nombre se le conoce a la cantidad de aire que se renueva en los alvéolos en un minuto.
+$choice{*"Ventilación pulmonar" , "Ventilación toráxica" , "Ventilación alveolar" , "Frecuencia respiratoria" , "Espacio muerto fisiológico"}
+```
+
+```exercise
+En la ventilación pulmonar se presenta solo en inspiración:
+1. El músculo diafragma se contrae y desciende aumentando diámetro del tórax 
+2. Las costillas bajan por intercostales externos
+3. Disminuye la presión intrapulmonar a 757 mmHg
+4. Proceso activo dura 2 segundos
+5. Aumenta presión a 762 mmHg
+$choice{"1, 2, 3" , "1, 4, 5" , "2, 3, 4" , "3, 4, 5" , *"1, 3, 4"}
+```
+
+```exercise
+En una mujer embarazada qué volúmenes de aire se alteran:
+**DISMINUYEN**
+1. Volumen tydall
+2. Volumen de aire residual 
+3. Volumen de reserva inspiratoria 
+4. Volumen de reserva espiratoria 
+$choice{"1, 2 y 3" , "2, 3 y 4" , "3 y 4" , "Todos disminuyen" , *"2 y 4"}
+```
+
+```exercise
+Cuanto es la presión parcial de CO<sub>2</sub> en los capilares presentes en los tejidos corporales:
+$choice{"105 mmHg" , "90 mmHg" , "95 mmHg" , "40 mmHg" , *"46 mmHg"}
+```
+
+```exercise 
+La acumulación de fibras de algodón en los pulmones de trabajadores textiles se denomina:
+$choice{"Antracosis" , "Asbestosis" , "Beriliosis" , "Silicosis" , *"Bisinosis"}
+```
+
+```exercise
+El volumen del espacio muerto anatómico corresponde a:
+$choice{"250 ml" , "300 ml" , "180 ml" , "350 ml" , *"150 ml"}
+```
+
+```exercise
+La frecuencia respiratoria normal por minuto corresponde a:
+$choice{"15 - 30" , "18 - 24" , "16 - 20" , "10 - 20" , *"12 - 18"}
+```
+
+```exercise
+Señale la estrcutura que presenta la encrucijada aerodigestiva:
+$choice{"Laringe" , "Coana nasal" , "Tráquea" , "Esófago" , *"Faringe"}
+```
+
+```exercise
+La acumulación de pus en el espacio pleural se conoce como:
+$choice{"Quilotórax" , "Neumotórax" , "Hidrotórax" , "Hemotórax" , *"Empiema"}
+```
+
+```exercise
+Una contracción espasmódica del diafragma, con cierre espasmódica de glotis, que se origina en la irritación del tubo digestivo.
+$choice{"Tos" , "Estornudo" , "Bostezo" , "Suspiro" , *"Hipo"}
+```
+
+```exercise
+El seno paranasal de mayor tamaño en el sistema respiratorio es:
+$choice{"Seno esfenoidal" , "Seno frontal" , "Seno piramidal" , "Células etmoidales" , *"Seno maxilar"}
+```
+
+```exercise
+El espacio entre una cuerda vocal falsa y verdadera del mismo lado es:
+$choice{"Glotis" , "Aditus laringeo" , "Úvula" , "Adenoides" , *"Ventrículo laríngeo"}
+```
+
+```exercise
+El volumen promedio normal de líquido pleural es:
+$choice{"10 - 30 ml" , "30 - 50 ml" , "80 - 110 ml" , "60 - 90 ml" , *"50 - 80 ml"}
+```
+
+```exercise
+Se le conoce como el último cartílago traqueal:
+$choice{"Luys" , "Santorini" , "Tiroides" , "Lobulillo" , *"Espolón"}
+```
+
+```exercise
+Es un factor que no favorece la desviación de la curva de la hemoglobina hacia la derecha:
+$choice{"Fiebre" , "Hipercápnea" , "Acidosis" , "Aumento 2,3-DPG" , *"Hipotermia"}
+```
+
+```exercise
+Una paciente de 15 años de edad ingresa con diagnóstico de neumonía al hacer un examen de gases arteriales encontramos los siguientes valores:
+1. pO<sub>2</sub> en sangre: 95 mmHg
+2. pCO<sub>2</sub> en sangre: 48 mmHg
+Además el paciente presenta temperatura corporal 39°C en los últimos tres días.
+Este paciente debe tener:
+1. Hipoxia con la cuva de disociación de la hemoglobina dirigida a la izquierda
+2. Hipercápnea con curva de disociación de la hemoglobina dirigida a la izquierda
+3. Hipertermia con curva con curva de disociación de la hemoglobina dirigida hacia a la derecha
+4. Hipertermia con curva de disociación de la hemoglobina dirigida hacia a la izquierda
+5. Hipoxia con curva de disociación de la hemoglobina dirigida a la derecha
+$choice{"1 y 5" , "2 y 5" , "4 y 5" , "1 y 3" , *"3 y 5"}
+```
+
+```exercise
+Factores que determinan la desviación de la curva de saturación de la hemoglobina, excepto:
+$choice{"pCO₂" , "Temperatura" , "pH" , "2,3-DPG" , *"LDH"}
 ```
 

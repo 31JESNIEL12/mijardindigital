@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Lenguaje","Práctica"],"permalink":"/12-lenguaje/practica/sustantivo-y-pronombre/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/sustantivo-y-pronombre/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

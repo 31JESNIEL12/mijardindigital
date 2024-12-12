@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Práctica"],"dg-publish":true,"permalink":"/13-literatura/practica/clasicismo-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/practica/clasicismo-universal/","tags":["Literatura","Práctica"]}
 ---
 
 # PRÁCTICA

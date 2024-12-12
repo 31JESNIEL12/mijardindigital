@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Teoría"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/circunferencia-trigonometrica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/circunferencia-trigonometrica/","tags":["Trigonometría","Teoría"]}
 ---
 
 # TEORÍA

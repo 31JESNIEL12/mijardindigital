@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Álgebra","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/funciones-trigonometricas-inversas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/funciones-trigonometricas-inversas/","tags":["Trigonometría","Álgebra","Práctica"]}
 ---
 
 # TEORÍA

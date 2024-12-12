@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Práctica"],"dg-publish":true,"permalink":"/13-literatura/practica/colonia-y-emancipacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/practica/colonia-y-emancipacion/","tags":["Literatura","Práctica"]}
 ---
 
 # PRÁCTICA

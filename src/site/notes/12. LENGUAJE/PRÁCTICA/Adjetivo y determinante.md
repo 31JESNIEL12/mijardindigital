@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Práctica"],"dg-publish":true,"permalink":"/12-lenguaje/practica/adjetivo-y-determinante/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/practica/adjetivo-y-determinante/","tags":["Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA

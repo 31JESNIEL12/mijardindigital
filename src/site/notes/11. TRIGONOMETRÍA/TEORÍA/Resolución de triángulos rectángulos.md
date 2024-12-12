@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/resolucion-de-triangulos-rectangulos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/resolucion-de-triangulos-rectangulos/","tags":["Trigonometría","Práctica"]}
 ---
 
 # TEORÍA

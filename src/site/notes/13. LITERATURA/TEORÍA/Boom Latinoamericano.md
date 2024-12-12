@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/boom-latinoamericano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/boom-latinoamericano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA
