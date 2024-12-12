@@ -1,5 +1,5 @@
 ---
-{"tags":["Aritmética","Teoría","Completo"],"dg-publish":true,"permalink":"/8-aritmetica/teoria/razones-y-proporciones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/8-aritmetica/teoria/razones-y-proporciones/","tags":["Aritmética","Teoría","Completo"]}
 ---
 
 # TEORÍA

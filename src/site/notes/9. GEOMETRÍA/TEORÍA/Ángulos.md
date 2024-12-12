@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/angulos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/angulos/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-animalia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-animalia/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA
@@ -10,9 +10,6 @@
 >[REINO ANIMALIA - GRUPO CIENCIAS](https://youtu.be/hnQ7D0h_s0A?si=OtlWrT53HtqQ3BTv) 
 >[REINO ANIMALIA I - DAVID ERRE](https://youtu.be/e-Zir80wXos?si=0h9PW3_BPjKDF6V_) 
 >[REINO ANIMALIA II - DAVID ERRE](https://youtu.be/FzuxbmLNkZk?si=_NljcHceruzFH0uV) 
-
->[!sidenote]- **ARTE RUPESTRE**
->![Reino animalia.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Reino%20animalia.jpg)
 
 ✔ **CARACTERÍSITICAS**
 - Son Eucariotas (CARIOTECA)

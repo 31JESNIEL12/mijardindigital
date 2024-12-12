@@ -1,5 +1,5 @@
 ---
-{"tags":["Práctica","UNPRG"],"dg-publish":true,"permalink":"/4-simulacros/precpu/simulacro-cpu/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-simulacros/precpu/simulacro-cpu/","tags":["Práctica","UNPRG"]}
 ---
 
 # SIMULACRO TIPO ADMISIÓN CPU

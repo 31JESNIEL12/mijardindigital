@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-fungi/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-fungi/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

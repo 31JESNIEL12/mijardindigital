@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Teoría","Incompleto"],"dg-publish":true,"permalink":"/10-algebra/teoria/inecuaciones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/inecuaciones/","tags":["Álgebra","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

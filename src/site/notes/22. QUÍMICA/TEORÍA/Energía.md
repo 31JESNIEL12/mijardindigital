@@ -1,5 +1,5 @@
 ---
-{"tags":["Química","Física","Teoría"],"dg-publish":true,"permalink":"/22-quimica/teoria/energia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/22-quimica/teoria/energia/","tags":["Química","Física","Teoría"]}
 ---
 
 # TEORÍA

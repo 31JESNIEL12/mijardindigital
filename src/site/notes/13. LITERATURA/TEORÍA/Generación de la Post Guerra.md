@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/generacion-de-la-post-guerra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/generacion-de-la-post-guerra/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

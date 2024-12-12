@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Teoría"],"dg-publish":true,"permalink":"/12-lenguaje/teoria/el-acento/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/teoria/el-acento/","tags":["Lenguaje","Teoría"]}
 ---
 
 # TEORÍA

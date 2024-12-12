@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/proceso-economico/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/proceso-economico/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

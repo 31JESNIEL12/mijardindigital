@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/movimiento-en-dos-dimensiones/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/movimiento-en-dos-dimensiones/","tags":["Física","Teoría","Completo"]}
 ---
 
 # TEORÍA

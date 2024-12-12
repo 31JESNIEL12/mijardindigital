@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/ecologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/ecologia/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA
@@ -12,9 +12,6 @@
 >[ECOLOGÍA: CICLOS BIOGEOQUÍMICOS - DAVID ERRE](https://www.youtube.com/watch?v=NJOLfp0GhFU) 
 >[ECOLOGÍA: REPASO I - DAVID ERRE](https://www.youtube.com/watch?v=a0lOk2rUFbY) 
 >[ECOLOGÍA: REPASO II - DAVID ERRE](https://www.youtube.com/watch?v=9B_T_ZiXfRo) 
-
->[!sidenote]- **ARTES RUPESTRES** 
->![Ecología.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ecolog%C3%ADa.jpg)
 
 **GENERALIDADES**
 ✔ Padre: Haeckel (Alemán) (1834-1919)

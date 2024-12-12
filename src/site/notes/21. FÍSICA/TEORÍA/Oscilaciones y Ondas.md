@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/21-fisica/teoria/oscilaciones-y-ondas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/oscilaciones-y-ondas/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

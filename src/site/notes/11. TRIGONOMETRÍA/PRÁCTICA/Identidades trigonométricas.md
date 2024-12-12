@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/identidades-trigonometricas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/identidades-trigonometricas/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICA

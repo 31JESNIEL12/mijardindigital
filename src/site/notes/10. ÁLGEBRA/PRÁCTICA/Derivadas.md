@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Práctica","UNI","Incompleto"],"dg-publish":true,"permalink":"/10-algebra/practica/derivadas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/practica/derivadas/","tags":["Álgebra","Práctica","UNI","Incompleto"]}
 ---
 
 # PRÁCTICA

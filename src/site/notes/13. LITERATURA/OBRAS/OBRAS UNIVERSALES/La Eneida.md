@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría","Complemento"],"dg-publish":true,"permalink":"/13-literatura/obras/obras-universales/la-eneida/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/obras/obras-universales/la-eneida/","tags":["Literatura","Teoría","Complemento"]}
 ---
 
 # VIRGILIO: LA ENEIDA

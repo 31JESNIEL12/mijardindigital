@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/resumen-de-geometria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/resumen-de-geometria/","tags":["Geometría","Teoría"]}
 ---
 
 # RESUMEN DE TEORÍA Y FÓRMULAS

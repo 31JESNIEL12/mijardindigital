@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Anatomía","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/funciones-vitales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/funciones-vitales/","tags":["Biología","Anatomía","Teoría"]}
 ---
 
 # TEORÍA

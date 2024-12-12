@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/generacion-del-98/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/generacion-del-98/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

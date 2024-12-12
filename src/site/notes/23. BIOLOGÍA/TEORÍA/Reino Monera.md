@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/reino-monera/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-monera/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

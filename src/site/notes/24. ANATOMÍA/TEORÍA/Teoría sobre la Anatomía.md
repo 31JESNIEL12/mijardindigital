@@ -1,5 +1,5 @@
 ---
-{"tags":["Anatomía","Teoría"],"dg-publish":true,"permalink":"/24-anatomia/teoria/teoria-sobre-la-anatomia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/24-anatomia/teoria/teoria-sobre-la-anatomia/","tags":["Anatomía","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA ANATOMÍA
@@ -13,7 +13,7 @@
 
 >[[24. ANATOMÍA/TEORÍA/Generalidades\|GENERALIDADES]]
 
->[[23. BIOLOGÍA/TEORÍA/Histología animal\|HISTOLOGÍA]]
+>[[24. ANATOMÍA/TEORÍA/Histología animal\|HISTOLOGÍA]]
 
 >[[24. ANATOMÍA/TEORÍA/Sistema Óseo\|SISTEMA ÓSEO]]
 
@@ -39,5 +39,5 @@
 
 >[[24. ANATOMÍA/TEORÍA/Homeostasis, Salud y Enfermedad\|HOMEOSTASIS, SALUD Y ENFERMEDAD]]
 
->[[24. ANATOMÍA/ENTIDADES CLÍNICAS/Entidades Clínicas\|ENTIDADES CLÍNICAS]]
+>[[24. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/Entidades Clínicas\|ENTIDADES CLÍNICAS]]
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/organismos-financieros-internacionales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/organismos-financieros-internacionales/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

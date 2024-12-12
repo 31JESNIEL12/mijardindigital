@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría","Complemento"],"dg-publish":true,"permalink":"/13-literatura/obras/obras/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/obras/obras/","tags":["Literatura","Teoría","Complemento"]}
 ---
 
 # OBRAS LITERARIAS 

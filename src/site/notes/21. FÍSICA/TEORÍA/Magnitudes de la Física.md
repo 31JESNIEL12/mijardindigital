@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/magnitudes-de-la-fisica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/magnitudes-de-la-fisica/","tags":["Física","Teoría","Completo"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/resumen-de-fisica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/resumen-de-fisica/","tags":["Física","Teoría"]}
 ---
 
 # RESUMEN DE TEORÍA Y FÓRMULAS

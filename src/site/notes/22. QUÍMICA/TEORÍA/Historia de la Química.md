@@ -1,5 +1,5 @@
 ---
-{"tags":["Química","Historia","Teoría"],"dg-publish":true,"permalink":"/22-quimica/teoria/historia-de-la-quimica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/22-quimica/teoria/historia-de-la-quimica/","tags":["Química","Historia","Teoría"]}
 ---
 
 # TEORÍA

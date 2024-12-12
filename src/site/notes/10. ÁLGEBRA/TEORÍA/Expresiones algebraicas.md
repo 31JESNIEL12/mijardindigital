@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Teoría","Incompleto"],"dg-publish":true,"permalink":"/10-algebra/teoria/expresiones-algebraicas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/expresiones-algebraicas/","tags":["Álgebra","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

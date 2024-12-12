@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/teoria-sobre-la-fisica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/teoria-sobre-la-fisica/","tags":["Física","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA FÍSICA
@@ -28,7 +28,9 @@
 >[[21. FÍSICA/TEORÍA/Fluidos\|FLUIDOS]]
 
  >[[21. FÍSICA/TEORÍA/Física térmica\|FÍSICA TÉRMICA]]
- 
+
+>[[21. FÍSICA/TEORÍA/Termodinámica\|TERMODINÁMICA]]
+
 >[[21. FÍSICA/TEORÍA/Electrostática\|ELECTROSTÁTICA]]
   
 >[[21. FÍSICA/TEORÍA/Corriente eléctrica\|CORRIENTE ELÉCTRICA]]

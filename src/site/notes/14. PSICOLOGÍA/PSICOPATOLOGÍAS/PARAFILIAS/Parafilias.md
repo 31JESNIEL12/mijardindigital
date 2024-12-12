@@ -1,0 +1,19 @@
+---
+{"dg-publish":true,"permalink":"/14-psicologia/psicopatologias/parafilias/parafilias/","tags":["Psicología","Teoría","Complemento"]}
+---
+
+# ENFERMEDADES MENTALES SEXUALES
+---
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Pedofilia\|PEDOFILIA]]
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Zoofilia\|ZOOFILIA]]
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Fetichismo\|FETICHISMO]]
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Necrofilia\|NECROFILIA]]
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Sadismo\|SADISMO]]
+
+>[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/PARAFILIAS/Voyeurismo\|VOYEURISMO]]
+

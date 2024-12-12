@@ -1,5 +1,5 @@
 ---
-{"tags":["Práctica","UNPRG"],"dg-publish":true,"permalink":"/4-simulacros/gajel/simulacros-academia-gajel/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-simulacros/gajel/simulacros-academia-gajel/","tags":["Práctica","UNPRG"]}
 ---
 
 # SIMULACROS TIPO ADMISIÓN ACADEMIA GAJEL

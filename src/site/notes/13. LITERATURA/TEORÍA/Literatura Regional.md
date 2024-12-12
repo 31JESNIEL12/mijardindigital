@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría","UNPRG"],"dg-publish":true,"permalink":"/13-literatura/teoria/literatura-regional/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/literatura-regional/","tags":["Literatura","Teoría","UNPRG"]}
 ---
 
 # TEORÍA

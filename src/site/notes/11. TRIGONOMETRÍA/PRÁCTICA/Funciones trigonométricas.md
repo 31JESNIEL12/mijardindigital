@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Álgebra","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/funciones-trigonometricas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/funciones-trigonometricas/","tags":["Trigonometría","Álgebra","Práctica"]}
 ---
 
 # PRÁCTICA

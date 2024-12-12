@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/poligonos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/poligonos/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

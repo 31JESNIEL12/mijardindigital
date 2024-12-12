@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/congruencia-de-triangulos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/congruencia-de-triangulos/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

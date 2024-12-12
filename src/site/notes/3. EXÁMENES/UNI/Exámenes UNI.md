@@ -1,5 +1,5 @@
 ---
-{"tags":["Práctica","UNI"],"dg-publish":true,"permalink":"/3-examenes/uni/examenes-uni/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-examenes/uni/examenes-uni/","tags":["Práctica","UNI"]}
 ---
 
 # EXÁMENES TIPO ADMISIÓN UNI

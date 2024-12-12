@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/nociones-basicas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/nociones-basicas/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

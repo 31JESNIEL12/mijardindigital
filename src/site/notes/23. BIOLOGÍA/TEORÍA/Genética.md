@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/genetica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/genetica/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

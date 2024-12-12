@@ -1,5 +1,5 @@
 ---
-{"tags":["Álgebra","Práctica"],"dg-publish":true,"permalink":"/10-algebra/practica/practica-de-algebra/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/10-algebra/practica/practica-de-algebra/","tags":["Álgebra","Práctica"]}
 ---
 
 # PRÁCTICAS DE ÁLGEBRA

@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/colonia-y-emancipacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/colonia-y-emancipacion/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

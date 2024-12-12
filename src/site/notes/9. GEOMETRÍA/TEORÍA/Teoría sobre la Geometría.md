@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/teoria-sobre-la-geometria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/teoria-sobre-la-geometria/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA GEOMETRÍA

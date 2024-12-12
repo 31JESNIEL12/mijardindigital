@@ -1,5 +1,5 @@
 ---
-{"tags":["Práctica","UNPRG"],"dg-publish":true,"permalink":"/4-simulacros/vlep/simulacros-academia-vlep/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-simulacros/vlep/simulacros-academia-vlep/","tags":["Práctica","UNPRG"]}
 ---
 
 # SIMULACROS TIPO ADMISIÓN ACADEMIA VLEP

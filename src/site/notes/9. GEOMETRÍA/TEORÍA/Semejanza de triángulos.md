@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/semejanza-de-triangulos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/semejanza-de-triangulos/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Álgebra","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/ecuaciones-trigonometricas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/ecuaciones-trigonometricas/","tags":["Trigonometría","Álgebra","Práctica"]}
 ---
 
 # TEORÍA

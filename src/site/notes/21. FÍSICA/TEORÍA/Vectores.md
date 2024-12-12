@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/vectores/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/vectores/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

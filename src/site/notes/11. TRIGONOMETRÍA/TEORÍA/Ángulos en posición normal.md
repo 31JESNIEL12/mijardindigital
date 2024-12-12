@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Teoría"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/angulos-en-posicion-normal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/angulos-en-posicion-normal/","tags":["Trigonometría","Teoría"]}
 ---
 
 # TEORÍA

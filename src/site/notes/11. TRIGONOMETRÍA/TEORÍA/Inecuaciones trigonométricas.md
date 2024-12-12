@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Álgebra","Teoría"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/inecuaciones-trigonometricas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/inecuaciones-trigonometricas/","tags":["Trigonometría","Álgebra","Teoría"]}
 ---
 
 # TEORÍA

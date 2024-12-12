@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/cuadrilateros/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/cuadrilateros/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

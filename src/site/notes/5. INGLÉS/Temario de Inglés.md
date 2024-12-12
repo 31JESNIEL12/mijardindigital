@@ -1,5 +1,5 @@
 ---
-{"tags":["Inglés","Teoría"],"dg-publish":true,"permalink":"/5-ingles/temario-de-ingles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/5-ingles/temario-de-ingles/","tags":["Inglés","Teoría"]}
 ---
 
 # TEORÍA Y PRÁCTICA DE INGLÉS
@@ -19,7 +19,7 @@
 
 >[[5. INGLÉS/Artículos\|ARTÍCULOS]]
 
->[[Adjetivo\|ADJETIVO]]
+>[[5. INGLÉS/Adjetivos\|ADJETIVOS]]
 
 >[[5. INGLÉS/Verbos\|VERBO]]
 

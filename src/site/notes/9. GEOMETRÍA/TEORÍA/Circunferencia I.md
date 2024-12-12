@@ -1,5 +1,5 @@
 ---
-{"tags":["Geometría","Teoría"],"dg-publish":true,"permalink":"/9-geometria/teoria/circunferencia-i/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/9-geometria/teoria/circunferencia-i/","tags":["Geometría","Teoría"]}
 ---
 
 # TEORÍA

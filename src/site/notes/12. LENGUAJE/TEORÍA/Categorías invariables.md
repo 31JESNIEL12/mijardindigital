@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Teoría"],"dg-publish":true,"permalink":"/12-lenguaje/teoria/categorias-invariables/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/teoria/categorias-invariables/","tags":["Lenguaje","Teoría"]}
 ---
 
 # TEORÍA
@@ -12,6 +12,15 @@
 
 ---
 **EL ADVERBIO**
+
+✔ **DEFINICIÓN** 
+- SEMÁNTICA: Indicar lugar, cantidad, modo, tiempo, afirmación, negación, duda.
+- MORFOLÓGICA: Palabra invariable 
+- LEXICOGRÁFICA: Inventario abierto
+- SINTÁCTICAMENTE: Funciona como circunstancial 
+	- Modifica al verbo, adjetivo o a otro adverbio
+
+
 
 
 

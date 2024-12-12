@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/organografia-vegetal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/organografia-vegetal/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

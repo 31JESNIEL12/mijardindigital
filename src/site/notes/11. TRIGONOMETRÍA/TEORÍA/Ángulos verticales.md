@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica","Completo"],"dg-publish":true,"permalink":"/11-trigonometria/teoria/angulos-verticales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/teoria/angulos-verticales/","tags":["Trigonometría","Práctica","Completo"]}
 ---
 
 # TEORÍA

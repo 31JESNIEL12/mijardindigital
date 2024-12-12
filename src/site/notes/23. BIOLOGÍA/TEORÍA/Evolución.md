@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/evolucion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/evolucion/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

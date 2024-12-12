@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/conocimientos-previos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/conocimientos-previos/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

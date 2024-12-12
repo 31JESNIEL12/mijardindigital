@@ -1,5 +1,5 @@
 ---
-{"tags":["Práctica","UNPRG"],"dg-publish":true,"permalink":"/3-examenes/unprg/examenes-unprg/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/3-examenes/unprg/examenes-unprg/","tags":["Práctica","UNPRG"]}
 ---
 
 # EXÁMENES DE ADMISIÓN UNPRG
