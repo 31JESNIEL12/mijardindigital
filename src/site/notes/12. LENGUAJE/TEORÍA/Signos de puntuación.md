@@ -18,14 +18,54 @@
 - Se utilizan para separar distintas partes del discurso
 - Pausas del Hablante
 - Aporta interpretación semántica
+- La omisión o uso indebido de un signo de puntuación podría alterar el sentido del mensaje
 - Actualmente, hay 27 signos
 
-✔ **ORACIÓN BÁSICA**
-- ESTRUCTURA: Sujeto  + Verbo + Complemento
-- Los elementos de la oración básica no deben ser interrumpidos por ningún signo de puntuación, aunque existen casos
+>[!sidenote]- **RECORDAR**
+**ORACIÓN BÁSICA** 
+ESTRUCTURA: Sujeto  + Verbo + Complemento
+Los elementos de la oración básica no deben ser interrumpidos por ningún signo de puntuación, aunque existen casos
 
 ---
-**COMA**
+**EL PUNTO** 
+
+✔ **DEFINICIÓN**
+- Es el signo empleado para separar oraciones 
+- Corresponde a una pausa larga o fuerte
+
+✔ **CLASES**
+- De acuerdo a la ubicación en el texto:
+
+|   **CLASES**    |                                      **FUNCIÓN**                                      |
+|:---------------:|:-------------------------------------------------------------------------------------:|
+| PUNTO Y SEGUIDO | Separa oraciones que desarrollan un mismo tema y que forman parte de un mismo párrafo |
+| PUNTO Y APARTE  |                  Se usa al final de párrafo cuando se cambia de tema                  |
+|   PUNTO FINAL   |                             Se usa al terminar un escrito                             |
+
+---
+**EL PUNTO Y COMA** 
+
+✔ **DEFINICIÓN** 
+- Signo de puntuación que se emplea para representar una pausa mayor que la coma 
+
+✔ **CASOS**
+
+✅ **SEPARA ENUNCIADOS O EXPRESIONES DONDE HAY COMAS** 
+- "Cada uno de los grupos de trabajo preparará un taller: el primer grupo, el taller de cerámica; el segundo, el taller de telas; el tercero, el taller de cestería"
+
+✅ **SEPARA PROPOSICIONES YUXTAPUESTAS** 
+- "La muchacha, gozosa, corría hacia su casa; sus padres acababan de llegar. "
+
+✅ **DELANTE DE CONJUNCIONES O LOCUCIONES CONJUNTIVAS EN ORACIONES DE CIERTA EXTENSIÓN** 
+- CONJUNCIONES ADVERSATIVAS: Pero, mas, sino, aunque
+- LOCUCIONES CONJUNTIVAS: Sin embargo, no obstante, en cambio, en tal caso, por lo tanto
+- "Trajeron los cuadernos, cartulinas, lápices y borradores; sin embargo, falta que nos entreguen los plumones, los lapiceros y las reglas"
+
+
+
+
+---
+**LA COMA**
 
 ✔ **GENERALIDADES**
 - Pausa o cesura menor
@@ -72,58 +112,10 @@
 - EJEMPLO: Francia, el último campeón, celebra
 
 ---
-**PUNTO**
-Pausa mayor
-Fin de la oración
-Cambio de ideas
-Signo primitivo (Primer signo) → De él provienen todos los demás signos
+**LOS DOS PUNTOS** 
 
-✔ **PUNTO Y SEGUIDO**
-- Da finalizada una oración
 
-✔ **PUNTO Y APARTE**
-- Da finalizada un párrafo
 
-✔ **FINAL**
-- Da finalizada el texto
-
-**Recuerda**
-✅ N° puntos (A) = N: VP (Sin nexo)
-✅ N° puntos seguidos (B) = (A) - 1
-
----
-**PUNTO Y COMA**
-Pausa intermedia
-
-**CASO 1**
-**✅** Ud. haga lo que le ordenaron; ellos que desarrollen lo que quieran
-✅ Mismo tema
-✅ Menos frecuente
-
-**CASO 2**
-✅ Jorge, el abogado; André, la enfermera; y Juan viajaron
-✅ Enumeración completa
-
-**CASO 3**
-✅ Rocío compró un libro; Sofía, una gaseosa
-✅ ; → Nexo (No puede ser como, porque ya hay una en otra cláusula)
-✅ , → Elíptica
-
-**CASO 4** 
-✅ Quiero ir al cine este fin de semana; pero no tengo tiempo ni dinero para hacerlo
-✅ La cláusula es larga
-
-**CASO 5**
-✅ Estudió mucho durante todo aquel semestre académico; sin embargo, no logró aprobar el curso que tanto le preocupa
-✅ La conjunción está formada por 2 palabras (Construcción)
-
-**Recuerda**
-✅ Moisés es un beodo, es decir, es un borracho
-✅ La oración es corta
-✅ Conjunción aclarativa
-
----
-**DOS PUNTOS**
 
 
 
@@ -133,8 +125,11 @@ Pausa intermedia
 ✔ **GENERALIDADES**
 - REPRESENTACIÓN: En vertical y/u oblicuo 
 - Representa los fonemas 
-- Separa un renglón
-- Datos de números telefónicos 
+
+✔ **SIRVE PARA SEÑALAR EL LÍMITE DE LOS VERSOS EN LOS TEXTOS POÉTICOS REPRODUCIDOS EN LÍNEAS SEGUIDA** 
+- 
+
+
 
 ---
 **PRÁCTICA**:
