@@ -1,5 +1,5 @@
 ---
-{"tags":["Lenguaje","Teoría"],"dg-publish":true,"permalink":"/12-lenguaje/teoria/resumen-de-lenguaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/12-lenguaje/teoria/resumen-de-lenguaje/","tags":["Lenguaje","Teoría"]}
 ---
 
 # RESUMEN Y MNEMOCTENIAS 
