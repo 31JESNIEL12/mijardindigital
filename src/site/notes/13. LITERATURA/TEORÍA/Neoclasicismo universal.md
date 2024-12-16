@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/neoclasicismo-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/neoclasicismo-universal/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA
