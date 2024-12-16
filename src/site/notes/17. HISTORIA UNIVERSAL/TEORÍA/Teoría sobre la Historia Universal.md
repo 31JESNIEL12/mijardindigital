@@ -1,5 +1,5 @@
 ---
-{"tags":["Historia","Teoría"],"dg-publish":true,"permalink":"/17-historia-universal/teoria/teoria-sobre-la-historia-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/teoria/teoria-sobre-la-historia-universal/","tags":["Historia","Teoría"]}
 ---
 
 # TEORÍA Y PRÁCTICA DE HISTORIA UNIVERSAL
@@ -56,6 +56,8 @@
  >[[17. HISTORIA UNIVERSAL/TEORÍA/Segunda Guerra Mundial\|SEGUNDA GUERRA MUNDIAL]]
 
 >[[17. HISTORIA UNIVERSAL/TEORÍA/Guerra Fría\|GUERRA FRÍA]]
+
+>[[17. HISTORIA UNIVERSAL/TEORÍA/Guerra de Corea\|GUERRA DE COREA]]
 
  >[[17. HISTORIA UNIVERSAL/TEORÍA/Revolución Cubana\|REVOLUCIÓN CUBANA]]
 
