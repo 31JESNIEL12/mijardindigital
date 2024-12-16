@@ -1,13 +1,11 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/teoria-sobre-la-literatura/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/teoria-sobre-la-literatura/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA Y PRÁCTICA DE LITERATURA
 ---
 
 >[[13. LITERATURA/TEORÍA/Resumen de Literatura\|RESUMEN DE LITERATURA]]
-
->[[13. LITERATURA/OBRAS/Obras\|OBRAS LITERARIAS]]
 
 >[[13. LITERATURA/TEORÍA/Conocimientos Previos\|CONOCIMIENTOS PREVIOS]]
 
