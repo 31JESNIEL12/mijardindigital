@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/resumen-de-literatura/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/resumen-de-literatura/","tags":["Literatura","Teoría"]}
 ---
 
 # RESÚMENES Y MNECMOTECNIAS
@@ -631,9 +631,4 @@ NARRATIVA: Regionalismo - Nueva narrativa hispanoamericana ("PRE BOOM")
 - GABRIEL GARCÍA MARQUEZ: 90 (POEMA)
 - OCTAVIO PAZ: 90 (POEMA)
 - MARIO VARGAS LLOSA: 2010 (POEMA)
-
----
-**PRÁCTICA**
-
->[[Literatura Intensivo\|LITERATURA INTENSIVO]]
 
