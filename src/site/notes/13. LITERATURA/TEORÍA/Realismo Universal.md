@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/realismo-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/realismo-universal/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA
