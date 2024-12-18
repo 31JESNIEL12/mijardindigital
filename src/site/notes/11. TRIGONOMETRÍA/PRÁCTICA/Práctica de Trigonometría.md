@@ -1,5 +1,5 @@
 ---
-{"tags":["Trigonometría","Práctica"],"dg-publish":true,"permalink":"/11-trigonometria/practica/practica-de-trigonometria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/11-trigonometria/practica/practica-de-trigonometria/","tags":["Trigonometría","Práctica"]}
 ---
 
 # PRÁCTICAS DE TRIGONOMETRÍA
