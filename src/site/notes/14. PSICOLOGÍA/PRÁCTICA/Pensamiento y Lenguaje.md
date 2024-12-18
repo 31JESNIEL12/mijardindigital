@@ -30,3 +30,5 @@ $choice{"Epistemología" , "Genética" , "Axiología" , "Gnoseología" , *"Lógi
 ```
 
 
+
+

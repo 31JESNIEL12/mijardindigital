@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/carbohidratos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/carbohidratos/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

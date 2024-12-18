@@ -409,3 +409,33 @@ $choice{*"A" , "B" , "C" , "D" , "E"}
 Es una institución supletoria de amparo que se dirige a prestar amparo a quienes atraviesan una etapa de incapacidad natural, por desaparición o incapacidad de los progenitores.
 $choice{"Curatela" , "Régimen patrimonial" , "Patria Potestad" , "Patrimonio familiar" , *"Tutela"}
 ```
+
+```exercise
+Es la función sobre la cual recaen las políticas gubernamentales de planificación familiar:
+$choice{"Socializadora" , *"Reproductora" , "Económica" , "Educadora" , "Asistencial"}
+```
+
+```exercise
+Sobre las funciones de la familia
+I.Función económica
+II.Función educadora
+III.Función recreativa
+IV.Función reproductiva
+A. Parte de que el ser humano es un ser social por excelencia, necesita de los demás.
+B. Contribuye en la formación de destrezas, habilidades.
+C. Proporciona lo necesario para satisfacción de necesidades.
+D. Misión fundamental de la familia, asegura la supervivencia de la especie humana.
+Marque la relación correcta:
+$choice{"ID, IIB, IIIA, IVC" , "IB, IID, IIIC, IVA" , "IC, IIB, IIIA, IVD" , "ID, IIB, IIIC, IVA" ,"IC, IIA, IIIB, IVD"}
+```
+
+```exercise
+Son causales del divorcio:
+I. Adulterio
+II. Violencia Física o psicológica
+III. Injuria grave
+IV. Homosexualidad
+V. Violación de domicilio
+Son ciertas:
+$choice{"I, II, III" , "III, IV, V" , "II y V" , "I y II" , *"I, II, III, IV"}
+```

@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/romanticismo-hispanoamericano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/romanticismo-hispanoamericano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

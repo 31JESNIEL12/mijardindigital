@@ -11,10 +11,25 @@
 
 ```exercise
 Oración con una palabra compuesta propiamente dicha:
-$choice{"En el portafolio" , "La publicación es bianual" , "Esa es la idiosincrasia de ese pueblo" , "Tomamos un vino semiseco" , *"El refresco estuvo agridulce"}
+A) En el portafolio
+B) La publicación es bianual
+C) Esa es la idiosincrasia de ese pueblo
+D) Tomamos un vino semiseco
+E) El refresco estuvo agridulce
+$choice{"A" , "B" , "C" , "D" , *"E"}
 ```
 
 ```exercise
 Palabra compuesta que, en el momento de ser formada, ha perdido la tilde en su primer término
-$choice{"ciempiés" , *"baloncesto" , "hispano – árabe" , "píntale" , "cortésmente"}
+$choice{"Ciempiés" , *"Baloncesto" , "Hispano – árabe" , "Píntale" , "Cortésmente"}
+```
+
+```exercise
+Señale la palabra formada por composición propiamente dicha:
+$choice{"Desventurado" , "Subversión" , "Desterrado" , "Sintonizado" , *"Blanquiazul"}
+```
+
+```exercise
+Señale las palabras derivadas por prefijación:
+$choice{"Albóndiga - Beriberi" , "Cardiograma - Escafandra" , "Feudalismo - Girasol" , *"Sinfín - Trasplantar" , "Malogrado - Insinuación"}
 ```

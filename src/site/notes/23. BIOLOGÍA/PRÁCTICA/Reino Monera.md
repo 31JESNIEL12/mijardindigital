@@ -137,4 +137,24 @@ En cultivos como el arroz, las cianofitas suelen ser utilizadas como fertilizant
 $choice{"Vivir en condiciones extremas" , *"Fijar nitrógeno atmosférico" , "Ser resistentes a lugares húmedos" , "Realizar fotosíntesis"}
 ```
 
+```exercise
+El reino monera está formado por:
+$choice{"Cianofitas y hongos" , "Cianofitas y moxofitas" , "Protozoos y cianofitas" , "Protozoos y hongos" , *"Bacterias y cianobacterias"}
+```
+
+```exercise
+Dentro de la clasificación en reinos, encontramos al reino monera, de los cuales se resaltan las siguientes características, excepto:
+$choice{"Procariotas" , "Unicelulares" , "Autótrofos" , "Heterótrofos" , *"Pluricelulares"}
+```
+
+```exercise
+Con respecto a Escherichia coli, la alternativa que no es incorrecta:
+A) Es una protozoario flagelado causante de la diarrea del viajero
+B) Es una bacteria perteneciente al reino protista, con célula procariota
+C) Organismo monera que en su pared celular posee mureina con ribosomas 70s 
+D) Bacteria con mesosomas del tabique para la respiración celular
+E) Es un Mastigóforo causante de la enfermedad de Chagas
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
 

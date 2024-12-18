@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/bioelementos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/bioelementos/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

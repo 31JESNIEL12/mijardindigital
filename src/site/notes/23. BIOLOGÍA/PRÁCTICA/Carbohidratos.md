@@ -664,3 +664,114 @@ El almacén de maltosa más importante le encontraremos en:
 $choice{"La madera" , "La leche" , "La caña de azúcar" , *"Los cereales" , "La remolacha"}
 ```
 
+```exercise
+Dentro de las biomoléculas orgánicas encontramos a los carbohidratos, caracterizados por:
+A) Brindan energía a largo plazo
+B) Liberan 9,3 kcal/gramo de energía
+C) Se dividen en osas y ósidos
+D) Son hormonas y reguladores
+E) Se dividen en saponificables e insaponificables
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>Los carbohidratos se dividen en "osas" (MONOSACÁRIDOS) y "ósidos" (OLIGOSACÁRIDOS Y POLISACÁRIDOS) 
+>Además, brindan energía a corto plazo y liberan 4,1 Kcal/gramo de energía.
+
+```exercise
+Respecto a los carbohidratos:
+I. Son compuestos ternarios de carbono, hidrógeno y oxígeno.
+II. Se les llama también azúcares, siendo el más dulce la lactosa.
+III. Proporcionan una energía de 4,1Kcal/gr.
+IV. Están formados por enlace peptídico.
+Es correcto:
+$choice{"I – II – III" , "I – III – IV" , "II – IV" , "II – III" , *"I – III"}
+```
+
+```exercise
+Considerado el monosacárido más importante de los seres vivos, fuente principal de energía para la célula:
+$choice{"Fructosa" , "Manosa" , "Sacarosa" , *"Dextrosa" , "Sacarosa" , "Galactosa"}
+```
+
+```exercise
+Carbohidrato predominante en los tubérculos y raíces, caracterizado por ser la reserva energética vegetal:
+$choice{"Glucógeno" , "Glucosa" , "Glucagón" , "Inulina" , *"Almidón"}
+```
+
+```exercise
+Los monosacáridos se dividen en aldosas y cetosas, según el radical presente en su estructura. No corresponde a una cetosa:
+$choice{"Ribulosa" , "Fructosa" , "Xilulosa" , "Levulosa" , *"Glucosa"}
+```
+
+```exercise
+En la clasificación de los carbohidratos según su complejidad, podemos encontrar monosacáridos, oligosacáridos y polisacáridos. No corresponde a los monosacáridos:
+$choice{"Son denominados Osas" , "Son hidrosolubles" , "Son blancos" , "Son dulces" , *"Son hidrolizables"}
+```
+
+```exercise
+La cantidad de energía obtenida por metabolismo de los carbohidratos es $select{"3.5 Kcal/gramo" , "4.1 cal/gramo" , "9.4 Kcal/gramo" , "9.4 cal/gramo" , *"4.1 Kcal/gramo"}, que tiene como objetivo $select{"brindar energía rápida" , "brindar energía lenta" , *"brindar energía inmediata"}
+```
+
+```exercise
+Se considera al $select{"Glucógeno" , *"Almidón" , "Glucosa" , "Glucagón"} como la reserva energética vegetal; mientras que el $select{"Almidón" , "Glucagón" , "Glucosa" , *"Glucógeno"} representa la reserva energética animal.
+```
+
+```exercise
+Indique la relación incorrecta de los individuos con sus glúcidos representativos:
+A) Mus musculus: Glucógeno
+B) Chondracanthus chamissoi: Agar agar 
+C) Cavia porcellus: Almidón
+D) Agaricus campestris: Quitina
+E) Clostridium tetani: Mureína 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Monosacárido más común de los seres vivos, fuente primaria de energía para la célula y unidad básica para la mayoría de los carbohidratos:
+$choice{"Fructuosa" , "Sacarosa" , "Glucógeno" , "Almidón" , *"Glucosa"}
+```
+
+```exercise
+Es la principal molécula de almacenamiento de energía en los animales superiores, acumulándose principalmente en el hígado y en el músculo:
+$choice{"Glucosa" , "Almidón" , "Celulosa" , "Sacarosa" , *"Glucógeno"}
+```
+
+```exercise
+Respecto a los carbohidratos:
+I. Son compuestos ternarios de carbono, hidrógeno y oxígeno.
+II. Se les llama también azúcares, siendo el más dulce la lactosa.
+III. Proporcionan una energía de 4,1Kcal/gr.
+IV. Están formados por enlace peptídico.
+Es correcto:
+$choice{"I - II - III" , "I - III - IV" , "II - IV" , "II - III" , *"I - III"}
+```
+
+```exercise
+Se considera al $select{"glucógeno" , "glucosa" , "glucagón" , *"almidón"} como la reserva energética vegetal; mientras que el $select{"almidón" , "glucosa" , "glucagón" , *"glucógeno"} representa la reserva energética animal.
+```
+
+```exercise
+El principal glúcido transportado a través del floema se denomina:
+$choice{"Dextrosa" , "Almidón" , "Levulosa" , "Glicógeno" , *"Sucrosa"}
+```
+
+```exercise
+Carbohidrato perteneciente a la agrupación de monosacáridos, se le encuentra en mayor cantidad en vegetales, sin embargo podemos hallarlo en el hígado y en el páncreas:
+$choice{"Almidón" , "Ribosa" , "Lixosa" , "Arabinosa" , *"Xilosa"}
+```
+
+```exercise
+Carbohidrato esencial que surge a partir del acetil coenzima A, y se une a los gangliósidos para formar la materia gris cerebral:
+$choice{"Ácido hialurónico" , "Ácido glucorónico" , "N - acetil murámico" , "N - acetil glucosamina" , *"N - acetil neuramínico"}
+```
+
+```exercise
+Los glúcidos son compuestos ternarios, brindan energía y se almacenan en los seres vivos. Con respecto a lo antes expuesto, indicar la alternativa incorrecta: 
+A) Las monocotiledóneas como el arroz almacenan orizazina en sus proteinoplastos
+B) Aedes aegipty posee un polisacárido en su saliva denominado heparina
+C) La sacarosa es un oligosacárido con enlace glucosidico, está formado por la glucosa y la dextrosa con enlace α (1,2)
+D) Triatoma infestas es un insecto que en su exoesqueleto posee un polímero de N- acetilglucosamina
+E) El activador del pepsinógeno es el HCl, mientras que el cofactor enzimático de la proteína Z es el manganeso
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+

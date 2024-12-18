@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/sistema-bancario/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/sistema-bancario/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA
@@ -163,4 +163,4 @@ Les permiten a los bancos captar y cobrar una ==**TASA DE INTERÉS ACTIVA (TIA)*
 
 ---
 **ANTERIOR TEMA:**
->[[19. ECONOMÍA/TEORÍA/Sistema financiero\|SISTEMA FINANCIERO]]
+>[[19. ECONOMÍA/TEORÍA/Sistema Financiero\|SISTEMA FINANCIERO]]

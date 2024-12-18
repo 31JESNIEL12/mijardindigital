@@ -9,22 +9,6 @@
 
 ---
 
-La escuela humanista plantea que el hombre es:
-I. Libre, auto determinado; su comportamiento y su visión del mundo son altamente subjetivos e importan en la terapia
-II. Consciente, capaz de darse cuenta de todas sus conductas
-III. Bueno, generoso y siempre listo para la acción
-IV. Leal a sus conocimientos y perfectible
-V. Libre, capaz de darse cuenta de todo lo que ocurre en el mundo y de cambiar su visión
-A) I
-B) II
-C) III
-D) IV
-E) V
-
->[!sidenote]- **SOLUCIÓN** 
->A) I
-
-
 ```exercise
 La mamá de Pamela, desde saber la causa por la cual su hija constantemente se muerde las uñas. Lo anterior hace referencia a uno de los fines de la Psicología, llamado:
 $choice{"Interpretar" , "Describir" , "Predecir" , "Controlar" , *"Explicar"}
@@ -483,6 +467,145 @@ $choice{"A" , "B" , "C" , *"D" , "E"}
 ```exercise
 Método que puede aplicarse a un mayor número de personas, se basa en la observación de las conductas de una persona o grupo determinado:
 $choice{"Psicometría" , "Entrevista" , "Test" , *"Extrospección" , "Introspección"}
+```
+
+```exercise
+En un método de la psicometría que permite determinar aspectos específicos, como inteligencia, personalidad, autoestima, etc.
+$choice{"Encuesta" , "Extrospección" , "Introspección" , "Cuestionario" , *"Test"}
+```
+
+```exercise
+Son procesos cognitivos, excepto:
+$choice{"Percepción" , "Pensamiento" , "Sensación" , "Memoria" , *"Estados de ánimo"}
+```
+
+```exercise
+El objeto de estudio de la psicología es: 
+A) El alma y el cuerpo 
+B) El mundo subjetivo de las cosas 
+C) Los procesos psíquicos y sus manifestaciones 
+D) La vida extraconciente del hombre 
+E) Experiencia psicológicas personales
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+El de provocar una conducta en situaciones controladas, con fines de estudio psicológico, constituye una estrategia propia del método:
+$choice{"Correlacional" , "Genético" , "Extrospectivo" , "Introspectivo" , *"Experimental"}
+```
+
+```exercise
+Después de desarrollar el examen de admisión. David experimenta dolor de cabeza, intranquilidad y sudoración por haberlo rendido mal ¿Qué método Psicológico ha usado al darse cuenta de lo experimentado?
+$choice{"Clínico" , "Psicoanálisis" , "Experimental" , "Extrospección" , *"Introspección"}
+```
+
+```exercise
+Lo correcto sobre el inicio de la ciencia psicológica es:
+$choice{"Alemania - 1856" , "España - 1900" , "EE.UU - 1920" , "Francia - 1800" , *"Alemania - 1879"}
+```
+
+```exercise
+Karina trata de memorizar la tabla de multiplicar del número tres. Mira las operaciones con sus resultados y lee varias veces en voz alta: “3×1= 3; 3×2=6; etc.”. Luego cierra los ojos y vuelve a repetir dichas operaciones en varias oportunidades. Al día siguiente, le dice a su papá: “Ya sé la tabla de multiplicar del número tres”, y la recita en voz alta, sin equivocarse. En este caso, ¿qué procesos mentales realizó Karina?
+$choice{"Sensación y memoria" , "Percepción y sensación" , "Atención y percepción" , "Atención y memoria" , *"Memoria y percepción"}
+```
+
+```exercise
+¿Qué asunto no estudia la Psicología? 
+A) La medicación para la psicosis
+B) Los cambios de conducta
+C) Las alteraciones mentales
+D) La interacción social
+E) El desarrollo humano 
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+Científico que aportó en sentar las bases del surgimiento de la psicología científica.
+$choice{"S. Freud" , "Weber" , "Aristóteles" , "Watson" , *"Wundt"}
+```
+
+```exercise
+Describe y explica la evolución de los procesos psíquicos del individuo desde el punto de vista ontogenético.
+$choice{"Psicología Social" , "Psicología General" , "Psicología Comparada" , "Psicología Diferencial" , *"Psicología del Desarrollo"}
+```
+
+```exercise
+¿Cómo se denominan aquellos aprendizajes que indican nuestra aprobación o desaprobación a personas, objetos o lugares?
+$choice{"Socialización" , "Costumbre" , "Aptitud" , "Sugestión" , *"Actitud"}
+```
+
+```exercise
+Relacione sobre la función y los tipos de procesos psíquicos respectivos.
+$match{"Querer viajar por todo el país" => "Procesos conativos" , "Sentirse avergonzado y temeroso" => "Procesos afectivos" , "Conocer un tema novedoso" => "Procesos cognitivos"}
+```
+
+```exercise
+Permite provocar la conducta estudiada con la finalidad de comparar una hipótesis
+$choice{"Introspección" , "Psicometría" , "Extrospección" , "Método Psicosomático" , *"Experimental"}
+```
+
+```exercise
+Judith es una estudiante del 5to año de secundaria, quién a pesar de los esfuerzos que realiza, siempre sale desaprobada, eso la desmotiva en extremo, hasta piensa abandonar sus estudios. El problema anteriormente planteado, ¿Por cuál rama de la Psicología Aplicada debe ser analizado?
+$choice{"Clínica" , "Fisiología" , "Evolutiva" , "Criminal" , *"Educacional"}
+```
+
+```exercise
+Cuando se detallan los diversos problemas del bajo rendimiento de los alumnos, tratamos también de investigar las causas que lo ocasionaron; esto corresponde a uno de los fines de la psicología que es: 
+A) Controlar y modificar el comportamiento 
+B) Describir y explicar los procesos psíquicos, estableciendo leyes y normas de conducta 
+C) Predecir y diferenciar los diversos problemas 
+D) Establecer y evaluar normas conductuales 
+E) Escribir y verificar los procesos motivacionales
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Los aportes de los teóricos dentro de la psicología científica han contribuido en la fortaleza del conocimiento psicológico. A qué clase de Psicología corresponde el trabajo de Jean Piaget.
+$choice{"Social" , "Humana" , "Normal" , "Clínica" , *"Evolutiva"}
+```
+
+```exercise
+De acuerdo con la ciencia psicológica, identifique las proposiciones verdaderas.
+I. La psicología científica fue fundada por Wundt.
+II. Los psicólogos actualmente estudian al alma.
+III. La psicología científica estudia la conducta.
+IV. Los psicólogos actualmente no hacen experimentos.
+$choice{"II y IV" , "II y III" , "I y II" , "III y IV" , *"I y III"}
+```
+
+```exercise
+Acto de un organismo que puede ser abordado objetivamente, registrado y estudiado por la Psicología Científica.
+$choice{"Alma" , "Mente" , "Espíritu" , "Conciencia" , *"Conducta"}
+```
+
+```exercise
+El psicólogo organizacional asume actividades como:
+$choice{"Realizar psicoterapia" , "Mejorar la lectoescritura" , "Diagnosticar la depresión" , "Orientar en lo vocacional" , *"Optimizar el clima laboral"}
+```
+
+```exercise
+El profesional que realiza orientación para mejorar nuestro aprendizaje y nuestras técnicas de atención es el psicólogo:
+$choice{"General" , "Clínico" , "Organizacional" , "Evolutivo" , *"Educativo"}
+```
+
+```exercise
+Fue el creador del primer laboratorio experimental de psicología, en la universidad de Leipzig, Alemania.
+$choice{"Sigmund Freud" , "Jean Piaget" , "Watson" , "James" , *"Wundt"}
+```
+
+```exercise
+Esta rama de la psicología comprende el estudio, explicación, promoción, evaluación, prevención, asesoramiento y/o tratamiento de aquellos fenómenos psicológicos, conductuales y relacionales que inciden en el comportamiento legal de las personas, mediante la utilización de métodos propios de la Psicología Científica.
+$choice{"Ps. Publicitaria" , "Ps. Organizacional" , "Ps. Jurídica" , "Ps. Educativa" , *"Ps. Clínica"}
+```
+
+```exercise
+La obra más importante en la antigüedad fue escrita por Aristóteles y es:
+$choice{"El organón" , "La ética a Nicómaco" , "La retórica" , "Mneuma psique" , *"Peri psique"}
+```
+
+```exercise
+Wendy está caminando hacia su casa, en eso un perro agresivamente le empieza a ladrar, ella al verlo se da cuenta que el perro tiene espuma en la boca, y se queda fría, pálida e inmóvil. Wendy, qué proceso psicológico está manifestando:
+$choice{"Proceso cognoscitivo" , "Proceso volitivo" , "Proceso consciente" , "Proceso instintivo" , *"Proceso afectivo"}
 ```
 
 

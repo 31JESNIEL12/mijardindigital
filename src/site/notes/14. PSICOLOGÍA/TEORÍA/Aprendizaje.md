@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/aprendizaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/aprendizaje/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA
@@ -144,7 +144,7 @@
 
 ![Image11924.gif](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Image11924.gif)
 
-**PARA MÁS INFORMACIÓN**:
+>[!sidenote]- **MÁS INFORMACIÓN**
 >[TEORÍA DEL APRENDIZAJE SIGNIFICATIVO DE AUSUBEL](https://paradigmaseducativosuft.blogspot.com/2011/05/teoria-del-aprendizaje-significativo-de.html)
 
 ---

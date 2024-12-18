@@ -16,7 +16,12 @@ $choice{"Constancia perceptual" , *"Figura y fondo" , "Percepción anormal" , "P
 
 ```exercise
 ¿Qué quiere decir que lo ya conocido por el sujeto determina lo que va a conocer después?
-$choice{"La independencia de la percepción respecto de la experiencia" , "Que la percepción es un proceso único e idéntico en los distintos seres humanos" , "El carácter pasivo de la percepción" , "Que es mejor que el sujeto supere sus propias experiencias" , *"La dependencia de la percepción respecto del conocimiento y la experiencia del sujeto"}
+A) La independencia de la percepción respecto de la experiencia
+B) Que la percepción es un proceso único e idéntico en los distintos seres humanos
+C) El carácter pasivo de la percepción
+D) Que es mejor que el sujeto supere sus propias experiencias
+E) La dependencia de la percepción respecto del conocimiento y la experiencia del sujeto
+$choice{"A" , "B" , "C" , "D" , *"E"}
 ```
 
 ```exercise
@@ -43,11 +48,6 @@ $choice{"Solo I" , "Solo II" , *"Solo III" , "I y II" , "Todas"}
 ```
 
 ```exercise
-La falsa percepción sensorial que consiste en captar algo en lo que no existe un real estímulo externo se llama:
-$input{"Alucinación"}
-```
-
-```exercise
 Se denomina $select{"Imaginación" , "Percepción" , "Memoria" , "Pensamiento" , *"Sensación"} al proceso psicológico que permite captar un objeto sensible que se halla presente en el ambiente en el que nos encontramos
 ```
 
@@ -69,10 +69,6 @@ $choice{"Neurosis" , "Psicopatía" , "Amnesia" , "Ilusión" , *"Alucinación"}
 ```exercise
 Debido al cansancio provocado por el estudio, Juan confundió el 3 por el 8 al leer su código. Sufrió una:
 $choice{"Alteración nerviosa" , "Alucinación mental" , "Alucinación visual" , *"Alucinación subjetiva" , "Alucinación objetiva"}
-```
-
-```exercise
-Cuando la percepción no está de acuerdo con la realidad se denomina $input{"ilusión"}, y cuando la percepción se produce en ausencia del estímulo se llama $input{"alucinación"}
 ```
 
 ```exercise
@@ -114,11 +110,9 @@ Una noche, Miguel se despierta y observa una araña muy grande en la pared, corr
 $choice{"Ilusión subjetiva" , "Psicosis" , "Transtorno figura-fondo" , "Alucinación" , *"Ilusión objetiva"}
 ```
 
-**SIN RESPONDER**
-
 ```exercise
 Darle significado a los objetos que percibimos, corresponde a la función:
-$choice{"Integrar" , "Discriminar" , "Interpretar" , "Seleccionar" , "Todas las anteriores"}
+$choice{"Integrar" , "Discriminar" , *"Interpretar" , "Seleccionar" , "Todas las anteriores"}
 ```
 
 ```exercise
@@ -180,3 +174,90 @@ $choice{"Ilusión" , "Alucinación" , "Distorsión" , "Ilusión objetiva" , *"Il
 Andrés ha ingerido sustancias estupefacientes y expresa ver un duende que en realidad no existe. Esto corresponde a una de las anomalías de la percepción denominada:
 $choice{"Amnesia" , "Ilusión" , "Ilusión objetiva" , "Ilusión subjetiva" , *"Alucinación"}
 ```
+
+```exercise
+La percepción se distingue de la sensación porque:
+A) Es un proceso cognitivo. 
+B) Interpreta la información.
+C) Ocurre en el cerebro.
+D) No requiere tomar contacto con el objeto.
+E) Carece de base biológica 
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+"A mi hermano, después de consumir cerveza, le da diablos azules y cree ver a Satanás", la afirmación anterior es un ejemplo de:
+$choice{"Ilusión" , "Ilusión objetiva" , "Fenómeno Phi" , "Ilusión subjetiva" , *"Alucinación"}
+```
+
+```exercise
+¿Cuál es la actividad cognitiva que permite al sujeto interpretar e identificar los objetos que lo rodean?
+$choice{"Percepción" , "Reflexión" , "Evocación" , "Sensación" , *"Percepción"}
+```
+
+```exercise
+Percepción alterada o modificada de las características de un objeto, que conlleva a adjudicarle otras que no le corresponden.
+$choice{"Alucinación" , "Fantasía" , "Imaginación" , "Espejismo" , *"Ilusión"}
+```
+
+```exercise
+Debido al cansancio provocada por el estudio, Abeliño confundió el 3 por el 8 al leer su código. Sufrió una:
+$choice{"Alteración nerviosa" , "Alucinación mental" , "Alucinación visual" , "Ilusión objetiva" , *"Ilusión subjetiva"}
+```
+
+```exercise
+La $select{"sensación" , *"percepción" , "inteligencia" , "memoria" , "atención"} es la actividad por la cual completamos, corregimos e interpretamos los estímulos captados por los sentidos.
+```
+
+```exercise
+La anomalía que se produce en el momento en que un sujeto afirma que está percibiendo un estímulo cuando en realidad nadie lo observa, se denomina:
+$choice{"Neurosis" , "Psicopatía" , "Amnesia" , "Ilusión" , *"Alucinaciones"}
+```
+
+```exercise
+La $select{"sensación" , "inteligencia", "atención" , "memoria" , *"percepción"} es la actividad por la cual completamos, corregimos e interpretamos los estímulos captados por los sentidos.
+```
+
+```exercise
+Mientras que la ilusión es una percepción distorsionada, la alucinación es una percepción
+$choice{"Doble" , "Equivocada" , "Diferente" , "Incompleta" , *"Falsa"}
+```
+
+```exercise
+Una noche, Miguel se despierta y observa una araña muy grande en la pared, corriendo se levanta, prende la luz y verifica que no hay tal araña, era el reflejo de un adorno en la ventana Miguel tuvo una:
+$choice{"Paramnesia" , "Alucinación" , "Psicosis" , "Trastorno de la figura - fondo" , *"Ilusión objetiva"}
+```
+
+```exercise
+Alejandra está muy angustiada, motivo por el cual confundió el llanto de un niño con el maullido de un gato. Esta anomalía se denomina:
+$choice{"Pesadilla" , "Alomnesia" , "Ilusión objetiva" , "Alucinación" , *"Ilusión subjetiva"}
+```
+
+```exercise
+La base psicológica de la percepción es la:
+$choice{"Sensación" , "Figura" , "Figura y forma" , "Inteligencia" , *"Figura y fondo"}
+```
+
+```exercise
+Ricardo es adicto al alcohol y siempre que bebe se cree el “Presidente del Perú”; él experimenta una:
+$choice{"Ilusión" , "Ilusión objetiva" , "Ilusión objetiva" , *"Alucinación" , "Más de una"}
+```
+
+```exercise
+Señale lo correcto en relación a las alteraciones perceptuales:
+I. En la ilusión se percibe algo no existente.
+II. Las alucinaciones pueden ser objetivas
+III. La ilusión objetiva es causada por las características del objeto
+$choice{"I y II" , "I y III" , "II" , "II y III" , *"III"}
+```
+
+```exercise
+Proceso cognoscitivo que nos permite completar, corregir e interpretar los estímulos en base a las experiencias y educación.
+$choice{"Memoria" , "Inteligencia" , "Sensación" , "Voluntad" , *"Percepción"}
+```
+
+```exercise
+La anomalía que se produce en el momento en que un sujeto afirma que está percibiendo un estímulo cuando en realidad nadie lo observa, se denomina:
+$choice{"Neurosis" , "Psicopatía" , "Amnesia" , "Ilusión" , *"Alucinaciones"}
+```
+

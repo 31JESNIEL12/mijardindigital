@@ -115,6 +115,10 @@ Las ==**ÚNICAS TALOFITAS**== son: Los Rodófitos, los Feófitos. los Hongos y l
 >[[23. BIOLOGÍA/PRÁCTICA/Reino Fungi\|PRESIONA AQUÍ]]
 
 ---
+**TAXONOMÍA DE CADA SER VIVO**
+>[[23. BIOLOGÍA/COMPLEMENTO/TAXONOMÍA/REINO FUNGI/Reino Fungi\|REINO FUNGI]]
+
+---
 **SIGUIENTE TEMA:** 
 >[[23. BIOLOGÍA/TEORÍA/Reino Plantae\|REINO PLANTAE]]
 

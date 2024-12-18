@@ -308,7 +308,3 @@ ARTÍCULO 137° CONSTITUCIÓN
 
 
 
----
-**PRÁCTICA**
-
->[[Cívica Intensivo\|CÍVICA INTENSIVO]]

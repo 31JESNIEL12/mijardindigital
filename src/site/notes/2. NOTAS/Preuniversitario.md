@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"permalink":"/2-notas/preuniversitario/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-notas/preuniversitario/","tags":["gardenEntry"]}
 ---
 
 # ESPACIO DE ESTUDIO
@@ -23,7 +23,7 @@
 
 >[[11. TRIGONOMETRÍA/TEORÍA/Teoría sobre la Trigonometría\|TRIGONOMETRÍA]]
 
->[[24. ANATOMÍA/TEORÍA/Teoría sobre la Anatomía\|ANATOMÍA]]
+>[[4. ANATOMÍA/TEORÍA/Teoría sobre la Anatomía\|ANATOMÍA]]
 
 >[[23. BIOLOGÍA/TEORÍA/Teoría sobre la Biología\|BIOLOGÍA]]
 
@@ -33,21 +33,21 @@
 
 >[[14. PSICOLOGÍA/TEORÍA/Temario sobre la Psicología\|PSICOLOGÍA]]
 
->[[12. LENGUAJE/TEORÍA/Teoría sobre el Lenguaje\|LENGUAJE]]
+>[[12. LENGUAJE/TEORÍA/Teoría de Lenguaje\|LENGUAJE]]
 
 >[[6. HABILIDAD VERBAL/TEORÍA/Teoría sobre RV\|HABILIDAD VERBAL]]
 
 >[[13. LITERATURA/TEORÍA/Teoría sobre la Literatura\|LITERATURA]]
 
->[[5. INGLÉS/Temario de Inglés\|INGLÉS]]
+>[[5. INGLÉS/TEORÍA/Temario de Inglés\|INGLÉS]]
 
 >[[15. CÍVICA/TEORÍA/Teoría sobre la Cívica\|CÍVICA]]
 
->[[20. FILOSOFÍA/TEORÍA/Temario sobre la Filosofía\|FILOSOFÍA Y LÓGICA]]
+>[[20. FILOSOFÍA/TEORÍA/Temario sobre la Filosofía y Lógica\|FILOSOFÍA Y LÓGICA]]
 
 >[[19. ECONOMÍA/TEORÍA/Teoría sobre la Economía\|ECONOMÍA]]
 
->[[16. HISTORIA DEL PERÚ/TEORÍA/Teoría sobre la Historia del Perú\|HISTORIA DEL PERÚ]]
+>[[16. HISTORIA DEL PERÚ/TEORÍA/Teoría de la Historia del Perú\|HISTORIA DEL PERÚ]]
 
 >[[17. HISTORIA UNIVERSAL/TEORÍA/Teoría sobre la Historia Universal\|HISTORIA UNIVERSAL]]
 
@@ -67,7 +67,7 @@
 
 >[[11. TRIGONOMETRÍA/PRÁCTICA/Práctica de Trigonometría\|TRIGONOMETRÍA]]
 
->[[24. ANATOMÍA/PRÁCTICA/Práctica de Anatomía\|ANATOMÍA]]
+>[[4. ANATOMÍA/PRÁCTICA/Práctica de Anatomía\|ANATOMÍA]]
 
 >[[23. BIOLOGÍA/PRÁCTICA/Práctica de Biología\|BIOLOGÍA]]
 
@@ -82,6 +82,8 @@
 >[[6. HABILIDAD VERBAL/PRÁCTICA/Práctica de RV\|HABILIDAD VERBAL]]
 
 >[[13. LITERATURA/PRÁCTICA/Práctica de Literatura\|LITERATURA]]
+
+>[[5. INGLÉS/PRÁCTICA/Práctica de Inglés\|INGLÉS]]
 
 >[[15. CÍVICA/PRÁCTICA/Práctica de Cívica\|CÍVICA]]
 
@@ -106,22 +108,6 @@
 >[[3. EXÁMENES/UNT/Exámenes UNT\|EXÁMENES DE ADMISIÓN UNT]]
 
 >[[3. EXÁMENES/UNI/Exámenes UNI\|EXÁMENES DE ADMISIÓN UNI]]
-
----
-# SIMULACROS
----
-
->[[4. SIMULACROS/ELITE/Simulacros Academia Elite\|SIMULACROS ACADEMIA ELITE]]
-
->[[4. SIMULACROS/VLEP/Simulacros Academia VLEP\|SIMULACROS ACADEMIA VLEP]]
-
->[[4. SIMULACROS/PREUNMSM/Simulacros PREUNMSM\|SIMULACROS ACADEMIA PREUNMSM]]
-
->[[4. SIMULACROS/PREUNI/Simulacros PREUNI\|SIMULACROS ACADEMIA PREUNI]]
-
->[[4. SIMULACROS/PRECPU/Simulacro CPU\|SIMULACROS ACADEMIA CPU]]
-
->[[4. SIMULACROS/GAJEL/Simulacros Academia Gajel\|SIMULACROS ACADEMIA GAJEL]]
 
 ---
 # EXTERNOS

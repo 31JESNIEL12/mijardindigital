@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/biomoleculas-inorganicas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/biomoleculas-inorganicas/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

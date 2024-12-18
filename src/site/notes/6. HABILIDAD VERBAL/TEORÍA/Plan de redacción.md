@@ -29,13 +29,13 @@
 - Elija entre las alternativas aquel que sea la introducción del tema propuesta (OPCIONAL)
 
 ✔ **TERCERO**
-- De no haber introducción, entonces el número que establezca la ==**ETIMOLOGÍA, LA EVOLUCIÓN, LA HISTORIA, LA DEFINICIÓN O CONCEPTUALIZACIÓN**== del tema propuesto
+- De no haber introducción, entonces el número que establezca la ==ETIMOLOGÍA, LA EVOLUCIÓN, LA HISTORIA, LA DEFINICIÓN O CONCEPTUALIZACIÓN== del tema propuesto
 
 ✔ **CUARTO**
-- Ubicar el número que refiera las ==**CARACTERÍSTICAS O ESPECIFIDADES**== del tema propuesto
+- Ubicar el número que refiera las ==CARACTERÍSTICAS O ESPECIFIDADES== del tema propuesto
 
 ✔ **QUINTO**
-- Enseguida, enlace los ==**FINES U OBJETIVOS**== del tema propuesto
+- Enseguida, enlace los ==FINES U OBJETIVOS== del tema propuesto
 
 ✔ **SEXTO**
 - Finalmente, conectar las conclusiones del tema

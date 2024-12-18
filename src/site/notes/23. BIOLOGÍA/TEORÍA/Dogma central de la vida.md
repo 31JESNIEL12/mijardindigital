@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/dogma-central-de-la-vida/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/dogma-central-de-la-vida/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

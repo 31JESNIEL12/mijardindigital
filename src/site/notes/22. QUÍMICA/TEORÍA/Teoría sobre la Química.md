@@ -1,5 +1,5 @@
 ---
-{"tags":["Química","Teoría"],"dg-publish":true,"permalink":"/22-quimica/teoria/teoria-sobre-la-quimica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/22-quimica/teoria/teoria-sobre-la-quimica/","tags":["Química","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA QUÍMICA

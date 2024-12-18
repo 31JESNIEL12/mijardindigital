@@ -22,5 +22,5 @@
 
 ---
 **ANTERIOR TEMA:** 
->[[6. HABILIDAD VERBAL/TEORÍA/Métodos, técnicas y niveles de comprensión lectora\|MÉTODOS, TÉCNICAS Y NIVELES DE COMPRENSIÓN LECTORA]]
+>[[6. HABILIDAD VERBAL/TEORÍA/Comprensión lectora\|COMPRENSIÓN LECTORA]]
 

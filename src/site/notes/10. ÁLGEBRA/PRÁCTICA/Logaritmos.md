@@ -602,3 +602,22 @@ $choice{"5" , "6" , "9" , "7" , "8"}
 $choice{*"A" , "B" , "C" , "D" , "E"}
 ```
 
+```exercise
+Dada la ecuación:
+![Ciencias e ingenierías 2024 XVI.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ciencias%20e%20ingenier%C3%ADas%202024%20XVI.png)
+$choice{"2" , *"3" , "4" , "8" , "12"}
+```
+
+```exercise
+Halle la solución de: 
+![Elite 2024-II 10 IV.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Elite%202024-II%2010%20IV.png)
+$choice{"-4" , "4" , "1" , "2" , *"-3"}
+```
+
+```exercise
+Hallar el conjunto solución:
+![Elite 2024-II 09 V.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Elite%202024-II%2009%20V.png)
+$choice{"[-4 ; 5>" , "R" , "<0 ; 7>" , "<-1 ; 2]" , *"[1 ; 6]"}
+```
+
+

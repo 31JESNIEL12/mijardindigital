@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/literatura-pre-republicana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/literatura-pre-republicana/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/temario-sobre-la-psicologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/temario-sobre-la-psicologia/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA PSICOLOGÍA

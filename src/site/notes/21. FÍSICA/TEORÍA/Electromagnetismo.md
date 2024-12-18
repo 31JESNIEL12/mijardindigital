@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/21-fisica/teoria/electromagnetismo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/electromagnetismo/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

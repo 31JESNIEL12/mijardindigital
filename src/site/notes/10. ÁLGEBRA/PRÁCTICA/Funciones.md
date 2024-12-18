@@ -9,3 +9,8 @@
 
 ---
 
+```exercise
+![Elite 2024-II 07 V.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Elite%202024-II%2007%20V.png)
+$choice{"1" , "3" , "4" , "0" , *"2"}
+```
+

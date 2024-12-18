@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Práctica"],"dg-publish":true,"permalink":"/19-economia/practica/credito/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/practica/credito/","tags":["Economía","Práctica"]}
 ---
 
 # PRÁCTICA
@@ -111,6 +111,16 @@ $choice{"5 mil soles" , "15 mil soles" , "40 mil soles" , "50 mil soles" , *"10 
 ```exercise
 Cuando los grandes centros comerciales venden alimentos, vestidos, calzados, bebidas, tabaco y textiles a sus clientes, con el compromiso de pago a futuro, les están otorgando un crédito:
 $choice{"Ilimitado" , *"De consumo" , "De inversión" , "De capital" , "Sin intereses"}
+```
+
+```exercise
+Mario invita a Mónica a degustar una riquísima cena en un restaurante muy conocido y recomendado de la ciudad. Al llegar la hora de pago, Mario ha decidido cancelar con su tarjeta de crédito, en dos cuotas, es decir, un pago facturado en dos meses. Al respecto este tipo de crédito se considera como
+I. Crédito de corto plazo.
+II. Crédito de consumo.
+III. Crédito prendario.
+IV. Crédito de mediano plazo.
+Son correctas:
+$choice{"II y III" , "II y IV" , "III y IV" , "I y IV" , *"I y II"}
 ```
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/posmodernismo-peruano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/posmodernismo-peruano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

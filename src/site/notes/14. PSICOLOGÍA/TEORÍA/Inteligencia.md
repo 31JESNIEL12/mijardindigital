@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/inteligencia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/inteligencia/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

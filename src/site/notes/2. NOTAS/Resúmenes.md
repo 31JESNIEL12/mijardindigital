@@ -1,11 +1,11 @@
 ---
-{"tags":["Teoría"],"dg-publish":true,"permalink":"/2-notas/resumenes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-notas/resumenes/","tags":["Teoría"]}
 ---
 
 # RESÚMENES DE TODOS LOS CURSOS
 ---
 
->[[24. ANATOMÍA/TEORÍA/Resumen de Anatomía\|RESUMEN DE ANATOMÍA]]
+>[[4. ANATOMÍA/TEORÍA/Resumen de Anatomía\|RESUMEN DE ANATOMÍA]]
 
 >[[14. PSICOLOGÍA/TEORÍA/Resumen de Psicología\|RESUMEN DE PSICOLOGÍA]]
 
@@ -20,6 +20,8 @@
 >[[15. CÍVICA/TEORÍA/Resumen de Cívica\|RESUMEN DE CÍVICA]]
 
 >[[12. LENGUAJE/TEORÍA/Resumen de Lenguaje\|RESUMEN DE LENGUAJE]]
+
+>[[5. INGLÉS/TEORÍA/Resumen de Inglés\|RESUMEN DE INGLÉS]]
 
 >[[20. FILOSOFÍA/TEORÍA/Resumen de Filosofía\|RESUMEN DE FILOSOFÍA]]
 

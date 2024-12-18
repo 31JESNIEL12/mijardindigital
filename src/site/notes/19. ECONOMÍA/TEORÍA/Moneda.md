@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/moneda/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/moneda/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA
@@ -8,6 +8,9 @@
 
 >[!sidenote]- **LINKS EXTERNOS DE CLASES**
 >[LA TEORÍA DEL DINERO - GRUPO CIENCIAS](https://youtu.be/EGqZVERI6Hw?si=eZlo09DUIr8BFftS)
+
+
+
 
 ---
 **PROCESO DE ACUÑACIÓN**

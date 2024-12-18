@@ -37,3 +37,13 @@ D) De la abolición del tributo indígena
 E) C y D
 $choice{"A" , "B" , *"C" , "D" , "E"}
 ```
+
+```exercise
+Ana, una estudiante destacada de la Especialidad de Ciencias Históricos Sociales y Filosofía en la UNPRG está analizando las principales características del periodo de la Prosperidad Falaz en el Perú. Señale cuál es la afirmación incorrecta:
+A) La economía se benefició significativamente de la venta del guano
+B) Hubo una notable estabilidad política y económica.
+C) La administración eficaz de los presidentes evito problemas financieros.
+D) Se realizaron varios empréstitos de Inglaterra.
+E) El periodo finalizo en bancarrota debido a la mala administración
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```

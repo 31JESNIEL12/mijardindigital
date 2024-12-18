@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/resumen-de-psicologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/resumen-de-psicologia/","tags":["Psicología","Teoría"]}
 ---
 
 # RESUMEN Y MNEMOCTENIAS

@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/estatica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/estatica/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA

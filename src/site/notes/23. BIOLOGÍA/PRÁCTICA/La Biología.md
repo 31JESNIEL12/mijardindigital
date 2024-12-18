@@ -15,9 +15,6 @@ $choice{"Atómico" , "Molecular" , "Macromolecular" , "Agregado supramolecular" 
 ```
 
 ```exercise
-
-
-```exercise
 De acuerdo con los niveles de organización de los seres vicos, se considera como el primer nivel biótico al:
 $choice{"Nivel molecular" , *"Nivel celular" , "Nivel de ecosistema" , "Nivel atómico" , "Nivel organismo"}
 ```
@@ -1634,5 +1631,89 @@ $choice{"Ovíparos" , "Ovíparos - Ovulíparos" , "Marsupiales" , "Vivíparos" ,
 ```exercise
 Las crías se forman a partir de gametos sin fecundación:
 $choice{"Sexual" , "Asexual" , "Clones" , *"Partenogénesis" , "Fragmentaria"}
+```
+
+```exercise
+Según los niveles de organización; el conjunto de individuos de la misma especie en determinado tiempo y espacio:
+$choice{"Individuo" , "Comunidad" , "Ecosistema" , "Ecósfera" , *"Población"}
+```
+
+```exercise
+La biología está clasificada como ciencia:
+$choice{"Fáctica - Natural - Abiótica" , "Formal - Natural - Biótica" , "Formal - Social - Biótica" , "Fáctica - Social - Abiótica" , *"Fáctica - Natural - Biótica"}
+```
+
+```exercise
+"La teoría del uso y desuso"
+"Hidrogeología"
+"Filosofía zoológica"
+fueron obras escritas por:
+$choice{"Trevirus" , "Darwin" , "Aristóteles" , "Wallace" , *"Lamarck"}
+```
+
+```exercise
+Característica de los seres vivos que les permite mantener condiciones constantes internamente, sin verse afectado por su ambiente exterior:
+$choice{"Irritabilidad" , "Metabolismo" , "Evolución" , "Crecimiento" , *"Homeostasis"}
+```
+
+```exercise
+Es una cualidad de la reproducción asexual:
+A) Se realiza solamente entre 2 individuos
+B) Tipo más antiguo de reproducción
+C) Presenta gametos
+D) Requiere un macho y una hembra
+E) Realizado principalmente por el reino monera
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+Corresponde a una población:
+$choice{"Individuos clonados" , *"Individuos de la misma especie" , "Individuos de distintas especies" , "Individuos del mismo género" , "Individuos de distinto género"}
+```
+
+```exercise
+Los científicos que introdujeron el término "Biología" en el siglo XIX (1802) fueron:
+$choice{"Darwin y Wallace" , "Dixon y Joly" , "Schleiden y Schwann" , *"Lamarck y Treviranus" , "Singer y Nicholson"}
+```
+
+```exercise
+"No sobrevive la especie màs fuerte, ni la más inteligente, sino aquella que se adecúa mejor a los cambios del ambiente"; en el enunciado anterior, Darwin se refería a los individuos con mejor capacidad de:
+$choice{"Irritabilidad" , "Homeostasis" , "Crecimiento" , "Metabolismo" , *"Adaptaciòn"}
+```
+
+```exercise
+Característica de los seres vivos relacionada, con la formación o destrucción molecular que implica intercambio de materia con energía
+$choice{"Homeostasis" , "Crecimiento" , "Adaptación" , "Evolución" , *"Metabolismo"}
+```
+
+```exercise
+Dominio de la biología encargado del estudio de la herencia, variaciones y transmisión de caractéres entre generaciones:
+$choice{"Taxonomía" , "Genética" , "Etnología" , "Biogenia" , *"Genética"}
+```
+
+```exercise
+No corresponde a la ictiología:
+$choice{"Mielga" , "Paiche" , "Tilapia" , "Congrio" , *"Jaiba"}
+```
+
+```exercise
+Corresponden a una biocenosis:
+$choice{"Individuos clonados" , "Individuos de la misma especie" , "Individuos del mismo género" , "Individuos del distinto género" , *"Individuos de distintas especies"}
+```
+
+```exercise
+Los procesos de reacciones químicas realizadas por un organismo para la síntesis de una molécula se denomina:
+$choice{"Reproducción" , "Catabolismo" , "Crecimiento" , "Movimiento" , *"Anabolismo"}
+```
+
+```exercise
+Son organismos autótrofos:
+1. Árboles 
+2. Hongos 
+3. Algas 
+4. Bacterias púrpuras 
+5. Protozoos 
+Son ciertas:
+$choice{*"1 - 3 - 4" , "1 - 2 - 3" , "1 - 3 - 5" , "3 - 4 - 5" , "2 - 3 - 4"}
 ```
 

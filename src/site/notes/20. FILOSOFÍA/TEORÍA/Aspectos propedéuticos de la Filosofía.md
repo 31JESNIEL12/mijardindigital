@@ -1,5 +1,5 @@
 ---
-{"tags":["Filosofía","Teoría"],"dg-publish":true,"permalink":"/20-filosofia/teoria/aspectos-propedeuticos-de-la-filosofia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/aspectos-propedeuticos-de-la-filosofia/","tags":["Filosofía","Teoría"]}
 ---
 
 # TEORÍA
@@ -201,7 +201,7 @@
 ---
 **RAMAS O DISCIPLINAS DE LA FILOSOFÍA**
 
-✔ [[20. FILOSOFÍA/TEORÍA/La Ética y Moral\|ETICA]] 
+✔ [[20. FILOSOFÍA/TEORÍA/La Ética\|ETICA]] 
 - Problematiza sobre la ==**MORAL**==, el bien y la libertad
 - Reflexión (ÉTICA) → Costumbres (MORAL)
 - La gente hace el mal porque es ignorante de ello (Sócrates) 

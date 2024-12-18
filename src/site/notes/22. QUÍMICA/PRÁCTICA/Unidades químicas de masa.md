@@ -11,12 +11,12 @@
 
 ```exercise
 La muestra de un mineral de un meteorito que cayó en la tierra resulta ser el óxido de un metal “Z” desconocido. Si el análisis de 1,5 g de la muestra arroja un contenido de 0,5 g de oxígeno. Determinar cuál será el peso atómico del metal desconocido asumiendo que la fórmula es ZO₂
-$input{"44"}
+$choice{*"44" , "42" , "46" , "45" , "43"}
 ```
 
 ```exercise
 Si un mineral contiene 23% de sodio y está conformado por Na₂CO₃. Determine el porcentaje de impurezas del mineral
-$input{"47%"}
+$choice{*"47%" , "45%" , "50%" , "40%" , "60%"}
 ```
 
 ```exercise
@@ -301,5 +301,322 @@ $choice{"C₆H₆" , "C₄H₄" , "C₂H₂" , "C₄H₈" , *"C₂H₄"}
 ```exercise
 Determine la fórmula empírica de un hidrocarburo si se conoce que la combustión completa de 1,2 g de dicho compuesto producen 3,3 g de dióxido de carbono (CO₂ <sub>(g)</sub>)
 $choice{"CH" , "CH₂" , "C₃H₈" , "CH₃" , *"CH₄"}
+```
+
+```exercise
+Si 2g de algas verdes por fotosíntesis absorben 9 milimoles de CO₂ por hora. Si los átomos de carbono que se fijan, se almacenan en su totalidad después de la fotosíntesis en forma de almidón C₆H₁₀O₅. ¿Cuántas horas tardaran las algas en cuadruplicar su peso?
+$choice{"20 h" , "1,5 h" , *"24,7 h" , "8,23 h" , "4,52 h"}
+```
+
+```exercise
+Cuando se calienta a 250 ?C una muestra de un compuesto orgánico que contiene carbono, hidrógeno y oxígeno, pasa a estado gaseoso y su densidad a 1,2 atm de presión vale 0,84g/L. Por otro lado, cuando se queman 12,06 g de dicho compuesto, se producen 17,67 g de dióxido de carbono y 7,24 g de agua. Determina su fórmula empírica. Datos: C = 12; O = 16; H = 1 g/mol
+$choice{"CHO" , "C₂HO" , "CHO₂" , "C₂H₂O" , *"CH₂O"}
+```
+
+```exercise
+De las siguientes proposiciones:
+I. El peso de un átomo es la suma de las masas de sus nucleones.
+II. La masa de 1 mol de átomos de Na es igual a la masa de 1 at-g de sodio.
+III. La masa de un átomo de carbono es aproximadamente 2 x 10-23g.
+IV. El átomo – gramo es la unidad de masa de las moléculas.
+V. El peso molecular es la masa de una molécula.
+Son ciertas:
+$choice{"I, II, III y IV" , "Todas" , "I, III y V" , "II, IV y V" , *"I, II y III"}
+```
+
+```exercise
+El contenido de hemoglobina en la sangre es aproximadamente 15,5 g/100 mL de sangre. Si la masa de 1 mol de la hemoglobina es 64,5 kg; y hay 4 átomos de hierro en una molécula de hemoglobina. ¿Cuántos átomos de hierro hay en los 6L, aproximadamente, de sangre de un adulto?
+$choice{"3 x 10²¹" , "15,5 x 10¹¹" , "2 x 10²²" , "3 x 10²¹" , *"3,47 x 10²²"}
+```
+
+```exercise
+Sobre el peso o masa de un átomo, podemos mencionar que:
+I. Se puede calcular haciendo que el PA (PA = Peso atómico) del elemento se divide entre en NA (NA = Número de avogrado)
+II. Es la masa que aportan los nucleones fundamentales
+III. Es la masa que aporta los electrones y protones 
+IV. Es equivalente a una at-g
+Es correcto:
+$choice{"I y III" , "II y III" , "III y IV" , "I, II y III" , *"I y II"}
+```
+
+```exercise
+Señalar con (V) verdadero y (F) falso:
+I. El peso de una molécula de NH<sub>3</sub> es 17 g
+II. Un átomo - gramo es el peso de un mol de átomos
+III. El peso atómico y el peso molecular se expresan en uma
+IV. Un átomo - gramo es numéricamente igual al peso atómico expresado en gramos
+$choice{"FVFV" , "VVVF" , "FVVF" , "FVVV" , *"FFVV"}
+```
+
+```exercise
+Si el porcentaje de hierro en un compuesto es del 70% y su fórmula contiene un símbolo de Fe. ¿Cuál es la masa molar de dicho compuesto g/mol? (PA: Fe = 56)
+$choice{"560" , "120" , "170" , "640" , *"80"}
+```
+
+```exercise
+En 40 moles de una mezcla gaseosa cuya composición molar es 20% de O<sub>2</sub> y 80% de CO<sub>2</sub>. ¿Cuántos átomos de oxígeno hay?
+$choice{"4,8 x 10²³" , "80 x 10²³" , "2,4 x 10²⁵" , "9,6 x 10²⁵" , *"4,8 x 10²⁵"}
+```
+
+```exercise
+A partir de 1275 g de un mineral que contiene 80% en peso de óxido de aluminio, la masa de aluminio que se puede obtener es: (PA: Al = 27; O = 16)
+$choice{"270,00" , "640" , "731" , "843,75" , *"540,00"}
+```
+
+```exercise
+En un experimento se necesita 13,6 gramos de sulfato de calcio pentahidratado se tuvieron que calentar para obtener la sal anhidra?
+$chocie{"}
+(CaSO<sub>4</sub> = 136 g/mol)
+$choice{"0,026" , *"22,6" , "2,26" , "226" , "11,3"}
+```
+
+```exercise
+En el compuesto Fe<sub>2</sub>O<sub>3</sub> el 70% en peso es hierro. ¿Cuántos átomos de hierro se podrá extraer de 350 g de Fe<sub>2</sub>O<sub>3</sub>?
+$choice{"63" , "3,06 NA" , "44" , "6,3 NA" , *"4,4 NA"}
+```
+
+```exercise
+El Hospital Nacional "LUIS HEISEN INCHAUSTEGUI" diagnostica diabetes cuando el paciente tiene más de 110 mg de glucosa (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) por 0,1 litros de sangre, se efectúa el análisis bioquímico de 5 ml de sangre de un paciente y se determina la presencia de 18 x 10<sup>18</sup> moléculas de glucosa. ¿Que diagnosticaría Ud? Dato P.M (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) = 180
+$choice{"Faltan datos" , "Su sangre no es pura" , "Tiene diabetes" , "No sé" , *"No tiene diabetes"}
+```
+
+```exercise
+¿Cuántos gramos de calcio existen en el Ca(NO<sub>3</sub>)<sub>2</sub>; si se tiene una muestra de esta sal que contiene 20 g de nitrógeno? (Ca = 40, N = 14, O = 16)
+$choice{"5,2 g" , "4,3 g" , "7,2 g" , "14,3 g" , *"28,6 g"}
+```
+
+```exercise
+La fórmula empírica de un óxido de nitrógeno es NO<sub>2</sub>. Se detecta que 5 g de uno de los óxidos ocupan 1,22 litros de C.N. La fórmula molecular es:
+$choice{"N₂O₃" , "N₂O" , "N₄O₈" , "N₃O₆" , *"N₂O₄"}
+```
+
+```exercise
+Por difracción de rayos "X" se han determinado que un cristal ortorrómbico de "Aragonita" tiene distribuidas 2,4092 x 10<sup>21</sup> moléculas. Por fotometría de flama se determinó que tiene 0,4 g de masa. Determinar la masa molecular de la "Aragonita".
+$choice{"200" , "50" , "250" , "150" , *"100"}
+```
+
+```exercise
+Una muestra de mineral de cobre que pesa 1 Kg contiene 301,15 x 10<sup>22</sup> átomos de Cobre. ¿Cuál es el porcentaje de pureza en la muestra?
+$choice{"21,75%" , "25,8%" , "42,75%" , "68,25%" , *"31,75%"}
+```
+
+```exercise
+¿Cuántas moles y cuántos gramos de oxígeno gaseoso puede obtenerse a partir de 1,806 x 10<sup>24</sup> unidades fórmula de Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>?
+$choice{"24; 128" , "2; 128" , "24; 384" , "18; 128" , *"12; 384"}
+```
+
+```exercise
+¿Cuántos miligramos de nitrógeno contendrá la masa de 3,0115 x 10<sup>20</sup> moléculas de ácido nítrico?
+$choice{"10" , "1,1" , "5,2" , "0,68" , *"7"}
+```
+
+```exercise
+La densidad del hidrocarburo C<sub>n</sub>H<sub>2n + 2</sub> a condiciones normales es 2,58 g/l. Calcular la atomicidad del hidrocarburo.
+$choice{"10" , "12" , "18" , "16" , *"14"}
+```
+
+```exercise
+Una mezcla contiene 2 at-gr de oxígeno, 1 at-gr de azufre y 2 at-gr de nitrógeno. ¿Cuánto pesa la mezcla en gramos?
+$choice{"124" , "47" , "89" , "62" , *"92"}
+```
+
+```exercise
+Una muestra de un compuesto que pesa 83,5 g contiene 33,4 g de azufre. El resto es de Oxígeno. ¿Cuál es la fórmula mínima?
+$choice{"SO" , "SO₂" , "SO₆" , "S₂O₃" , *"SO₃"}
+```
+
+```exercise
+La densidad de 100 mL de una solución acuosa de una sustancia "A" es 1,2 g/mL. Determine el número de moléculas de agua que contiene, considerando que la solución está el 40% de masa de "A". Considere NA: Número de Avogrado.
+$choice{"3 NA" , "6 NA" , "8 NA" , "5 NA" , *"4 NA"}
+```
+
+```exercise
+¿Cuántos átomos combinados se tienen 1710 g de sacarosa (C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>) (PA: C = 12; H = 1; O = 16)
+$choice{"175 NA" , "220 NA" , "186 NA" , "200 NA" , *"225 NA"}
+```
+
+```exercise
+Cieto tipo de carbohidrato tiene fórmula molecular C<sub>n</sub>(H<sub>2</sub>O)<sub>m</sub>. Calcular el valor numérico de m/n, si la composición centesimal es 42,10% de C y 6,43% de H. Siendo su peso molecular de 342. (C = 12; O = 16; H = 1)
+$choice{"12/11" , "2" , "3/5" , "1/2" , *"11/12"}
+```
+
+```exercise
+Una muestra de dicromato de amonio ((NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>) contiene 1,81 x 10<sup>24</sup> átomos de hidrógeno. ¿Cuántos gramos de nitrógeno hay en ella?
+N = 14; H = 1; Cr = 52; O = 16
+$choice{"5,3 g" , "0,74 g" , "21,3 g" , "0,377 g" , *"10,56 g"}
+```
+
+```exercise
+La masa del átomo de un elemento es de 5,146 x 10<sup>-23</sup> g, calcular la masa de un mol si su molécula es tetratómica.
+$choice{"78 g" , "243 g" , "12,5 g" , "12 g" , *"124 g"}
+```
+
+```exercise
+En el compuesto hidratado Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>. XH<sub>2</sub>O existe 15,5% de fósforo. Calcular el valor de X.
+(Ca = 40; P = 31; O = 16; H = 1)
+$choice{"6" , "7" , "9" , "8" , *"5"}
+```
+
+```exercise
+¿Qué volumen (mL) de una disolución de etanol (C<sub>2</sub>H<sub>6</sub>O) que tiene 94% de pureza en masa, contiene 0,2 moles de etanol? La densidad de la disolución es 0,807 g/ml? P.A: C = 12; O = 16
+$choice{"9,2 ml" , "94 ml" , "9,8 ml" , "13,12 ml" , *"12,13 ml"}
+```
+
+```exercise
+Hallar el número de protones que existe en una muestra de 128 g de oxígeno molecular (O<sub>2</sub>).
+(O = 16, Z = 8) NA = Número de Avogrado.
+$choice{"6 NA" , "8 NA" , "4 NA" , "9 NA" , *"64 NA"}
+```
+
+```exercise
+Hay un ácido orgánico muy abundante en limones, naranjas y toronjas, cuando se queman 5 gramos de este ácido se producen 6,875 gramos de dióxido de carbono y 1,875 gramos de agua, si 0,25 moles de este compuesto equivalen a 48 gramos. ¿Cuál es la fórmula molecular del compuesto orgánico?
+$choice{"C₄H₆O₃" , "C₄₀H₆O₃" , "C₆H₇O₂" , "C₄H₁₆O₃" , *"C₆H₈O₇"}
+```
+
+```exercise
+Respecto al peso atómico indique la proposición incorrecta:
+A) Al igual que el peso de un átomo no tiene unidades
+B) Se obtiene al relacionar el peso de un átomo con 1/12 del peso de un átomo de C-12
+C) Numéricamente es igual al peso de 1 átomo - gramo
+D) El peso atómico promedio de un elemento está relacionado con masa de sus isótopos y sus porcentajes en abundancia
+E) Expresado en gramos contiene 6,023 x 10<sup>23</sup> átomos
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+Para fertilizar un suelo se requiere 190 Kg de PO<sub>4</sub><sup>-3</sup>; en el mercado se cuenta con un fertilizante comercial de 90% de pureza fosfato diácido de amonio. El número de Kg que se debe adquirir de fertilizante es:
+(P = 31; N = 14; O = 16; H = 1)
+$choice{"185,7" , "230,0" , "316,8" , "290,3" , *"255,6"}
+```
+
+```exercise
+La cafeína, compuesto orgánico, contiene 168 g de carbono, 20 g de hidrógeno, 64 g de oxígeno y 112 g de nitrógeno. ¿Cuántos átomos de hidrógeno contiene la fórmula empírica de una molécula del compuesto?
+$choice{"2" , "5" , "7" , "20" , *"10"}
+```
+
+```exercise
+Un compuesto orgánico cuya molécula contiene un átomo gramo de nitrógeno en su estructura y que representa el 8,48% en peso. Calcular el peso molecular del compuesto. Dato: P.A: N = 14.
+$choice{"172" , "189" , "319" , "216" , *"165"}
+```
+
+```exercise
+A partir de 10 moles de glucosa, (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>). ¿Qué masa de carbono se obtendrá teóricamente? C = 12; H = 1; O = 16.
+$choice{"976 g" , "420 g" , "500 g" , "480 g" , *"720 g"}
+```
+
+```exercise
+¿Cuál es el peso de calcio en Kg que se puede obtener a partir de media tonelada de caliza (Carbonato de Calcio) con 25% de impurezas? (Ca = 40; C = 12; O = 16)
+$choice{"100" , "50" , "200" , "250" , *"150"}
+```
+
+```exercise
+Se tiene cuatro cuatrillones de átomos de hidrógeno. ¿Qué masa representa?
+$choice{"100 g" , "10 g" , "1 g" , "1000 g" , *"6,6 g"}
+```
+
+```exercise
+La hemoglobina es la molécula portadora de oxígeno de las células rojas de la sangre y consiste en una proteína y una sustancia proteica. La sustancia no proteica se llama Hemo y contiene un átomo de hierro por molécula de Hemo. Determinar el peso molecular del Hemo, sabiendo que una muestra de 35,2 mg de Hemo contiene 3,19 mg de hierro.
+Dato: Fe = 56
+$choice{"68 000 uma" , "878 uma" , "1003 uma" , "34 000 uma" , *"618 uma"}
+```
+
+```exercise
+¿Cuántos gramos de agua están contenidos en 52,45 mili moles de Na<sub>2</sub>CO<sub>3</sub>. 10H<sub>2</sub>O? (Na = 23; C = 12; O = 16; H = 1)
+$choice{"4,72" , "0,01" , "18,88" , "25,47" , *"9,44"}
+```
+
+```exercise
+X e Y son dos elementos que pueden formar los compuestos "X<sub>2</sub>Y" y "XY<sub>3</sub>". sI 1,5 mol-g de X<sub>2</sub>Y pesan 162 g y 0,25 mol-g de XY<sub>3</sub> pesan 56 g. ¿Cuáles son los pesos atómicos de X e Y?
+$choice{"30 y 48" , "68 y 20" , "58 y 40" , "48 y 30" , *"20 y 68"}
+```
+
+```exercise
+Hallar la fórmula empírica de un óxido de cromo que contiene 52% en masa de cromo. (P.A: Cr = 52; O = 16)
+$choice{"CrO" , "Cr₂O" , "CrO₂" , "Cr₂O₃" , *"CrO₃"}
+```
+
+```exercise
+Encontrar la masa de sodio, Na, en una muestra impureza de bicarbonato de sodio, NaHCO<sub>3</sub>, de 210 g en la que existe 20% de pureza en bicarbonato de sodio.
+$choice{"4,6 g" , "2,3 g" , "46 g" , "23 g" , *"11,5 g"}
+```
+
+```exercise
+El átomo de un elemento cuya molécula es diatómica pesa 5,9 x 10<sup>-23</sup> g. ¿Cuál es su peso molecular?
+$choice{"21" , "25" , "37" , "89" , *"71"}
+```
+
+```exercise
+Hallar el peso de un millón de moléculas de agua en gramos. Considere NA = 6 x 10<sup>23</sup>
+$choice{"6 x 10¯¹⁷" , "3 x 10¯²" , "18 x 10¯²³" , "6 x 10²³" , *"3 x 10¯¹⁷"}
+```
+
+```exercise
+Una muestra de glucosa (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) posee 10% en peso de impurezas y un total de 18,069 x 10<sup>24</sup> átomos de carbono. Hallar la masa total de la muestra.
+$choice{"90 g" , "900 g" , "980 g" , *"1000 g" , "100 g"}
+```
+
+```exercise
+En un motor de prueba de la NASA se consume 20 moles de N<sub>2</sub>O<sub>4</sub> como parte de una mezcla propulsora, esta contiene:
+I. 40 at-g de nitrógeno
+II. 40 at-g de oxígeno
+III. 80 NA átomos de oxígeno
+IV. 20 NA átomos de nitrógeno
+V. 1,84 Kg de N<sub>2</sub>O<sub>4</sub>
+Indique con (V) o falso (F) según sea el caso:
+$choice{"VVVVV" , "VVFFV" , "FFFVV" , *"VFVFV" , "FVFVF"}
+```
+
+```exercise
+¿Cuántos litros de oxígeno en CN se podrán obtener a partir de 490 gramos de ácido sulfúrico?
+$choice{"132 l" , "124 l" , "214 l" , "15 l" , *"224 l"}
+```
+
+```exercise
+¿Cuál será la cantidad de átomos - kg que están contenidos en 150 g de calcio?
+$choice{"51,5 x 10¯²" , "7,5 x 10¯⁴" , "32,5 x 10¯⁵" , "6,023 x 10²³" , *"3,75 x 10³"}
+```
+
+```exercise
+La composición de B en el compuesto de B en el compuesto A<sub>2</sub>B es 60%. ¿Cuál es la composición de A en el compuesto AB?
+$choice{"40%" , "75%" , "20%" , "60%" , *"25%"}
+```
+
+```exercise
+Un óxido ácido tiene una atomicidad igual a 7. Determinar el peso atómico de no metal si el peso del oxígeno representa 38,15% en cierta cantidad de muestra.
+$choice{"180" , "150" , "90" , "75" , *"65"}
+```
+
+```exercise
+¿Cuál es la masa Ca(OH)<sub>2</sub> que se puede obtener a partir de 610 g de Al(OH)<sub>3</sub>? PA: Ca = 40; Al = 27; O = 16; H = 1
+$choice{"150" , "75" , "120" , "90" , *"870,5"}
+```
+
+```exercise
+A partir de una tonelada (1000 kg) de caliza CaCO<sub>3</sub> con 20% de impureza. ¿Qué peso de calcio se obtendrá teóricamente?
+$choice{"430" , "150" , "215" , "280" , *"320"}
+```
+
+```exercise
+Para la neutralización de un ácido carboxílico monoprótico saturados cuya masa es 3,7 gr. Se gastaron 5 ml de una solución al 40% en peso de KOH y con una densidad de 1,4 g/ml. ¿Determine la fórmula molecular del ácido?
+$choice{"C₂H₂COOH" , "CH₂COOH" , "CH₃COOH" , "CH₄COOH" , *"C₂H₅COOH"}
+```
+
+```exercise
+Un edulcorante artificial muy comercializado, tiene la composición química C<sub>14</sub>H<sub>18</sub>N<sub>2</sub>O<sub>5</sub>. ¿Cuál es el porcentaje en masa del carbono en el compuesto?
+$choice{"42,66%" , "47,14%" , "63,24%" , "53,16%" , "47,14%" , *"57,14%"}
+```
+
+```exercise
+Determinar el número de protones que hay en 14 moles de alcohol etílico.
+Dato: <sub>6</sub>C; <sub>1</sub>H; 8<sub></sub>O
+$choice{"268 NA" , "146 NA" , "954 NA" , "465 NA" , *"364 NA"}
+```
+
+```exercise
+Cuántos Kg de ácido sulfúrico de 98 % de pureza pueden obtenerse a partir de una tonelada de pirita de 75 % de pureza. Si las reacciones del proceso son:
+(PA: Fe = 56, S= 32, O = 16, H=1)
+FeS₂ + O₂ → Fe₂O₃ + SO₂
+SO₂ + O₂ + H₂O →  H₂SO₄
+$choice{"1225" , "2525" , "1025" , "1240" , *"1250"}
 ```
 

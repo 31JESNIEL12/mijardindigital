@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Lenguaje","Práctica"],"dg-publish":true,"permalink":"/13-literatura/practica/conocimientos-previos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/practica/conocimientos-previos/","tags":["Literatura","Lenguaje","Práctica"]}
 ---
 
 # PRÁCTICA
@@ -453,6 +453,17 @@ $choice{"Clasicismo" , "Fábulas" , "Dramas" , "Cantares de gesta" , *"Tragedias
 ```
 
 ```exercise
+Señale la clase de figura literaria que se presenta en los siguientes versos, (cuyas palabras están subrayadas)
+Nostalgia
+................
+<u>Sabrán</u> entonces las inquietas olas
+<u>sabrán</u> aún los discretos marineros, 
+<u>sabrán</u> las lejanas islas ignotas
+que desde mi tumba aún la recuerdo.
+$choice{"Símil o comparación" , "Onomatopeya" , "Antítesis" , "Polisíndeton" , *"Anáfora"}
+```
+
+```exercise
 "Cuan expresivo es el hombre / cuán elevada su razón". Estos versos son ejemplos de la figura literaria conocida como:
 $choice{"Símil" , "Antítesis" , "Oxímoron" , "Metáfora" , *"Anáfora"}
 ```
@@ -728,5 +739,62 @@ Dentro del fondo o plano de contenido de toda obra literaria, se halla:
 SON CIERTAS:
 $choice{"1, 2 y 3" , "1, 2 y 4" , "1, 3 y 5" , "2, 4 y 5" , *"3, 4 y 5"}
 ```
+
+```exercise
+En el verso: “No hay extensión más grande que mi herida”, ¿cuál es la figura literaria empleada?
+$choice{*"Hipérbole" , "Metáfora" , "Epíteto" , "Hipérbaton" , "Anáfora"}
+```
+
+```exercise
+**EN LOS VERSOS**
+Érase un hombre a una nariz pegado,
+érase una nariz superlativa,
+érase una nariz sayón y escriba,
+érase un pez espada muy barbado
+se presenta una:
+$choice{"Fábula" , *"Caricatura" , "Onomatopeya" , "Elegía" , "Autobiografía"}
+```
+
+```exercise
+Especie épica en la que se cantan las hazañas de un pueblo en forma gradilocuente
+$choice{"Cantar de gesta" , "Poema Épico" , "Mito" , "Leyenda" , *"Epopeya"}
+```
+
+```exercise
+Es un ejemplo de narración en verso.
+$choice{"María" , *"La divina comedia" , "El Quijote" , "La Galatea" , "La palabra del mudo"}
+```
+
+```exercise
+"... y este aplauso, que recibe
+prestado, en el viento escribe ..."
+La figura literaria utilizada es:
+$choice{"Pleonasmo" , "Aliteración" , "Retruécano" , "Anáfora" , *"Prosopopeya"}
+```
+
+```exercise
+"Está hueso y pellejo”. En la expresión anterior encontramos la figura literaria llamada:
+$choice{"Antítesis" , "Símil" , "Paradoja" , "Hipérbaton" , *"Hipérbole"}
+```
+
+```exercise
+Las primeras obras literarias de la literatura occidental fueron compuestas en $select{"prosa" , "diálogo" , "cuento" , "novela" , *"verso"} con la finalidad de memorizar las hazañas de un pueblo o de un héroe.
+```
+
+```exercise
+La cuadernavía, utilizada por Gonzalo de Berceo, es conocida también como:
+$choice{"Espinela" , "Lira" , "Soneto" , "Copla de pie quebrado" , *"Tetrástrofo monorrimo"}
+```
+
+```exercise
+¿Qué característica del género literario al que pertenece La metamorfosis es más evidente en la obra?
+A) La crítica social inherente al Realismo Mágico 
+B) La representación simbólica propia del Surrealismo 
+C) El énfasis en lo absurdo y alienante de la existencia humana dentro del Existencialismo 
+D) El retrato naturalista de la vida cotidiana
+E) La descripción de conflictos éticos en el marco de la Modernidad 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
 
 

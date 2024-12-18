@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/fisica-termica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/fisica-termica/","tags":["Física","Teoría"]}
 ---
 
 # TEORÍA
@@ -260,10 +260,6 @@ $$
 |    TITANIO    |        3287         | 1660            |
 |    VANADIO    |        3380         | 1890            |
 |   VOLFRAMIO   |        5660         | 3410            |
-
----
-**TERMODINÁMICA**
-
 
 ---
 **PRÁCTICA**:

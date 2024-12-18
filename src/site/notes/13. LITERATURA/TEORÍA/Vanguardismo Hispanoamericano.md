@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/vanguardismo-hispanoamericano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/vanguardismo-hispanoamericano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

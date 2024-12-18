@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-filosofia/teoria/antropologia-filosofica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/antropologia-filosofica/","tags":["Filosofía","Teoría"]}
 ---
 
 # TEORÍA
@@ -78,6 +78,6 @@ CORRIENTES:
 
 ---
 **ANTERIOR TEMA:**
->[[20. FILOSOFÍA/TEORÍA/La Ética y Moral\|LA ÉTICA Y LA MORAL]]
+>[[20. FILOSOFÍA/TEORÍA/Filosofía Política\|FILOSOFÍA POLÍTICA]]
 
 

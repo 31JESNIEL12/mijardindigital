@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/21-fisica/teoria/cantidad-de-movimiento-e-impulso/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/cantidad-de-movimiento-e-impulso/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
@@ -31,7 +31,7 @@
 
 ---
 **ANTERIOR TEMA:** 
->[[21. FÍSICA/TEORÍA/Trabajo y Energía\|TTRABAJO Y ENERGÍA]]
+>[[21. FÍSICA/TEORÍA/Trabajo y Energía\|TRABAJO Y ENERGÍA]]
 
 
 

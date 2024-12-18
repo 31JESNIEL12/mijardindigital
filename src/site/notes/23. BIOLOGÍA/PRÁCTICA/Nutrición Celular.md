@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["Biología"],"permalink":"/23-biologia/practica/nutricion-celular/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/practica/nutricion-celular/","tags":["Biología","Práctica"]}
 ---
 
 # PRÁCTICA
@@ -18,6 +18,17 @@ $choice{"Glucólisis" , "Glicólisis" , "Ciclo de Krebs" , *"Fermentación alcoh
 Las reacciones del ciclo de Krebs se realiza en:
 $choice{"Cloroplasto" , "Ribosomas" , "Vacuolas" , *"Mitocondria"}
 ```
+
+```exercise
+En los procesos metabólicos, indique la verdad o falsedad de los enunciados:
+- El ATP representa alta energía a largo plazo 
+- La fotosíntesis presenta una fase luminosa que se realiza en las crestas mitocondriales 
+- El ciclo de Krebs inicia con el ingreso de la glucosa en la matriz mitocondrial 
+- La desaminación oxidativa es un proceso característico de la lipólisis
+Es correcto:
+$choice{"VVVV" , "VFVF" , "FFFV" , "FVFF" , *"FFFF"}
+```
+
 
 ```exercise
 El proceso de fermentación útil en la industria de productos lácteos es:
@@ -332,6 +343,185 @@ $choice{"6 moléculas de glucosa" , "2 moléculas de oxígeno" , "Moléculas de 
 ```exercise
 Los productos intermediarios de la fotosíntesis son:
 $choice{"La glucosa y el CO₂" , "El NADPH₂ y el ATP" , "El oxígeno y CO₂" , "La clorofila y glucosa" , "El oxígeno y H₂O"}
+```
+
+```exercise
+El adenosín trifosfato (ATP), conocido como “moneda energética” se caracteriza por lo siguiente, excepto:
+A) Presenta dos enlaces de alta energía.
+B) Participa en el trabajo muscular.
+C) Se manifiesta en el transporte pasivo.
+D) Conserva la energía a corto plazo.
+E) Interviene en la trasmisión del impulso nervioso.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Los seres vivos pueden llevar sus procesos de nutrición de manera autótrofa y/o heterótrofa, siendo un mecanismo autótrofo conocido:
+$choice{"Digestión" , "Catabolismo" , "Respiración anaerobia" , "Respiración aerobia" , *"Fotosíntesis"}
+```
+
+```exercise
+Se muestran organismos fotosintéticos, excepto en:
+$choice{"Plantas y algas" , "Algas y cianobacterias" , "Cianobacterias y plantas" , *"Plantas y hongos" , "Bacterias púrpuras y verdes"}
+```
+
+```exercise
+Corresponden a procesos anabólicos:
+$choice{"Lisis" , "Degradar" , "Exergónico" , "Exotérmico" , *"Síntesis"}
+```
+
+```exercise
+Indique una cualidad del ATP:
+A) Presenta un único enlace energético.
+B) Proporciona una baja cantidad de energía. 
+C) Es de corta duración.
+D) Se utiliza principalmente en los huesos.
+E) Se utiliza en el transporte pasivo celular.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+No es un elemento que forma parte de la fase luminosa:
+$choice{"Luz" , "Agua" , "ATP" , "NADPH₂" , *"CO₂"}
+```
+
+```exercise 
+Se relaciona directamente con el proceso de anabolismo:
+$choice{"Lisis" , "Exotérmico" , "Exergónico" , "Degradación" , *"Síntesis"}
+```
+
+```exercise
+Los seres vivos pueden llevar sus procesos de nutrición de manera autótrofa y/o heterótrofa, siendo un mecanismo autótrofo conocido:
+$choice{"Respiración anaerobia" , "Respiración aerobia" , "Digestión" , "Catabolismo" , *"Fotosíntesis"}
+```
+
+```exercise
+Se muestran organismos fotosintéticos, excepto en:
+$choice{"Plantas y algas" , "Algas y cianobacterias" , "Cianobacterias y plantas" , "Bacterias púrpuras y verdes" , *"Plantas y hongos"}
+```
+
+```exercise
+Corresponden a procesos anabólicos:
+$choice{"Lisis" , "Degradar" , "Exergónico" , "Exotérmico" , *"Síntesis"}
+```
+
+```exercise
+Indique una cualidad del ATP:
+A) Presenta un único enlace energético.
+B) Proporciona una baja cantidad de energía. 
+C) Es de corta duración.
+D) Se utiliza principalmente en los huesos.
+E) Se utiliza en el transporte pasivo celular.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Corresponden a procesos anabólicos:
+$choice{"Lisis" , "Degradar" , "Exergónico" , "Exotérmico" , *"Síntesis"}
+```
+
+```exercise
+Indique una cualidad del ATP:
+A) Presenta un único enlace energético.
+B) Proporciona una baja cantidad de energía.
+C) Es de corta duración.
+D) Se utiliza principalmente en los huesos.
+E) Se utiliza en el transporte pasivo celular.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Son acontecimientos de la fase oscura de la fotosíntesis: 
+I. Carboxilación. 
+II.Regeneración de la RDP. 
+III. Fotoexcitación de la clorofila. 
+IV. Síntesis de ATP y NADPH2 
+V. Síntesis de glucosa
+Son ciertas:
+$choice{"II - III - IV" , "III - IV - V" , "I - III - V" , "I - IV - V" , *"I - II - V"}
+```
+
+```exercise
+En los procesos metabólicos, indique la verdad o falsedad de los enunciados:
+- El ATP representa alta energía a largo plazo.
+- La fotosíntesis presenta una fase luminosa que se realiza en las crestas mitocondriales.
+- El ciclo de Krebs inicia con el ingreso de la glucosa en la matriz mitocondrial.
+- La desaminación oxidativa es un proceso característico de la lipólisis.
+Es correcto:
+$choice{"VVVV" , "VFVF" , "FFFV" , "FVFF" , *"FFFF"}
+```
+
+```exercise
+En las reacciones finales de la respiración celular es necesario el $select{"Agua" , "Ácido pirúvico" , "NADH" , "Etanol" , *"Oxígeno"} porque actúa como aceptor final de electrones.
+```
+
+```exercise
+Es característica de la fermentación láctica:
+A) Es un tipo de reacción anabólica.
+B) La glucosa se degrada hasta CO2
+C) Interviene la enzima lactato descarboxilasa. 
+D) Es realizada por el músculo en trabajo.
+E) Es realizada por la levadura del pan.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+Las proteínas, polisacáridos y otras moléculas grandes se rompen en moléculas más sencillas mediante reacciones:
+$choice{"Anabólicas" , "Endotérmicas" , "Metabólicas" , "Endergónicas" , *"Catabólicas"}
+```
+
+```exercise
+Durante la fase luminosa de la fotosíntesis se libera oxigeno molecular proveniente de:
+$choice{"La glucosa" , "La RDP" , "La clorofila" , "El CO₂" , *"El agua"}
+```
+
+```exercise
+Es una característica del ATP, excepto:
+A) Es conocido como la “moneda energética”.
+B) Se forma mediante el proceso de fosforilación. 
+C) El ATP representa energía a largo plazo.
+D) La unión de adenina y ribosa se denomina adenosina.
+E) Presenta dos de sus enlaces altamente energéticos.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+No corresponde al anabolismo:
+$choice{"Síntesis" , "Formación" , "Génesis" , "Endotérmico" , *"Exergónico"}
+```
+
+```exercise
+No corresponde a la fotosíntesis:
+A) Captación del dióxido de carbono. 
+B) Consumo de acetil coenzima A.
+C) Liberación del oxígeno molecular.
+D) Producción final de glucosa.
+E) Lisis de la molécula de agua.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Al degradar una molécula de glucosa hasta 6 CO₂. ¿Cuántas moléculas de NADH₂ se producen?
+$choice{"4 NADH₂" , "2 NADH₂" , "5 NADH₂" , "6 NADH₂" , *"10 NADH₂"}
+```
+
+```exercise
+La hoja es un órgano de forma laminar, encargado de la nutrición de la planta. De acuerdo a sus diferentes funciones, indicar lo correcto: 
+A) Se encarga de la fotosíntesis, nutrición heterótrofa en la planta
+B) Realiza fijación debido a que forma zarcillos trepadores, como en la arveja
+C) Su almacenamiento se ve en aquellas hojas suculentas que presenta la sábila o la papa
+D) Presenta respiración y transpiración gracias a sus estromas
+E) Un ejemplo de hojas subterráneas son los catafilos, presentes en la cebolla y el esparrago
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Con respecto a la fotosíntesis, responder Verdadero (V) o Falso (F) según corresponda:
+I. El CO<sub>2</sub> se fija con la ribulosa en la fase oscura, dicho evento se realiza en el estroma.
+II. El agua es el donador de protones y electrones en el ciclo de Calvin y Benson.
+III. La síntesis de NADPH2 y ATP se realiza en la membrana tilacoidal.
+IV. El NADPH₂ y el ATP se consumen en la reacción de Blackman 
+$choice{"VVVV" , "VFVF" , "FFFV" , "VVFV" , *"VFVV"}
 ```
 
 

@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/pensamiento-y-lenguaje/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/pensamiento-y-lenguaje/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

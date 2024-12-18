@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/teoria-sobre-la-economia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/teoria-sobre-la-economia/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA ECONOMÍA
@@ -29,7 +29,7 @@
 
  >[[19. ECONOMÍA/TEORÍA/Mercado\|MERCADO]]
 
- >[[19. ECONOMÍA/TEORÍA/Sistema financiero\|SISTEMA FINANCIERO]]
+ >[[19. ECONOMÍA/TEORÍA/Sistema Financiero\|SISTEMA FINANCIERO]]
 
 >[[19. ECONOMÍA/TEORÍA/Sistema Bancario\|SISTEMA BANCARIO]]
 

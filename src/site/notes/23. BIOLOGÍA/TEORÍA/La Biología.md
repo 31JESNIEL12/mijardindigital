@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/la-biologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/la-biologia/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA

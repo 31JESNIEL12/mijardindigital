@@ -290,3 +290,13 @@ D) La organización esta basada en respetar la hegemonía de los miembros perman
 E) La organización logra sus propósitos a través de las incursiones bélicas a países insurrectos
 $choice{*"A" , "B" , "C" , "D" , "E"}
 ```
+
+```exercise
+Según nuestra constitución política, el Gobierno Peruano es unitario, representativo, y descentralizado y se organiza según el principio de la separación de los poderes. Con respecto al enunciado anterior es correcto afirmar que:
+A) Es unitario pues el poder ejecutivo se en-carga de administrar y fiscalizar a los de-más poderes del Estado.
+B) Es representativo debido que mediante el voto popular elegimos a nuestras autoridades como el presidente, congresistas y jueces. 
+C) Es descentralizado por la existencia de los gobiernos regionales y locales administrados por gobernadores y alcaldes.
+D) La no autonomía e independencia de los poderes del Estado son la base para una sociedad con un sistema democracia.
+E) Es unitario pues el poder judicial determina las funciones del Ministerio Público, la Defensoría del Pueblo y del Tribunal Constitucional.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```

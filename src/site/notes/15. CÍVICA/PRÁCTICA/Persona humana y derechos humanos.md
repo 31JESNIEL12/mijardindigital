@@ -211,4 +211,67 @@ V. Los ciudadanos no tienen el derecho de iniciativa legislativo, solamente el d
 $choice{"I y II" , "II y IV" , "I y V" , "III y V" , *"II, III y IV"}
 ```
 
+```exercise
+Ordene cronológicamente los siguientes derechos humanos tomando en cuenta la clasificación según generaciones:
+I. A una remuneración equitativa y satisfactoria 
+II. Al uso sobre una porción del espectro radioeléctrico 
+III. Al acceso a un medio ambiente limpio, sano y sostenible 
+IV. A elegir libremente y ser elegido como autoridad 
+$choice{"II - IV - III - I" , "I - II - IV - III" , *"IV - I - III - II" , "I - III - IIV - II" , "IV - III - I - II"}
+```
+
+```exercise
+La persona natural se inicia con , mientras que la existencia de la persona jurídica se inicia con
+$choice{"La concepción – El nacimiento" , "El nacimiento – Su inauguración" , "La concepción – Su inscripción" , "El nacimiento – Su funcionamiento" , *"El nacimiento – Su inscripción"}
+```
+
+```exercise
+La existencia de la persona jurídica se inicia con: 
+A) La obtención de su número de R.U.C. 
+B) Su aprobación por la Asamblea General 
+C) El nombramiento del Gerente General 
+D) Su inscripción en Registros Públicos 
+E) La obtención de permiso para su funcionamiento
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El pasado 16 de noviembre del 2023, el Congreso de la Republica promulgo la Ley N° 31935, mediante la cual se reconoce el derecho a la vida desde $select{"el nacimiento" , "la mayoría de edad" , "la nacionalidad" , "la ciudadanía" , *"la concepción"}; además de otros derechos como la salud, la identidad, la integridad moral, psíquica y física
+```
+
+```exercise
+Si una autoridad judicial emite una sentencia discriminando a una de las partes por razón de raza, sexo, religión y otros, está vulnerando el derecho a:
+$choice{"El bienestar y la vida" , "La pluralidad étnica" , "El honor y la reputación" , "La libertad de elección" , *"La igualdad ante la ley"}
+```
+
+```exercise
+El Código Civil, en su Artículo 1 regula lo siguiente: “La vida humana comienza con la concepción. El concebido es sujeto de derecho para todo cuanto le favorece”. Al respecto, María es una mujer embarazada, con 24 semanas de gestación. Producto de una triste enfermedad, su esposo y padre de su hijo falleció hace dos semanas, ante ello, la atribución de derechos patrimoniales de este concebido estará condicionada a que:
+A) Nazca vivo.
+B) Su madre supere las 28 semanas de gestación.
+C) Sus padres estén casados.
+D) Su padre haya realizado una sucesión testamentaria.
+E) Sea reconocido por su padre
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+La Declaración Universal de los Derechos Humanos se fundamenta en una concepción según la cual los derechos se basan y emanan de:
+$choice{"Las leyes del Estado" , "La conciencia social" , "La Constitución Política" , "La voluntad de los gobernantes" , *"La dignidad humana"}
+```
+
+```exercise
+El concebido según el Código Civil peruano tiene la siguiente naturaleza jurídica:
+A) Objeto de derecho sui generis para todo en cuanto le favorece.
+B) Persona humana. 
+C) Sujeto de derecho para todo cuanto le favorece.
+D) Porción y órgano de la madre mientras se encuentre en claustro materno.
+E) Vida dependiente de la madre desde el punto de vida jurídico 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Cuando la Convención Americana sobre Derechos Humanos establece que nadie puede ser privado de su libertad física, salvopor las causas y en las condiciones fijadas de antemano por las Constituciones Políticas de los Estados o por las leyes dictadas conforme a ellas, ¿Qué derecho humano se está protegiendo?
+$choice{"La presunción de inocencia" , "El debido proceso" , "El derecho a la defensa" , "La motivación de sentencias" , *"La libertad personal"}
+```
+
 

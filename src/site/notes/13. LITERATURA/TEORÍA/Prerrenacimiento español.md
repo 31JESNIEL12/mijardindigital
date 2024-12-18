@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/prerrenacimiento-espanol/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/prerrenacimiento-espanol/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

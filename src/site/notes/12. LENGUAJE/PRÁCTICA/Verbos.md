@@ -135,3 +135,17 @@ En el verbo "comeríamos", la desinencia es:
 $choice{"Ría" , "Come" , "Íamos" , "Amos" , *"Eríamos"}
 ```
 
+```exercise
+La serie de verbos regulares son:
+A) Contar - Caer - Traer 
+B) Comer - Almorzar - Escribir 
+C) Poner - Vencer - Morir 
+D) Ser - Citar - Madurar 
+E) Preguntar - Trabajar - Correr 
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>**VERBOS REGULARES:** Al conjugarse, su raíz no cambia
+>**VERBOS IRREGULARES:** Al conjugarse, su raíz cambia
+

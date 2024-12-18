@@ -1,5 +1,5 @@
 ---
-{"tags":["Física","Teoría"],"dg-publish":true,"permalink":"/21-fisica/teoria/electrostatica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/21-fisica/teoria/electrostatica/","tags":["Física","Teoría","Incompleto"]}
 ---
 
 # TEORÍA
@@ -41,5 +41,7 @@
 
 ---
 **ANTERIOR TEMA:** 
->[[21. FÍSICA/TEORÍA/Física térmica\|FÍSICA TÉRMICA]]
+>[[21. FÍSICA/TEORÍA/Termodinámica\|TERMODINÁMICA]]
+
+
 

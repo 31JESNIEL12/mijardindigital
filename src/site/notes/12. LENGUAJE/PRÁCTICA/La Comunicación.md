@@ -11,12 +11,22 @@
 
 ```exercise
 Ordene de **INCLUYENTE** a **INCLUIDO**:
-$choice{"Lenguaje- lengua- habla" , "Habla- lengua- lenguaje" , "Lenguaje- habla- lengua" , "Habla- lenguaje- lengua" , "Lengua- habla- lenguaje"}
+$choice{"Lenguaje - Lengua - Habla" , "Habla - Lengua - Lenguaje" , "Lenguaje - Habla - Lengua" , "Habla - Lenguaje - Lengua" , "Lengua - Habla - Lenguaje"}
 ```
 
 ```exercise
 La lengua no es:
 $choice{"Casi fija" , "Homogénea" , "Psíquica" , "Perdurable" , *"Personal"}
+```
+
+```exercise
+En la expresión “Te dejó apuntado el número **<u>en esa servilleta</u>**”, el elemento subrayado en la comunicación es:
+$choice{"Código" , "Emisor" , "Mensaje" , "Referente" , *"Canal"}
+```
+
+```exercise
+En una clase de Lenguaje, un alumno le pregunta a su profesora sobre la diferencia entre tú (con tilde) y tu (sin tilde). En la respuesta de la profesora predominará la función del lenguaje denominada:
+$choice{"Representativa o referencial" , "Expresiva o emotiva" , "Metalinguística" , "Ninguna de las anteriores" , *"Apelativa o conativa"}
 ```
 
 ```exercise
@@ -41,7 +51,7 @@ $choice{"A" , "B" , *"C" , "D" , "E"}
 
 ```exercise
 Ciencia que estudia el lenguaje y todos los fenómenos de cultura de un pueblo por medio de textos escritos:
-$input{"Filología"}
+$choice{*"Filología" , "Gramática" , "Lenguaje" , "Semiología" , "Comunicación"}
 ```
 
 ```exercise
@@ -285,5 +295,251 @@ C) Imagen mental - Iamgen acústica
 D) Signo - Palabra 
 E) C y D
 $choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+El latín fue una lengua indoeuropea cuyos dialectos empezaron a distinguirse entre el siglo IV y V hasta el punto de que a partir del siglo VI sus dialectos se reconocen como las nuevas lenguas romances. De acuerdo con ello, marque la alternativa que solo contenga lenguas de dicha familia.
+A) Español, portugués, italiano y árabe
+B) Italiano, gallego, rumano e inglés
+C) Español, francés, catalán y rumano
+D) Provenzal, francés, vasco y retorromano
+E) Italiana, francés, catalán y árabe
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>**LENGUAS ROMANCES**: Español, Portugués, Italiano, Francés, Rumano, Catalán, Gallego, Provenzal (OCCITANO), Retorromano
+
+```exercise
+En los enunciados El todo es igual a la suma de las partes, ¡Qué lindo enunciado! y iAlumnos, escuchen atentamente!, predominan, respectivamente, las funciones del lenguaje denominadas:
+$choice{"Apelativa, representativa y expresiva" , "Representativa, apelativa y expresiva" , *"Representativa, expresiva y apelativa" , "Apelativa, expresiva y representativa" , "Expresiva, apelativa y representativa"}
+```
+
+```exercise
+Señale la alternativa donde predomine la función CONATIVA:
+A) Los fonemas son las unidades de estudio de la fonología.
+B) Chicos, por favor… saquen sus libros y pónganse a resolver las preguntas.
+C) El análisis articulatorio es predominantemente físico.
+D) Los sustantivos son seres de la realidad o de la inteligencia.
+E) La fonética estudia los componentes del aparato fonador.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Relacione según la función del lenguaje correspondiente: 
+"Aquella chica es guapísima" : EMISOR :: "Aquí hay gato encerrado" :
+$choice{"Receptor" , *"Mensaje" , "Canal" , "Decodificador" , "Referente"}
+```
+
+```exercise
+CANAL : Fática :: CÓDIGO :
+$choice{"Expresiva" , *"Metalinguística" , "Apelativa" , "Informativa" , "De contacto"}
+```
+
+```exercise
+Busca constatar y garantizar el buen funcionamiento, así como la continuidad de la comunicación.
+$choice{"Apelativa" , "Metalinguística" , "Expresiva" , *"Fática" , "Informativa"}
+```
+
+```exercise
+El habla es:
+I. El uso correcto de la lengua
+II. La manera universal de expresión
+III. Uso individual de la lengua
+IV. Momentánea y heterogénea
+$choice{"I, II" , "I, IV" , *"III, IV" , "Solo I" , "Solo II"}
+```
+
+```exercise
+Función del lenguaje que brinda datos objetivos sobre la realidad o el referente:
+$choice{"Apelativa" , "Fática" , "Metalinguística" , "Poética" , *"Informativa"}
+```
+
+```exercise
+Considerada como la primera función del lenguaje aprendida por el hombre:
+$choice{"Expresiva" , "Metalinguística" , "Apelativa" , "Informática" , *"Fática"}
+```
+
+```exercise
+No es una característica del lenguaje:
+A) Aprendido: Porque se adquiere con la enseñanza.
+B) Multiforme: Pues presenta una multiplicidad de maneras de presentarse
+C) Social: Porque es empleado por una determinada comunidad de hablantes.
+D) Doblemente articulado: Porque se puede expresar en unidades mínimas.
+E) Racional: Pues se da a través de la razón o pensamiento.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+La LENGUA es:
+I. Un sistema de signo.
+II. Una materialización del código.
+III. Homogénea y social.
+IV. Momentánea y heterogénea.
+$choice{"I, IV" , "Solo I" , "Solo II" , "III, IV" , *"I, III"}
+```
+
+```exercise
+Término linguístico que se sustenta en un tema jurídico y constitucional
+$choice{"Lenguaje" , "Lengua",  "Habla" , "Dialecto" , *"Idioma"}
+```
+
+```exercise
+En los enunciado “El todo es igual a la suma de las partes”, “¡Qué lindo enunciado!” y “Alumnos, escuchen atentamente”, predominan, respectivamente las funciones del lenguaje denominadas:
+A) Representativa, apelativa y expresiva
+B) Apelativa, representativa y expresiva
+C) Apelativa, expresiva y representativa
+D) Expresiva, apelativa y representativa
+E) Representativa, expresiva y apelativa
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+En el enunciado “los adverbios son categorías lexicales invariables en el castellano”, predomina la función del lenguaje denominada:
+$choice{"Expresiva o emotiva" , "Apelativa o conativa" , "Estética o poética" , "Fática o de contacto" , *"Metalinguística"}
+```
+
+```exercise
+Señale si las siguientes afirmaciones son verdaderas (V) o falsas (F):
+I. El Perú es un país multilingüe y pluricultural.
+II. El castellano, el quechua y el aymara son lenguas oficiales del Perú.
+III. El aymara es un dialecto del quechua.
+IV. Actualmente el ingles
+$choice{"VFFV" , "FVFV" , "VFVF" , "FFVV" , *"VVFF"}
+```
+
+```exercise
+Función del lenguaje que se relaciona con el **CANAL**
+$choice{"Metalinguística" , "Poética" , "Referencial" , "Expresiva" , *"Fática"}
+```
+
+```exercise
+La lengua:
+I. Es momentánea, sicofisiológica y heterogénea.
+II. Es código.
+III. Es también el uso del código.
+IV. Es psíquica.
+Enunciado(s) falso(s):
+$choice{"II y IV" , "Solo III" , "Solo II" , "II y III" , *"I y III"}
+```
+
+```exercise
+"Observe las imágenes y encuentre las cinco diferencias". En la expresión anterior qué función predomina.
+$choice{"Poética" , "Sintomática" , "Metalingüística" , "Referencial" , *"Apelativa"}
+```
+
+```exercise
+Al concluir la clase, el profesor dice: “Bien, hasta luego alumnos”; qué función se realiza:
+$choice{"Referencial" , "Poética" , "Representativa" , "Metalingüística" , *"Fática"}
+```
+
+```exercise
+La función apelativa busca:
+A) La necesidad del emisor de hacer productivo el tiempo.
+B) Comprobar el buen uso de los signos lingüísticos.
+C) Convencer o persuadir al receptor para que actúe una manera determinada.
+D) Comprobar que el canal utilizado esté libre de cualquier ruido.
+E) Información objetiva.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+La definición correcta de idioma es:
+A) Un dialecto menor en zonas alejadas
+B) Cualquier lengua se considera idioma
+C) Una lengua reconocida como oficial por un Estado
+D) Un código particular que usan los humanos
+E) Un vocabulario jurídico 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Pasé por una oficina del Ministerio de Agricultura y Ambiente, y vi un letrero que decía: <u>"Los árboles son los pulmones de la ciudad, cuídalos, protégeles, no los
+destruyas"</u>. Las funciones que encontramos en el bloque subrayado son:
+$choice{"Referencial y metalingüística" , "Representativa" , "Fática y conativa" , "Expresiva y metalingüística" , *"Poética y conativa"}
+```
+
+```exercise
+Se entiende por JERGA:
+A) Variación regional que afecta a una lengua.
+B) Conjunto de palabras que caracteriza el habla de un país.
+C) Sistema de signos de doble articulación con nivel de lengua.
+D) Vocabulario particular que desarrollan grupos afines dentro de una comunidad lingüística.
+E) Modo particular que tiene cada individuo de usar la lengua colectiva.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+Función del lenguaje que, según Roman Jakobson, incide sobre el propio código:
+$choice{"Fática" , "Referencial" , "Apelativa" , "Expresiva" , *"Metalingüística"}
+```
+
+```exercise
+En el trabajo del periodista prima la función ................................; en la publicidad, en cambio, predomina la función ...............................
+$choice{"Apelativa - Representativa" , "Metalingüística - Apelativa" , "Representativa - Informativa" , "Fática - Informativa" , *"Representativa - Conativa"}
+```
+
+```exercise
+En la expresión:
+"Si eres vida, ¿por qué me das la muerte?
+Si eres muerte, ¿por qué me das la vida?"
+Predomina la función:
+$choice{"Emotiva" , "Expresiva" , "Informativa" , "Fática" , *"Poética"}
+```
+
+```exercise
+Determine el valor de verdad (V o F) de los siguientes enunciados relativos al castellano en el Perú.
+I. A diferencia de las lenguas indígenas, el castellano cuenta con una gramática consolidada.
+II. El prestigio del castellano frente al quechua se debe, entre otros aspectos, a que cuenta con un mayor repertorio vocálico: cinco a tres.
+III. El castellano andino es un dialecto influenciado por las lenguas indígenas, como el quechua y el aimara.
+$choice{"FVF" , "VVV" , "VFF" , "FFF" , "*FFV"}
+```
+
+```exercise
+“La RAE publica normas para el uso apropiado del lenguaje”. En el enunciado predomina la función del lenguaje denominada:
+$choice{"Metalinguística" , "Expresiva" , "Apelativa" , "Fática" , *"Referencial"}
+```
+
+```exercise
+¿Cuál es la forma de comunicación que se realiza entre dos personas o más? Ejemplo: un diálogo
+$choice{"Unidireccional" , "Intrapersonal" , "Masiva" , "No lingüística" , *"Interpersonal"}
+```
+
+```exercise
+La comunicación mediante signos verbales o escritos se denomina:
+$choice{"No lingüística" , *"Lingüística" , "Extralingüística" , "Paralingüística" , "Neurolingüística"}
+```
+
+```exercise
+Para que haya comunicación perfecta entre emisor y receptor, es necesario que:
+A) Pertenezcan a la misma comunidad lingüística
+B) El emisor sea claro en sus expresiones
+C) El receptor esté alfabetizado 
+D) Compartan el mismo código
+E) Exista un código complementario
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+Capta el mensaje y lo decodifica de acuerdo con las reglas del código usado.
+$choice{*"Receptor" , "Emisor" , "Canal" , "Señal" , "Contexto"}
+```
+
+```exercise
+La función del lenguaje que nos permite influir en otras personas es:
+$choice{"Metalingüística" , *"Apelativa" , "Referencial" , "Expresiva" , "Fática"}
+```
+
+```exercise
+Transforma, mediante un código, la formulación de un mensaje:
+$choice{"Canal" , "Referente" , "Receptor" , "Decodificador" , *"Encodificador"}
+```
+
+```exercise
+En los siguientes hechos se dan ejemplos concretos de una función de lenguaje:
+"Alumnos, no se dice haiga, sino haya" 
+"La palabra amo tiene tres fonemas: /a/, /m/, /o/, etc.
+La función es:
+$choice{"Fática" , "Expresiva" , "Apelativa" , "Representativa" , *"Metalingüística"}
 ```
 

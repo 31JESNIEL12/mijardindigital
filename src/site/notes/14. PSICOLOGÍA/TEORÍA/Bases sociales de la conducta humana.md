@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/bases-sociales-de-la-conducta-humana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/bases-sociales-de-la-conducta-humana/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

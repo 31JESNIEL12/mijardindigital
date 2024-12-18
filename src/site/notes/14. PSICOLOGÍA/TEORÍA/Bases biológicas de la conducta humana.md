@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/bases-biologicas-de-la-conducta-humana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/bases-biologicas-de-la-conducta-humana/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA
@@ -16,7 +16,7 @@
 - MADUREZ: Acciones predispuestas biológicamente
 
 ---
-**[[24. ANATOMÍA/TEORÍA/Sistema Nervioso\|SISTEMA NERVIOSO]]**
+**[[4. ANATOMÍA/TEORÍA/Sistema Nervioso\|SISTEMA NERVIOSO]]**
 
 ✔ **MÉDULA ESPINAL**
 - Transmite la información del sistema nervioso periférico al encéfalo y viceversa
@@ -153,7 +153,7 @@
 - Primera estación de relevo o integración sensorial, recibe toda la información de los sentido, excepto el olfato (Olfato → Bulbo olfatorio)
 
 ---
-**[[24. ANATOMÍA/TEORÍA/Sistema Endocrino\|SISTEMA ENDOCRINO]]** 
+**[[4. ANATOMÍA/TEORÍA/Sistema Endocrino\|SISTEMA ENDOCRINO]]** 
 "HORMONAS"
 
 ✔ **RAMA EXOCRINA** 

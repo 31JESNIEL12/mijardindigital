@@ -9,3 +9,8 @@
 
 ---
 
+```exercise
+Señale la palabra que está escrita incorrectamente
+$choice{"Decimoséptimo" , *"Cefalotórax" , "Únicamente" , "Fácilmente" , "Asimismo"}
+```
+

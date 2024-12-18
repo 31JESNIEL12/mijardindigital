@@ -291,4 +291,24 @@ E) Corte Internacional de Justicia
 $choice{*"A" , "B" , "C" , "D" , "E"}
 ```
 
+```exercise
+Órgano de la ONU responsable de la prevención de conflictos armados y es conformado por 15 miembros (5 permanentes y 10 no permanentes).
+$choice{"Asamblea General" , "Secretaría General" , "Consejo económico y social" , "UNICEF" , *"Consejo de seguridad"}
+```
+
+```exercise
+El pasado 22 de marzo de 2024, se hizo pública la sentencia de nuestro caso "Comunidad de La Oroya vs. Perú", que constituye hoy en día el precedente más importante en materia de derechos humanos y ambiente a nivel regional y mundial. Esto debido a que la $select{"Corte Internacional de Derechos Humanos" , "Corte Suprema de Justicia del Perú" , "Corte Democrática Interamericana" , "Comisión Interamericana de Derechos Humanos" , *"Corte Interamericana de Derechos Humanos"} estableciera lo siguiente; “El Estado Peruano es responsable por la violación a los derechos al medio ambiente sano, la salud, la integridad personal, la vida, la protección especial de la niñez, las garantías judiciales y la protección judicial en perjuicio de 80 habitantes de La Oroya”
+```
+
+```exercise
+Es la agencia de las Naciones Unidas que lidera el esfuerzo internacional para poner fin al hambre. Su objetivo es lograr la seguridad alimentaria para todos, y al mismo tiempo garantizar el acceso regular a alimentos suficientes y de buena calidad para llevar una vida activa y sana. Con 195 miembros - 194 países y la Unión Europea, este organismo trabaja en más de 130 países en todo el mundo.
+$choice{"UNICEF" , "OMS" , "OMT" , "UNESCO" , *"FAO"}
+```
+
+```exercise
+El organismo financiero internacional que se encarga de atender las situaciones de desequilibrio en las cuentas de un país con el exterior es:
+$choice{"El FMI" , "El Banco Mundial" , "La OCFE" , "El Banco Interamericano de Desarrollo" , "La Organización Mundial de Comercio"}
+```
+
+
 

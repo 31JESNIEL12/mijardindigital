@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/costumbrismo-peruano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/costumbrismo-peruano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

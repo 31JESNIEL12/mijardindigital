@@ -169,3 +169,63 @@ $choice{"Coerción" , "Coacción" , "Sujección" , "Cumplimiento" , *"Jerarquía
 Dado la definición: Son normas que contienen medidas extraordinarias destinadas a regular graves, súbitas y anormales circunstancias de carácter económico - financiero
 $choice{"Código Civil" , "Decreto Supremo" , "Ordenanza municipal" , "Decreto Legislativo" , *"Decreto de Urgencia"}
 ```
+
+```exercise
+Señale entre las alternativas una norma con rango de ley emitida por el Congreso de la República
+$choice{"Constitución Política" , "Decreto Legislativo" , "Decreto de urgencia" , "Decreto supremo" , *"Reglamento del Congreso"}
+```
+
+```exercise
+Esteban y Eleazar se encuentran exponiendo, en su clase del curso de Derecho Constitucional, acerca de las disposiciones en materia jurídica ocurridas décadas atrás en el país, principalmente, durante gobiernos de facto. Su profesor, durante dicha actividad, aclara a toda la clase que las normas aprobadas en ese contexto se denominan:
+$choice{"Resolución suprema" , "Decreto legislativo" , "Resolución ministerial" , "Decreto de urgencia" , *"Decreto ley"}
+```
+
+```exercise
+Cuando el Congreso de la República de facultades legislativas al ejecutivo para legislat en materia tributaria, se puede emitir:
+$choice{"Resoluciones supremas" , "Decretos supremos" , "Decretos regionales" , "Resolución legislativa" , *"Decretos supremos"}
+```
+
+```exercise
+¿Cuál es la norma jurídica de mayor jerarquía emitida por gobiernos locales?
+$choice{"Resolución directoral" , "Edicto municipal" , "Resolución de alcaldía" , "Resolución jefatural" , *"Ordenanza municipal"}
+```
+
+```exercise
+Según la actual Cosntitución, la vigencia de una ley se da a partir del:
+A) Momento de su aprobación
+B) Día siguiente de su promulgación
+C) Décimo quinto día de su aprobación
+D) Mismo día de su publicación
+E) Día siguiente de su publicación
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+Norma jurídica de mayor jerarquía emitida por Gobiernos Locales:
+$choice{"Resolución Jefatural" , "Edicto minicipal" , "Resolución de Alcaldía" , *"Ordenanza municipal" , "Resolución Directoral"}
+```
+
+```exercise
+Toda ley es obligatoria desde el día siguiente de su:
+$choice{"Promulgación" , "Ratificación" , "Conocimiento" , "Ratificación" , *"Publicación"}
+```
+
+```exercise
+El capítulo de la formación y promulgación de las leyes en nuestra constitución se encuentra en el título:
+$choice{"I" , "II" , "V" , "III" , *"IV"}
+```
+
+```exercise
+Las Setencias Judiciales y los Laudos Arbitrales se hallan en el Nivel $select{"1" , "2" , "3" , "4" , *"5"} de la estructura jerárquica del sistema jurídica.
+```
+
+```exercise
+Ninguna ley es retroactivo salvo en materia penal cuando:
+A) Favorece al Presidente 
+B) Favorece a las empresas qeu no tributaron 
+C) En materia familiar, cuando favorece al menor 
+D) Cuando favorece el reo
+E) Todas 
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+

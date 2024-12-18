@@ -78,3 +78,44 @@ Se describe el crimen: Claudio, el usurpador, quiere desaparecer a su sobrino; O
 $choice{"Yo Claudio" , "Romeo y Julieta" , "Antonio y Cleopatra" , *"Hamlet" , "La vida es sueño"}
 ```
 
+```exercise
+El Renacimiento fue un movimiento de renovación cultural que tuvo evidente interés por la cultura:
+$choice{"Oriental" , "Medieval" , "Nórdica" , "Italiana", *"Grecolatina"}
+```
+
+```exercise
+Uno de los temas de la Antiguedad que se retomó en el arte renacentista fue el  (lo):
+$choice{"ideal caballeresco" , "moral y lo didáctico" , "fervor religioso" , "amor plebeyo" , *"goce de la vida"}
+```
+
+```exercise
+¿Qué obra no corresponde al Renacimiento?
+$choice{"El rey Lear" , "Ensayos" , "Hamlet" , "A la vida retirada" , *"El avaro"}
+```
+
+```exercise
+William Shakespeare en su etapa de madurez literaria y de mayor producción, recibió la influencia del movimiento:
+$choice{"Renacentista" , "Neoclásico" , "Realista" , "Romántico" , *"Barroco"}
+```
+
+```exercise
+Sobre los movimientos culturales de la Edad Moderna, el momento posterior a la crisis del orden feudal en el que surge el humanismo es el .................... , mientras que el Siglo de las Luces se caracterizó por su .................... . 
+A) Barroco – gran complejidad en el plano artístico 
+B) Iluminismo – interés en la cultura grecolatina 
+C) Renacimiento – fe en el progreso y en la razón 
+D) Neoclasicismo – apego por la religión y la historia 
+E) Medioevo – pesimismo sobre la humanidad
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+La muerte de Shakespeare coincide con la muerte de:
+A) Cervantes – Victor Hugo
+B) Victor Hugo – Lope de Vega
+C) Cervantes – Lope de Vega
+D) Lope de Vega – Calderón de la Barca 
+E) Cervantes – Inca Garcilaso de la Vega
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+

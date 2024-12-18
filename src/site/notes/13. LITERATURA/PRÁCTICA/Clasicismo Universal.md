@@ -344,3 +344,14 @@ D) Telémaco: Fidelidad filial
 E) Calipso: Generosidad 
 $choice{"A" , "B" , "C" , "D" , *"E"}
 ```
+
+```exercise
+En la ilustración, basada en la Odisea, se observa al joven Telémaco y a su madre, quien aparece al lado del telar. Esta escena recuerda que la reina Penélope elabora un sudario para Laertes, padre de Odiseo, el mismo que deshace por las noches, porque ella:
+![Pasted image 20241027185621.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020241027185621.png)
+A) Busca prolongar su tarea el mayor tiempo posible para no elegir un nuevo esposo. 
+B) Intenta desdeñar a los numerosos pretendientes que se hospedan en el palacio. 
+C) Decide molestar a los pretendientes que abusan continuamente de su hospitalidad. 
+D) Prefiere mantenerse fiel y dentro de la castidad hasta concluir su labor doméstica.
+E) Rehúsa casarse con cualquier pretendiente que sea un foráneo de la isla de Ítaca.
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```

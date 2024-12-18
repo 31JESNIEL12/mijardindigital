@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/desarrollo-humano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/desarrollo-humano/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

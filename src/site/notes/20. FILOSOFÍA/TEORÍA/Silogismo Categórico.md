@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-filosofia/teoria/silogismo-categorico/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/silogismo-categorico/","tags":["Filosofía","Lógica","Teoría"]}
 ---
 
 # TEORÍA

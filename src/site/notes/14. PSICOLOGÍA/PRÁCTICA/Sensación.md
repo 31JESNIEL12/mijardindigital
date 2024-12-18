@@ -207,3 +207,31 @@ $choice{"Receptor - Sensación" , "Ojo - Color" , "Cerebro - Receptor" , "Hipot�
 El sentir hambre o sed, es un ejemplo de sensaciones $select{"cinestésicos" , *"cenestésicos"} o también llamadas $select{"propioceptivas" , "exteroceptivos" , *"interoceptivos"}
 ```
 
+```exercise
+Oler un perfume, saborear un helado, ver colores, son casos que aluden al proceso psicológico denominado:
+$choice{"Registro" , "Estimación" , "Modalidad" , "Selección" , *"Sensación"}
+```
+
+```exercise
+¿Cuál es la sensación presenta Wendy ante los síntomas del dengue?
+$choice{"Vestibular" , "Cutánea" , "Cinestésica" , *"Cenestésica" , "Sensibilidad orgánica"}
+```
+
+>[!sidenote]- **RESOLUCIÓN (RESPONDER PRIMERO)** 
+>**SENSACIONES CENESTÉSICAS**:
+>- ÓRGANOS: Órganos internos y del organismo
+>- ESTÍMULO: Sed, hambre, sueño
+
+```exercise
+Se denomina $select{*"sensación" , "imaginación" , "percepción" , "memoria" , "pensamiento"} al proceso psicológico que permite captar un objeto sensible que se halla presente en el ambiente en el que nos encontramos.
+```
+
+```exercise
+Ciertas sensaciones pueden resultar agradables al ser experimentados, es una característica llamada:
+$choice{"Intensidad" , "Calidad" , "Jerarquía" , "Similitud" , *"Tonalidad"}
+```
+
+```exercise
+Fenómeno consciente que nos permite reaccionar ante un estímulo, captado a través de los receptores sensoriales:
+$choice{"Percepción" , "Memoria" , "Imaginación" , "Atención" , *"Sensación"}
+```

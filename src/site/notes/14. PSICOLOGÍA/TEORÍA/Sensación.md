@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Anatomía","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/sensacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/sensacion/","tags":["Psicología","Anatomía","Teoría"]}
 ---
 
 # TEORÍA

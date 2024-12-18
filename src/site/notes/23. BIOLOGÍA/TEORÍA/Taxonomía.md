@@ -1,5 +1,5 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/taxonomia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/taxonomia/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA
@@ -144,7 +144,7 @@ Eukarya (Do) - Plantae (Re) - Anthophyta (Phy) - Dicotyledoneae (C) - Asterales 
 
 ---
 **TAXONOMÍA DE CADA SER VIVO** 
->[[23. BIOLOGÍA/TAXONOMÍA/Taxonomía\|TAXONOMÍA DE CADA SER VIVO]]
+>[[23. BIOLOGÍA/COMPLEMENTO/TAXONOMÍA/Taxonomía\|TAXONOMÍA DE CADA SER VIVO]]
 
 ---
 **SIGUIENTE TEMA:** 

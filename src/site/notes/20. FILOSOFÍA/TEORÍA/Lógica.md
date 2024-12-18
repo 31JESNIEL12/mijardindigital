@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-filosofia/teoria/logica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/logica/","tags":["Filosofía","Lógica","Teoría"]}
 ---
 
 # TEORÍA

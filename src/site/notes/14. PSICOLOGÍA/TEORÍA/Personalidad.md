@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/personalidad/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/personalidad/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA
@@ -109,7 +109,7 @@
 - RASGOS CARDINALES: Generales y dominantes, abarcan toda la actividad del sujeto
 
 ---
-**TRASTORNOS DE LA PERSONALIDAD**
+**[[14. PSICOLOGÍA/PSICOPATOLOGÍAS/Psicopatología\|TRASTORNOS DE LA PERSONALIDAD]]**
 
 >[!sidenote]- **LINKS EXTERNOS DE CLASES**
 >[TRASTORNOS DE LA PERSONALIDAD - CURSOS DR. GUEVARA](https://youtu.be/CSNrCAQJ-MU?si=JDWxGf9Vm1CRS9cK) 

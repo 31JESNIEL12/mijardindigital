@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/simbolismo-peruano/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/simbolismo-peruano/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

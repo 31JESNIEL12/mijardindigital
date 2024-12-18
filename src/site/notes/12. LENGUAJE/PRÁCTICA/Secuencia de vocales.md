@@ -154,3 +154,83 @@ D) 7 diptongos, 3 triptongos, 2 hiatos 
 E) 9 diptongos, 0 triptongos 3 hiatos
 $choice{"A" , *"B" , "C" , "D" , "E"}
 ```
+
+```exercise
+En la siguiente lista de palabras: ahijar, ahorro, mahometano, ahorcado, triángulación, ahumar, heroico, espontáneo, desahuciado; encontramos:
+$choice{"5 diptongos, 5 hiatos" , "6 diptongos, 7 hiatos" , "6 diptongos, 5 hiatos" , "3 diptongos, 7 hiatos" , *"7 diptongos, 4 hiatos"}
+```
+
+```exercise
+Serie de palabras con un diptongo creciente:
+$choice{"Paita, caigua, fragua" , "Declinación, boicot, paisaje" , "Deidad, estoicismo, fraile" , "Decía, desautorizar, ahitar" , *"Delincuente, prohibido, ilusión"}
+```
+
+```exercise
+Alternativa con un diptongo decreciente:
+A) Cuidar, bueno, quitarme 
+B) Vuestra, asintió, continuó 
+C) Entiendo, teníais, laúd 
+D) Podéis, reunión, aullido 
+E) Reino, causa, alegría 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>Un diptongo decreciente o descendente es, vocal abierta (A, E, O) y vocal cerrada (I, U)
+
+```exercise
+Palabras con diptongo creciente:
+A) Dio, rompía, iríais 
+B) Día, vibración, ahora 
+C) Nuez, tiempo, demasiado 
+D) Realidad, diente, idea
+E) Podían, legua, nueva
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>Un diptongo creciente o ascendente se articula entre una vocal cerrada (I, U) y un vocal abierta (A, E, O)
+
+```exercise
+Expresión que presenta **HIATO CACOFÓNICO**
+$choice{*"Celia y Inés son agradables" , "Comí queque que quemaba" , "Luis tuvo que ir en persona" , "¿Me das el Ticket?" , "Amasas el pan pues quiero pan."}
+```
+
+```exercise
+Oración donde existen solo 4 hiatos:
+A) Fue una travesía peligrosa 
+B) Oíase una voz a lo lejos 
+C) El vidente mientras veía, intuía los peligros del día 
+D) En todas las tardes frías, recuerdo mis alegrías 
+E) La aeronave seguía a pesar de la avería 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Serie que contenga un hiato:
+$choice{"Paraíso, caída, rehén" , "Tráelo, había, buho" , "Anís, reúne, fluía" , "Púa, freír, baúl" , *"Ruin, fiel, beodo"}
+```
+
+```exercise
+La palabra $select{"Sahumerio" , "Casuístico" , "Cráneo" , "Poesía" , *"Veíais"} tiene hiato y diptongo a la vez.
+```
+
+```exercise
+Grupo de palabras que presentan triptongo:
+A) Gustarías, limpiáis, Huaylas 
+B) Miraríais, apacigüéis, despreciéis 
+C) Amortiguáis, Camagüey, veíais 
+D) Hioides, creíais, Paraguay 
+E) Averigüéis, Uruguay, huayno 
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+¿Cuál es el grupo de palabras que contiene palabras heterosilábicas?
+$choice{*"Caía - Aéreo" , "Caigo - Ruego" , "Cohete - Cuello" , "Zanahoria - Augurar" , "Caí - Miel"}
+```
+
+```exercise
+Palabras que contiene dos diptongos:
+$choice{"Aéreo" , "Biografía" , "Jauría" , "Despreciéis" , *"Desahuciado"}
+```

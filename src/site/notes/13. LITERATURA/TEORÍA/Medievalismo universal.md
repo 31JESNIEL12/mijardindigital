@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/medievalismo-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/medievalismo-universal/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-filosofia/teoria/validez-de-inferencias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/validez-de-inferencias/","tags":["Filosofía","Lógica","Teoría"]}
 ---
 
 # TEORÍA

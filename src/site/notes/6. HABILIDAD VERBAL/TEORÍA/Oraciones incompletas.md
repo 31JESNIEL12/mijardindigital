@@ -17,7 +17,7 @@
 
 ---
 **SIGUIENTE TEMA:** 
->[[6. HABILIDAD VERBAL/TEORÍA/Conectores lógicos\|CONECTORES LÓGICOS]]
+>[[6. HABILIDAD VERBAL/TEORÍA/Referentes textuales\|REFERENTES TEXTUALES]]
 
 ---
 **ANTERIOR TEMA:** 

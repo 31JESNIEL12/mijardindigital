@@ -10,6 +10,16 @@
 ---
 
 ```exercise
+La escuela humanista plantea que el hombre es:
+I. Libre, auto determinado; su comportamiento y su visión del mundo son altamente subjetivos e importan en la terapia
+II. Consciente, capaz de darse cuenta de todas sus conductas
+III. Bueno, generoso y siempre listo para la acción
+IV. Leal a sus conocimientos y perfectible
+V. Libre, capaz de darse cuenta de todo lo que ocurre en el mundo y de cambiar su visión
+$choice{*"I" , "II" , "III" , "IV" , "V"}
+```
+
+```exercise
 Su interés básico está en la causas motivadoras y en la dinámica del funcionamiento de la personalidad. Es sustentado por el siguiente escuela psicológica:
 $choice{"Gestaltismo" , "Reflexiología" , "Funcionalismo" , "Behaviorismo" , *"Psicoanálisis"}
 ```
@@ -115,5 +125,38 @@ $choice{"Psicoanálisis" , "Estructuralismo" , "Funcionalismo" , "Gestalt" , *"C
 ¿A qué perspectiva psicológica pertenece el siguiente planteamiento?
 Los psicólogos debemos preocuparnos por darle sentido a nuestras acciones y para ello debemos conocer como se integran los componentes de la personalidad y forman su individualidad. Hay que confiar en los individuos. Los psicólogos pueden orientar, pero es la persona misma la que decide cambiar a no, el psicólogo facilita, te acompaña, pero no resuelve tus problemas, porque es tu responsabilidad.
 $choice{"Evolucionista" , *"Humanista" , "Conductista" , "Cognitivista" , "Psicodinámica"}
+```
+
+```exercise
+Escuela psicológica que tiene más validación científica en la psicología actual:
+$choice{"Estructuralismo" , "Funcionalismo" , "Psicoanálisis" , "Humanista" , *"Conductismo"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>El conductismo es considerada como la primer fuerza y la que revolucionó el aspecto científico de la psicología
+
+```exercise
+¿Cuál es la principal crítica a la teoría conductista de Watson?
+A) Que luchó por la investigación de la subjetividad 
+B) Que sus publicaciones eran en campos especulativos 
+C) Que media el procesamiento cognitivo de las personas 
+D) Que solo estudió los "fenómenos observables" 
+E) Que exclusivamente analizaba la conciencia animal
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+Relaciona las diferentes Escuelas psicológicas con las características que los distinguen.
+$match{"Funcionalismo" => "Concluyen que la conciencia es útil para que la persona se adapte" , "Estructuralismo" => "Usan como único método de investigación la observación interior" , "Conductismo" => "Define a la Psicología como la ciencia de la conducta observable"}
+```
+
+```exercise
+¿Qué escuela Psicológica surge como una reacción al Estructuralismo y plantea que la psicología debe mostrar interés por explicar como se consigue el proceso de adaptación al medio?
+$choice{"Psicoanálisis" , "Conductismo" , "Reflexiología" , "Behaviorismo" , *"Funcionalismo"}
+```
+
+```exercise
+Su interés básico está en las causas motivadoras y en la dinámica del funcionamiento de la personalidad. Es sustentado por la siguiente escuela psicológica:
+$choice{"Gestaltismo" , "Reflexiología" , "Behaviorismo" , "Funcionalismo" , *"Psicoanálisis"}
 ```
 

@@ -418,4 +418,109 @@ E) Contraloría General de la República
 $choice{"A" , "B" , "C" , "D" , *"E"}
 ```
 
+```exercise
+El fin supremo del Estado es:
+A) La defensa de la vida
+B) La defensa del Estado de derecho
+C) El respeto de la vida
+D) La defensa de la persona y el respeto de su dignidad
+E) La defensa de la vida y el respeto del Estado
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+A raíz de una denuncia periodística, queda al descubierto la participación del contralor general de la República con una compleja red de corrupción integrada por conocidos políticos y empresario. Se produce un gran escándalo mediático que desemboca en la renuncia irrevocable del alto funcionario estatal. ¿Qué instancia del Estado es la encargada de designar al nuevo contralor?
+$choice{"Pleno del Congreso de la República" , "Presidencia del Consejo de Ministros" , "Tribunal Constitucional" , *"Comisión Permanente del Congreso" , "Fiscalía de la Nación"}
+```
+
+```exercise
+Cuando el poder se encuentra concentrado en pocas manos, el poder resultante es de tal fuerza, que origina abusos y arbitrariedades virtualmente incontrolables. Por esta razón, el gobierno debe regirse por un principio:
+$choice{"Democrático" , "Independiente" , *"De la separación de poderes" , "De la autonomía judicial" , "Descentralista"}
+```
+
+```exercise
+El estado peruano es una institución política de la sociedad y de acuerdo a la estructura, esta se encuentra conformada por los poderes: ejecutivo, legislativo y judicial. Y recién en el mes de agosto pasado acaba de **aprobar créditos suplementarios, transferencias y habilitaciones presupuestarias**; el cual servirá para gastos de prevención del fenómeno del niño. Esta atribución le compete específicamente a (al):
+A) Pleno del Congreso de la República
+B) Presidente de la Republica
+C) Consejo de Ministros de estado
+D) Presidente del Consejo de Ministros 
+E) la Comisión Permanente del Congreso
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+Determine la relación correcta entre los elementos del Estado peruano y sus características.
+I) Nación 
+II) Gobierno
+III) Soberanía 
+IV) Territorio
+A) Espacio delimitado por los grupos humanos en términos políticos y administrativos.
+B) Base del Estado encargado de dirigir, controlar y administrar sus instituciones.
+C) Institución que se encarga de regular, proteger y ayudar a los ciudadanos.
+D) Proponer una ley en función de los intereses del país.
+$choice{"IA, IIB, IIIC, IVD" , "IC, IID, IIIA, IVB" , "IB, IID, IIIA, IVC" , "IC, IIA, IIID, IVB" , *"IB, IIC, IIID, IVA"}
+```
+
+```exercise
+Después de haber estudiado el sistema democrático podemos reconocer y conceptualizar al Estado Peruano como:
+1. Población organizada por leyes y autoridades.
+2. Nación jurídicamente organizada.
+3. Se basa en los principios de legalidad, bien común y de responsabilidad.
+4. Ejerce el poder del Gobierno, sin considerar a la población.
+5. Es una parte importante del Gobierno.
+Señale la secuencia correcta de respuestas verdaderas (V) y falsas (F):
+$choice{"FVFVV" , "VVVFF" , "FFVVV" , "VFVFV" , *"VVVFV"}
+```
+
+```exercise
+Acerca del Estado, señale la alternativa incorrecta.
+A) Según la Constitución Política del Perú, el poder del Estado emana del pueblo.
+B) La defensa legal del Estado está a cargo de los procuradores.
+C) La capital histórica del Perú es la ciudad del Cusco. 
+D) El único idioma oficial del Perú es el castellano.
+E) El Estado peruano es una República democrática.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El Estado es la Nación jurídica y políticamente organizada sobre un determinado territorio, y dentro de sus deberes primordiales podemos reconocer a los siguientes:
+I. Promover la Seguridad del Estado, si fuera el caso, a través de una rebelión.
+II. Defender la Soberanía Nacional.
+III. Garantizar la plena vigencia de los Derechos Humanos y proteger a la población de las amenazas contra la seguridad.
+IV. Promover el bienestar grupal que se fundamenta en el desarrollo económico.
+V. Preocuparse y sugerir sobre políticas de frontera y promover la integración para el desarrollo latinoamericano.
+$choice{"I - II - III" , "II - III - IV" , "I - II - V" , "I - III - V" , *"II - III - V"}
+```
+
+```exercise
+ El Estado es la organización jurídica y política de una nación, asentada sobre un territorio dirigida por un gobierno que sustenta su poder en instituciones y un cuerpo jurídico. Por lo que un deber del Estado peruano, según la Constitución Política es 
+A) Limitarse a la defensa de los Derechos Humanos.
+B) Establecer la renovación de los Derechos Humanos.
+C) Vulnerar los derechos a los que trasgreden las leyes.
+D) Promover la cohesión con varios países y el Mercosur.
+E) Proteger a la población de amenazas contra su seguridad.
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+El pueblo elige a sus gobernantes para que ejerzan el poder en su representación. Sin embargo, ejercen el poder con las limitaciones y responsabilidades que la Constitución y las leyes establecen.  
+Del párrafo anterior se infiere que en el país 
+A) Los gobernantes siempre buscarán el desarrollo nacional. 
+B) Las autoridades elegidas tienen la libertad ilimitada de ejercer potestad.
+C) El ciudadano tiene la potestad de dar, modificar, derogar e interpretar leyes.
+D) Las autoridades elegidas pueden ejercer su derecho de insurgencia.
+E) El poder del Estado emana del pueblo y se rige por el Estado de derecho.
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+¿Cuál sería el concepto de Decreto de Urgencia?
+A) Es la orden escrita del presidente con contenido normativo o reglamentario.
+B) Delegación de facultades del Congreso al Presidente de la República en materia tributaria.
+C) Norma que no necesita la intervención del Congreso.
+D) Son para regular la estructura y funcionamiento del Estado. 
+E) Medidas que toma el Presidente de la República en materia económica con cuenta al Congreso.
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
 

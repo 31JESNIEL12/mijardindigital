@@ -33,112 +33,50 @@
 
 ✅ **DIPLOCOCOS**
 - De 2 en 2
-- Neisseria gonorrhoeae (GONORREA) 
-- Neisseria meningitidis (MENINGITIS)
-
->[!sidenote]- **DIPLOCOCOS**
->**NEISSERIA GONORRHOEAE**
->![Neisseria gonorrhoeae.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Neisseria%20gonorrhoeae.jpg)
->**NEISSERIA MENINGITIDIS**
->![Neisseria meningitidis.webp](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Neisseria%20meningitidis.webp)
+- NEISSERIA GONORRHOEAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/ETS/Gonorrea\|Gonorrea]] 
+- NEISSERIA MENINGITIDIS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Meningitis\|Meningitis]] 
 
 ✅ **ESTREPTOCOCOS**
 - Cadena
-- Streptococccus pneumoniae (NEUMONÍA)
-- Streptococccus pyogenes (FARINGITIS O AMIGDALITIS)
-
->[!sidenote]- **ESTREPTOCOCOS**
->**STREPTOCOCCCUS PNEUMONIAE**
->![Streptococcus pneumoniae.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Streptococcus%20pneumoniae.jpg)
->**STREPTOCOCCCUS PYOGENES**
->![Streptococcus pyogenes.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Streptococcus%20pyogenes.jpg)
->
+- STREPTOCOCCUS PNEUMONIAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Neumonía\|Neumonía]] 
+- STREPTOCOCCUS PYOGENES: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Amigdalitis\|Amigdalitis, Faringitis o Tonsilitis]] 
 
 ✅ **ESTAFILOCOCOS**
 - Racimos
-- Staphylococcus aureus (IMPÉTIGO) 
-- Staphylococcus epidermidis (ACNÉ ESCALDA)
+- STAPHYLOCOCCUS AUREUS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS DERMATOLÓGICAS/Impétigo\|Impétigo]]
+- STAPHYLOCOCCUS EPIDERMIDIS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS DERMATOLÓGICAS/Acné\|Acné escalda]]
+ 
+✔ **BACILOS**
+- CLOSTRIDIUM TETANI: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Tétanos\|Tétanos]] 
+	- POSICIÓN: Opistótonos 
+- BACILLUS ANTHRACIS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/OTRAS PATOLOGÍAS/Ántrax\|Ántrax]] 
+- CLASTRIDIUM PERFRINGES: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS DERMATOLÓGICAS/Gangrena\|Gangrena]] 
+- CLASTRIDIUM BOTULINUM: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS NEUROLÓGICAS/Botulismo\|Botulismo]]  
+- YERSINIA PESTIS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/OTRAS PATOLOGÍAS/Peste bubónica\|Peste bubónica]]
+- YERSINIA PULCA: Xenopsilla cheopis 
+- SALMONELLA TYPHI: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Tifoidea\|Tifoidea]] 
+- BORDETELLA PERTUSIS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Tos compulsiva\|Tos compulsiva o ferina]]
+- CORYNEBACTERIUM DIPTERIAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Difteria\|Difteria]] 
+- ESCHERICHIA COLI: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Diarrea del viajero\|Diarrea del viajero]] 
+- SHIGELLA DYSEUTORIAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Disentería\|Disentería bacteriana]]
+- HAENOPHYLUS DUSREYI: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/ETS/Chancro blando\|Chancro blando]] 
 
->[!sidenote]- **ESTAFILOCOCOS**
->**STAPHYLOCOCCUS AUREUS**
->![Staphylococcus aureus.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Staphylococcus%20aureus.jpg)
->**STAPHYLOCOCCUS EPIDERMIDIS**
->![Staphylococcus epidermids.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Staphylococcus%20epidermids.jpg)
+>[!sidenote]- **NO CONFUNDIR** 
 
----
-**BACILOS**
+✔ **VIBRIOS**
+- VIBRIUM CHOLERAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS GASTROINTESTINALES/Cólera\|Cólera]] 
 
-✔ **CLOSTRIDIUM TETANI** 
-- Tétanos
+✔ **ESPIRILOS**
+- TREPONEMA PALLIDUM: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/ETS/Sífilis\|Sífilis o Lúes]] 
+	- PRIMER SÍNTOMA: Chancro duro
+- BORRELIA BURGDORFRER: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/OTRAS PATOLOGÍAS/Enfermedad de Lyme\|Enfermedad de Lyme]] 
+- LEPTOSPIRA INTERROGANS: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS CARDIACAS/Enfermedad de Will\|Enfermedad de Will o Leptospirosis]]
 
->[!sidenote]- **EL TÉTANOS**
->La enfermedad del Tétanos provoca que la persona se coloque con una posición, llamada **OPISTÓTONOS**
->![Clostridium tetani.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Clostridium%20tetani.jpg)
-
-✔ **BACILLUS ANTHRACIS**
-- Ántrax
-
->[!sidenote]- **EL ÁNTRAX**
->![Bacillus Anthracis.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Bacillus%20Anthracis.jpg)
-
-✔ **CLASTRIDIUM PERFRINGES** 
-- Gangrena
-
->[!sidenote]- **GANGRENA**
->![Clostridium perfringens.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Clostridium%20perfringens.jpg)
-
-✔ **CLASTRIDIUM BOTULINUM**
-- Botulismo
-
-✔ **YERSINIA PESTIS**
-- Peste bubónica
-
-✔ **YERSINIA PULCA**
-- Xenopsilla cheopis 
-
-✔ **SALMONELLA TYPHI**
-- Tifoidea
-
-✔ **BORDETELLA PERTUSIS**
-- Tos compulsiva
-
-✔ 
-
-✅ Bordetella pertusis : “Tos compulsiva"
-✅ Corynebacterium dipteriae : “Difteria”
-✅ Escherichia coli : “Diarrea del viajero”
-✅ Shigella dyseutoriae : “Disentería bacteriana”
-✅ Haenophylus dusreyi : “Chancro blando”
-
----
-**VIBRIOS**
-
-✔ **VIBRIUM CHOLERAE**
-- Cólera
-
----
-**ESPIRILOS**
-
-✔ **TREPONEMA PALLIDUM**
-- Sífilis o Lúes
-
-✔ **BORRELIA BURGDORFRERI**
-- Enfermedad de Lyme
-
-✔ **LEPTOSPIRA INTERROGANS**
-- Leptospirosis o enfermedad de Will
-
-
----
-**PLEOMÓRFICAS**
-
-✔ **MYCOBACTERIUM LEPRAE**
-- "BACILO DE HANSEN"
-- Lepra
-
-✔ **MYCOBACTERIUM TUBERCULOSEAE**
-- "BACILO DE KOCH"
-- Tuberculosis
+✔ **PLEOMÓRFICAS**
+- MYCOBACTERIUM LEPRAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS DERMATOLÓGICAS/Lepra\|Lepra]]
+	- =="BACILO DE HANSEN"== 
+- MYCOBACTERIUM TUBERCULOSEAE: [[4. ANATOMÍA/COMPLEMENTO/ENTIDADES CLÍNICAS/PATOLOGÍAS RESPIRATORIOS/Tuberculosis\|Tuberculosis]]  
+	- =="BACILO DE KOCH"==
 
 ---
 **CLASIFICACIÓN POR SU FLAGELO**
@@ -206,6 +144,10 @@
 ---
 **PRÁCTICA**
 >[[23. BIOLOGÍA/PRÁCTICA/Reino Monera\|PRESIONA AQUÍ]]
+
+---
+**TAXONOMÍA DE CADA SER VIVO**
+>[[23. BIOLOGÍA/COMPLEMENTO/TAXONOMÍA/REINO MONERA/Reino Monera\|REINO MONERA]]
 
 ---
 **SIGUIENTE TEMA:** 

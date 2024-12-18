@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/simbolismo-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/simbolismo-universal/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

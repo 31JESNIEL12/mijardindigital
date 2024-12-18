@@ -337,6 +337,43 @@ $choice{*"A" , "B" , "C" , "D" , "E"}
 ```
 
 ---
+```exercise
+Establezca la relación correcta entre el autor y su teoría ética.
+$match{"Eudemonismo" => "Aristóteles" , "Ética formal" => "Kant" , "Hedonismo" => "Epicuro"}
+```
+
+```exercise
+Identifique los casos en los que se practica la moral deontológica de Kant.
+I. Luis al encontrar una billetera en la calle, se da cuenta que tiene el DNI de la persona y su número de celular, es así que considera como su deber llamar a la persona y devolverle sus pertenencias.
+II. Juan participa de las actividades de un club deportivo, ya que busca nuevas amistades y novia.
+III. Melissa contó toda la verdad en un programa de televisión de alto rating, porque le pagaron veinte mil soles.
+$choice{"II y III" , "Solo II" , "I y II" , "Solo III" , *"Solo I"}
+```
+
+```exercise
+Respecto a la ética estoica:
+I. Sostiene que hay una especie de orden cósmico que el hombre debe aceptar y cumplir.
+II. Es llamada ética de la resignación.
+III. Su representante principal es Jeremy Bentham.
+IV. Es llamado Hedonismo universal.
+Son verdaderos:
+$choice{"I, IV" , "II, IV" , "I, II, III" , "Todas" , *"I, II"}
+```
+
+```exercise
+En la ética de Immanuel Kant, presentada en la Fundamentación de la metafísfica de las costumbres, se aprecia un enfoque deontológico que cuestiona las ética teontológicas para ser empíricas y heterónomas. 
+Así dentro de la ética kantiana, el concepto de un "reino de los fines" se refiere a:
+A) La evaluación de la acción moral según sus consecuencias
+B) Una ley política con el fin de regular la conducta moral 
+C) La buena voluntad de cada uno para alcanzar un buen fin
+D) Todos los seres racionales como fines en sí mismos 
+E) Un principio hipotético acerca de fines subjetivos
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>**ÉTICA FORMAL**: Es la fundamentación de la metafísica de costumbres, Kant realiza una distinción entre la ética heterónoma y la ética que él plantea: la ética autónoma. Al fundamentarla, propone el principio del "reino de los fines", que significa que todos los seres racionales (EL HOMBRE) son fines en sí mismos
+
 
 
 

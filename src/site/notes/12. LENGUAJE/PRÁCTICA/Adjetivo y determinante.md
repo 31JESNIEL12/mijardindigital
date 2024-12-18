@@ -267,3 +267,107 @@ IV. Luciente
 $choice{"Todos" , "Solo IV" , "II y III" , "I y III" , *"II y IV"}
 ```
 
+```exercise
+Sintácticamente, el artículo cumple la función de:
+A) Núcleo del sujeto 
+B) Modificador directo del sustantivo 
+C) Modificador indirecto del sustantivo 
+D) Construcción comparativa 
+E) Conector subordinante 
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+El artículo como transcategorizador, otorga la función de:
+$choice{"Verbo" , "Pronombre" , "Adjetivo" , *"Determinante" , "Sustantivo"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>El artículo otorga la función de determinantes, ya que determina al sujeto
+
+```exercise
+Marque la alternativa que contenga la mayor cantidad de artículos.
+A) La mayor cantidad de hojas está en los cajones 
+B) El frasco sin tapa está en la cocina 
+C) La niña manipula las tuercas y los tornillos 
+D) Un gran concierto se llevó a cabo en el auditorio del colegio
+E) Olvidé el libro de Biología y unos apuntes sobre los nervios del cuerpo humano
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+>[!sidenote]- **RESOLUCIÓN (RESPONDER PRIMERO)** 
+>A) **2 ARTÍCULOS**: La - Los
+>B) **2 ARTÍCULOS**: El - La
+>C) **3 ARTÍCULOS**: La - Las - Los 
+>D) **2 ARTÍCULOS**: Un - El
+>E) **2 ARTÍCULOS**: El - Los
+
+```exercise
+¿Cuántos artículos hay en:
+"En una sombra que estaba casi en la esquina de la nueva Iglesia de piedra, un hombre de ojos grises tendido entre el olor de los animales, humildemente busca la muerte"?
+$choice{"2" , "3" , "7" , "4" , *"6" , "4"}
+```
+
+>[!sidenote]- **RESOLUCIÓN (RECORDAR PRIMERO)** 
+>**ARTÍCULOS**: Una sombra - La esquina - La nueva - El olor - Los animales - La muerte
+
+```exercise
+En qué oración el término "UN" es un artículo.
+A) Compró <u>un</u> reloj de oro 
+B) <u>Un</u> día saldré contigo 
+C) Ingresó <u>un</u> alumno del aula uno
+D) Llegó <u>un</u> tal Juanito Pérez 
+E) <u>Un</u> joven participó hoy día
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+Clase de adjectivo que precisa la extensión, cantidad y ubicación del sustantivo.
+$choice{"Calificativo" , "Indefinido" , "Relativo" , "Posesivo" , *"Determinativo"}
+```
+
+```exercise
+¿Qué alternativa presenta uso incorrecto del ADJETIVO SUPERLATIVO?
+A) El sumo sacerdote llegó a la ceremonia.
+B) Se encuentra sumamente preocupadísimo.
+C) Los trabajadores reciben un sueldo ínfimo.
+D) Su crudelísimo padre los abandonó.
+E) Unamuno era el más famoso de los escritores de su generación.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+"Logró establecer con claridad algunas metas. Solo dos días antes de que venciera el breve plazo". Señale la clase de adjetivos:
+A) Posesivo, numeral, calificativo.
+B) Indefinido, ordinal, calificativo
+C) Indefinido, cardinal, calificativo.
+D) Indefinido, numeral, determinativo.
+E) Indefinido, indefinido, indefinido. 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+"Logró establecer con claridad algunas metas. Solo dos días antes de que venciera el breve plazo". Señale la clase de adjetivos:
+A) Posesivo, numeral, calificativo.
+B) Indefinido, ordinal, calificativo
+C) Indefinido, cardinal, calificativo.
+D) Indefinido, numeral, determinativo.
+E) Indefinido, indefinido, indefinido.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+¿Qué alternativa presenta uso incorrecto del superlativo?
+A) El sumo sacerdote llegó a la ceremonia.
+B) Se encuentra sumamente preocupadísimo.
+C) Los trabajadores reciben un sueldo ínfimo.
+D) Su crudelísimo padre los abandonó.
+E) Unamuno era el más famoso de los escritores de su generación.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Elena celebró el <u>**decimosegundo**</u> aniversario de su carrera profesional:
+$choice{*"Ordinal" , "Partitivo" , "Distributivo" , "Superlativo" , "Cardinal"}
+```
+

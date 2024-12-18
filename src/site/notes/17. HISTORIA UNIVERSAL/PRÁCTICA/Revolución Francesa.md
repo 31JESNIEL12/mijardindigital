@@ -246,3 +246,18 @@ E) La división de la sociedad en base al origen
 $choice{"A" , "B" , "C" , *"D" , "E"}
 ```
 
+```exercise
+La contradicción principal en el Estado Llano, durante el proceso de la Revolución francesa se daba entre:
+$choice{"El alto clero y bajo clero" , "Los artesanos y campesinos" , "Los nobles y terratenientes" , "El Rey de la Corte de Versalles" , *"La burguesía y campesinado"}
+```
+
+```exercise
+Conquista jurídica importante que la revolución francesa haya otorgado a la humanidad.
+A) Abolición de los derechos feudales 
+B) Declaración universal de los derechos del hombre y del ciudadano
+C) La constitución civil del clero
+D) Los derechos individuales
+E) La toma de la bastilla 
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+

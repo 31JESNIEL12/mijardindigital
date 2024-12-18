@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-filosofia/teoria/proposiciones-categoricas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/20-filosofia/teoria/proposiciones-categoricas/","tags":["Filosofía","Lógica","Teoría"]}
 ---
 
 # TEORÍA

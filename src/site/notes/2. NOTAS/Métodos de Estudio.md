@@ -1,5 +1,5 @@
 ---
-{"tags":["Complemento"],"dg-publish":true,"permalink":"/2-notas/metodos-de-estudio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-notas/metodos-de-estudio/","tags":["Complemento"]}
 ---
 
 # MÉTODOS PARA ESTUDIAR EFICAZMENTE

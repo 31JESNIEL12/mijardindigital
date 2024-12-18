@@ -452,3 +452,8 @@ $choice{"A" , *"B" , "C" , "D"}
 >[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
 >Según la ley de los derechos de participación y de control de los ciudadanos se establece que el referéndum es el derecho de los ciudadanos para pronunciarse conforme a la Constitución en los temas normativos que se le consultan. Existen materias que no pueden someterse a esta consulta popular. En relación con los resultados del referéndum: “Una norma aprobada mediante referéndum no puede ser materia de modificación dentro de los dos años de su vigencia, salvo nuevo referéndum o acuerdo del Congreso en dos legislaturas con el voto de dos tercios del número legal de congresistas. Si el resultado del referéndum deviene negativo, no podrá reiterarse la iniciativa hasta después de dos años.”
 
+```exercise
+Distingue cuál de las garantías constitucionales debe interponer ante el juez, una persona que es detenida sin orden del Juez o de la Policía Nacional:
+$choice{"Acción Popular" , "Acción de Amparo" , "Acción de Hábeas Data" , "Acción de Inconstitucionalidad" , *"Acción de Hábeas Corpus"}
+```
+

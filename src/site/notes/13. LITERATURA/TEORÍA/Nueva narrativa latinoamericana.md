@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/nueva-narrativa-latinoamericana/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/nueva-narrativa-latinoamericana/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

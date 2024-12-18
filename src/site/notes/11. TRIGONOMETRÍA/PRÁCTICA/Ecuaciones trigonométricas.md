@@ -36,3 +36,16 @@ Primero veamos el conjunto de valores  admisibles que tiene la ecuación:
 Por csc y cot tenemos que: 2x/3 ≠ kπ , k ∈ Z → x ∈ R / {3πk/2} , k ∈ Z
 Con esto, podemos resolver la ecuación
 ![Resolución de ecuaciones trigonométricas no elementales I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Resoluci%C3%B3n%20de%20ecuaciones%20trigonom%C3%A9tricas%20no%20elementales%20I.png)
+
+```exercise
+Sea la igualdad:
+![Elite 2024-II 10 V.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Elite%202024-II%2010%20V.png)
+Calcule el ángulo agudo θ.
+$choice{"𝜋/8" , "𝜋/4" , "𝜋/16" , "𝜋/3" , *"3𝜋/8"}
+```
+
+```exercise
+Calcular el menor valor de la ecuación:
+2sen²x = 3cosx
+$choice{"30°" , "45°" , "37°" , "53°" , *"60°"}
+```

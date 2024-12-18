@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Práctica"],"dg-publish":true,"permalink":"/19-economia/practica/organismos-financieros-internacionales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/practica/organismos-financieros-internacionales/","tags":["Economía","Práctica"]}
 ---
 
 # PRÁCTICA

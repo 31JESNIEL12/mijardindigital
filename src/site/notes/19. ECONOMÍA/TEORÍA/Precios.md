@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/precios/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/precios/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

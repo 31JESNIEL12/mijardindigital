@@ -19,7 +19,7 @@
 **EXPERIENCIAS HUMANAS** 
 
 ✔ **EXPERIENCIA O ACTO CONTEMPLATIVO** 
-- El sujeto no se pone ni a favor ni en contra de un objeto ==(NEUTRALIDAD) ==
+- El sujeto no se pone ni a favor ni en contra de un objeto ==(NEUTRALIDAD)==
 
 ✅ **JUICIOS DE EXISTENCIA, CONTEMPLATIVOS, DE SER U ÓNTICOS** 
 - Juicio en el cual el predicado solo hace referencia a las ==CARACTERÍSTICAS O PROPIEDADES== de objeto 

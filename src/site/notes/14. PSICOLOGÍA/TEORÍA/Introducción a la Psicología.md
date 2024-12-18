@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/introduccion-a-la-psicologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/introduccion-a-la-psicologia/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

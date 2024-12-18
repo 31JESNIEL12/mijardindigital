@@ -91,3 +91,13 @@ $choice{"Solo I" , "Solo III" , "I y II" , "I y III" , *"II y III"}
 $choice{"Aprendizaje motor" , "Aprendizaje social" , "Aprendizaje cognitivo" , "Aprendizaje actitudinal" , *"Aprendizaje afectivo"}
 ```
 
+```exercise
+"Del odio al amor hay un paso". La frase anterior refleja una característica de la afectividad denominada:
+$choice{"Intimidad" , "Profundidad" , "Intensidad" , "Nivel" , *"Polaridad"}
+```
+
+```exercise
+Son procesos afectivos relativamente estables, menos intensos pero más duraderos que la emoción. Es la definición de:
+$choice{"Emoción" , "Pasión" , "Aversión" , *"Sentimiento" , "Actitud"}
+```
+

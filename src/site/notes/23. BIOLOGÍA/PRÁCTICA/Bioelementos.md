@@ -565,5 +565,30 @@ Bioelemento que forma el esqueleto básico de las biomoléculas orgánicas, perm
 $choice{"Hidrógeno" , "Oxígeno" , "Fósforo" , "Nitrógeno" , *"Carbono"}
 ```
 
+```exercise
+Bioelemento más importante de los huesos, participa en la coagulación sanguínea, contracción muscular, y su ausencia y genera raquitismo:
+$choice{"C" , "Cu" , "Cs" , "Co" , *"Ca"}
+```
+
+```exercise
+Relacione:
+$match{"Fluór" => "Dureza dental" , "Litio" => "Antidepresivo" , "Zinc" => "Cicatrización" , "Yodo" => "Tiroides" , "Hierro" => "Hemoglobina"}
+```
+
+```exercise
+Bioelemento más importante en la constitución de huesos y dientes, que necesita vitamina D para su absorción
+$choice{"Flúor" , "Fósforo" , "Hierro" , "Magnesio" , *"Calcio"}
+```
+
+```exercise
+Bioelemento más importante para la estructura de los huesos, cuya deficiencia genera osteoporosis y raquitismo en niños:
+$choice{"Cobre" , "Hierro" , "Cobalto" , "Magnesio" , *"Calcio"}
+```
+
+```exercise
+Bioelemento que forma parte de la Coenzima A en el proceso de respiración celular:
+$choice{"Cobalto" , "Selenio" , "Magnesio" , "Manganeso" , *"Azufre"}
+```
+
 
 

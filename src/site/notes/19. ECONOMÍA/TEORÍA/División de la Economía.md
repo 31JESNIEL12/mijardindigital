@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/division-de-la-economia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/division-de-la-economia/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

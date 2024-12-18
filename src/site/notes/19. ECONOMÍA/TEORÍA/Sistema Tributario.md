@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/sistema-tributario/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/sistema-tributario/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

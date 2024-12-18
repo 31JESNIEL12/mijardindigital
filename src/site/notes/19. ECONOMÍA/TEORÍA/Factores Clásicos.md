@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/factores-clasicos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/factores-clasicos/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

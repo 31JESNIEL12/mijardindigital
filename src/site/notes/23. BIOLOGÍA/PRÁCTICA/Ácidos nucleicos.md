@@ -677,3 +677,51 @@ E) TCG - AUC - GGG - CGG
 $choice{*"A" , "B" , "C" , "D" , "E"}
 ```
 
+```exercise
+No es un tipo de ARN:
+$choice{"Mensajero" , "Ribosómico" , "Transferencia" , "Nucleolar" , *"Cromosómico"}
+```
+
+```exercise
+Indique la alternativa incorrecta:
+A) Los carbohidratos representan energía inmediata.
+B) Los lípidos representan reservas de energía.
+C) Las proteínas están conformadas por aminoácidos. 
+D) El ADN es helicoidal y paralelo.
+E) El ARN de transferencia tiene forma de trébol.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+No es un tipo de ARN:
+$choice{"Mensajero" , "Transferencia" , "Ribosómico" , "Nucleolar" , *"Cromosómico"}
+```
+
+```exercise
+Indique la alternativa incorrecta:
+A) Los carbohidratos representan energía inmediata.
+B) Los lípidos representan reservas de energía.
+C) Las proteínas están conformadas por aminoácidos.
+D) El ADN es helicoidal y paralelo.
+E) El ARN de transferencia tiene forma de trébol.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+No corresponde al ADN: 
+A) Presenta Ley de Chargaff. 
+B) Posee timina en su composición.
+C) Su estructura es conocida como “Doble hélice"
+D) La primera foto fue tomada con Rayos UV 
+E) Presenta cadena
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El triplete de bases nitrogenadas GAC esta codificado para el aminoácido acido aspártico. Respectivamente a este triplete escriba Verdadero (V) o Falso (F) 
+- Está contenido en el ARN mensajero
+- La secuencia se denomina Anticodón
+- Se originó en el ADN por replicación
+$choice{"VVF" , "FVV" , "VVV" , "FFF" , *"VFF"}
+```
+

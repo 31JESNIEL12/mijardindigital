@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-plantae/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/reino-plantae/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA
@@ -12,9 +12,6 @@
 >[REINO PLANTAE PARTE 2 - DAVID ERRE](https://youtu.be/BxWvJ7x7Aqk?si=v23Fj8p4PvLQnH1h) 
 >[REINO PLANTAE 1 - GRUPO CIENCIAS](https://www.youtube.com/watch?v=H2a_LDPA2xE) 
 >[REINO PLANTAE 2 - GRUPO CIENCIAS](https://www.youtube.com/watch?v=F0MyLTnvF-8)
-
->[!sidenote]- **ARTE RUPESTRE**
->![Reino Plantae.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Reino%20Plantae.jpg)
 
 ✔ **CARACTERÍSTICAS**
 - Son seres eucariotas
@@ -65,6 +62,10 @@
 ---
 **PRÁCTICA**
 >[[23. BIOLOGÍA/PRÁCTICA/Reino Plantae\|PRESIONA AQUÍ]]
+
+---
+**TAXONOMÍA DE CADA SER VIVO** 
+>[[23. BIOLOGÍA/COMPLEMENTO/TAXONOMÍA/REINO PLANTAE/Reino Plantae\|REINO PLANTAE]]
 
 ---
 **SIGUIENTE TEMA:**

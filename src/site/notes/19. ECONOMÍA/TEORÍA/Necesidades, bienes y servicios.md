@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/necesidades-bienes-y-servicios/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/necesidades-bienes-y-servicios/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

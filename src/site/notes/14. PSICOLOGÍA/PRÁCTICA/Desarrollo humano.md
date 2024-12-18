@@ -360,3 +360,152 @@ E) Es un proceso social
 $choice{"A" , "B" , *"C" , "D" , "E"}
 ```
 
+```exercise
+Etapa del ser humano en la cual se empieza a limitar la actividad reproductora:
+$choice{"Niñez" , "Adolescencia" , "Ancianidad" , *"Adultez" , "Juventud"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>La adultez es la etapa que se caracteriza por la presencia de menopausia y andropausia, que permite la limitación de la actividad reproductora
+
+```exercise
+Realizado en Arequipa, un estudio concluyó que existe relación significativa entre baja inteligencia emocional y el inicio precoz de relaciones sexuales y promiscuidad (Quispe, 2015). La OPS y OMS (2001) señalan que el inicio sexual temprano, asociado con inestabilidad emocional, se relaciona con el aumento de embarazos adolescentes. La actividad sexual se ha convertido para los adolescentes en una «moda» que hay que cumplir y, a través de la cual, se busca la aceptación de sus pares.
+Estado del arte sobre el comportamiento sexual adolescente.
+Sobre el comportamiento sexual adolescente, señale la afirmación que se infiere del texto.
+A) La inmadurez en la sexualidad se caracteriza por la prevalencia de conductas de riesgo ocasionadas por la moda.
+B) Un adecuado desarrollo emocional, en la adolescencia, está asociado con menores conductas de riesgo.
+C) La salud sexual implica una vida moral asociada al desarrollo de capacidades emocionales.
+D) Los programas de intervención se realizan a partir del embarazo adolescente, que tiene en cuenta a la familia.
+E) La madurez sexual de los adolescentes se logra por los programas de intervención en el colegio.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Según Piaget, la etapa que se caracteriza por el hecho de que la persona es capaz de operar con objetos o con los símbolos de éstos, pero aún no puede manejar situaciones hipotéticas abstractas, se denomina etapa de las operaciones
+$choice{"Espaciales" , "Convencionales" , "Formales" , *"Concretas" , "Previas"}
+```
+
+```exercise
+Período de la vida en el que la persona va perdiendo interés por las cosas de la vida presente y vive más en función del pasado:
+$choice{"Adultez" , "Juventud" , "Pubertad" , "Adolescencia" , *"Senectud"}
+```
+
+```exercise
+Es la etapa del pequeño filósofo es decir el infante hace preguntas y repreguntas:
+$choice{"Primera infancia" , *"Segunda infancia" , "Niñez" , "Pubertad" , "Adolescencia"}
+```
+
+```exercise
+La plenitud del desarrollo profesional y la afirmación de la personalidad corresponde a la adultez, mientras que en la juventud:
+A) La vida afectiva es cambiante.
+B) El pensamiento es imaginativo y egocéntrico.
+C) Hay dedicación por la apariencia física.
+D) Es la plenitud del desarrollo académico formativo.
+E) Se hace manifiesta la consolidación de los roles familiares y sociales
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El que el niño pueda operar con objetos y cosas materiales, quiere decir que está en el estado del pensamiento:
+$choice{"Concreto" , "Sensoriomotriz" , "Operacional abstracto" , "Formal" , *"Preoperacional"}
+```
+
+```exercise
+La etapa $select{"fetal" , "prenatal" , "neonatal" , "infancia" , *"embrionaria"} es considerada la más susceptible a los agentes del medio intrauterino
+```
+
+```exercise
+¿En qué período de la etapa prenatal, el nuevo ser ya presenta características humanas?
+$choice{"Cigótica" , "Embrionaria" , "Neonatal" , "Senetud" , *"Fetal"}
+```
+
+```exercise
+En el desarrollo social de un individuo, es la etapa en la que aparece la necesidad de respetar las reglas de juego para vivir armónicamente:
+$choice{"Primera infancia" , "Segunda infancia" , "Adolescencia" , "Juventud" , *"Niñez"}
+```
+
+```exercise
+Luisa tiene entre 18 a 25 años, es así que ella desarrolla:
+A) La capacidad de integrar las emociones con la razón
+B) Habilidades de coordinación motora con ambos lados del cuerpo
+C) Mayor cercanía con el entorno familiar
+D) El perfeccionamiento de la gramática, semántica y pragmática
+E) Las operaciones concretas, según Piaget
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+Realizado en Arequipa, un estudio concluyó que existe relación significativa entre baja inteligencia emocional y el inicio precoz de relaciones sexuales y promiscuidad (Quispe, 2015). La OPS y OMS (2001) señalan que el inicio sexual temprano, asociado con inestabilidad emocional, se relaciona con el aumento de embarazos adolescentes. La actividad sexual se ha convertido para los adolescentes en una «moda» que hay que cumplir y, a través de la cual, se busca la aceptación de sus pares.
+Estado del arte sobre el comportamiento sexual adolescente.
+Sobre el comportamiento sexual adolescente, señale la afirmación que se infiere del texto.
+A) La inmadurez en la sexualidad se caracteriza por la prevalencia de conductas de riesgo ocasionadas por la moda. 
+B) Un adecuado desarrollo emocional, en la adolescencia, está asociado con menores conductas de riesgo.
+C) La salud sexual implica una vida moral asociada al desarrollo de capacidades emocionales.
+D) Los programas de intervención se realizan a partir del embarazo adolescente, que tiene en cuenta a la familia.
+E) La madurez sexual de los adolescentes se logra por los programas de intervención en el colegio.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+El cese de la función reproductiva en la mujer es denominado $select{"menarquía" , "andropausia" , "abstinencia" , *"menopausia"} y la $select{"menarquía" , "menopausia" , "abstinencia" , *"andropausia"} es un déficit de las funciones psicosexuales del varón.
+```
+
+```exercise
+En este período, el ser humano se caracteriza por tener captación sensorial, receptiva, emotiva y conducta refleja.
+$choice{"Cigótico" , "Embrionario" , "Germinal" , "Más de una" , *"Fetal"}
+```
+
+```exercise
+Se caracteriza por darle vida los objetos, por desarrollar un pensamiento irreversible.
+$choice{"Primera Infancia" , "Tercera Infancia" , "Juventud" , "Adolescencia" , *"Segunda Infancia"}
+```
+
+```exercise
+El desarrollo humano histórico y lógico es:
+A) Prenatal, infancia, niñez, adolescencia, juventud, adultez y ancianidad.
+B) Prenatal, niñez, infancia, juventud, adolescencia, adultez y ancianidad.
+C) Infancia, prenatal, niñez, juventud, adultez y ancianidad.
+D) Prenatal, juventud, niñez, infancia, ancianidad y adultez.
+E) Ancianidad, adultez, juventud, adolescencia, niñez, infancia, prenatal.
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+En el desarrollo social de un individuo, es la etapa en la que aparece la necesidad de respetar las reglas de juego para vivir armónicamente:
+$choice{"Primera infancia" , "Segunda infancia" , "Adolescencia" , "Juventud" , *"Niñez"}
+```
+
+```exercise
+La plenitud del desarrollo profesional y la afirmación de la personalidad corresponde a la adultez, mientras que en la juventud:
+A) La vida afectiva es cambiante.
+B) El pensamiento es imaginativo y egocéntrico.
+C) Hay dedicación por la apariencia física. 
+D) Es la plenitud del desarrollo académico formativo.
+E) Se hace manifiesta la consolidación de los roles familiares y sociales
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El centrarse en uno mismo, considerando que los demás están pendientes de uno y el marcado interés por su apariencia personal, desempeño social y competitividad es característico de la:
+$choice{"Adultez" , "Niñez" , "Juventud" , "Senetud" , *"Adolescencia"}
+```
+
+```exercise
+Según Freud, esta fase va desde los 3 hasta los 6 años aproximadamente. En esta fase el niño desarrolla una curiosidad por sus partes íntimas, niños y niñas empiezan a darse cuenta de las diferencias entre ambos sexos. En esta etapa la zona erógena son los genitales.
+$choice{"Anal" , "Genital" , "Oral" , "De latencia" , *"Fálica"}
+```
+
+```exercise
+Nicolás tiene una tendencia marcada a imitar a los adultos que forman parte de su familia. Infiero que Nicolás está en la:
+$choice{"Adolescencia" , "Niñez" , *"Segunda infancia" , "Juventud" , "Primera infancia"}
+```
+
+```exercise
+Es característica de los adolescentes:
+A) Empiezan a cuestionar las órdenes de sus padres, buscan libertad e independencia para escoger a sus amigos, amigas o pareja
+B) La visón retrospectiva, añoran el pasado
+C) La despersonalización, generatividad y cambios hormonales
+D) La Búsqueda de la razón y la intención frecuente de querer cambiar el mundo
+E) animismo, suelen darle vida a los objetos y las ensoñaciones
+$choice{*"A" , "B" , "C" , "D" ,"E"}
+```

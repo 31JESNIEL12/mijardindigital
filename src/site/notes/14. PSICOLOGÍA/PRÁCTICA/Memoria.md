@@ -119,4 +119,34 @@ Perturbación de la memoria que consiste en la aparición de gran número de rec
 $choice{"Paramnesia" , "Amnesia" , "Ilusión objetiva" , "Dismnesia" , *"Hipermnesia"}
 ```
 
+```exercise
+La ciudad de Valencia en España, está sufriendo un desastre, debido al fenómeno natural DANA, Wendy recuerda que en la década del 80, ocurrió un fenómeno parecido en dicha ciudad. Wendy empleó:
+$choice{"Inteligencia" , "Imaginación" , "Sensación" , "Percepción" , *"Memoria"}
+```
+
+```exercise
+Señale cómo se denomina el proceso psíquico que almacena de modo activo la información de la experiencia vivida y es capaz de evocarla:
+$choice{"Cognitivo" , "Percepción" , "Inteligencia" , "Imaginación" , *"Memoria"}
+```
+
+
+```exercise
+El fenómeno del “deja vu” o lo “ya visto”, que es una falsa certeza de que ya ha sido vista una persona, un objeto o situación que, en realidad, son nuevos, forma parte de la:
+$choice{"Amnesia" , "Dismnesia" , "Alomnesia" , "Hipermnesia" , *"Paramnesia"}
+```
+
+```exercise
+Agapito afirma conocer muy bien las ruinas de Túcume, a pesar de que llega a Lambayeque por primera vez. Esto evidencia que está sufriendo:
+$choice{"Amnesia" , "Amnesia parcial" , "Olvido" , "Hipermnesia" , *"Paramnesia"}
+```
+
+```exercise
+Rafael recuerda que hoy es el cumpleaños de su hermana Camila, Rafael evidencia el proceso cognitivo de la:
+$choice{"Inteligencia" , "Percepción" , "Imaginación" , *"Memoria" , "Sensación"}
+```
+
+```exercise
+Nicolás está desarrollando este examen, y al ver esta pregunta, recuerda que su padre en algún momento le habló acerca de la memoria. Qué fase de la memoria manifiesta Nicolás:
+$choice{"Reconocimiento" , "Conservación" , "Fijación" , "Localización" , *"Evocación"}
+```
 

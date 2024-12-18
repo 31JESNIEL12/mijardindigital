@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/23-biologia/teoria/contaminacion-ambiental-rrnn-y-anp/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/contaminacion-ambiental-rrnn-y-anp/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA
@@ -11,8 +11,6 @@
 >[RRNN, ANP - SAVIA](https://www.youtube.com/watch?v=X23lMmVf0gQ) 
 >[CONTAMINACIÓN AMBIENTAL, RECURSOS NATURALES, ANP - SAVIA](https://www.youtube.com/watch?v=TFKeBns4C-8)
 
->[!sidenote]- **ARTE RUPESTRE**
-![Contaminación ambiental, RRNN, ANP.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Contaminaci%C3%B3n%20ambiental,%20RRNN,%20ANP.jpg)
 
 ---
 **PROBLEMAS GLOBALES DE CONTAMINACIÓN AMBIENTAL**

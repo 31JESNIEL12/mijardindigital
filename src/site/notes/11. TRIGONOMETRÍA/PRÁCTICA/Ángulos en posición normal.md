@@ -229,3 +229,53 @@ $choice{"1280°" , "3210°" , "3200°" , "3230°" , *"2160°"}
 >[!sidenote]- **RESOLUCIÓN (RESPONDER PRIMERO)** 
 >![Ángulos en posición normal XXIV RESOLUCIÓN.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/%C3%81ngulos%20en%20posici%C3%B3n%20normal%20XXIV%20RESOLUCI%C3%93N.png)
 
+```exercise
+![ELITE 2025-I 02 VI.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/ELITE%202025-I%2002%20VI.png)
+$choice{"No tiene" , "(+) y (-)" , "(+) o (-)" , "(+)" , *"(-)"}
+```
+
+```exercise
+Calcular el valor de:
+S = sen π + cos 2π + tan 3π
+$choice{"0" , *"1" , "-1" , "2" , "-2"}
+```
+
+```exercise
+Reducir:
+P = cot 1° - tan 1° - 2 tan 2° + 4 tan 4°
+$choice{"1" , "5√3" , "40√3" , *"40√2" , "5√2"}
+```
+
+```exercise
+Si 𝑃(3; −√3) pertenece al lado final de un ángulo en posición normal 𝛼 , calcule √3 𝑠𝑒𝑐 𝛼 + 4𝑠𝑒𝑛𝛼
+$choice{"7" , "3/2" , "4" , "√3+2/2" , *"0"}
+```
+
+```exercise
+Si se cumple que 15 sen<sup>2</sup>α - 14 senα = 2 donde α es un ángulo en posición normal del tercer cuadrante, calcule el valor de
+cotα cosα.
+$choice{"-2, 4" , "-2, 5" , *"-2, 3" , "-2, 1" , *"-2, 2"}
+```
+
+```exercise
+Reducir:
+P = cot 1° - tan 1° - 2 tan 2° + 4 tan 4°
+Considerar: tan 8° = 1/7
+$choice{"1" , "5√3" , "5√2" , "40√3" , *"40√2"}
+```
+
+```exercise
+Si: sec θ + tan θ = 2, calcule cos θ
+$choice{"3/5" , "2/5" , "1" , "1/3" , *"4/5"}
+```
+
+```exercise
+En el esquema mostrado se tiene que P es de máxima ordenada, determine las coordenadas de M.
+![Pasted image 20241103194312.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020241103194312.png) 
+$choice{"(4; 4)" , "(5; 5)" , "(4; 5)" , "(2; 4)" , *"(2; 5)"}
+```
+
+```exercise
+![Elite 2024-II 11 VII.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Elite%202024-II%2011%20VII.png)
+$choice{"11/12" , "√143/60" , "√15/4" , "-1/√15" , *"-19√15/60"}
+```

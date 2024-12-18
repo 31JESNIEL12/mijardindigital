@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/narrativa-de-la-edad-de-oro/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/narrativa-de-la-edad-de-oro/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

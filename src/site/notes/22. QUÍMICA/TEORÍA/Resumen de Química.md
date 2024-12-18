@@ -1,5 +1,5 @@
 ---
-{"tags":["Química","Teoría"],"dg-publish":true,"permalink":"/22-quimica/teoria/resumen-de-quimica/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/22-quimica/teoria/resumen-de-quimica/","tags":["Química","Teoría"]}
 ---
 
 # RESUMEN DE TEORÍA Y FÓRMULAS

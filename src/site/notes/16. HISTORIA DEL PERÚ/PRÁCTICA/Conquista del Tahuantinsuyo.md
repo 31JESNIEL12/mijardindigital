@@ -287,3 +287,114 @@ De los incas de Vilcabamba, el que reconoce la autoridad del rey de España y re
 $choice{"Titu Cusi Yupanqui" , "Manco Inca" , "Túpac Amaru I" , "Quisquis" , *"Sayri Túpac"}
 ```
 
+```exercise
+Fue uno de los socios de la empresa conquistadora que se benefició con los títulos de Capitán General, Alguacil Mayor y Adelantado y a la vez se le estableció un ingreso anual equivalente a los 750,000 maravedíes, su gobernación sería hasta las 200 leguas al sur del río Santiago (Ecuador).
+$choice{"Hernando de Luque" , *"Francisco Pizarro" , "Diego de Almagro" , "Gaspar de Espinoza" , "Pascual de Andagoya"}
+```
+
+```exercise
+El 16 de noviembre de 1532 se capturó al Inca Atahualpa, para ello el fray Vicente Valverde, perteneciente a la orden religiosa de los .................................. le realizó el .................................... al Inca, pero éste se rehusó a convertirse al cristianismo siendo capturado y llevado prisionero al Amaruhuasi.
+$choice{"Franciscanos - Perdón" , *"Dominicos - Requerimiento" , "Agustinos - Juicio sumario" , "Mercedarios - Enjuiciamiento" , "Agustinos – Requerimiento"}
+```
+
+```exercise
+Los reyes católicos respaldaron los viajes de colon con la capitulación de ......................... y Carlos respaldo el viaje de circunnavegación de Magallanes con la capitulación de .........................
+$choice{"Toledo - Valladolid" , "Tordesillas - Salamanca" , "Barcelona - Madrid" , "Burgos - Toledo" , *"Santa Fe - Valladolid"}
+```
+
+```exercise
+La Capitulación de Toledo firmada entre Pizarro e Isabel de Portugal en 1529, Privilegió exageradamente a Francisco Pizarro con la finalidad de: 
+A) Consolidar el poder de los socios de la conquista. 
+B) Generar desavenencias entre los socios de la conquista. 
+C) Que triunfe en su empresa invasora. 
+D) Premiar y dar poder, al conquistador más capaz y esforzado. 
+E) Fortalecer su posición respecto al Rey
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Referente a lo que establecían las Nuevas Leyes de Indias, dadas por el Rey Carlos I de España, en Barcelona, el 20-11-1542, indica su verdad o falsedad.
+1. Prohibía la esclavitud del indio
+2. Moderar el trabajo personal del indio
+3. Crear el Virreinato peruano
+4. Crear una Audiencia en Lima
+5. Nombrar a Blasco Núñez de Vela Virrey del Perú
+La respuesta es:
+$choice{"F-F-V-V-F" , "V-V-F-F-V" , "F-F-F-F-V" , "V-F-F-V-V" , *"V-V-V-V-V"}
+```
+
+```exercise
+En Tumbes Pizarro, con la intención de reconocer y obtener información sobre la ciudad, envía a Alonso de Molina con un esclavo para explorar el lugar, lo cual resultó tan extraordinario que mandó a $select{"Pedro de Candía y Chilimasa" , "Ruiz de Estrada y Francisquillo" , "Ruiz de Estada y Felipillo" , "Hernando Pizarro y Fernandillo" , *"Pedro de Candía y Felipillo"}.Estos últimos confirmaron la existencia del imperio rico en oro.
+```
+
+```exercise
+Último Inca de Vilcabamba que cayó prisionero por los españoles y fue condenado a muerte en el Cusco por el virrey Francisco de Toledo.
+$choice{"Kisu Yupanqui" , "Túpac Yupanqui" , "Calcuchimac" , "Túpac Huallpa" , *"Túpac Amaru I"}
+```
+
+```exercise
+Con la firma de $select{"El Pacto de Panamá" , "La Capitulación de Santa Fe" , "La Ley de Burgos" , "El Contrato de Panamá" , *"La Capitulación de Toledo"} la empresa de la conquista (inicialmente privada) se transformó en una empresa con participación estatal
+```
+
+```exercise
+El apoyo de los Curacas o Hatun Curacas a los Invasores Españoles, fue el factor principal que determinó: 
+A) El triunfo de Atahualpa sobre Huáscar. 
+B) El fracaso de la dirección Militar Incaica en su lucha contra los hispanos. 
+C) La liberación y autonomía de Ayllus y Reynos del horizonte tardío. 
+D) Que la Corona Española defienda a los indios de la explotación de los encomenderos.
+E) La demora de la dominación Española sobre los Incas.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Una de las batallas más cruentas de las guerras entre españoles fue en Iñaquito donde:
+A) Hernando Pizarro derrotó Orgoñez 
+B) Vaca de Castro derrotó a Almagro "el mozo" 
+C) Gonzalo Pizarro derrotó a Núñez de Vela 
+D) Francisco de Carvajal derrotó a Diego Centeno 
+E) La Gasca derrotó a Gonzalo Pizarro 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Una de las causas principales que facilitó la invasión y conquista del Perú por parte de los españoles fue:
+A) El descontento por la explotación en las mitas aplicadas a los pueblos conquistados por lo incas 
+B) Las enfermedades traídas por los españoles diezmaron a la población incaica 
+C) La ayuda prestada a los españoles por algunas etnias como los Huancas, Chancas, Cañaris, Chachapoyas
+D) La deserción de altos generales que apoyaron a los españoles 
+E) La superioridad tecnológica traída por españoles 
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+El nombre de nuestro país está relacionada con la expedición de:
+$choice{"Vasco Núñez de Balboa" , "Francisco de Becerra" , "Juan de Basurto" , "Pedro Arias Dávila" , *"Pascual de Andagoya"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)** 
+>Cuando el aventurero Español Pascual de Andagoya; por orden del Gobernador de Panamá Pedro Aris Dávila; llego hasta las costas de Colombia; bautizó al lugar que había llegado con el nombre del río Birú o Virú en recuerdo al Cacique de ese lugar que se llamaba Biru. Este lugar  se convirtió en un lugar estratégico y clave para la continuación de las expediciones. Con el tiempo a ese lugar se le llamó Piru, luego por la evolución de la lengua, se le llamó Perú.
+
+```exercise
+Ratificó las informaciones sobre la existencia de un gran Mar y un Reino Pletórico en Oro que los Caciques de Panamá relataron a Balboa. Nos referimos al cacique de:
+$choice{"Coaque" , "Chocama" , "Atacama" , "Acla" , *"Tumaco"}
+```
+
+>[!sidenote]- **RECORDAR (RESPONDER PRIMERO)**
+>Vasco Núñez de Balboa fue el primer europeo que se informó de la existencia del Imperio Incaico. Informaciones que le proporcionó Panquiaco hijo del Cacique Comagre. Posteriormente estas informaciones fueron corroboradas por el Cacique Túmaco. 
+
+```exercise
+Es la organización social de la antigua India, sobre la base de castas. ¿Qué grupo estaba al margen de la organización social?
+$choice{"Brahmanes" , "Califas" , "Mandarines" , "Chatrias" , *"Parias"}
+```
+
+```exercise
+El principal objetivo del viaje de Vasco da Gama que culminó con su llegada a Calicut en 1498 fue:
+A) Establecer alianzas políticas con la población de África.
+B) Explorar y colonizar nuevas tierras en América del Sur
+C) Mapear la costa de África para futuras expediciones europeas
+D) Difundir la fe cristiana entre las poblaciones africanas e indias
+E) Encontrar una ruta marítima directa a la india para el comercio de especias
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+

@@ -25,6 +25,8 @@
 
 >[[10. ÁLGEBRA/PRÁCTICA/Binomio de Newton\|BINOMIO DE NEWTON]]
 
+>[[10. ÁLGEBRA/PRÁCTICA/Números complejos\|NÚMEROS COMPLEJOS]]
+
 >[[10. ÁLGEBRA/PRÁCTICA/Radicación\|RADICACIÓN]]
 
 >[[10. ÁLGEBRA/PRÁCTICA/Racionalización\|RACIONALIZACIÓN]]

@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/teoria-de-la-produccion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/teoria-de-la-produccion/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA

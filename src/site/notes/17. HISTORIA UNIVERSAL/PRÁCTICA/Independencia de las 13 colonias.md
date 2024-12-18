@@ -1,5 +1,5 @@
 ---
-{"tags":["Historia","Práctica"],"dg-publish":true,"permalink":"/17-historia-universal/practica/independencia-de-las-13-colonias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/practica/independencia-de-las-13-colonias/","tags":["Historia","Práctica"]}
 ---
 
 # PRÁCTICA
@@ -62,5 +62,9 @@ C) El Tratado de Minsk
 D) Por el fracaso inglés por la firma del Tratado de París 
 E) Por la incapacidad gubernativa del rey
 $choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+El 19 de abril de 1775 se desarrolló un incidente en $select{"Boston" , "Saratoga" , "Yorktown" , "Filadelfia" , *"Lexington"} que resultó una breve escaramuza que supuso el primer choque militar de la guerra de independencia estadunidense.
 ```
 

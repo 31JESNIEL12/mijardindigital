@@ -1,5 +1,5 @@
 ---
-{"tags":["Psicología","Teoría"],"dg-publish":true,"permalink":"/14-psicologia/teoria/busqueda-de-la-identidad/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/14-psicologia/teoria/busqueda-de-la-identidad/","tags":["Psicología","Teoría"]}
 ---
 
 # TEORÍA

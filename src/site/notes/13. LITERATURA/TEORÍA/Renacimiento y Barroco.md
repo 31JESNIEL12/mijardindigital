@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/renacimiento-y-barroco/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/renacimiento-y-barroco/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA

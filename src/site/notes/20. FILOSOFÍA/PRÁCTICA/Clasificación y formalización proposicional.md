@@ -147,6 +147,23 @@ Las conectivas lógicas se emplean para $select{"formalizar" , "simbolizar" , "r
 ```
 
 ```exercise
+Son proposiciones moleculares
+I. Chiclayo es un distrito, también es una provincia.
+II. La Copa América 2024 se está jugando en Estados Unidos.
+III. El ministro de transportes estuvo muy interesado en atender a los reclamos de los transportistas de carga pesada al igual que a los transportistas de servicio público.
+IV. No es verdad que la Eurocopa 2024 se esté jugando en Italia
+V. César y Sergio son amigos desde la infancia
+VI. El próximo mundial de fútbol se jugará en América, pero los próximos juegos olímpicos se jugarán en Europa
+De las anteriores son ciertas:
+$choice{"II - IV - V" , "I - II - IV - VI" , "III - IV" , "I - III" , *"I -- III - IV - VI"}
+```
+
+```exercise
+Una inferencia inmediata está constituida por:
+$choice{"Dos premisas" , "No más de dos premisas" , "Dos o más premisas" , "Cualquier número de premisas" , *"Una premisa"}
+```
+
+```exercise
 La jerarquía de los conectivos lógicos se establece de la siguiente forma:
 A) Negación, conjunción, disyunción fuerte, condicional y bicondicional
 B) Conjunción, disyunción, negación, condicional y bicondicional
@@ -164,5 +181,15 @@ C) Exclusivamente a la proposición simple o compuesta de su derecha inmediata
 D) Únicamente proposiciones simples
 E) Frecuentemente a proposiciones compuestas
 $choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Considerar la jerarquía de los conectores lógicos, de manera descendente
+1. Condicional
+2. Negador
+3. Bicondicional
+4. Disyuntor fuerte
+5. Conjuntor y disyuntor débil
+$choice{"3, 1, 5, 4, 2" , "1, 4, 3, 5, 2" , "4, 1, 2, 3, 5" , "3, 5, 1, 2, 4" , *"3, 4, 1, 5, 2"}
 ```
 

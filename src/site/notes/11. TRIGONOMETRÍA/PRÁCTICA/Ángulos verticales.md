@@ -136,3 +136,30 @@ $choice{"4" , "2√3" , "2/√3" , "√6/2" , *"√3"}
 >[!sidenote]- **RESOLUCIÓN (RESPONDER PRIMERO)** 
 >![Ángulos verticales X RESOLUCIÓN.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/%C3%81ngulos%20verticales%20X%20RESOLUCI%C3%93N.png)
 
+```exercise
+Desde un punto en un terreno se observa la parte más alta de un pino con un ángulo de elevación 30°. Si nos acercamos 40 m hacia el pino, notamos que el nuevo ángulo de elevación es el complemento del anterior. Calcular la altura del pino en metros.
+$choice{"20" , "10" , "40" , "10√3" , *"20√3"}
+```
+
+```exercise
+Un poste de longitud "x" está inclinado 60º respecto a la vertical. El foco del poste es observado por dos personas que se encuentran ubicadas a los dos lados de éste y lo observan con ángulos de elevación 𝜃 𝑦 90° − 𝜃. Si la separación entre dichas personas es de 16m, calcular "x" en términos de 𝜃.
+$choice{"Sen2θ" , "8Sen2θ" , "2Senθ" , "4Sen2θ" , *"16Sen2θ"}
+```
+
+```exercise
+La sombra que presenta un árbol de 10 m de altura es de 12 m. Calcular la altura de un edificio. Si la sombra que presenta es de 48 m.
+![Pasted image 20240901183739.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020240901183739.png)
+$choice{"30 m" , "45 m" , "36 m" , "48 m" , *"40 m"}
+```
+
+```exercise
+Una asta de bandera esta clavada verticalmente en lo alto del edificio de del Centro Pre “Francisco Aguinaga Castro”; a 6m de distancia de la base del edificio, los ángulos
+de elevación de la punta del asta y de la parte superior del edificio es 60° y 30° respectivamente ¿Hállese la longitud del asta?
+$choice{"√3" , "2√3" , "3√3" , "5√3" , *"4√3"}
+```
+
+```exercise
+Desde la parte superior de un poste de 12m de altura, se observan los puntos A y B, ubicados en un plano horizontal con ángulos de depresión de valores 45° y 37° respectivamente. Hallar el valor de la mayor distancia entre A y B.
+$choice{"15 m" , "18 m" , "20 m" , "24 m" , *"28 m"}
+```
+

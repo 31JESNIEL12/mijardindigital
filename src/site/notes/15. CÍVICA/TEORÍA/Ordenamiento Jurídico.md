@@ -10,7 +10,7 @@
 - Reglas de conducta orientada a que el hombre pueda asumir una determinada postura frente a la sociedad y al Estado
 
 ✔ **ORIGEN**
-- En las costumbres, a las cuales se les denomina ==**DERECHO CONSUETUDINARIO**==
+- En las costumbres, a las cuales se les denomina ==DERECHO CONSUETUDINARIO==
 
 ✔ **FUNCIÓN**
 - Regulan la convivencia entre las personas pueden ser establecidas por las sociedades y el Estado 
@@ -24,7 +24,7 @@
 
 ✔ **MORALES**
 - Condicionan el comportamiento de los hombres individual o colectivamente, y están constituidas por la costumbre práctica
-- Se basan en el ==**DERECHO CONSUETUDINARIO**== 
+- Se basan en el ==DERECHO CONSUETUDINARIO== 
 
 ✔ **JURÍDICAS**
 - Prescripciones que emanan de un órgano estatal competente que tienen como finalidad principal 
@@ -124,8 +124,6 @@
 - CONTRATOS
 - CONVENIOS
 - TESTAMENTOS: Herencia
-
-> DECRETO DE LEY ==(GOBIERNO DE FACTO)==
 
 ![Pasted image 20240613021104.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pasted%20image%2020240613021104.jpg)
 

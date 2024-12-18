@@ -1,5 +1,5 @@
 ---
-{"tags":["Literatura","Teoría"],"dg-publish":true,"permalink":"/13-literatura/teoria/renacimiento-universal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/13-literatura/teoria/renacimiento-universal/","tags":["Literatura","Teoría"]}
 ---
 
 # TEORÍA
@@ -72,7 +72,7 @@ Movimiento cultural y artístico que reaviva en Europa la cultura grecolatina, d
 - "Sonetos"
 
 ✅ TRAGEDIAS:
-- "Romeo y Julieta" (Amor juvenil)
+- [[13. LITERATURA/OBRAS/OBRAS UNIVERSALES/Romeo y Julieta\|"ROMEO Y JULIETA"]]: Amor juvenil 
 - "Hamlet" (La duda)
 - "Otelo" (Los celos)
 - "El rey Lear" (La piedad filial)

@@ -1,13 +1,11 @@
 ---
-{"tags":["Biología","Teoría"],"dg-publish":true,"permalink":"/23-biologia/teoria/teoria-sobre-la-biologia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/23-biologia/teoria/teoria-sobre-la-biologia/","tags":["Biología","Teoría"]}
 ---
 
 # TEORÍA SOBRE LA BIOLOGÍA
 ---
 
 >[[23. BIOLOGÍA/TEORÍA/Resumen de Biología\|RESUMEN DE BIOLOGÍA]]
-
->[[23. BIOLOGÍA/FLASHCARDS/Flashcards de Biología\|FLASHCARDS DE BIOLOGÍA]]
 
 >[[23. BIOLOGÍA/TEORÍA/Historia de la Biología\|HISTORIA DE LA BIOLOGÍA]]
 

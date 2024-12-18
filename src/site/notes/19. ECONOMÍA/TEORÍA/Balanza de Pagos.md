@@ -1,5 +1,5 @@
 ---
-{"tags":["Economía","Teoría"],"dg-publish":true,"permalink":"/19-economia/teoria/balanza-de-pagos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/19-economia/teoria/balanza-de-pagos/","tags":["Economía","Teoría"]}
 ---
 
 # TEORÍA
