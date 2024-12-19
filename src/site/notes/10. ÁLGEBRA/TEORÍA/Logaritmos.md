@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-algebra/teoria/logaritmos/","tags":["Álgebra","Teoría","Incompleto"]}
+{"dg-publish":true,"permalink":"/10-algebra/teoria/logaritmos/","tags":["Álgebra","Teoría","Completo"]}
 ---
 
 # TEORÍA
@@ -10,91 +10,151 @@
 >[LOGARITMOS - VON NEUMANN](https://youtu.be/t-oeEdm88_U?si=fF2bgNa73B6uWQQD)
 
 ✔ **DEFINICIÓN**:
-- Se denomina de un número real positivo al exponente al cual se deberá elevar una base positiva y diferente de la unidad para obtener como resultado una potencia igual al número propuesto:
+- Se denomina logaritmo del número N en base "a" al exponente al cual se debe elevar la base "a" para obtener como resultado el número N
+- Siendo: N > 0 ∧ a > 0 ∧ a ≠ 0
 
-![Logaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmo.png)
+![Logaritmos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmos.png)
 
-✔ **TEOREMA**
+✔ **PROPIEDADES GENERALES** 
 
-![Teorema de Logaritmos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Teorema%20de%20Logaritmos.png)
+✅ **PROPIEDAD 1** 
+- Siendo: a > 0 ∧ a ≠ 1
 
-✔ **TEOREMAS ADICIONALES**
+![Propiedad general de Logaritmos 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%201.png)
 
-![Teoremas adicionales de Logaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Teoremas%20adicionales%20de%20Logaritmo.png)
+✅ **PROPIEDAD 2** 
+- Siendo: M > 0 ∧ N > 0, además a > 0 ∧ a ≠ 1
 
----
-**LOGARITMO COMÚN O DECIMAL** 
+![Propiedad general de Logaritmos 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%202.png)
 
-✔ **CONCEPTO** 
-- Al logaritmo con base 10, lo llamaremos logaritmo decimal y lo denotaremos omitiendo la base
+✅ **PROPIEDAD 3** 
+- Siendo: M > 0 ∧ N > 0, además a > 0 ∧ a ≠ 1
+
+![Propiedad general de Logaritmos 3.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%203.png)
+
+✅ **PROPIEDAD 4** 
+- Siendo: N > 0 ∧ a > 0 ∧ a ≠ 1: ∀ p ∈ R
+
+![Propiedad general de Logaritmos 4.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%204.png)
+
+✅ **PROPIEDAD 5** 
+- Siendo: N > 0 ∧ a > 0 ∧ a ≠ 1; ∀ p ∈ R - {0}
+
+![Propiedad general de Logaritmos 5.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%205.png)
+
+✅ **PROPIEDAD 6**
+- Siendo: N > 0 ∧ a > 0 ∧ a ≠ 1; ∀ p ∈ R - {0}
+
+![Propiedad general de Logaritmos 6.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%206.png)
+
+✅ **PROPIEDAD 7** 
+- Siendo: N > 0 ∧ a > 0 ∧ a ≠ 1; ∀ p; q ∈ R - {0}
+
+![Propiedad general de Logaritmos 7.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%207.png)
+![Propiedad general de Logaritmos 8.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%208.png)
+
+✅ **CAMBIO DE BASE** 
+
+![Propiedad general de Logaritmos 9.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%209.png)
+
+>[!sidenote]- **TENER EN CUENTA** 
+![Propiedad general de Logaritmos 14.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%2014.png)
+
+✅ **REGLA DE LA CADENA** 
+
+![Propiedad general de Logaritmos 10.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%2010.png)
+
+✅ **PROPIEDAD 8** 
+
+![Propiedad general de Logaritmos 11.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%2011.png)
+
+✅ **REGLA DEL INTERCAMBIO** 
+
+![Propiedad general de Logaritmos 12.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%2012.png)
+![Propiedad general de Logaritmos 13.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20general%20de%20Logaritmos%2013.png)
+
+✔ **SISTEMAS DE LOGARITMOS** 
+
+✅ **LOGARITMO COMÚN, DECIMAL O BRIGGS** 
+- Es aquel sistema de logaritmos en donde la base es 10
 
 ![Logaritmo decimal.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmo%20decimal.png)
 
----
-**COLOGARITMO**
+>[!sidenote]- **TABLA DE LOGARITMOS** 
+![Tabla de logaritmos.jpeg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Tabla%20de%20logaritmos.jpeg) 
 
-✔ **CONCEPTO**
+✅ **LOGARITMO NATURAL O NEPERIANO** 
+- Es aquel sistema de logaritmos en donde la base es e = 2,7182.... 
+
+![Logaritmo natural.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmo%20natural.png)
+
+✔ **COLOGARITMO**
 - El cologaritmo de un número es el logaritmo de su inverso o recíproco
 - El cologaritmo de un número es el opuesto de su logaritmo
 
 ![Cologaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cologaritmo.png)
 
----
-**ANTILOGARITMO** 
+✅ **PROPIEDADES**
 
-✔ **ANTILOGARITMO**
-- A todo número positivo o negativo le corresponde el logaritmo de otro número, que se llama antilogaritmo. 
-- En antilogaritmo de un número real positivo, en una base mayor que cero y diferente de uno; se define como el número que dio origen al logaritmo
+![Propiedad de cologaritmos 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20de%20cologaritmos%201.png)
+![Propiedad de cologaritmos 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Propiedad%20de%20cologaritmos%202.png)
+
+✔ **ANTILOGARITMO O LOGARITMO EXPONENCIAL**
 - El antilogaritmo de un número, en una base dada consiste en elevar la base al número resultado
 
 ![Antilogaritmo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Antilogaritmo.png)
 
+✔ **FÓRMULAS DE CONVERSIÓN** 
+
+✅ **CONVERSIÓN DE LOGARITMOS NATURALES EN DECIMALES** 
+
+![Fórmulas de conversión 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/F%C3%B3rmulas%20de%20conversi%C3%B3n%201.png)
+
+✅ **CONVERSIÓN DE LOGARITMOS DECIMALES EN NATURALES** 
+
+![Fórmulas de conversión 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/F%C3%B3rmulas%20de%20conversi%C3%B3n%202.png)
+
 ---
-**LOGARITMO NATURAL O NEPERIANO** 
+**INECUACIONES LOGARÍTMICAS** 
 
-Al logaritmo con base **e**, lo llamaremos logaritmo natural por ln
+✔ **CUANDO LA BASE ES CONSTANTE** 
 
-![Logaritmo natural.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Logaritmo%20natural.png)
+![Inecuaciones logarítmicas 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Inecuaciones%20logar%C3%ADtmicas%201.png)
 
->[!sidenote]- **NOTA:** 
-La notación ln es una abreviatura para la palabra en latín "logarithmus naturalis"
-El número e es un irracional cuy valor es: 2.7182818284590452353602874713527…
-Una forma de denota e<sup>n</sup> es exp(n), es decir e<sup>4</sup> equivale a exp(4)
+✔**CUANDO ES UNA VARIABLE: a = F(X)** 
 
->[!sidenote]- **FUNCIÓN DEL LOGARITMO NATURAL**
-![Gráfica de la función del logaritmo natural.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fica%20de%20la%20funci%C3%B3n%20del%20logaritmo%20natural.png)
+![Inecuaciones logarítmicas 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Inecuaciones%20logar%C3%ADtmicas%202.png)
 
 ---
 **FUNCIÓN LOGARÍTMICA** 
 
-Si b > 0 y b ≠ 1, definimos la función logaritmo en base b como
-F: R+ → R donde y = F(x) = logb (x) x ∈ R+
+✔ **CASO 1** 
+- Si la base está comprendida entre cero y uno
 
-Gráficamente para F(x) = logb (x) con b > 1, tendremos:
+✅ **PROPIEDADES** 
+- Dom(F) = {0; ∞} ; Ran(f) = {-∞; ∞}
+	- La curva está situada siempre a la derecha del eje de las ordenadas (EJE Y)
+- Es univalente (INYECTIVA) en todo su dominio por lo tanto tiene inversa
+- Intercepta al eje X en (1; 0)
+- La función es decreciente en todo su dominio
+- Si x crece ilimitadamente, F(x) decrece ilimitadamente 
+- Si x se aproxima cero, F(x) crece ilimitadamente
 
-![Gráfico de Función logarítmica I.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fico%20de%20Funci%C3%B3n%20logar%C3%ADtmica%20I.png)
+![Gráfica de una función logarítmica 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fica%20de%20una%20funci%C3%B3n%20logar%C3%ADtmica%201.png)
 
-1. Dom(F) = R+
-2. Ran(F) = R
-3. La gráfica de F interseca al eje x en el punto (1,0)
-4. La función es creciente y biyectiva
+✔ **CASO 2** 
+- Si la base es mayor que la unidad
 
-Gráficamente para F(x) = logb (x) con 0 < b < 1 tendremos: 
+✅ **PROPIEDADES**
+- Dom(F) = {0; ∞} ; Ran(f) = {-∞; ∞}
+	- La curva está situada siempre a la derecha del eje de las ordenadas (EJE Y)
+- Es univalente (INYECTIVA) en todo su dominio por lo tanto tiene inversa
+- Intercepta al eje X en (1; 0)
+- La función es creciente en todo su dominio
+- Si x crece ilimitadamente, F(x) crece ilimitadamente 
+- Si x se aproxima a cero F(x) decrece ilimitadamente 
 
-![Gráfico de Función logarítmica II.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fico%20de%20Funci%C3%B3n%20logar%C3%ADtmica%20II.png)
-
-1. Dom(F) = R+
-2. Ran(F) = R
-3. La gráfica de F interseca al eje en el punto (1,0)
-4. La función es decreciente y biyectiva
-
-**PROPIEDADES (GRÁFICAS LOGARÍTMICAS)**
-
-
-
-**INVERSA DE LA FUNCIÓN LOGARITMO**
-
-![Gráfica de la función inversa.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fica%20de%20la%20funci%C3%B3n%20inversa.png)
+![Gráfica de una función logarítmica 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gr%C3%A1fica%20de%20una%20funci%C3%B3n%20logar%C3%ADtmica%202.png)
 
 ---
 **PRÁCTICA**:
