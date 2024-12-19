@@ -15,6 +15,35 @@
 > **IUS**: Derecho 
 >  **DENIS DIDEROT Y JEAN D'ALEMBERT**: Enciclopedia de todos los conocimientos de su época 
 
+✔ **CÍVICA**
+- Disciplina de las ciencias sociales que partiendo y basándose en cierto enfoque de la historia y contexto económico - social en que se desenvuelven los hombres, enseñan la forma como debe comportarse cada integrante de la sociedad
+
+---
+**ORDEN JERÁRQUICO DE LAS NORMAS** 
+
+✔ **NORMAS CONSTITUCIONALES** 
+- La Constitución 
+- La Declaración Universal de los Derechos Humanos
+
+✔ **NORMAS CON RANGO LEY** 
+- Leyes
+- Decretos de Urgencia
+- Decretos Legislativos
+
+✔ **DECRETOS Y NORMAS DE CARÁCTER REGLAMENTARIO** 
+- Decretos Supremos
+- Convenios Internacionales Ejecutivos
+
+✔ **RESOLUCIONES** 
+- Resoluciones Supremas 
+- Resoluciones Administrativos
+
+✔ **NORMAS DE INTERÉS PARTICULAR** 
+- Sentencias Judiciales
+- Contratos
+- Convenios
+- Testamentos
+
 ---
 **DERECHOS HUMANOS (DD.HH.)** 
 
@@ -33,13 +62,13 @@
 ✔ **ORIGEN**
 
 ✅ **TEORÍA IUS NATURALISMO** 
-- DERECHO NATURAL → ==**DIGNIDAD HUMANA**== 
+- DERECHO NATURAL → ==DIGNIDAD HUMANA== 
 
 ✅ **TEORÍA IUS POSITIVISMO** 
 - DERECHO POSITIVO 
 
 ✅ **TEORÍA SOCIALISTA**
-- KARL MARX: ==**"LUCHA DE CLASES SOCIALES"**==
+- KARL MARX: =="LUCHA DE CLASES SOCIALES"==
 	- El Proletariado vs. La Burguesía
 
 ✔ **BENEFICIARIOS**
@@ -49,7 +78,7 @@
 ✔ **CLASIFICACIÓN HISTÓRICA**
 
 ✅ **PRIMERA GENERACIÓN**
-- DERECHOS: ==**CIVILES Y POLÍTICOS**== 
+- DERECHOS: ==CIVILES Y POLÍTICOS== 
 - CONTEXTO: Revolución Francesa (1789)
 - EJEMPLOS:
 	- Derecho a la Vida
@@ -59,7 +88,7 @@
 	- Derecho de Sufragio
 
 ✅ **SEGUNDA GENERACIÓN** 
-- DERECHOS: ==**ECONÓMICOS, SOCIALES Y CULTURALES**
+- DERECHOS: ==ECONÓMICOS, SOCIALES Y CULTURALES== 
 - CONTEXTO: Revolución Mexicana (1910 - 1917)
 - EJEMPLOS:
 	- Derecho al Trabajo y Huelga
@@ -70,7 +99,7 @@
 	- Derecho a la Vivienda 
 
 ✅ **TERCERA GENERACIÓN** 
-- DERECHOS: ==**SOLIDARIDAD**== 
+- DERECHOS: ==SOLIDARIDAD== 
 - CONTEXTO: Después de la Ⅱ Guerra Mundial (1939 - 1945) y la Creación de la ONU (24/10/1945)
 - EJEMPLOS:
 	- Derecho a la Paz
@@ -113,6 +142,37 @@
 ✔ **MECANISMOS DE PROTECCIÓN** 
 - INTERNO: Constitución Política, Ley, Garantías Constitucionales y Vía judicial
 - EXTERNO: Corte Interamericana de los DD.HH., Corte Internacional de Justicia (LA HAYA - PB)
+
+---
+**LA CONSTITUCIÓN POLÍTICA** 
+
+✔ **DEFINICIÓN**
+
+✔ **ÓRGANO ENCARGADO → PODER CONSTITUYENTE** 
+- Congreso Constituyente → 1993
+- Asamblea Constituyente → 1979
+
+✔ **ESTRUCTURA** 
+
+✅ **PREÁMBULO**
+- Contienen la fundamentación doctrinaria y los principios clásicos de la Constitución 
+
+✅ **TEXTO O CUERPO** 
+
+|            **TÍTULOS**            | **CAPÍTULOS** |   **ARTÍCULOS**    |
+| :-------------------------------: | :-----------: | :----------------: |
+|  De la persona y de la sociedad   |       4       |  Del 1 al 42 (42)  |
+|      Del Estado y la nación       |       2       | Del 43 al 57 (15)  |
+|       Del régimen económico       |       6       | Del 58 al 89 (32)  |
+|    De la estructura del Estado    |      14       | Del 90 al 99 (110) |
+| De las garantías constitucionales |       0       | Del 200 al 205 (6) |
+| De la reforma de la Constitución  |       0       |     El 206 (1)     |
+
+✅ **DECLARACIONES COMPLEMENTARIAS Y ANEXAS** 
+- Tratado Antártico
+- Declaración Universal de los Derechos Humanos
+- Declaración Universal de los Derechos del Niño
+- Protocolo Peruano - Ecuatoriano de Paz, Amistad y límites de Río de Janeiro 
 
 ---
 **ESTADO PERUANO**
@@ -234,14 +294,23 @@
 	- No ser incomunicado 
 	- No ser sometido a maltrato
 
+✅ **ACTOS VIOLATORIOS DE LA LIBERTAD INDIVIDUAL** 
+- Detenciones arbitrarias 
+- No respetar a guardar reserva de convicciones políticas, religiosas, filosóficas 
+- Torturar, maltratar o recurrir a la violencia para obtener declaración
+- Secuestrar a una persona
+- Impedir que una persona ingrese o salga del país
+
 ✔ **HABEAS DATA**
 - "TRAER EL DATO"
-- ==**DERECHO A LA INFORMACIÓN**==
+- Vulnera o amenaza los Derechos a que se refiere el ==ARTÍCULO 2, INCISO 5 Y 6== 
+- ==DERECHO A LA INFORMACIÓN==
 - PERSONAL: Datos personales
 - PÚBLICA: Obras públicas
 
 ✔ **ACCIÓN DE AMPARO** 
-- ==**JUEZ CIVIL**== 
+- Amenaza las demás Derechos reconocidos por la Constitución
+- ==JUEZ CIVIL== 
 - Derecho a la Propiedad
 - Derecho a la Herencia
 - Derecho al Trabajo
@@ -250,7 +319,7 @@
 - Derecho a la libre asociación 
 
 ✔ **ACCIÓN DE CUMPLIMIENTO** 
-- Exigimos el acatamiento de un ==**MANDATO**==
+- Exigimos el acatamiento de un ==MANDATO==
 
 ✔ **ACCIÓN POPULAR**
 - Exclusiva del ==**TRIBUNAL CONSTITUCIONAL**== 
@@ -280,6 +349,135 @@ ARTÍCULO 137° CONSTITUCIÓN
 - GUERRA EXTERNA
 
 ---
+**GOBIERNO CENTRAL** 
+
+✔ **PODER LEGISLATIVO** 
+- Reside en el Congreso de la República
+- Compuesto por 130 congresistas
+- REQUISITOS:
+	- Peruano de nacimiento
+	- Derecho al sufragio
+	- Ser mayor de 25 años
+- La función de un congresista es a tiempo completo y le es incompatible el ejercicio de otra función pública, excepto la de ministro
+- No están sujetos a mandato imperativo o interpelación 
+- No pueden ser presos ni procesados sin previa autorización del Congreso
+- Su cargo es irrenunciable 
+- Se les puede suspender por 120 días como máximo
+
+✅ **FUNCIONES**
+
+🔹 **LEGISLATIVA**
+- Comprende el debate y aprobación de leyes, resoluciones legislativas, así como la interpretación, modificación y derogación 
+
+🔹 **CONTROL POLÍTICO** 
+- Cautelar los actos de administración 
+- Realiza el antejuicio político o acusación constitucional
+
+✅ **PLENO DEL CONGRESO** 
+- Es la reunión de los 130 congresistas en 2 legislaturas ordinarias
+
+
+✅ **COMISIÓN PERMANENTE** 
+- Designar al Contralor de la República 
+- Ratificar al Superintendente de Banca y Seguros 
+- Ratificar el director del BCRP
+
+✅ 
+
+✔ **PODER EJECUTIVO** 
+
+✅ **PRESIDENTE DE LA REPÚBLICA** 
+- Elegido por un periodo de 5 años
+- REQUISITOS:
+	- Peruano de nacimiento
+	- Derecho al sufragio 
+	- Ser mayor de 35 años
+- Su cargo es renunciable, revocable e irrelegible 
+- Es elegido por sufragio directo 
+
+
+✅ **CONSEJO DE MINISTROS** 
+- Es la reunión de los ministros
+- REQUISITOS:
+	- Peruano de nacimiento
+	- Ciudadano en ejercicio 
+	- Ser mayor de 25 años
+- Los miembros 
+
+
+---
+**ORGANISMOS CONSTITUCIONALES AUTÓNOMOS** 
+✔ **ORGANISMOS DE CONTROL ECONÓMICO** 
+
+✅ **CONTRALORÍA GENERAL DE LA REPÚBLICA** 
+
+✅ **BANCO CENTRAL DE RESERVA DEL PERÚ** 
+
+✅ **SUPERINTENDENCIA DE BANCA Y SEGURO** 
+
+✔ **ORGANISMOS TUTELARES** 
+
+✅ **JUNTA NACIONAL DE JUSTICIA** 
+- Nombrar previo concurso público de méritos y evaluación personal a todos los jueces y fiscales
+- Ratificar a todos los jueces y fiscales con voto público cada 7 años
+- Destituir y sancionar a jueces y fiscales supremos
+- Extender el título a los jueces y fiscales
+
+🔹 **COMISIÓN ESPECIAL** 
+- Defensor del pueblo
+- Presidente del Poder Judicial
+- Fiscal de la Nación
+- Presidente del Tribunal Constitucional
+- Contralor General de la República
+- 1 rector elegido por votación de los rectores de las Universidades Públicas licenciadas con más de 50 años de vida institucional
+- 1 rector elegido por votación de los rectores de las Universidades Privadas licenciadas con más de 50 años de vida institucional
+
+✅ **MINISTERIO PÚBLICO** 
+- Presidido por el Fiscal de la Nación
+- Representa la sociedad ante los tribunales
+- Ejerce acción judicial en defensa de los intereses públicos
+- Conducir desde su inicio la investigación del delito 
+
+✅ **DEFENSORÍA DEL PUEBLO** 
+- Defensa de los Derechos constitucionales y fundamentales de la persona
+- Supervisar el cumplimiento de los deberes de la administración estatal y la prestación de servicios públicos 
+
+✅ **TRIBUNAL CONSTITUCIONAL** 
+- Compuesto por 7 miembros para 5 años
+- Son elegidos por el Congreso con el voto de los 2/3 del número legal
+- Conocer es única y definitiva instancia los pedidos de acción de inconstitucionalidad 
+- Conocer la última y definitiva instancia los pedidos de Habeas Corpus, Data, Acción de Amparo y Cumplimiento 
+
+✔ **SISTEMA ELECTORAL** 
+
+✅ **ONPE**
+- Organiza y dirige los procesos electorales y demás consultas 
+- Elabora la cédula de sufragio 
+- Entrega el material necesario para el escrutinio 
+- Difusión de los resultados
+
+✅ **JNE** 
+- Fiscalizar la legalidad del ejercicio del sufragio
+- Mantener y custodiar el registro de las organizaciones políticas
+- Administrar justicia en materia electoral
+- Proclamar a los candidatos elegidos
+
+🔹 **ELECCIÓN DE LOS MIEMBROS DEL JNE** 
+- Uno es elegido por la Corte Suprema
+- Uno es elegido por la Junta de Fiscales Supremas 
+- Uno es elegido por el Colegio de Abogados de Lima
+- Uno es elegido por la Facultad de Derecho de las Universidades Públicas entre sus ex decanos
+- Uno es elegido por la Facultad de Derecho de las Universidades Privadas entre sus ex decanos
+
+✅ **RENIEC**
+- Inscripción de nacimientos, matrimonio, defunciones
+- Otorga DNI
+- Entrega información a la ONPE y al JNE para el cumplimiento de sus funciones
+- Mantiene actualizado el padrón electoral
+
+![Sistema Electoral.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Sistema%20Electoral.png)
+
+---
 **DEFENSA NACIONAL**
 
 
@@ -304,7 +502,76 @@ ARTÍCULO 137° CONSTITUCIÓN
 - 
 
 ---
-**ORGANIZACIÓN DE LAS NACIONES UNIDAS (ONU)** 
+**ORGANISMOS INTERNACIONALES** 
 
+✔ **ONU**
+- Creada el 24 de Octubre de 1945
+- Reemplazó a la Liga de Naciones 
+- Su sede está en New York 
+- Salvaguarda la paz y seguridad mundial 
 
+✔ **ORGANISMOS COMPLEMENTARIOS** 
 
+✅ **CONSEJO DE SEGURIDAD** 
+- Mantener la paz y seguridad mundial
+- Compuesta por 15 miembros
+- 5 miembros permanentes 
+
+✅ **CORTE INTERNACIONAL DE LA HAYA** 
+- Juzgar asuntos de índole internacional 
+- Su sede está en la Haya - Holanda
+
+✅ **UNESCO** 
+- Desarrolla la cultura 
+- Su sede está en París - Francia
+
+✅ **UNICEF**
+- Mejorar las condiciones de vida de los niños, jóvenes y familias
+- Su sede está en New York
+
+✔ **ORGANISMOS ESPECIALES** 
+
+✅ **FMI** 
+- Creada en 1945
+- Estimular la cooperación monetaria internacional
+- Conformada por 154 países
+- Su sede está en Washington 
+
+✅ **BID** 
+- Banco de fomento de la región americana 
+- Conformada por 48 países
+- Su sede está en Washington 
+
+✅ **OMS**
+- Elevar el nivel de salud de las familias del mundo 
+- Su sede está en Ginebra - Suiza
+
+✅ **OIT**
+- Justicia social y mejoramiento de las condiciones de trabajo  
+- Su sede está en Ginebra - Suiza
+
+✔ **CAN**
+- Creada con el Acuerdo de Cartagena en 1969
+- Integrada por Perú, Ecuador, Colombia y Bolivia 
+- Venezuela perteneció hasta el 2006 
+- Chile perteneció entre los años 1969 - 1976
+- Su sede está en Lima
+
+✔ **MERCOSUR**
+- Creada en 1991
+- Conformado por Argentina, Brasil, Paraguay y Uruguay
+- EN PROCESO DE ADHESIÓN: Bolivia y Venezuela (SUSPENDIDO)
+- ASOCIADOS: Chile, Colombia, Ecuador, Perú, Guyana y Surinam 
+- OBSERVADORES: México y Nueva Zelanda 
+- Su sede está en Montevideo - Uruguay 
+
+✔ **CAF**
+- Banco financiero del Grupo Andino 
+- Su sede está en Caracas - Venezuela 
+
+✔ **OEA**
+- Organismo internacional más antiguo del conteniente Americano 
+- Creada el 30 de abril de 1948
+- Compuesta por 35 países de América
+- Mantiene la paz de los países miembros, ayuda mutua en caso de agresión, resolución de todos los problemas que afecten el bienestar de los países y realización conjunta de esfuerzos para lograr el desarrollo cultural
+- Su sede en Washington 
