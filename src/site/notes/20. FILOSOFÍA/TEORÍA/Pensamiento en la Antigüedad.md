@@ -15,7 +15,7 @@
 **ORIGEN DE LA FILOSOFÍA EN GRECIA**
 
 ✔ **CONDICIÓN PRIMARIA, BÁSICA O ESTRUCTURAL** 
-- El ==**ESCLAVISMO**== 
+- El ==ESCLAVISMO== 
 
 ✔ **CONDICIONES SECUNDARIAS, COMPLEMENTARIAS O SUPERESTRUCTURALES** 
 - La existencia de la ciudad ==**(POLIS)**== y el Estado
@@ -31,7 +31,7 @@ SIGLOS VII - V A.N.E.
 ORIGEN
 
 ✔ **TEMAS CENTRALES** 
-- ==**EL PRINCIPIO DE LA NATURALEZA**== (PHISIS) 
+- ==EL PRINCIPIO DE LA NATURALEZA== (PHISIS) 
 - ETERNO: No tuvo origen ni tendrá final 
 - MATERIAL: Entidad física o concreta
 - PERMANENTE: Es siempre lo mismo 
