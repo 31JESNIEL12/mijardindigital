@@ -24,6 +24,31 @@
 |  COLOIDE   |   Partícula coloidal   |      1 nm < Φ ≤ 1000 nm      |  Difásica  | Al reposar no se separa y no es filtrable |
 | SUSPENSIÓN |  Partícula ordinaria   |         Φ > 1000 nm          |  Difásica  |    Al reposar se separa y es filtrable    |
 
+✔ **SISTEMA COLOIDAL O DISPERSIÓN COLOIDAL** 
+- Es un sistema disperso donde las partículas dispersadas tienen un tamaño de 1 nm (10<sup>-7</sup> cm) a 1000 nm (10<sup>-4</sup> cm)
+- La forma de las partículas pueden ser:
+	- CORPUSCULAR: El diámetro proporciona una medida del tamaño de partícula
+	- LAMINAR: Se necesitan la longitud, la anchura y el espesor para indicar el tamaño
+	- FIBRILAR: Se necesitan la longitud, la anchura y el espesor para indicar el tamaño
+- Las partículas pueden estar constituidas por unos cientos o miles de moléculas sencillas o una molécula gigante (MACROMOLÉCULA)
+
+✅ **PARTES O FASES** 
+- DISPERSA O DISCONTINUA: Formada por partículas coloidales
+- DISPERSORA O DISPERSANTE: Está constituida por una sustancia continua en la que se han dispersado las partículas coloidales 
+
+✅ **TIPOS** 
+
+|           FASE DISPERSORA            | **FASE DISPERSA** |         **NOMBRE**          |                    **EJEMPLOS**                     |
+|:------------------------------------:|:-----------------:|:---------------------------:|:---------------------------------------------------:|
+| <font color="#00b0f0">LÍQUIDA</font> |      SÓLIDO       |   Solución líquida o gel    |          Pintura, engrudo, jalea, gelatina          |
+| <font color="#00b0f0">LÍQUIDA</font> |      LÍQUIDO      | Emulsión líquida (EMULSIÓN) |    Mayonesa, leche, asfalto, crema para la cara     |
+| <font color="#00b0f0">LÍQUIDA</font> |        GAS        |   Espuma líquida (ESPUMA)   | Nata batida, espuma de cerveza, espuma para rasurar |
+| <font color="#00b050">SÓLIDA</font>  |      SÓLIDO       |       Solución sólido       |          Diamante negro, piedras preciosas          |
+| <font color="#00b050">SÓLIDA</font>  |      LÍQUIDO      |       Emulsión sólida       |                 Queso, mantequilla                  |
+| <font color="#00b050">SÓLIDA</font>  |        GAS        |        Espuma sólida        |           Piedra pómez, esponja, tecnopor           |
+| <font color="#7030a0">GASEOSA</font> |      SÓLIDO       |       Aerosol sólido        |           Humo, polvos, virus en el aire            |
+| <font color="#7030a0">GASEOSA</font> |      LÍQUIDO      |       Aerosol líquido       |                 Niebla, spray, nube                 |
+
 ---
 **SOLUCIONES O DISOLUCIONES** 
 
@@ -194,6 +219,10 @@ LO DETERMINA EL SOLVENTE O DISOLVENTE
 
 ![Normalidad.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Normalidad.png)
 
+>[!sidenote]- **EJEMPLO**
+>Se disuelven en agua 74 g de hidróxido de calcio, Ca(OH)<sub>2</sub>, para formar 500 mL de solución. ¿Cuál es la normalidad? PA (uma): Ca = 40; O = 16; H = 1
+>![Ejemplo de Normalidad.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ejemplo%20de%20Normalidad.png)
+
 ✔ **RELACIÓN ENTRE MOLARIDAD (M) Y NORMALIDAD (N)** 
 - "NEMO"
 
@@ -237,6 +266,10 @@ LO DETERMINA EL SOLVENTE O DISOLVENTE
 
 ![Fracción molar 1.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Fracci%C3%B3n%20molar%201.png)
 ![Fracción molar 2.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Fracci%C3%B3n%20molar%202.png)
+
+>[!sidenote]- **EJEMPLO** 
+>En una solución acuosa del alcohol metílico (CH<sub>3</sub>OH), la fracción molar de este es 0,2. ¿Cuál es la molalidad de la solución?
+>![Ejemplo de fracción molar.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ejemplo%20de%20fracci%C3%B3n%20molar.png)
 
 ---
 **PROBLEMAS TIPO EN SOLUCIONES** 
