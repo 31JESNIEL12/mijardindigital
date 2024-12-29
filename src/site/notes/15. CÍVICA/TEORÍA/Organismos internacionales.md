@@ -67,21 +67,15 @@ ONU → (Ex. Liga de Naciones ← Primera Guerra Mundial)
 ✔ **FONDO MONETARIO INTERNACIONAL (FMI)**
 - Creado en 1945
 - Son 154 países
-- Su sede es en ==**WASHINGTON**==
+- Su sede es en ==WASHINGTON==
 - DIRECTORA: Francesa Christine Lagarde
 - OBJETIVOS: Estimular la cooperación monetaria internacional. Expansión equilibrada del comercio internacional.
-
->[!sidenote]- **BANDERA**
->![FMI.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/FMI.jpg)
 
 ✔ **BANCO INTERAMERICANO DE DESARROLLO (BID)**
 - Banco Financiero de Fomento Internacional que permite el desarrollo de la región americana
 - Sede en ==**WASHINGTON**==
 - Integrado por 48 países
 - PRESIDENTE: Luis Alberto Moreno (ESTOUNIDENSE Y COLOMBIANO)
-
->[!sidenote]- **LOGO**
-![BID.webp](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/BID.webp)
 
 ✔ **ORGANIZACIÓN DE LAS NACIONES UNIDAS PARA LA ALIMENTACIÓN Y LA AGRICULTURA (FAO)**
 - Sede en ==**ROMA (ITALIA)**==
