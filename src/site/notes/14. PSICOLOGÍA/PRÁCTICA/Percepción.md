@@ -261,3 +261,6 @@ La anomalía que se produce en el momento en que un sujeto afirma que está perc
 $choice{"Neurosis" , "Psicopatía" , "Amnesia" , "Ilusión" , *"Alucinaciones"}
 ```
 
+```exercise
+María abre su guardarropa y vocifera: "No tengo pantalones". Su madre le responde: "Yo veo más de diez pantalones de tu clóset; lo que pasa es que solo te compras pantalones negros, de diferentes modelos". La percepción de María sobre su ropa se explica por un principio de la psicología de la Gestalt denominado:
+$choice{"Experiencia y simplicidad" , "Continuidad y simetría" , "Cierre y pregnancia" , "Experiencia" , *"Proximidad y semejanza"}
