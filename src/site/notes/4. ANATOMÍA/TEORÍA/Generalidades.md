@@ -382,7 +382,7 @@ El médico desea calcular el volumen de líquido corporal.
 ![Posición anatómica.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Posici%C3%B3n%20anat%C3%B3mica.png)
 
 ✔ **DECÚBITO DORSAL O SUPINA**
-- Echado ==**BOCA ARRIBA**==
+- Echado ==BOCA ARRIBA==
 - USO:
 	- Examen físico (TÓRAX, ABDOMEN, MIEMBROS SUPERIORES E INFERIORES)
 	- Evaluación médica
