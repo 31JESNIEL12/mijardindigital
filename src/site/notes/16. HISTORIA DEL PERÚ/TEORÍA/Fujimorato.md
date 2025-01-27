@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/fujimorato/","tags":["Historia","Teoría"]}
+{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/fujimorato/","tags":["Historia","Teoría","Completo"]}
 ---
 
 # TEORÍA
@@ -10,121 +10,126 @@
 >[DECENIO AUTOCRÁTICO - VÓNEX](https://youtu.be/q4g1PoDSzaA)
 >[LISTA DE VLADIVIDEOS](https://youtube.com/playlist?list=PLxWwNVWh7uya4O77w2I170VKX0HP-asPc&si=lmLME5dCG9axo1wG)
 
----
-**PRIMER GOBIERNO DE ALBERTO FUJIMORI (1990 - 2000)**
-Primer presidente elegido en Segunda Vuelta, derrotando al escrito Mario Vargas Llosa del FREDEMO (FRENTE DEMOCRÁTICO)
+✔ **GOBIERNO DE ALBERTO FUJIMORISMO** 
+- Fue una dictadura cívico - militar caracterizada por la corrupción y el populismo
+- Es considerado como uno de los gobiernos más corruptos de la historia universal
 
-✔ **ASPECTO ECONÓMICO**
-- Fujimori aplicó una serie de medidas económicas de corte ==**NEOLIBERAL**== que buscaron enderezar el rumbo económico
-- El 8 de agosto de 1990 anunció el ==**"EL FUJISHOCK"**== el cual eliminó el congelamiento de los precios (SUBIERON EN 4000%)
-- Firmó la ==**CARTA DE INTENCIÓN**== impuesta por el FMI para realizar reformas económicas 
-- Promovió la inversión extranjera y el libre mercado
-- Quito los subsidios a los productos nacionales
-- Mejoro la tributación creando **==LA SUNAT Y LA SUNAD**==
-- Logró la reinserción financiera con el  ==**PLAN BRADY**==; condonación de intereses y moras de la deuda
-- Obtuvo prestamos del BID y de Japón
-- Se creo la moneda ==**"NUEVO SOL"**==, que equivalía a un millón de intis
-- En 1991 inició el programa de ==**PRIVATIZACIONES**== con el ministro de economía Carlos Boloña
-- Perú ingresó al Foro Comercial Asia Pacífico ==**(APEC)**==
+✔ **LLEGADA AL PODER** 
+- Su candidatura se valió del rechazo a los partidos políticos 
+- El Perú se encontraba en una aguda crisis económica, pobreza extrema y aislamiento financiero 
+- Avance de los ==MOVIMIENTOS SUBVERSIVOS==, se incrementan las actividades terroristas, carros bomba, etc.
+- Crisis del sistema de partidos políticos (SURGIMIENTO DE LOS ==OUTSIDERS==)
+- Mario Vargas Llosa había declarado ==LA NECESIDAD DE UN SHOCK ECONÓMICO==, es decir, ==ELIMINAR SUBSIDIOS A LOS ALIMENTOS==, esto generó temor en los sectores populares y se orientan hacia el apoyo electoral de Fujimori 
+- En la segunda vuelta electoral, el candidato de Fujimori, que en la primera vuelta había representado a un ==FRENTE DE CLASES MEDIAS Y EVANGÉLICOS==, ahora es rodeado por un entorno más poderoso: gremios empresariales, sectores de ejército y del servicio de inteligencia ==(MONTESINOS)== 
 
-✔ **ASPECTO POLÍTICO**
-- El ==**5 DE ABRIL DE 1992**==, Fujimori dio el ==**"AUTOGOLPE"**== con el apoyo de los militares, disolviendo el congreso para iniciar una lucha contundente ==**TERRORISMO**==
-- Fujimori cerró el Poder Judicial, el Consejo Nacional de la Magistratura y el Tribunal de Garantías Constitucionales instaurando el ==**"GOBIERNO DE EMERGENCIA Y RECONSTRUCCIÓN NACIONAL"**==
-- Promulgó la ==**CONSTITUCIÓN DE 1993**== a través de un ==**REFERÉNDUM**==
-- En 1995 Fujimori fue reelegido por su partido ==**CAMBIO 90**==
-- Surge la oposición, en contra de la reelección de Fujimori, de ==**ALEJANDRO TOLEDO**==, líder del partido Perú posible 
+![Mario Vargas Llosa y Alberto Fujimori.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mario%20Vargas%20Llosa%20y%20Alberto%20Fujimori.png)
+<center>Mario Vargas Llosa y Alberto Fujimori</center>
 
->[!sidenote]- **CONSTITUCIÓN DE 1993**
->Reelección 
-Libre mercado
-Unicameralidad 
-Pena de muerte
+✔ **ETAPA CONSTITUCIONAL (1990 - 1992)** 
 
-✔ **ASPECTO INTERNACIONAL**
+✅ **PROGRAMA DE ESTABILIZACIÓN ECONÓMICA** 
+- A pesar de la promesa electoral de no aplicar un shock económico, a la semana de tomar el poder, ==EL MINISTRO DE ECONOMÍA, JUAN CARLOS HURTADO MILLER, APLICA EL SHOCK== (LIBERACIÓN DE PRECIOS)
+- La medida se tradujo en una ==CAÍDA DEL SALARIO REAL== y la ==PRECARIZACIÓN DE LA ECONOMÍA FAMILIAR== pues los precios se multiplicaron.
+- La medida fue ==DRÁSTICA==, pero ==EFECTIVA==; el milagro fujimorista de acabar la inflación fue básicamente acabar el poder adquisitivo de las familias 
 
-✅ **BOLIVIA**
-- En 1992 se estableció su ==**SALIDA AL MAR**==
-- ==**TRATADO DE SANTA CRUZ**==
+![Fujishock.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Fujishock.png)
+<center>Hurtado Miller, ministro de Economía, anunció el alza de precios</center>
 
-✅ **ECUADOR**
-- En 1995 se produce la ==**GUERRA DE CENEPA**== originada por la infiltración ecuatoriana en la Cueva de Tayos, Base Sur y Tiwinza (AMAZONAS)
-- Tras un mes de lucha, se firmó una tregua llamada ==**PAZ DE ITAMARATY**==
-- La paz definitiva se firmó en 1998 con el ==**ACUERDO DE BRASILIA**==, en donde, Ecuador renunció a sus pretensiones sobre Tumbes, Jaén y Maynas
-- Perú le entregó a Ecuador un kilómetro cuadrado del territorio peruano de ==**TIWINZA**== 
+✅ **CARTA DE INTENCIÓN** 
+- El gobierno se comprometía a reorganizar el Estado según los ==PRINCIPIOS DEL LIBRE MERCADO== 
 
-✅ **CHILE**
-- En 1999 el estado peruano reanudó con Chile los puntos pendientes del Tratado de 1929 (ZONA DE CHINCHORRO)
+✅ **REFORMAS ESTRUCTURALES** 
+- Luego del primer año y con una inflación más controlada, decidió cambiar hacia un nuevo modelo: ==NEOLIBERALISMO== 
+- REFORMA LABORAL: ==FLEXIBILIZACIÓN LABORAL==; los empresarios pueden contratar y despedir con mucha facilidad 
+- FORMENTO DE INVERSIONES EXTRANJERAS: Se apertura el mercado peruano a empresas extranjeras que comenzaron a acaparar sectores de la economía ==APROVECHANDO LAS PRIVATIZACIONES== 
+- EL NUEVO SOL REEMPLAZÓ AL INTI: Se realizó una reforma monetaria para ==ACABAR LA DEVALUACIÓN== 
+- PRIVATIZACIONES: El gobierno emprendió la venta de empresas estatales a precios muy bajos ==(DESNACIONALIZACIÓN)==. 
+	- La Compañía Peruana de Teléfonos (CPT) adquirida por Telefónica (ESPAÑA)
+	- Electroperú adquirida por Luz del Sur y Edelnor (CHILE)
+- Todas estas medidas no contaban con el apoyo de la población ni del Parlamento 
 
-✔ **ASPECTO SOCIAL** 
-- En 1992 se produjeron tres atentados
-- El ==**ASESINATO DE LA DIRIGIENTE DE VILLA EL SALVADOR MARÍA ELENA MOYANO**==
-- La explosión de un ==**COCHE BOMBA EN LAS INSTALACIONES DEL CANAL 2**==
-- La explosión de un ==**COCHE BOMBA EN LA CALLE TARATA, MIRAFLORES**==
-- El 12 de septiembre se produjo la ==**CAPTURA DE ABIMAEL GUZMÁN**==
-- Se hace pública la noticia del ==**ASESINATO DE 9 ESTUDIANTES Y UN PROFESOR EN LA CANTUTA**==, además de ==**16 INDIVIDUOS DE BARRIOS ALTOS**==
-- Tales asesinatos estuvieron a cargo del ==**GRUPO COLINA**== liderado por ==**MARTIN RIVAS**==
-- En diciembre de 1996, el ==**MRTA SECUESTRÓ LA EMBAJADA JAPONESA**==
-- Se produjo el fenómeno del Niño (1997 - 1998)
-- El partido Frente Independiente Moralizador (FIM) de ==**FERNANDO OLIVERA**==, difundió el ==**VIDEO KOURI - MONTESINOS**== donde se descubrió la corrupción del gobierno
+✅ **AUTOGOLPE DEL 5 DE ABRIL** 
+- Fujimori anuncia un gobierno de emergencia y reconstrucción nacional
+- ==DISUELVE EL CONGRESO==, acusándolos de trabar las reformas políticas, interviene en el Poder judicial
+- Ante la presión internacional, anunció la convocatoria al ==CONGRESO CONSTITUYENTE DEMOCRÁTICO (CCD)== para realizar una ==NUEVA CONSTITUCIÓN== 
+- El objetivo era obtener la mayoría del Congreso y facilitar la reelección presidencial 
 
-✔ **CONCESIONES**
-- Se privatiza empresas estatales como la Compañía peruana de teléfonos (TELEFONÍA DE ESPAÑA), la Electrolima (ELDELNOR Y LUZ DEL SUR), la Refinería la Pampilla (REPSOL)
-- En el sector minero, se privatiza Centromin y Hierro Perú, este último a capitales chinos
+![Disolución del Congreso.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Disoluci%C3%B3n%20del%20Congreso.png)
+<center>Autogolpe del 5 de abril de 1992</center> 
 
-✔ **CREÓ**
-- COPRI: Vender todas las empresas estatales
-- FONCODES: Fondo Nacional de Compensación y Desarrollo Social
-- FONAVI: Fondo Nacional de Vivienda
-- OINFES: Oficina de Infraestructura Educativa
-- AFPs
-- PRONAA: Programa Nacional de Asistencia Alimentaria
+✔ **ETAPA CÍVICO - MILITAR (1992 - 2000)** 
 
-✔ **OTROS ACONTECIMIENTOS**
-- El 24 de septiembre del 2000 Montesinos escapó a Panamá
-- El 29 de octubre Ollanta Humala y su hermano Antauro, se relevaron en Locumba (MOQUEGUA) contra Fujimori, pero sin éxito 
-- El 16 de noviembre, Fujimori renuncia a la presidencia, enviado un ==**FAX**== desde Japón
-- El congreso no acepta la renuncia, y lo destituye declarando la vacancia presidencial por ==**"INCAPACIDAD MORAL"**== 
-- El 21 de noviembre del 2000, Valentín Paniagua es proclamado presidente Transitorio del Perú
-- Consenso de Washington (Reinserción monetaria)
+✅ **FASE ABRIL 1992 - JULIO 1995** 
 
-✔ **AUTOGOLPE (92)**
-- Gobierno de emergencia y restauración nacional
-- Constitución de 1993
-- Montesinos VS. Militar
-- Control de prensa
+🔷 **GUERRA CONTRA LA SUBVERSIÓN** 
+- La ruptura del Estado de derecho le dio ==IMPUNIDAD== a los ==SECTORES MILITARES== organizados en grupos de aniquilamiento, como el ==GRUPO COLINA== 
+- ACCIÓN DE SENDERO LUMINOSO: Argumentando que estaban llegando a un "equilibrio estratégico" con las fuerzas del Estado, incrementaron paros armados, coches bomba, etc. Destaca el ==ASESINATO DE MARÍA ELENA MOYANO== en febrero de 1992 y el ==ATENTADO EN LA CALLE TARATA== en julio del mismo año 
+- ESTRATEGIA CONTRASUBVERSIVA E IMPUNIDAD: Las Fuerzas Armadas implementaron el plan de campaña para la contrasubversión, que incluía ==ASESINATOS SELECTIVOS== y otras formas de ==VIOLACIÓN DE LOS DERECHOS HUMANOS==. El más destacado fue la ==MATANZA DE LA CANTUTA== en julio de 1992, dos días después del atentado de la calle Tarata 
+- GRUPO ESPECIAL DE INTELIGENCIA (GEIN): Este grupo, que ==NO CONTABA CON EL APOYO DEL GOBIERNO==, logró capturar a Abimael Guzmán, líder de Sendero Luminoso
+- El Estado ==CONTROLA MILITARMENTE== las principales ==UNIVERSIDADES PÚBLICAS== a través de "comisiones reorganizadoras"
 
-✔ **TERRORISMO: CAPTURA DE ABIMAEL**
-- Jueces sin rostro
-- Grupo colina
-- Operación victoria (GEIN)
+![Asesinato de María Elena Moyano.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Asesinato%20de%20Mar%C3%ADa%20Elena%20Moyano.png)
+<center>Asesinato de María Elena Moyano</center>
 
----
-**SEGUNDO GOBIERNO DE FUJIMORI**
-(Corrupción)
+![Atentado de la calle Tarata.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Atentado%20de%20la%20calle%20Tarata.png)
+<center>Atentado de la calle Tarata</center>
 
-✅ **==Ley de Interpretación auténtica:==** Fundamenta su reelección
-✅ Toma de la Embajada de Japón (96)
-- 72 rehenes (MRTA)
-- Operación de Chavín de Huántar (Rescate)
+![Captura de Abimael Guzmán.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Captura%20de%20Abimael%20Guzm%C3%A1n.png)
+<center>Captura de Abimael Guzmán
+</center> 
 
-✅ Crisis de los tigres asiáticos
-✅ **ACTA DE BRASILIA:** Itamaraty (Guerra del Cenepa)
-✅ Fenómeno del niño 97 y 98
+🔷 **EL CONGRESO CONSTITUYENTE** 
+- El control del Parlamento por el Poder Ejecutivo
+- El Congreso redactó la Constitución de 1993
 
----
-**TERCER GOBIERNO DE FUJMORI**
-(COLAPSO)
+🔷 **MECANISMO DE CONTRATO SOCIAL** 
+- Las medidas tomadas en la etapa constitucional (1990 - 1992) originaron ==DESEMPLEO, SUBEMPLEO E INFORMALIDAD== 
+- El gobierno implementó políticas populistas como el ==APOYO A COMEDORES POPULARES==, ==VASOS DE LECHE==, y otros programas sociales desde instituciones como el ==PRONAA E INFES==; esto no solucionaría la precariedad económica
+- Se ==COMPRÓ LA LÍNEA EDITORIAL== de los ==MEDIOS DE COMUNICACIÓN MASIVOS== y se les puso a servicio de la dictadura
 
-✅ **==Macha de los 4 Suyos==:** Toledo
-- Reclaman fraude electoral
+🔷 **GUERRA DEL CENEPA CON ECUADOR (1995)** 
+- Busco generar el respaldo popular 
+- Compra de armas obsoletas, prueba de la corrupción en la administración pública
+- ==TRATADO DE ITAMARATY==: Puso fin a la guerra 
 
-✅ Presión internacional de USA (Madeleine Albright)
-✅ **==Video Kouri-Montesinos==** (14 Septiembre)
-- Vladivideos
-- 15 mil dólares
+🔷 **ELECCIONES DE 1996** 
+- CAMBIO 90 NUEVA MAYORÍA: Fujimori → 64% 
+- UNIÓN POR EL PERÚ: Pérez Cuéllar → 21%
+	- Quinto secretario general de la ONU (1982 - 1991)
+- PARTIDO APRISTA PERUANO: Mercedes Cabanilla → 4% 
 
->[!sidenote]- **ALBERTO FUJIMORI**
-![Alberto Fujimori.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Alberto%20Fujimori.png)
+✅ **FASE JULIO 1995 - NOVIEMBRE 2000** 
+- En 1996 es condenado ==DEMETRIO CHÁVEZ PEÑAHERRERA==, alias ==VATICANO==, el narcotraficante más grande del Perú, considerado uno de los socios de Pablo Escobar. Declaró tener vínculos con Vladimiro Montesinos 
+- El Congreso fujimorista ==APROBÓ LA LEY DE AMNISTÍA== para el ==GRUPO COLINA==, que ==EXONERA== a los acusados por ==DELITOS DE LESA HUMANIDAD== 
+- En los primeros meses de 1997, se hizo conocida la ==DENUNCIA DE LEONOR LA ROSA==, agente del Servicio de Inteligencia, por haber sido torturada por miembros del Servicio de Inteligencia Nacional por sospecha de filtrar información sobre los ==PLANES DEL SIN== para ==ASESINAR PERIODISTAS DE OPOSICIÓN==. 
+- Integrantes del ==MRTA== toman la residencia del ==EMBAJADOR JAPONÉS MORIHISA AOKI (1996)==. Meses después se realiza la ==OPERACIÓN CHAVÍN DE HUÁNTAR==, que acabó con la vida de todos los emerretistas 
+- En 1997, hubo una fuerte recesión económica, producto de la crisis extranjera y por los efectos del fenómeno de El Niño
+
+![Denuncia de Leonor La Rosa.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Denuncia%20de%20Leonor%20La%20Rosa.png)
+<center>El caso de secuestro y tortura del agente de Inteligencia Leonor La Rosa</center>
+
+✔ **CAÍDA DEL REGIMEN** 
+
+✅ **CAMPAÑA DE REELECCIÓN** 
+- El régimen tomó control de los ==MEDIOS DE COMUNICACIÓN== y de la ==ONPE== 
+- ==FÁBRICA DE FIRMAS FALSAS== 
+- La oposición es desprestigiada y difamada a través de los =="DIARIOS CHICHA"== 
+- El Congreso aprobó la ==LEY DE INTERPRETACIÓN AUTÉNTICA== para ==FAVORECER LA REELECCIÓN== 
+- ELECCIONES PRESIDENCIALES DEL 2000: Fujimori y Toledo pasan a segunda vuelta; sin embargo, Toledo protesta ante un inminente fraude.
+
+✅ **PROTESTAS SOCIALES Y CAÍDA DEL RÉGIMEN** 
+- Se incrementan las luchas sociales promovidas por trabajadores despedidos, los sindicatos, los estudiantes, etc.
+- ==MARCHA DE LOS CUATRO SUYOS==: Movilizaciones del interior del país hacia Lima
+- ==OPERACIÓN SIBERIA==: Para mejorar su situación, el gobierno presentó una operación como exitosa donde supuestamente lograron desmantelar una ==RED DE TRÁFICO DE ARMAS RUMBO A LAS FARC==; curiosamente era el mismo gobierno quien estaba involucrado en este negocio
+- Se difundió el video ==KOURI - MONTESINOS==, la compra de congresistas tránsfugas 
+- Fujimori anunció la reducción de su mandato y elecciones
+- Se produce la ==FUGA DE MONTESINOS== a ==PANAMÁ== 
+- Fujimori fuga aprovechando la ==CUMBRE DE LA APEC EN BRUNÉI==. Renunció por ==FAX== desde ==JAPÓN== 
+- El Congreso lo destituye por ==INCAPACIDAD MORAL== 
+- El Congreso de la República elige a ==VALENTÍN PANIAGUA== 
+
+![Vladivideos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Vladivideos.png)
+<center>Montesinos y el general Delgado Arena con el dinero para la compra del canal de televisión CCN</center>
 
 ---
 **PRÁCTICA**
