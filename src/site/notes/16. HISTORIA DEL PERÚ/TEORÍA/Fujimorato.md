@@ -13,6 +13,7 @@
 ✔ **GOBIERNO DE ALBERTO FUJIMORISMO** 
 - Fue una dictadura cívico - militar caracterizada por la corrupción y el populismo
 - Es considerado como uno de los gobiernos más corruptos de la historia universal
+- FRASE: "Honradez, tecnología y trabajo"
 
 ✔ **LLEGADA AL PODER** 
 - Su candidatura se valió del rechazo a los partidos políticos 
