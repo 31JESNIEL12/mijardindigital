@@ -22,6 +22,13 @@
 - Mario Vargas Llosa había declarado ==LA NECESIDAD DE UN SHOCK ECONÓMICO==, es decir, ==ELIMINAR SUBSIDIOS A LOS ALIMENTOS==, esto generó temor en los sectores populares y se orientan hacia el apoyo electoral de Fujimori 
 - En la segunda vuelta electoral, el candidato de Fujimori, que en la primera vuelta había representado a un ==FRENTE DE CLASES MEDIAS Y EVANGÉLICOS==, ahora es rodeado por un entorno más poderoso: gremios empresariales, sectores de ejército y del servicio de inteligencia ==(MONTESINOS)== 
 
+|         **PRIMERA VUELTA**         | **SEGUNDA VUELTA (TRAS EL DEBATE)** |
+|:----------------------------------:|:-----------------------------------:|
+| FREDEMO (Mario Vargas Llosa) - 33% |       Alberto Fujimori - 62%        |
+|     CAMBIO 90 (Fujimori) - 29%     |      Mario Vargas Llosa - 38%       |
+|      APRA (Alva Castro) - 22%      |                                     |
+
+
 ![Mario Vargas Llosa y Alberto Fujimori.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mario%20Vargas%20Llosa%20y%20Alberto%20Fujimori.png)
 <center>Mario Vargas Llosa y Alberto Fujimori</center>
 
@@ -130,6 +137,9 @@
 
 ![Vladivideos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Vladivideos.png)
 <center>Montesinos y el general Delgado Arena con el dinero para la compra del canal de televisión CCN</center>
+
+>[!sidenote]- **NOTA** 
+>En el libro ==EL ESPÍA IMPERFECTO==, Sally Bowen y Jane Holligan recogen el testimonio de Roberto Escobar "El Osito", hermano de Pablo Escobar. Según su declaración, Pablo Escobar envió un millón de dólares en apoyo a la campaña de ==SEGUNDA VUELTA DEL AÑO 2000==, en respuesta al pedido de Vladimiro Montesinos. Según el testimonio, el mismo Alberto Fujimori llamó a Escobar para agradecer el dinero enviado   
 
 ---
 **PRÁCTICA**
