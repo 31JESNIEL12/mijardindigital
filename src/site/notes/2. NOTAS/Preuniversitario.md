@@ -2,16 +2,11 @@
 {"dg-publish":true,"permalink":"/2-notas/preuniversitario/","tags":["gardenEntry"]}
 ---
 
-# ESPACIO DE ESTUDIO
+----
+#### TEORÍA
 ---
-
->[[2. NOTAS/Métodos de Estudio\|MÉTODOS DE ESTUDIO]]
 
 >[[2. NOTAS/Resúmenes\|RESÚMENES]]
-
-----
-# TEORÍA
----
 
 >[[10. ÁLGEBRA/TEORÍA/Teoría sobre el Álgebra\|ÁLGEBRA]]
 
@@ -54,7 +49,7 @@
 >[[18. GEOGRAFÍA/TEORÍA/Teoría sobre la Geografía\|GEOGRAFÍA]]
 
 ---
-# PRÁCTICA
+#### PRÁCTICA
 ---
 
 >[[10. ÁLGEBRA/PRÁCTICA/Práctica de Álgebra\|ÁLGEBRA]]
@@ -98,7 +93,7 @@
 >[[18. GEOGRAFÍA/PRÁCTICA/Práctica de Geografía\|GEOGRAFÍA]]
 
 ---
-# EXÁMENES TIPO ADMISIÓN
+#### EXÁMENES TIPO ADMISIÓN
 ---
 
 >[[3. EXÁMENES/UNPRG/Exámenes UNPRG\|EXÁMENES DE ADMISIÓN UNPRG]]
@@ -110,7 +105,7 @@
 >[[3. EXÁMENES/UNI/Exámenes UNI\|EXÁMENES DE ADMISIÓN UNI]]
 
 ---
-# EXTERNOS
+#### EXTERNOS
 ---
 
 >[CANAL DE ANATOMÍA DEL PROFESOR HIBITO](https://www.youtube.com/@ProfesorHibiTo)
