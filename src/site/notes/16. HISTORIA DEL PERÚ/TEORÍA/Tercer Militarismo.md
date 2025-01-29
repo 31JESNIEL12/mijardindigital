@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/tercer-militarismo/","tags":["Historia","Teoría"]}
+{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/tercer-militarismo/","tags":["Historia","Teoría","Completo"]}
 ---
 
 # TEORÍA
@@ -14,82 +14,61 @@
 >[EL ONCENIO DE LEGUÍA Y TERCER MILITARISMO PARTE 5 - VON NEUMANN](https://www.youtube.com/watch?v=W-RA9OvCRm4) 
 
 ✔ **DEFINICIÓN** 
-- Periodo de la Historia Peruana que tuvo por objetivo de ==**PROTEGER A LA OLIGARQUÍA**== terrateniente y al sistema imperante ante la crisis social
-
-✔ **DENOMINACIÓN**
+- Fue el periodo en la que oligarquía agroexportadora financió a los militares para que asuman el control del Estado 
+- Estos gobiernos controlaron el desborde popular, liderados por ==EL APRA Y EL PARTIDO COMUNISTA==, haciendo uso de métodos de tendencia ==FASCISTA== 
 - Acuñado por el historiador tacneño Jorge Basadre Grohmann
 
+✔ **CONTEXTO**
+- Periodo de la ==GRAN DEPRESIÓN CAPITALISTA== de los años treinta como consecuencia del Crack de 1929
+- En Europa se produce el auge de ==MOVIMIENTOS TOTALITARIOS== de corte ==FASCISTA== 
+
 ✔ **ANTECEDENTES**
-- El fin de la Patria Peruana (CRACK DEL 29)
+- Tras el golpe de Estado se redacto el ==MANIFIESTO DE AREQUIPA==, en el que Sánchez Cerro aprisiona a Leguía por actos de corrupción 
+- Se establece el ==TRIBUNAL DE SANCIÓN== para juzgar a Leguía y a los funcionarios acusados por corrupción
+- ==ELIMINA LA LEY DE CONSCRIPCIÓN VIAL== 
+- Sánchez Cerro dejó el poder en manos de la ==JUNTA DE GOBIERNO DE SAMANEZ OCAMPO==, quien fundó el ==JURADO NACIONAL DE ELECCIONES (JNE)== y convocó a elecciones presidenciales en 1931
+- Sánchez Cerro (PARTIDO UNIÓN REVOLUCIONARIO) derrotó a Haya de la Torre (PARTIDO APRISTA) 
+- El APRA alegó fraude electoral y en una manifestación pública declararon a Haya de la Torre como ==PRESIDENTE MORAL DEL PERÚ== 
 
-✔ **CONTEXTO MUNDIAL**
-- Fascismo europeo (ENTRE GUERRAS)
+✔ **GOBIERNO DE LUIS SÁNCHEZ CERRO (1931 - 1933)** 
+- "GOBIERNO DE LOS DIECISÉIS MESES"
+- Desarrolló un gobierno represivo, dictatorial y fascista 
+- Estableció la ==LEY DE EMERGENCIA==, con la cual se facilitó la persecución de sus opositores
+- Se aplican parcialmente las recetas económicas de la ==MISIÓN KEMMERER (EE.UU.)==, que buscaban palear los efectos de la Gran Depresión capitalista. Se crea el ==BANCO CENTRAL DE RESERVA DEL PERÚ (BCRP)== 
+- Se ==CLAUSURÓ LA UNMSM== ante la agitación estudiantil 
+- Se produce un motín de marinos en el Calleo; los rebeldes son fusilados 
+- En 1932 se produce el ==AÑO DE LA BARBARIE==. ==LA SUBLEVACIÓN APRISTA EN TRUJILLO== liderado por ==MANUEL BÚFALO BARRETO==. Los rebeldes tomaron el ==CUARTEL O'DONOVAN==. Cientos de apristas fueron reprimidos y ejecutados por el ejército en ==CHANCHÁN==. 
+- Los ==LORETANOS TOMAN LETICIA==, ciudad que entregó Leguía a Colombia durante el Oncenio. Se producen varios enfrentamientos. Colombia plantea su reclamo al Estado peruano 
+- Se estableció la ==CONSTITUCIÓN DE 1933 (9/04/1933)==; se catalogó ==AL APRA Y AL PARTIDO COMUNISTA== como ==PARTIDOS INTERNACIONALES==, y quedan prohibidos de tener participación política en el Perú
+- En abril de 1933, Sánchez Cerro fue asesinado por el presunto militar aprista ==ABELARDO MENDOZA LEYVA== 
+- Ante la crisis 
 
-✔ **CARACTERÍSTICAS**
-- Implantada mediante el ==**GOLPE DE ESTADO DE LUIS SÁNCHEZ CERRO**== y por el temor a un desborde de las luchas sociales 
-- Se producen ==**MIGRACIONES INTERNAS**== del campo a la ciudad
-- El Perú se va convirtiendo de una país de raíces andinas y rural a uno costeño y urbano
-- Se produce la ==**REPRESIÓN DE LÍDERES POLÍTICOS**==
-
----
-**GOBIERNO DE LUIS SÁNCHEZ CERRO (1931 - 1933)**
-Fue elegido presidente constitucional del Perú, en las elecciones generales de 1931, su gobierno denominado ==**"GOBIERNO DE LOS DIECISÉIS MESES"**==
+![Muerte de Sánchez Cerro.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Muerte%20de%20S%C3%A1nchez%20Cerro.png)
+<center>Luis Sánchez Cerro fue asesinado</center>
 
 ✔ **OBRAS Y ACONTECIMIENTOS**
-- Otorgó el derecho de voto a la ==**MUJER ALFABETA**== en las ==**ELECCIONES MUNICIPALES**==
-- Se aprobó la ==**CONSTITUCIÓN POLÍTICA DEL PERÚ DE 1933 (09-04-1933)**==
-- Anulo las medidas de la Patria Nueva (CONSCRIPCIÓN VIAL)
-- Se empezó a construir la ==**CARRETERA CENTRAL**== y el ==**BANCO INDUSTRIAL**==
-- Cerró la ==**UNIVERISAD DE SAN MARCOS**==
-- Se crea el ==**JURADO NACIONAL DE ELECCIONES (JNE) EN 1930**==, al mando de ==**SAMANEZ OCAMPO**==, y con esta, quema a todos los partidos, excepto el de Sánchez Cerro (VOTO SECRETO)
+- Otorgó el derecho de voto a la ==MUJER ALFABETA== en las ==ELECCIONES MUNICIPALES====
+- Se empezó a construir la ==CARRETERA CENTRAL== y el ==BANCO INDUSTRIAL== 
+- Se crea el ==JURADO NACIONAL DE ELECCIONES (JNE) EN 1930==, al mando de ==SAMANEZ OCAMPO==, y con esta, quema a todos los partidos, excepto el de Sánchez Cerro (VOTO SECRETO)
 - Compite con Haya de la Torres, el cual denuncia que hubo fraude electoral
-- Creó el ==**TRIBUNAL NACIONAL DE LA SANCIÓN**==, con el objetivo de sancionar la corrupción de Leguía y planificar estrategias similares al Fascismo 
-- Reprimió actos subversivos como el de Trujillo del 7 de julio de 1932 ==**(MATANZA DE CHAN CHAN)**==, en donde murieron apristas
+- Creó el ==TRIBUNAL NACIONAL DE LA SANCIÓN==, con el objetivo de sancionar la corrupción de Leguía y planificar estrategias similares al Fascismo 
+- Reprimió actos subversivos como el de Trujillo del 7 de julio de 1932 ==(MATANZA DE CHAN CHAN)==, en donde murieron apristas
 - Decretó el pago de salario a los obreros del 1 de mayo
-- Llega la ==**"MISIÓN KEMMERER"**== para tratar de solucionar la crisis económica
-
->[!sidenote]- **MISIÓN KEMMERER**
->Crear instituciones financieras que regulen la estabilización financiera
->Encaje legal
->Creación del BCR
->Creación de la banca de fomento (BANCO AGRÍCOLA Y BANCO INDUSTRIAL)
-
->[!sidenote]- **PROTESTA DE CHAN CHAN**
->Liderado por Manuel Búfalo Barreto
->Sánchez Cerro manda a ejecutarlos (GENOCIDIO)
-
->[!sidenote]- **CONSTITUCIÓN DE 1933**
->Mediante una ==**ASAMBLEA CONSTITUYENTE**==
->LEY DE EMERGENCIA: Anulación definitiva de los partidos internacionales (APRA)
->Derecho al voto municipal femenino (ALFABETA)
 
 >[!sidenote]- **LETICIA**
 >Cuando se firmó el tratado de Salomón - Lozano (TRAPECIO AMAZÓNICO), se incluye a una ciudad llamada Leticia, ellos no quieren ser parte de Bolivia (BENAVIDES)
 
-✔ **FIN**
-- Asesinado en 1933 por el aprista ==**ABELARDO MENDOZA LEIVA**==
-
->[!sidenote]- **LUIS MIGUEL SÁNCHEZ CERRO**
-![Luis Miguel Sánchez Cerro.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Luis%20Miguel%20S%C3%A1nchez%20Cerro.png)
-
----
-**SEGUNDO GOBIERNO DE OSCAR BENAVIDES (1933 - 1939)**
-"ORDEN, PAZ Y TRABAJO"
-Fue elegido presidente provisorio del Perú por el Congreso Constituyente del Perú.
-Inició el 30 de abril de 1933 y terminó el 8 de diciembre de 1939
-
-✔ **OBRAS Y ACONTECIMIENTOS**
-- Política de Paz y Concordia 
-- Se construyó el ==**PUERTO DE MATARANI**== (AREQUIPA)
-- Inició la construcción de la ==**PANAMERICANA**==
-- ==**LEY DE AMNISTÍA GENERAL**==
-- Aumentaron las exportaciones
-- Dio amnistía política a los opositores políticos, especialmente apristas
-- El aprista ==**CARLOS STEER**== asesinó el director del diario "El Comercio"
-- En 1934 firmó la paz con ==**COLOMBIA**==; el ==**PROTOCOLO DE AMISTAS, LÍMITES Y COOPERACIÓN**== que ratificaba el tratado de Leguía (SALOMÓN - LOZANO)
-- Promulgó el código civil de 1836, inauguró el hospital del obrero (ALMENARA) , el seguro obligatorio social del obrero
-- En 1939 estalló la ==**SEGUNDA GUERRA MUNDIAL**==
-- Convoca a elecciones;==**LUIS ANTONIO EGUREN**== (APRA). Se anulan y se propaga su gobierno
+✔ **SEGUNDO GOBIERNO DE ÓSCAR R. BENAVIDES (30/04/1933 - 8/12/1939)** 
+- FRASE: =="ORDEN PAZ Y TRABAJO"== 
+- Su gobierno trató de impulsar la llamada =="PAZ Y CONCORDIA"== 
+- Dio la ==LEY DE AMNISTÍA GENERAL==, en la que temporalmente fueron perdonados los perseguidos políticos y se permitió el regreso de los expatriados 
+- Se trajo una ==MISIÓN ITALIANA FASCISTA (CAMAROTTA)== para capacitar a la ==GUARDIA CIVIL== creada por Leguía. También se creó el ==BATALLÓN DE ASALTO== para disolver las protestas populares 
+- Ratificó el ==TRATADO SALOMÓN - LOZANO== con ==COLOMBIA==. Devolución de Leticia
+- Se concluyó el ==PALACIO DE JUSTICIA== y remodeló el Palacio de Gobierno 
+- Se inició la construcción de la ==CARRETERA PANAMERICANA== 
+- Se convocó a elecciones presidenciales en 1936.
+- ==ANTONIO EGUIGUREN== resultó ganador, pero por su vinculación al Partido Civilista; por tanto, las elecciones fueron anuladas y el Congreso prolongó el mandato de Benavides hasta 1939
+- Ante la oposición del APRA, se vuelve a declarar ilegal ese partido 
 
 ---
 **PRÁCTICA**:
