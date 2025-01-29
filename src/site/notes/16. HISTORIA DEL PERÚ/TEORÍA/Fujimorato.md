@@ -29,14 +29,13 @@
 |     CAMBIO 90 (Fujimori) - 29%     |      Mario Vargas Llosa - 38%       |
 |      APRA (Alva Castro) - 22%      |                                     |
 
-
 ![Mario Vargas Llosa y Alberto Fujimori.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mario%20Vargas%20Llosa%20y%20Alberto%20Fujimori.png)
 <center>Mario Vargas Llosa y Alberto Fujimori</center>
 
 ✔ **ETAPA CONSTITUCIONAL (1990 - 1992)** 
 
 ✅ **PROGRAMA DE ESTABILIZACIÓN ECONÓMICA** 
-- A pesar de la promesa electoral de no aplicar un shock económico, a la semana de tomar el poder, ==EL MINISTRO DE ECONOMÍA, JUAN CARLOS HURTADO MILLER, APLICA EL SHOCK== (LIBERACIÓN DE PRECIOS)
+- A pesar de la promesa electoral de no aplicar un shock económico (FUJISHOCK), a la semana de tomar el poder, ==EL MINISTRO DE ECONOMÍA, JUAN CARLOS HURTADO MILLER, APLICA EL SHOCK== (LIBERACIÓN DE PRECIOS)
 - La medida se tradujo en una ==CAÍDA DEL SALARIO REAL== y la ==PRECARIZACIÓN DE LA ECONOMÍA FAMILIAR== pues los precios se multiplicaron.
 - La medida fue ==DRÁSTICA==, pero ==EFECTIVA==; el milagro fujimorista de acabar la inflación fue básicamente acabar el poder adquisitivo de las familias 
 
