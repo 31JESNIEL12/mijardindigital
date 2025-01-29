@@ -650,6 +650,158 @@ una trenza por cada letra del abecedario.
 A) La exaltación de la raíz andina del poeta y sus familiares.
 B) La evocación de la imagen materna debido a su ausencia.
 C) El hambre que se vincula con la madre y los otros hermanos.
-D) El recuerdo imperecedero de la trágica muerte de Miguel. 
+D) El recuerdo imperecedero de la trágica muerte de Miguel.
+E) La angustia existencial del poeta por estar alejado de casa.
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
 
-E) La angustiaexistencial del poeta por estar alejado de casa.
+```exercise
+A partir del fragmento del segundo poema de Trilce, de César Vallejo, marque la alternativa correcta con respecto al estilo.
+Tiempo Tiempo.
+Mediodía estancado entre relentes.
+Bomba aburrida del cuartel achica
+tiempo tiempo tiempo tiempo.
+Era Era.
+Gallos cancionan escarbando en vano.
+Boca del claro día que conjuga
+era era era era.
+Mañana Mañana.
+A) Utiliza arcaísmos propios de la poesía tradicional.
+B) Emplea la métrica y rima propias del modernismo.
+C) Propone la renovación de la ortografía castellana.
+D) Altera el uso convencional de la gramática.
+E) Aprovecha el nivel espacial mediante el caligrama.
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+>[!sidenote]- **RESOLUCIÓN (RESPONDER PRIMERO)**  
+>César Vallejo inició el vanguardismo en el Perú con su poemario Trilce (1922). En el cual se quiebra la sintaxis convencional, utiliza una ortografía caprichosa, hace decir a las palabras aquello para lo cual no están preparadas. Crea neologismo y tiene versolibrismo. 
+
+```exercise
+En los versos de Trilce XVIII:
+“Criaderos de nervios, mala brecha/por sus cuatro rincones cómo arranca/las diarias aherrojadas extremidades”, constituye una secuencia de sonidos vibrantes y desencadenantes de un estridentismo que, unido a la alteración sintáctica, trastoca las sensaciones y desarrolla, conceptualmente, una ristre de imágenes relacionadas con una imagen mayor.
+
+$choice{"La tristeza" , "La soledad" , "La angustia" , "La incertidumbre" , *"La cárcel"}
+```
+
+```exercise
+Indique las características correctas respecto de Trilce.
+I. Uso de caligramas o poesía visual
+II. Gran experimentalismo y hermetismo
+III. Juego con el plano sonoro del lenguaje
+IV. Influencia del marxismo social
+$choice{"Solo II" , "II y IV" , "I y II" , "III y IV" , *"II y III"}
+```
+
+```exercise
+En 1922 con la publicación de Trilce se da inicio al:
+$choice{"Indigenismo" , "Surrealismo" , "Creacionismo" , "Regionalismo" , *"Vanguardismo"}
+```
+
+```exercise
+Nombre Nombre / ¿Qué se llama cuanto heriza nos? / Se llama Lomismo que padece / nombre nombrenombrenombre
+Indique los rasgos que podemos apreciar en los anteriores versos de Trilce.
+A) El uso de oposiciones y el paralelismo
+B) La ortografía caprichosa y el rompimiento sintáctico
+C) La oralidad y el coloquialismo
+D) La escritura onírica y el verso libre
+E) El retoricismo y el recargamiento
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+Obra póstuma de Vallejo en la que aborda el tema del dolor humano y adquiere una ideología marxista.
+$choice{"Escalas melografiadas" , *"Poemas humanos" , "El tungsteno" , "Fabia salvaje" , "Los heraldos negros"}
+```
+
+```exercise
+En Poemas humanos, obra de la etapa de compromiso político de la poesía de César Vallejo, la referencia al cuerpo es uno de los temas recurrentes, pues se relaciona con ........................ , lo que a su vez permite la ........................
+A) El hedonismo del hombre moderno – Libertad absoluta en la sociedad
+B) La crítica al proletariado – Superación de toda forma de censura
+C) El dolor del sujeto abandonado – Esperanza de un venturoso porvenir
+D) El sufrimiento del individuo pobre – La solidaridad con su padecimiento
+E) El olvido del Estado hacia el pueblo – Difusión de ideas revolucionarias
+$choice{"A" , "B" , "C" , *"D"}
+```
+
+```exercise
+Con respecto al libro Poemas humanos, de César Vallejo ¿Cuál es el tema presente en los siguientes versos del poema "Palmas y guitarra"? 
+Ahora, ven contigo, hazme el favor:
+De quejarte en mi nombre y a la luz de la noche teneblosa
+En que traes a tu alma de la mano
+Y huímos en puntillas de nosotros.
+A) El compromiso político y la libertad
+B) El cuerpo como expresión de la muerte
+C) La oposición entre el pasado y el presente
+D) La pobreza que destruye al ser humano
+E) La solidaridad ante la fatalidad humana
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+Marque la alternativa que completa de manera correcta el siguiente enunciado relacionado con la obra Poemas humanos, de César Vallejo: 
+En el libro, el autor tiende a hacer uso de fuertes exclamaciones con el fin de:
+A) Crear palabras novedosas
+B) Quebrar el orden sintáctico
+C) Darle cromatismo a los versos
+D) Eludir el lenguaje cotidiano
+E) Dramatizar en su poesía
+$choice{"A" , "B" , "C" , "D" , *"E"}
+```
+
+```exercise
+¿A qué poema corresponden esos versos? 
+Me moriré en París con aguacero,
+un día del cual tengo ya el recuerdo.
+Me moriré en París y no me corro
+tal vez un jueves, como es hoy, de otoño.
+Jueves será, porque hoy, jueves, que proso
+estos versos, los húmeros me he puesto
+a la mala y, jamás como hoy, me he vuelto,
+con todo mi camino, a verme solo.
+$choice{"El pan nuestro" , "Los dados eternos" , "Los nueve monstruos" , "La cena miserable" , *"Piedra negra sobre piedra blanca"}
+```
+
+```exercise
+Indique las proposiciones correctas respecto de Poemas humanos.
+I. Es considerado el poemario vanguardista más importante por su radicalismo y hermetismo.
+II. Se caracteriza por su profundo y desbordante humanismo social sustentado en el marxismo.
+III. La descripción del cuerpo se asocia a un espacio de liberación y sufrimiento.
+IV. La obra se sustenta en su relevante tríada: dolor, miseria y humanidad.
+$choice{"Solo I" , "Solo II" , "III y IV" , "II, III y IV" , *"I, III y IV"}
+```
+
+```exercise
+Es una característica de Poemas humanos.
+A) Uso de muchos adjetivos
+B) Abundantes referencias modernistas
+C) Tono dramático y expresionista
+D) Versos y estrofas tradicionales
+E) Lenguaje culto
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+En Poemas humanos, la descripción de hombre y su dolor tiene como causa:
+A) La injusta encarcelación.
+B) El vacío existencial del ser.
+C) La miseria y la pobreza material.
+D) La indiferencia de la familia.
+E) La Guerra Civil española.
+$choice{"A" , "B" , *"C" , "D" , "E"}
+```
+
+```exercise
+Son temas constantes en Poemas humanos.
+A) La cárcel, la soledad, la ausencia de la madre
+B) La solidaridad, la miseria, el dolor
+C) La ambición, el sueño, la fantasía
+D) La soledad, la felicidad,el desengaño
+E) La cárcel, la esperanza, el crimen
+$choice{"A" , *"B" , "C" , "D" , "E"}
+```
+
+```exercise
+En el poema “Masa”, a través de la figura denominada $select{"Epíteto" , "Anáfora" , "Hipérbaton" , "Sinestesia" , *"Hipérbole"} se plantea que la solidaridad es capaz de vencer a la muerte.
+```
+
