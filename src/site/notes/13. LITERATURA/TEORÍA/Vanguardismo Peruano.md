@@ -61,8 +61,9 @@
 	- Fue presentada en cartulina arrimada como acordeón que, cuando se abría, medía 5 metros y, en cada 20 a 30 cm, había un poema 
 	- Rompió los moldes de la poesía
 
->[!sidenote]- **CINCO METROS DE AMAT** 
->![Cinco metros de poemas.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cinco%20metros%20de%20poemas.png)
+![Cinco metros de poemas.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Cinco%20metros%20de%20poemas.png)
+<center>5 metros de Amat de Carlos Oquendo Amat
+</center>
 
 ✅ **XAVIER ABRIL** 
 - "MÁXIMO EXÉGETA DE LA POESÍA VALLEJIANA"
