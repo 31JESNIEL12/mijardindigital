@@ -1,0 +1,58 @@
+---
+{"dg-publish":true,"permalink":"/7-habilidad-matematica/practica/practica-de-rm/","tags":["RM","Práctica"]}
+---
+
+#### PRÁCTICAS DE RM
+---
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Elementos recreativos\|ELEMENTOS RECREATIVOS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Situaciones lógicas\|SITUACIONES LÓGICAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Ordenamiento de información\|ORDENAMIENTO DE INFORMACIÓN]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Lazos familiares\|LAZOS FAMILIARES]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Cortes y seccionamientos\|CORTES Y SECCIONAMIENTOS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Distribuciones numéricas\|DISTRIBUCIONES NUMÉRICAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Relación de tiempos\|RELACIÓN DE TIEMPOS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Deducción Simple y Compuesta\|DEDUCCIÓN SIMPLE Y COMPUESTA]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Verdades y mentiras\|VERDADES Y MENTIRAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Razonamiento inductivo y deductivo\|RAZONAMIENTO INDUCTIVO Y DEDUCTIVO]] 
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Planteo de ecuaciones\|PLANTEO DE ECUACIONES]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Cronometría\|CRONOMETRÍA]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Rutas y trayectorias\|RUTAS Y TRAYECTORIAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Trazos de figuras\|TRAZOS DE FIGURAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Frecuencia de sucesos\|FRECUENCIA DE SUCESOS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Conteo de figuras y razonamiento abstracto\|CONTEO DE FIGURAS Y RAZONAMIENTO ABSTRACTO]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Problemas de movimiento\|PROBLEMAS DE MOVIMIENTO]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Problemas de forma\|PROBLEMAS DE FORMA]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Rumbos y direcciones\|RUMBOS Y DIRECCIONES]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Simetrías y reflexiones\|SIMETRÍAS Y REFLEXIONES]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Certezas\|CERTEZAS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Máximos y mínimos\|MÁXIMOS Y MÍNIMOS]]
+
+>[[7. HABILIDAD MATEMÁTICA/PRÁCTICA/Interpretación de gráficos y tablas\|INTERPRETACIÓN DE GRÁFICOS Y TABLAS]]
+
+
+
+
+
+
