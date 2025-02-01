@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/15-civica/teoria/defensa-nacional-y-civil/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA
 ---
 **SISTEMA DE SEGURIDAD Y DEFENSA NACIONAL**
 
