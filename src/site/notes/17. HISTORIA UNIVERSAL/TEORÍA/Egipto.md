@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/17-historia-universal/teoria/egipto/","tags":["Historia","Teoría","Completo"]}
 ---
 
-# TEORÍA
+#### TEORÍA
 ---
 **CULTURA EGIPCIA "UN DON DEL NILO"** 
 HERODOTO
