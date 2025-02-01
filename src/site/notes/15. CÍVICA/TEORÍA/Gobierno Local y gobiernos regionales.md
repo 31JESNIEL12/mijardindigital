@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/15-civica/teoria/gobierno-local-y-gobiernos-regionales/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA
 ---
 **GOBIERNO LOCAL Y GOBIERNOS REGIONALES**
 
