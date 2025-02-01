@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/15-civica/practica/defensa-nacional-y-civil/","tags":["Cívica","Práctica"]}
 ---
 
-# PRÁCTICA
 ---
 **TEORÍA**:
 >[[15. CÍVICA/TEORÍA/Defensa Nacional y Civil\|PRESIONA AQUÍ]]
