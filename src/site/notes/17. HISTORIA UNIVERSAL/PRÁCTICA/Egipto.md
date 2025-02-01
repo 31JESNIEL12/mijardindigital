@@ -1,8 +1,8 @@
 ---
-{"tags":["Historia","Práctica"],"dg-publish":true,"permalink":"/17-historia-universal/practica/egipto/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/17-historia-universal/practica/egipto/","tags":["Historia","Práctica"]}
 ---
 
-# PRÁCTICA
+#### PRÁCTICA
 ---
 **TEORÍA:** 
 >[[17. HISTORIA UNIVERSAL/TEORÍA/Egipto\|PRESIONA AQUÍ]]
