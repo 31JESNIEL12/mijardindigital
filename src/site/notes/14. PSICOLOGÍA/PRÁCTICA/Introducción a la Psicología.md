@@ -608,5 +608,69 @@ Wendy está caminando hacia su casa, en eso un perro agresivamente le empieza a
 $choice{"Proceso cognoscitivo" , "Proceso volitivo" , "Proceso consciente" , "Proceso instintivo" , *"Proceso afectivo"}
 ```
 
+```exercise
+La psicología publicitaria busca como influir en el público para que consuma un determinado producto, para lograr esto tendría que conocer las características de la población, por lo cual se apoyaría en la psicología:
+$choice{"Aplicada" , "General" , "Industrial" , "Publicitaria" , *"Social"}
+```
+
+```exercise
+Plantea tres tipos de alma: Racional, sensitiva y vegetativa
+$choice{"Hipócrates" , "Platón" , "Luis Vives" , *"Aristóteles" , "Descartes"}
+```
+
+```exercise
+En "De Anima" Aristóteles define el alma como:
+A) La entelequia primera de un cuerpo natural que en potencia tiene vida 
+B) Parte principal del comportamiento del hombre 
+C) La sustancia vital que permite la racionalidad del hombre 
+D) El aire y respiro que permite que los seres vivos tengan vida 
+E) El motor interno de los seres vivos
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+El psicoanálisis, es conocido como la psicología del yo o la psicología de la profundidad, su principal representante es Freud que considera que hay 3 planos mentales, en los cuáles hay principios:
+1. Id: Principio del placer
+2. Yo: Principio del consciente 
+3. Ello: Principio del inconsciente 
+4. Súper Ego: Principio del deber
+5. Ego: Principio de la realidad 
+6. Súper yo: Principio de la moral
+$choice{"1, 2, 3" , "2, 3, 6" , "1, 5, 6" , "1, 2, 5" , *"1, 4, 5"}
+```
+
+```exercise
+Son procesos psicológicos estudiados por el cognitivismo, excepto:
+$choice{"Percepción" , "Lenguaje" , "Memoria" , "Pensamiento" , *"Voluntad"}
+```
+
+```exercise
+Una de sus obras más famosas "el proceso de convertirse en persona", aquí expone su pensamiento de la psicología y aborda la pregunta, de cuáles son los objetivos de la vida. Su respuesta es que la meta vital de alguien consiste en "ser la persona que realmente es", este proceso, difícil y sin final, pasa por dejar de utilizar máscaras, y refugiarse en las apariencias, por dejar de satisfacer expectativas impuestas y ajenas, por dejar de esforzarse para agradar a los demás, en lugar de perseguir y hacer aquello que de verdad se quiere y por comenzar de abrirse a la propia experiencia, a aceptarse y a aceptar a los demás, y a desarrollar autoconfianza.
+$choice{"James" , "Freud" , "Bandura" , "Watson" , *"Rogers"}
+```
+
+```exercise
+José es un niño de 9 años, se orina en la cama todas las noches, se chupa el dedo, debido a los constantes problemas familiares (pleitos entre sus padres, desatención, etc), afirmo que estas conductas son estudiadas por la psicología:
+$choice{"Social" , "Médica" , "Jurídica" , "Evolutiva" , *"Clínica"}
+```
+
+```exercise
+Con respecto a la psicología laboral:
+A) Diagnostica las causas de los diversos casos de neurosis 
+B) Determina terapias convenientes para reintegrar a un individuo a un medio social favorable
+C) Estudia la psicología de los delincuentes 
+D) Interviene en la selección de personal 
+E) Propone terapias para los trabajadores que cometen delitos
+$choice{"A" , "B" , "C" , *"D" , "E"}
+```
+
+```exercise
+El primero en usar el término psicología como "Tratado de alma", fue:
+$choice{"Hipócrates" , "Aristóteles" , "Wundt" , "Von Wolf" , *"Melanchton"}
+```
+
+```exercise
+El método $select{"Correlacional" , "Introspectivo" , "Clínico" , "Experimental" , *"Genético"} tiene por finalidad investigar los principios o patrones de desarrollo y/o cambios de conducta de un organismo en función del tiempo.
+```
 
 
