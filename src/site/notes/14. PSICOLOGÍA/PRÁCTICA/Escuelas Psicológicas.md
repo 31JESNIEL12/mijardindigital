@@ -160,3 +160,39 @@ Su interés básico está en las causas motivadoras y en la dinámica del funcio
 $choice{"Gestaltismo" , "Reflexiología" , "Behaviorismo" , "Funcionalismo" , *"Psicoanálisis"}
 ```
 
+```exercise
+El enunciado: "Si no puedes ver algo y medirlo, más vale la pena olvidarlo". Pertenece a la escuela Psicológica:
+$choice{"Reflexiología" , "Psicoanálisis" , "Gestalista" , "Funcionalista" , *"Behaviorista"}
+```
+
+```exercise
+¿Cuál de las siguientes frases menciona un aporte fundamental del psicoanálisis a la psicología?
+A) La diferenciación y caracterización del ello, el yo y el super yo
+B) La teoría que permite la interpretación de los sueños y su aplicación en psicoterapia
+C) La explicación de la naturaleza y significado de los actos fallidos cotidianos
+D) La manifestación de los impulsos inconscientes en nuestra vida sexual
+E) La influencia de las expresiones infantiles en la formación de la personalidad
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+Para el cognitivismo, el conocimiento es funcional ya que cuando un sujeto se encuentra ante un acontecimiento que ya ha procesado en su mente (es decir, que ya conoce), puede anticiparse con mayor facilidad a lo que puede suceder. Son representantes de esta teoría, excepto:
+$choice{"Piaget" , "Bruner" , "Ausubel" , *"Más de una respuesta" , "Skinner"}
+```
+
+```exercise
+Según el Conductismo, el objeto de estudio de la Psicología es:
+A) La predicción y el control de la conducta 
+B) La conciencia como manifestación de la conducta 
+C) La conducta inconsciente 
+D) La conducta nerviosa superior 
+E) La conducta con un criterio holístico 
+$choice{*"A" , "B" , "C" , "D" , "E"}
+```
+
+```exercise
+La escuela humanista es representada por:
+$choice{"James" , "Wundt" , "Pavlov" , "Watson" , *"Maslow"}
+```
+
+```exercise
