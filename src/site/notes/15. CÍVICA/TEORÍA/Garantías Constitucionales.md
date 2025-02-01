@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/15-civica/teoria/garantias-constitucionales/","tags":["Cívica","Teoría","Incompleto"]}
+{"dg-publish":true,"permalink":"/15-civica/teoria/garantias-constitucionales/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA
 ---
 **GARANTÍAS CONSTITUCIONALES**
 
