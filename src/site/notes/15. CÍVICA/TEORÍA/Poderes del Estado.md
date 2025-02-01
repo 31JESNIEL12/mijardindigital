@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/15-civica/teoria/poderes-del-estado/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA
 ---
 **PODERES DEL ESTADO**
 
@@ -15,177 +14,196 @@
 ---
 **PODER EJECUTIVO**
 
+✔ **FUNCIÓN** 
+- Hacer cumplir las leyes a través de las funciones gubernamentales
 
+✔ **ESTRUCTURA**
+- Presidencia de la República + Consejo de Ministros
 
-✅ Finalidad: Administrar el estado a través de la gestión pública
+✔ **ARTÍCULO 110: EL PRESIDENTE DEL PERÚ** 
+- Es el ==JEFE DE ESTADO== y ==PERSONIFICA A LA NACIÓN== 
+- Debe ser ==PERUANO DE NACIMIENTO== 
+- Gozar de ==DERECHO DE SUFRAGIO== 
+- Tener más de ==35 AÑOS== 
 
-**Estructura**
+✔ **ARTÍCULO 111: ELECCIÓN DEL PRESIDENTE DE LA REPÚBLICA** 
+- El Presidente de la República es elegido por ==SUFRAGIO DIRECTO== 
+- Es elegido el candidato que obtiene ==MÁS DE LA MITAD DE VOTOS== (VÁLIDOS) 
+- Los ==VOTOS VICIADOS O EN BLANCO== no se computan 
+- Si ninguno de los candidatos obtiene la ==MAYORÍA ABSOLUTA== (EMPATE TÉCNICO), se procede a una segunda vuelta dentro de los 30 días siguientes a la proclamación de la JNE
 
-✅ Presidencia (Electo)
-- Presidente + 2 Vicepresidentes
+✔ **ARTÍCULO 112: DURACIÓN DE MANDATO PRESIDENCIAL** 
+- El mandato presidencial es de ==5 AÑOS== 
+- No hay ==REELECCIÓN INMEDIATA== 
+- Trascurrido un periodo constitucional, el ex presidente puede volver a postular 
 
-✅ Consejo de ministros (Cargos de confianza)
-- Cada uno tiene un sector específico a cumplir
-- La cabeza de ellos, se llama “premier” o “presidente del consejo de ministros”
-- Premier + Ministros
+✔ **ARTÍCULO 113: VACANCIA PRESIDENCIAL** 
+- Muerte del Presidente
+- Permanente incapacidad moral o física
+- Aceptación de su renuncia por el Congreso
+- Salir del territorio nacional sin permiso del Congreso 
+- Destitución por infracción al Artículo 117
 
-**Conceptos importantes**
+✔ **ARTÍCULO 114: SUSPENSIÓN DEL EJERCICIO DEL PRESIDENTE** 
+- Incapacidad temporal decretada por el Congreso
+- Hallarse sometido a proceso judicial conforme al Artículo 117
 
-✅ Refrenda
-- Aprobación ministerial a los proyectos presidenciales
+✔ **ARTÍCULO 117: ACUSACIÓN CONTRA EL PRESIDENTE** 
+- Traición a la patria
+- Impedir o ==NO CONVOCAR A ELECCIONES== presidenciales, parlamentarias, regionales o municipales
+- Disolver el Congreso sin las pautas del artículo 134
 
-✅ Disolución
-- (Carta Magna) ← Problema de gobernabilidad (Vuelva todo a iniciar)
-- Cuando el parlamento en 2 ocasiones le niega la confianza a los ministros en un periodo presidencial
-- No / Cuestión de confianza
-- Reducción de parlamentarios
-- “Cierre” del congreso por causas constitucionales
+✔ **ARTÍCULO 118: ATRIBUCIONES DEL PRESIDENTE** 
+- Cumplir y hacer cumplir la Constitución y los tratados
+- Dirigir la ==POLÍTICA GENERAL== del gobierno 
+- Convocar al Congreso mediante decreto 
+- Convocatoria a legislatura extraordinaria
+- Conceder indultos
 
-✅ Interpelación
-- Llamado al ministro(s) por parte del congreso
+✔ **ARTÍCULO 120: REFRENDACIÓN MINISTERIAL** 
+- Son nulos los actos del Presidente  que carecen de ==REFRENDACIÓN MINISTERIAL== 
+	- La firma de un ministro, del primer ministro o de todos los ministros.
 
-✅ Indulto
-- Liberación del condenado por razones humanitarias
-- Presidente
-- Gracia facultada
-- Ejemplo: El reo tiene una enfermedad terminal
-- Incidente de la avenida Faucett: Humala, en su último día de gobierno, libera a una chica por un juicio desproporcionado
+✔ **ARTÍCULO 123: ATRIBUCIONES DEL PRESIDENTE DEL CONSEJO DE MINISTROS** 
+- Ser después del Presidente de la República, el ==PORTAVOZ OFICIAL== del gobierno
+- Coordinar las funciones de los demás ministros 
+- Refrendar los decretos y resoluciones
+
+✔ **ARTÍCULO 125: ATRIBUCIONES DEL CONSEJO DE MINISTROS** 
+- Cumplir y hacer cumplir la Constitución y los tratados
+- Aprobar los decretos y resoluciones que dicta el presidente
+- Deliberar asuntos de interés público
+- Demás facultades que otorga la ley 
+
+✔ **ARTÍCULO 128: RESPOSABILIDAD DE LOS MINISTROS** 
+- Son individualmente responsables de sus propios actos y por los actos presidenciales que refrendan
+- Son solidariamente responsables por los actos delictivos o violatorios a la Constitución, salvo que renuncien inmediatamente 
+
+✔ **ARTÍCULO 130: EXPOSICIÓN DE LA POLÍTICA GENERAL DEL GOBIERNO** 
+- Dentro de los 30 días de haber asumido sus funciones, el Presidente del Consejo concurre al Congreso para exponer y debatir su política de gobierno. Plantea el efecto cuestión de confianza
+- Si el Congreso no está reunida, el Presidente de la República convoca a legislatura extraordinaria
+
+✔ **ARTÍCULO 132: VOTO DE CENSURA O RECHAZO DE LA CUESTIÓN DE CONFIANZA** 
+- Toda nación de censura contra el gabinete debe ser presentado por no menos del 25% del número legal
+- El Consejo de Ministros, o el ministro censurado, debe renunciar
+- El Presidente acepta la dimisión dentro de las 72 horas
+
+✔ **ARTÍCULO 133: CRISIS TOTAL DEL GABINETE** 
+- El PCM puede plantear ante el congreso la cuestión de confianza 
+- Si la confianza es rehusada, censurada, renuncia o es removida
 
 ---
 **PODER LEGISLATIVO** 
+UNICAMERAL → (1993 - 2025)
 
+✔ **ESTRUCTURA** 
 
-✅ Finalidad: Fiscalizar y legislar todo tema de interés público; crear, aprobar, modificar y derogar leyes
+✅ **PLENO DEL CONGRESO (ART. 102)** 
+- Máximo órgano deliberativo 
+- Totalidad legal de ==130 PARLAMENTARIOS== 
 
-**Estructura**
+✅ **JUNTA DE PORTAVOCES** 
+- Un vocero oficial por cada agrupación o bancada política 
 
-✅ Mesa directivo → Debate
-- Presidente del congreso
+✅ **MESA DIRECTIVA** 
+- Conformada por el ==PRESIDENTE DEL CONGRESO== y ==TRES VICEPRESIDENTES== 
 
-✅ El Pleno → 130 Parlamentarios
-- Máximo órgano deliberativo
+✅ **PRESIDENTE DEL CONGRESO** 
+- Preside el pleno y la comisión permanente dirige las sesiones
+	- SESIONES ORDINARIAS: 
 
-✅ Junta de portavoces
-- Líderes de cada bancada
+✅ **COMISIÓN PERMANENTE (ART. 101)** 
+- Conformado por el ==25% DEL PLENO (33 CONGRESISTAS)== 
+- Ejerce funciones constitucionales durante los plenos ordinarios y los interregnos derivado por la disolución 
+- INTERREGNOS: Vacío presidencial o congresal
 
-✅ Las Comisiones
-- Equipos de trabajo
+✅ **NÚMERO LEGAL** 
+- 130 congresistas electos
 
-**Comisiones**
+✅ **NÚMERO HÁBIL** 
+- Cantidad de congresistas totales descontando al número legal
 
-✅ Permanente
-- Sesiona durante el receso parlamentario
+✔ **PROCEDIMIENTO LEGISLATIVA** 
 
-✅ La ética
-- Moral
-- Evalúa y recomienda sanción a los parlamentarios
+✅ **INICIATIVA LEGISLATIVA** 
+- Presentación del proyecto de ley
 
-✅ Dictaminadora
-- La ordinaria
-- Lleva los proyectos de ley al pleno
+✅ **APROBACIÓN DE LA LEY** 
+- Pleno del congreso
 
-✅ Fiscalizadora
-- Investiga todo tema de interés público
+✅ **PROMULGACIÓN** 
+- Por el presidente de la república → ==FIRMA AUTÓGRAFA==  
+- Plazo de 15 días
 
-**Proceso Legislativo** → Leyes
+✔ **FORMAS DE APROBACIÓN** 
 
-1. Elaboración
-✅ Parlamento - Cargos electos
+✅ **MAYOR SIMPLE O RELATIVA** 
+- Mayoría del número hábil → ==LEY ORDINARIA== 
 
-2. Aprobación
-✅ Comisión - Pleno
+✅ **MAYORÍA ABSOLUTA** 
+- Mayoría del número legal → ==LEY ORDINARIA== 
 
-3. Promulgación
-✅ Presidente de la República
+✅ **MAYORÍA CALIFICADA** 
+- Los 2/3 del número legal → ==TRIBUNAL CONSTITUCIONAL, DEFENSOR DEL PUEBLO Y REFORMA CONSTITUCIONAL== 
 
-4. Publicación
-✅ Diario oficial “El Peruano”
+✔ **ARTÍCULO 90** 
+- El poder legislativo reside en el congreso
+- Cámara única de 130 congresistas 
+- PERIODO DE GOBIERNO: 5 años
+- Requisitos para postular
+- Los postulantes a la vicepresidencia de la República pueden postular
 
-5. Vigencia
-✅ Un día después de publicarse
+✔ **ARTÍCULO 92** 
+- La función es a tiempo completo
+- Prohibido asumir otro cargo público o privado
 
-**Congreso**
+✔ **ARTÍCULO 93** 
+- Los congresistas no están sujetos a mandato imperativo ni interpelatorio 
+- No son responsables ni por sus opiniones ni por su votación
+- Gozan de ==INMUNIDAD PARLAMENTARIA== 
 
-✅ APRUEBA leyes, tratados, empréstitos, demarcación territorial, declaratoria de guerra y firma de paz, ingreso de tropas extranjeras, salida del país al presidente, etc.
-✅ DESIGNA defensor del pueblo, miembros del TC, 3 directores BCRP, etc.
-✅ OTORGA amnistía y condecoraciones
+✔ **ARTÍCULO 95** 
+- Mandato irrenunciable 
+- Sanciones disciplinarias máximo de 120 días 
+- Desaforo (EXPULSIÓN) parlamentario 
 
-**Acciones del Pleno**
+✔ **ARTÍCULO 99** 
+- Corresponde a la ==COMISIÓN PERMANENTE== acusar constitucionalmente a:
+	- Presidencia de la República
+	- Congresistas
+	- Tribunal Constitucional
+	- Defensor del Pueblo
+	- Contralor General
+	- Fiscales Supremos
+	- Vocales de la Corte Suprema 
 
-✅ Censura
-- Rechazo de la confianza al ministro (No despido)
+✔ **ARTÍCULO 104** 
+- El congreso puede delegar al poder ejecutivo la facultad de legislar temas específicos en plazos determinados 
 
-✅ Vacancia
-- Retiro del cargo al presidente
+✔ **ARTÍCULO 101** 
+- ==FUNCIONES DE LA COMISIÓN PERMANENTE:== 
+	- Designar al Contralor General de la República 
+	- Ratificar al Presidente del BCRP más 3 miembros más y a la Superintendencia de Bancas y Seguros
+	- Aprobar créditos suplementarios 
 
-✅ Amnistía
-- Liberación o retiro de toda investigación (Vacíos legales)
-- Caso de las tropas de Chavín de Huántar
+✔ **ARTÍCULO 102** 
+- ==FUNCIONES DEL PLENO DEL CONGRESO:== 
+	- Designar al Tribunal Constitucional y al Defensor del Pueblo 
+	- Someter a los ministros; pliego interpelatorio 
+	- Ejercer derecho de amnistía 
 
-✅ Desaforo
-- Retiro del cargo a un parlamentario
-- Kenji Fujimori
+✔ **ARTÍCULO 134** 
+- Facultad al presidente al cierre de congreso por generar crisis municipal, quedando la comisión permanente
+- Decreto de disolución convocatorio (MÁXIMO 120 DÍAS)
+
+>[!sidenote]- **IMPORTANTE** 
+>No se puede disolver el congreso durante el último año de mandato ==(ESTADO DE SITIO)== 
 
 ---
 **PODER JUDICIAL** 
 
 
 
-✅ Finalidad: Administra justicia en materia de su competencia
-
-**Principios**
-
-✅ Tutela
-- Solo este poder administra justicia
-
-✅ Observancia
-- Los fallos judiciales se acatan
-- Fuerza policial → Obedecer
-
-✅ Gratuidad
-- Los procesos son subsidiados o financiados de forma pública
-
-✅ No condena en ausencia
-- Se requiere la presencia del invitado (Físico o virtual)
-
-✅ “Debido proceso”
-- Respeta los mecanismos de libertad
-- “Toda persona no es inocente”
-
-✅ Publicidad
-- Generalmente, todo proceso debe ser conocido
-
-✅ Apelación
-- Se da la posibilidad de revisar los fallos
-
-✅ Indemnización
-- Solicitud de reparación económica
-
-**Fueros (Especialidad)**
-
-✅ Civil
-- Familia - Divorcio - Contrato - Empresas
-
-✅ Penal
-- Secuestro - Acoso - Bullying - Agresión
-
-✅ Laboral
-- Despido arbitrario - Negociación colectiva
-
-✅ Militar
-- Diserción - Omisión de funciones
-- PNP
-
-✅ Familiar
-- Abandono - Incumplimiento de haberes
-
-✅ Electoral
-- No son parte del poder judicial directamente
-- JNE
-- Tachas - Revisiones - Impugnaciones - Retiro credencial
-
-OCA → Ley Orgánica
-Concepto: Entidades públicas que tienen autonomía funcional y que no dependen de ningún poder del estado.
 
 ---
 **PRÁCTICA**:
