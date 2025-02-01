@@ -55,8 +55,9 @@
 - Nadie puede atribuirse (ARROGARSE) el ejercicio de ese poder. Hacerlo constituye ==REBELIÓN O SEDICIÓN== 
 
 ✔ **ARTÍCULO 46: GOBIERNO USURPADO. DERECHO DE INSURGENCIA** 
-- 
-
+- Nadie obedece a un gobierno usurpador, ni a quienes asuman funciones pública en violación de la Constitución y de las leyes
+- La población civil tiene el ==DERECHO DE INSURGENCIA== en defensa del orden constitucional 
+- Son nulos los actos de quienes usurpan funciones públicas 
 
 ✔ **ARTÍCULO 47: DEFENSA DEL ESTADO** 
 - La defensa de los intereses del Estado está a cargo de los ==PROCURADORES PÚBLICOS== conforme a la ley
@@ -100,6 +101,16 @@
 
 ✔ **ARTÍCULO 192: COMPETENCIAS DE LOS GOBIERNOS REGIONALES** 
 - Promueven el ==DESARROLLO== y la ==ECONOMÍA REGIONAL== 
+- Aprobar su organización interna y su presupuesto
+- Formular y aprobar el plan de desarrollo regional 
+- Administrar sus bienes y rentas
+- Regulas y otorgar autorizaciones, licencias y derechos
+- Promover el desarrollo socioeconómico regional 
+- Dictar las normas inherentes a la gestión regional 
+- Promover y regular actividades y/o servicios 
+- Fomentar la competitividad, las inversiones y el financiamiento para la ejecución de proyectos y obras de infraestructura 
+- Presentar iniciativas legislativas en materias y asuntos de su competencia 
+- Ejercer las demás atribuciones inherentes a su función, conforme a ley
 
 ![1. ELEMENTOS GRÁFICOS/Descentralización.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Descentralizaci%C3%B3n.png)
 <center>Descentralización </center>
