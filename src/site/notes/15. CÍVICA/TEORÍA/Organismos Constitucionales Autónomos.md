@@ -2,9 +2,8 @@
 {"dg-publish":true,"permalink":"/15-civica/teoria/organismos-constitucionales-autonomos/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA
 ---
-**ORGANISMOS CONSTITUCIONALES AUTÓNOMOS** 
+**ORGANISMOS CONSTITUCIONALES AUTÓNOMOS (OCA)** 
 
 >[!sidenote]- **LINKS EXTERNOS DE CLASES** 
 >[ORGANISMOS CONSTITUCIONALES AUTÓNOMOS PARTE 01 - GRUPO CIENCIAS](https://www.youtube.com/watch?v=8C1QyuUmfcQ) 
