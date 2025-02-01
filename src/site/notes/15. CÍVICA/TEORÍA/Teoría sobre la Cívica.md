@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/15-civica/teoria/teoria-sobre-la-civica/","tags":["Cívica","Teoría"]}
 ---
 
-# TEORÍA Y PRÁCTICA DE CÍVICA
+##### EDUCACIÓN CÍVICA
 ---
 
 >[[15. CÍVICA/TEORÍA/Resumen de Cívica\|RESUMEN DE CÍVICA]]
