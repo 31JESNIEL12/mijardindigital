@@ -177,7 +177,7 @@
 |  VIII B   |  ns<sup>2</sup> (n - 1)d<sup>8</sup>   |           Familia del níquel            |
 
 >[!sidenote]- **NOTA** 
->Al grupo VIII B_ las familias del hierro, cobalto y níquel; se les conoce como ==ELEMENTOS FERROMAGNÉTICOS== 
+>Al grupo VIII B las familias del hierro, cobalto y níquel; se les conoce como ==ELEMENTOS FERROMAGNÉTICOS== 
 
 ---
 **DISTRIBUCIÓN DE LOS ELEMENTOS QUÍMICOS POR BLOQUES** 
