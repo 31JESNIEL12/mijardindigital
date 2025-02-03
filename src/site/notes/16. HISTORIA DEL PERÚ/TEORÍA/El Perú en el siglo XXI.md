@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/el-peru-en-el-siglo-xxi/","tags":["Historia","Teoría"]}
+{"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/el-peru-en-el-siglo-xxi/","tags":["Historia","Teoría","Completo"]}
 ---
 
 ---
@@ -95,6 +95,9 @@
 - En el 2009 se produjo denominado =="BAGUAZO"==, que dejó 33 muertos en Bagua y un desaparecido. El motivo fue la reacción de los nativos ante la intención del Gobierno de ==CONCESIONAR AL CAPITAL EXTRANJERO== varios territorios amazónicos. Los responsables fueron el presidente del gabinete, ==YEHUDE SIMONS==, y la ministra del interior, ==MERCEDES CABANILLAS==  
 - Los remanentes de Sendero Luminoso se reorganizaron militarmente en la región del ==VRAEM== 
 
+![1. ELEMENTOS GRÁFICOS/El perro del hortelano.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/El%20perro%20del%20hortelano.png)
+<center>Política de "El perro de hortelano"</center>
+
 ✔ **POLÍTICA** 
 - Fue un gobierno conservador
 - El Gobierno mostró una ineficiente tarea de reconstrucción en Pisco tras el terremoto del 2007
@@ -139,8 +142,22 @@
 - Promulgó la ==LEY DE SERVICIO CIVIL== que pretendía unificar los regímenes de trabajadores públicas, puesto que los servidores públicos pueden estar bajo contrato administrativo de servicios (CAS), contratados como privados
 - ==LEY DE RÉGIMEN LABORAL== o la ==LEY PULPÍN==. Fue rechazada por los jóvenes que vieron recortados sus derechos laborales. Fue derogada
 
+![1. ELEMENTOS GRÁFICOS/Marchas contra la Nueva Ley Pulpín.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Marchas%20contra%20la%20Nueva%20Ley%20Pulp%C3%ADn.png)
+<center>Marchas contra la Nueva Ley Pulpín, donde los jóvenes deberán hacer prácticas hasta 3 años sin sueldo, 4 horas diarias o 20 semanales </center>
+
 ✔ **POLÍTICA** 
-- 
+- Fue un gobierno de centro de izquierda que no logró ningún cambio trascendental 
+- Tuvo que realizar un ==PACTO POLÍTICO== con los ==CONGRESISTAS DEL EXPRESIDENTE TOLEDO== para lograr la gobernabilidad frente a una oposición APRA - Fujimorismo 
+- Cuando todavía no asumía el mandato, su hermano ==ALEXIS HUMALA== fue denunciado por reunirse con el ==GOBIERNO MOSCÚ== para tratar negocios bilaterales, sin ser representante del Estado 
+- CASO LAS BRUJAS DE CARCHINCHE: Omar Chehade, segundo vicepresidente, fue acusado de reunirse con altos mandos policiales para planear el ==DESALOJO== de los trabajadores de la ==EMPRESA AZUCARERA ANDAHUASI==, beneficiando así al ==GRUPO WONG==. Su hermano, Miguel Chehade, fue llevado a prisión con el mismo caso. Este le costó el cargo de Chehade e incluso fue suspendido por 120 días 
+- Tuvo una juramentación accidentada, pues en el Congreso juró por la ==CONSTITUCIÓN DE 1979==, lo que ocasionó la protesta de algunos parlamentarios
+- En marzo de 2013 se inició una ==CONSULTA POPULAR== para decidir la revocatoria de la ==ALCALDESA DE LIMA, SUSANA VILLARÁN== (Fuerza Social) 
+- Se desató una mediática discusión sobre el ==POSBLE INDULTO HUMANITARIO== para el expresidente ==ALBERTO FUJIMORI== 
+- Los altos índices de popularidad de la primera dama Nadine Heredia generaron una discusión a su posible candidatura en las elecciones para el 2016
+- Grupos políticos como al APRA y el fujimorismo instaron al Gobierno a pronunciarse sobre la posible postulación de Nadine Heredia, algo que por ley está prohibido. Alan García en  ese entonces acuñó la frase =="REELECCIÓN CONYUGAL"== 
+
+![1. ELEMENTOS GRÁFICOS/Caso las Brujas de Cachiche.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Caso%20las%20Brujas%20de%20Cachiche.png)
+<center>Caso de las Brujas de Cachiche</center>
 
 ---
 **CRISIS POLÍTICA Y BICENTENARIO (2016 - 2021)** 
@@ -173,10 +190,14 @@
 
 ✔ **MARTÍN VIZCARRA (2018 - 2020)** 
 - El expresidente regional de Moquegua, embajador peruano en Canadá y primer vicepresidente de la República, Martín Vizcarra, asume la presidencia
-- Se comprometió a combatir los actos de corrupción y rodeándose de asesores de su ámbito regional
+- Se comprometió a combatir los actos de corrupción y rodeándose de asesores de su 
 
 ✅ **ODEBRECHT Y LOS PRESIDENTES DEL PERÚ** 
-- 
+- El caso de Lava Jato comenzó con una investigación por ==SOBORNOS ENTREGADOS AL PRESIDENTE TOLEDO== (Se había vinculado a Kuczynski); luego se vinculó como financista electoral de ==OLLANTA HUMALA, KEIKO FUJIMORI Y ALAN GARCÍA==. El caso involucraba sobornos millonarios a los presidentes y candidatos presidenciales de los últimos veinte años.
+- Vizcarra se presentó como la cabeza de aquella renovación, manifestando su apoyo al equipo de fiscales, asumiendo una postura anticorrupción y a favor de la reforma política
+- Desde el Congreso, el fujimorismo trataba de defender su partido y a su lideresa de las investigaciones
+- Como parte de las investigaciones del caso de Lava Jato se conoció que la ==EMPRESA ODEBRECHT== habría financiado la campaña presidencial de ==KEIKO ("SEÑORA K")==. La fiscalía, representada por ==JOSÉ DOMINGO PÉREZ==, pidió 36 meses de prisión, los cuales fueron ordenados por el juez Concepción Carhuancho. En octubre del 2018, la "Señora K" era llevada esposada a prisión
+- En abril del 2019, cuando un fiscal intenta una detención preventiva contra ==ALAN GARCÍA==, este terminó ==SUICIDÁNDOSE== 
 
 ![1. ELEMENTOS GRÁFICOS/Caso Lava Jato.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Caso%20Lava%20Jato.png)
 <center>Caso Lava Jato: 2020, el año de las acusaciones </center>
