@@ -454,6 +454,60 @@
 <center>Variación de la electronegatividad en la tabla periódica </center>
 
 ---
+**CARACTERÍSTICAS DE LOS ELEMENTOS REPRESENTATIVOS POR GRUPO** 
+
+✔ **GRUPO IA: METALES ALCALINOS** 
+- ELEMENTOS: H, Li, Na, K, Rb, Cs, Fr 
+- Con excepción del hidrógeno (NO METAL), tienen una ==CONSISTENCIA SUAVE==, son ==BRILLANTES== y ==MUY REACTIVOS== químicamente.
+- Se llaman ==ALCANOS== porque al reaccionar forman ==HIDRÓXIDOS O ÁLCALIS== 
+- Reaccionan con el ==OXÍGENO== 
+- Su reacción con el ==AGUA== es ==MUY VIOLENTA== 
+- Por su elevada reactividad no se encuentra en la naturaleza en estado elemental, sino ==SOLO COMBINADOS== 
+
+✔ **GRUPO IIA: METALES ALCALINO TÉRREOS** 
+- ELEMENTOS: Be, Mg, Ca, Sr, Ba, Ra 
+- Se llaman ==TÉRREOS== por su ==ASPECTO DE TIERRA== 
+- Estos metales, en particular con los últimos, son casi tan reactivos como los del grupo IA
+- La ==FLAMA== de estos metales presenta ==UNA COLORACIÓN CARACTERÍSTICA==, lo que permite identificarlos
+- ==FORMAN IONES CON CARGA +2== 
+
+✔ **GRUPO IIIA: BOROIDES** 
+- ELEMENTOS: B, Al, Ga, In, Tl 
+- Son metales muy activos, a excepción del boro (METALIODE)
+- ==FORMAN IONES CON CARGA +3== 
+- La mayoría de sus minerales son óxidos e hidróxidos 
+- ==EL ALUMINIO== es el ==METAL MÁS ABUNDANTE== de la ==CORTEZA TERRESTRE==, tiene muchas aplicaciones en la industria del enlatado de alimentos, en la construcción, en la aeronáutica y en la automotriz
+
+✔ **GRUPO IVA: CARBONOIDES** 
+- ELEMENTOS: C, Si, Ge, Sn, Pb
+- Conformado por ==UN NO METAL== (Carbono), ==DOS METALOIDES== (Silicio y Germanio) y ==DOS METALES== (Estaño y Plomo)
+- El ==CARBONO== da origen a los ==COMPUESTOS ORGÁNICOS== que son el sustento de la vida
+- ==EL SILICIO== constituye toda la estructura de la ==CORTEZA TERRESTRE== 
+
+✔ **GRUPO VA: NITROGENOIDES** 
+- ELEMENTOS: N, P, As, Sb, Bi 
+- ==EL NITRÓGENO== que constituye el ==78% DEL VOLUMEN DE LA ATMÓSFERA==. Es esencial para las ==PROTEÍNAS== e interviene en la ==FORMACIÓN DE SALES==, como los nitratos de sodio y potasio, que se aprovechan en la ==ELABORACIÓN DE ABONOS== 
+
+✔ **GRUPO VIA: ANFÍGENOS**
+- ELEMENTOS: O, S, Se, Te, Po 
+- También se les llama ==CALCÓGENOS==, que significa ==FORMADORES DE CENIZAS== 
+- ==EL OXÍGENO== es el elemento ==MÁS ABUNDANTE EN LA CORTEZA TERRESTRE== (50,5%)
+- ==EL AZUFRE== forma una gran variedad de combinaciones, entre ellas el ==ÁCIDO SULFÚRICO== (H<sub>2</sub>SO<sub>4</sub>) 
+
+✔ **GRUPO VIIA: HALÓGENOS** 
+- ELEMENTOS: F, Cl, Br, I, At 
+- Halógeno significa =="FORMADORES DE SAL"== 
+- Son los ==NO METALES MÁS REACTIVOS==, capaces de reaccionar con todos los metales y con la mayoría de no metales
+- Conforme ==AUMENTA EL NÚMERO ATÓMICO== de los elementos de este grupo, ==DISMINUYE SU ACTIVIDAD QUÍMICA== 
+
+✔ **GRUPO VIIIA: GASES NOBLES** 
+- ELEMENTOS: He, Ne, Ar, Kr, Xe, Rn, Og
+- Se conoce como ==GASES NOBLES NAUTRALES== y se obtiene por ==LICUEFACCIÓN FRACCIONADA DEL AIRE== 
+- Se encuentran al final de cada periodo 
+- Son ==GASES  MONOATÓMICOS, INCOLOROS, DIAMAGNÉTICOS, NO REACTIVOS== 
+- En la actualidad se han preparados ==COMPUESTOS CON Xe Y Kr== 
+
+---
 **PRÁCTICA**:
 >[[22. QUÍMICA/PRÁCTICA/Tabla Periódica\|PRESIONA AQUÍ]]
 
