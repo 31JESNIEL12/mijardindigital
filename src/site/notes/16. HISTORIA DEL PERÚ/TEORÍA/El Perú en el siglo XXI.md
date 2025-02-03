@@ -2,186 +2,242 @@
 {"dg-publish":true,"permalink":"/16-historia-del-peru/teoria/el-peru-en-el-siglo-xxi/","tags":["Historia","Teoría"]}
 ---
 
-# TEORÍA
 ---
-**GOBIERNO DE TRANSICIÓN DE VALENTÍN PANIAGUA (2001)**
+**TRANSICIÓN DEMOCRÁTICA** 
 
-✔ **ANTECEDENTES**
-- A fines de los 2000 Montesinos regresa al Perú, pero se esconde
-- Alberto Fujimori decide abandonar el país, enviando su renuncia por fax desde el Japón
-- El 21 de noviembre de 2000, el Dr. Valentín Paniagua Corazao asumió y juramentó como nuevo presidente de la República, días antes fue elegido presidente del Congreso 
+✔ **GOBIERNO DE VALENTÍN PANIAGUA (2000 - 2001)** 
+- Gobierno de transición democrática que surge como producto de la caída del régimen fujimontesinista 
+- OBJETIVO: Convocar y garantizar transparencia de las elecciones presidenciales del año 2001
 
-✔ **OBRAS Y ACONTECIMIENTOS**
-- Valentín Paniagua pertenecía al partido de ==**ACCIÓN POPULAR (AP)**==
-- ==**JUZGADOS ANTICORRUPCIÓN**==, para investigar la corrupción 
-- Nombra como ministro de relaciones exteriores a Javier Pérez Cuéllar (EXSECRETARIO DE LAS NACIONES UNIDAS) 
-- Creó la ==**COMISIÓN DE LA VERDAD Y RECONCILIACIÓN**== para esclarecer lo ocurrido entre 1980 - 2000
-- Suscribió contratos para la ==**EXPLOTACIÓN DEL GAS DE CAMISEA**== para la empresa transnacional ==**PLUS PETROL**== de Argentina
+✅ **LLEGADA AL PODER** 
+- Se había censurado a la presidencia del Congreso, ==MARTHA HILDEBRANDT==, congresista fujimorista, debido a su ==NEGATIVA== para formar una ==COMISIÓN INVESTIGADORA== sobre el origen de recursos de ==VLADIMIRO MONTESINOS== 
+- Paniagua en su condición de==PRESIDENTE DEL CONGRESO==, era el tercero en la sucesión constitucional (ARTÍCULO 115) (1° Marta Hildebrandt, 2° Luz Salgado) y le correspondió asumir la presidencia 
 
+✅ **ACONTECIMIENTOS** 
+- ==JAVIER PÉREZ DE CUELLAR== es nombrado ==PREMIER==, este formará un =="GABINETES DE NOTABLES"== que intentará rescatar las instituciones estatales de los escándalos y la corrupción 
+- ==CAPTURA DE VLADIMIRO MONTESINOS== desde ==VENEZUELA==  
+- Se crea la ==COMISIÓN DE LA VERDAD Y RECONCILIACIÓN (CVR)==, presidida por Salomón Lerner Febres. Buscó esclarecer la violencia de derechos humanos producto de la violencia política del periodo 1980 - 2000   
+- Se inició la investigación de la corrupción del régimen fujimorista 
+- Se continúa la difusión de los vladivideos 
+- ==AMNISTÍA== a los ==HERMANOS HUMALA== (OLLANTA Y ANTAURO), quien se rebelaron contra Fujimori en ==LOCUBAMBA (TACNA)== 
+- ELECCIONES PRESIDENCIALES 2001: En segunda vuelta, ==ALEJANDRO TOLEDO== es elegido presidente
 
-✔ **COMISIÓN DE LA VERDAD Y RECONCILIACIÓN (CVR)**
-- Creada en 2001
-- OBJETIVO: Analiza la violencia armada interna
-- INFORME FINAL: 28 Agosto 2003. Zona más afectada es Ayacucho. Perdidas de hasta 69 280 personas.
-- Polémica por informe final y la forma de investigación
+|           **PRIMERA VUELTA**            |   **SEGUNDA VUELTA**    |
+| :-------------------------------------: | :---------------------: |
+| Alejandro Toledo (Perú Posible) 36,5 %  | Alejandro Toledo 52,7 % |
+|        Alan García (APRA) 25,7 %        |    Alan García 47,3%    |
+| Lourdes Flores (Unidad Nacional) 24,3 % |                         |
 
->[!sidenote]- **VALENTÍN PANIAGUA**
-![Valentín Paniagua.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Valent%C3%ADn%20Paniagua.png)
+✔ **GOBIERNO DE ALEJANDRO TOLEDO (2001 - 2006)** 
+- Su gobierno significó la continuidad de las ==POLÍTICAS NEOLIBERALES== establecidas por Fujimori
+- Se caracterizó por el crecimiento macroeconómico, el fomento de la inversión extranjera, los conflictos sociales y la inestabilidad política del régimen
 
----
-**GOBIERNO DE ALEJANDRO TOLEDIO (2001-2006)**
+✅ **CONTEXTO INTERNACIONAL** 
+- Tensión en Medio Oriente por las invasiones norteamericanas en Afganistán e Irak a causa de los ==ATENTADOS DEL 11 DE SEPTIEMBRE== 
 
-✔ **ANTECEDENTES**
-- Nació en el departamento de Ancash (CABANA) el 28 de marzo de 1946
-- Reconocido economista y fundador del partido Perú Posible
-- El 3 de Junio de 2001 se dio la Segunda Vuelta Electoral 
-- Después de 9 días la ONPE alcanzó los resultados de la votación al 100% 
-- Según el recuento definitivo; Toledo obtuvo el 53,08% (5 548 556 VOTOS) y García el 46,92% (4 904 929 VOTOS); así lo señaló el Jefe de la ONPE, Fernando Tuesta
+✅ **ECONOMÍA** 
+- Se aplicó la ==ORTODOXIA ECONÓMICA== dirigida por el ministro de Economía ==PEDRO PABLO KUCZYNSKI== 
+- Se puso énfasis en la ==MINERÍA==. Destaca en ==COBRE LA EMPRESA DE ANTAMINA==; y en ==HIDROCARBUROS, EL PROYECTO DE CAMISEA== 
+- ==SUBIÓ EL IGV AL 19%==, aun cuando prometió bajarlo
+- El PBI mantuvo su crecimiento
+- ==AUMENTÓ== sustancialmente la ==INVERSIÓN PRIVADA== 
+- Se promovió el ==TRATADO DE LIBRE COMERCIO (TLC)== con EE.UU., el cual quedo sujeto a ratificación de los congresos, sentando las bases del modelos exportador no tradicional peruano
 
-✔ **CARACTERÍSTICAS**
-- Hizo una alianza con el partido de ==**FERNANDO OLIVERA**==
-- Restableció el ==**ESTADO DE DERECHO**==
-- Apertura de numerosos proyectos relacionados a mejorar la economía nacional 
-- Sufrió la impopularidad a causa de su retorno familiar y político
+✅ **SOCIEDAD** 
+- Se produjo el ==AREQUIPAZO==, protesta popular ante el intento de ==PRIVATIZAR LAS EMPRESAS ELÉCTRICAS AREQUIPEÑAS EGASA Y EGESUR== 
+- ==HUELGA INDEFINIDA DEL SUTEP==, tras la cual se mejoraron los salarios de los maestros; y el ==PARO NACIONAL DE LA CGTP==, apoyado por el APRA
+- MEDIDAS ASISTENCIALISTAS: 
+	- PROYECYO HUASCARÁN: Acceso a la tecnología de la información y comunicación 
+	- PROGRAMA JUNTOS: Incentivo de S/ 100 a los más pobres 
+	- A TRABAJAR URBANO: Empleos temporales 
 
-✔ **OBRAS Y ACONTECIMIENTOS**
-- Implementó el programa educativo "Huascarán"
-- Impulsó el ==**PLAN TECHO PROPIO**==, deuda cero para abastecer de viviendas la gran población 
-- Impulsó el programa "A Trabajar Urbano y Rural", "Juntos", "Mi Barrio" y  "Mi Vivienda"
-- Inauguró el puente de integración, en la frontera peruano - ecuatoriana
-- Se entregó el Proyecto Especial de Irrigación Majes - Siguas (AREQUIPA)
-- Inició la construcción de la ==**CARRETERA INTEROCEÁNICA CON BRASIL**==
-- El Perú ingreso al ==**MERCOSUR**==
-- Se da la inauguración del ==**GAS DE CAMISEA**==
-- Protesta por privatización de EGASA y EGESUR por la empresa belga TRACTEBEL
-- El 1 de enero de 2005, ==**ANTAURO HUMALA**== se reveló en Andahuaylas en contra del gobierno de Toledo
-- Se inicia la explotación de las ==**BAMBAS DE APURÍMAC**== por la compañía XTRATA PLC (SUIZA)
-- ==**FUJIMORI ES DETENIDO EN CHILE**==
-- En las elecciones de 2006, García derrota en segunda vuelta a Ollanta Humala
-
-✔ **ÁMBITO INTERNACIONAL**
-- Inicia las negociaciones para el ==**TLC (TRATADO DE LIBRE COMERCIO)**== con los EE.UU
-- Tratado de ==**LIBRE COMERCIO CON MERCOSUR**== (ARGENTINA, BRASIL, PARAGUAY Y URUGUAY)
-- Tratado de ==**LIBRE COMERCIO CON MÉXICO**==
-- Tratado de ==**LIBRE COMERCIO CON LA COMUNIDAD ANDINA**== (COLOMBIA, ECUADOR Y BOLIVIA)
-- Tratado de ==**LIBRE COMERCIO CON TAILANDIA**==
-- ==**ACUERDO DE PROMOCIÓN COMERCIAL (IPC)**== con Estados Unidos
-
->[!sidenote]- **ALEJANDRO TOLEDO**
-![Alejandro Toledo.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Alejandro%20Toledo.png)
+✅ **POLÍTICA** 
+- Tuvo apoyo político del ==FRENTE INDEPENDIENTE MORALIZADOR (FIM)== para así lograr la ==GOBERNALIDAD== 
+- La oposición estuvo formada por los partidos ==APRA Y UNIDAD NACIONAL== 
+- Informe final de la ==COMISIÓN DE LA VERDAD Y RECONCILIACIÓN (CVR)== concluyó que la situación de violencia política en las décadas de los 80 y 90 tuvo ==FACTORES COYUNTURALES, INSTITUCIONALES E HISTÓRICOS== 
+- Se indicó una responsabilidad compartido entre ==SENDERO LUMINOSO Y LAS FUERZAS ARMADAS== 
+- En el 2005 se produjo el =="ANDAHUAYLAZO"== organizado por ==ANTAURO HUMALA TASSO== con apoyo de un grupo de reservista del ejército. Murieron cuatro policías y se tomaron once rehenes. Fue arrestado y condenado a 25 años de prisión 
+- ==LLEGADA DE FUJIMORI A CHILE==. El Estado peruano tramita el proceso de extradición, que meses se concretó 
 
 ---
-**SEGUNDO GOBIERNO DE ALAN GARCÍA PÉREZ (2006-2011)**
-Gobernó el Perú por segunda vez desde el 28 de julio de 2006 hasta el 28 de julio de 2011
+**SEGUNDO GOBIERNO DE ALAN GARCÍA (2006 - 2011)**
+"UN CAMBIO RESPONSABLE"
 
-✔ **ANUNCIOS**
-- Creación del ==**MINISTERIO DE LA CULTURA, DEPORTE Y MEDIO AMBIENTE**==
-- El 50% del gabinete de ministros está integrado por mujeres
-- ==**SE ACABARÁ EL ANALFABETISMO**==
+✔ **CONTEXTO INTERNACIONAL**
+- Crisis económica mundial iniciada por EE.UU. en el 2008
 
-✔ **OBRAS Y ACONTECIMIENTOS**
-- Su gobierno se dio en plena crisis económica de los EE.UU.
-- Enfrento la ==**EPIDEMIA DE LA GRIPE AH1N1**==
-- En el 2009, firmó tratados de ==**LIBRE COMERCIO CON EE.UU., CANADÁ, SINGAPUR Y CHINA**==
-- Se ==**INICIÓ EL JUICIO DE FUJIMORI**== a cargo del juez César San Martín
-- En el 2008, el Perú es cede del ALC-UE y de la APEC
-- Creo el programa ==**CRECER**==, contra la desnutrición infantil
-- Machu Picchu es designado como una de las 7 maravillas del mundo  
-- Se produce el conflicto político y democrático con ==**CHILE**== por la ==**POSESIÓN DEL MAR**== en la zona de frontera
-- Estalló el ==**MOQUEGUAZO**== por la mala distribución en el canon minero. 
-- Estalló el ==**BAGUAZO**==, por decretos supremos lesivos a interés de las comunidades nativas
-- La inflación crece
-- Se creó el ==**MINISTERIO DE AMBIENTE**==, a cargo de Antonio Brack
-- Mario Vargas Llosa obtuvo el ==**PREMIO NÓBEL**== (ACADEMIA SUECA, 2010)
-- Susana Villarán fue elegida nueva alcaldesa de Lima
-- Ollanta ganó las elecciones a Keiko
+✔ **ELECCIONES** 
+- Alan García supo aprovechar su habilidad política y su discurso convincente, sobre todo a los más jóvenes, quienes no recordaban los problemas de su primer gobierno
+- García posicionó su candidatura como de ==CENTRO IZQUIERDA==, declarándose partidario de la ==CONSTITUCIÓN DE 1979== y de revisar el TLC con los EE.UU.
 
----
-**GOBIERNO DE OLLANTA HUMALA TASSO (2011-2016)**
-El 28 de julio del 2011, juramentó en nombre del "espíritu" de la Constitución de 1979
+|            **PRIMERA VUELTA**            |  **SEGUNDA VUELTA**  |
+|:----------------------------------------:|:--------------------:|
+| Ollanta Humala (Unión por el Perú) 30,6% |  Alan García 52,6%   |
+|         Alan García (APRA) 24,3%         | Ollanta Humala 47,4% |
+|  Lourdes García (Unidad Nacional) 23,8%  |                      |
 
-✔ **OBRAS Y ACONTECIMIENTOS**
-- Creó ==**PROGRAMAS DE INCLUSIÓN SOCIAL**==, destacando "Juntos", "Pensión 65", "Beca 18", "Qaliwarma" y "Samu" (SALUD) 
-- Propone el retorno del Servicio Militar obligatorio que había sido anulado en 1999 por Alberto Fujimori
-- La ==**CORTE DE LA HAYA (HOLANDA)**== dio su fallo sobre la ==**FRONTERA MARÍTIMO**==, manteniendo una porción de mar para ambos países
-- Promulgó la ==**LEY DE REFORMA UNIVERSITARIA**== con el objetivo de mejorar la educación bajo la supervisión de la SUNEDU
-- Elevación del presupuesto en Educación al 3,8% del PBI
-- Ampliación de la Red Dorsal Nacional de Fibra Óptica
-- ==**MASIFICACIÓN DEL USO DEL GAS NATURAL**==
-- Construcción del Aeropuerto de Chinchero
-- Construcción de la Línea 2 del Metro de Lima
-- Estallan marchas estudiantiles en contra de la ==**LEY LABORAL JUVENIL "LEY PULPÍN"**== 
+✔ **ECONOMÍA** 
+- Apresuró a dar muestras del continuismo del ==MODELO NEOLIBERAL== y a tranquilizar a las élites nacionales y extranjeras debido a sus antecedentes 
+- Se registró un conocimiento sostenido del PBI; el promedio anual fue de 7,2%
+- Se produjo un gran aumento de las reservas internacionales
+- El Gobierno ==SUSCRIBIÓ EL TLC== con Chile, China, Singapur, Canadá, Corea del Sur y Japón. Inició la ronda de negociaciones para el TLC con la ==UNIÓN EUROPEA== 
 
->[!sidenote]- **OLLANTA HUMALA**
->![Ollanta Humala.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Ollanta%20Humala.png)
+✅ **CONSTRUCCIONES VINCULADAS CON ACTOS DE CORRUPCIÓN**
+- El tren eléctrico o metro de Lima
+- Los colegios emblemáticos
+- El Colegio Mayor Secundario Presidente del Perú en Huampaní 
+- Se remodeló el Estadio Nacional 
+- El Gran Teatro Nacional 
 
----
-**GOBIERNO DE PEDRO PABLO KUCZNSKY (2016-2018)**
+✔ **SOCIEDAD** 
+- El año 2007 se produjo un ==TERREMOTO== cuyo epicentro fue la zona sur, Pisco; dejó 596 muertos y miles de casas destruidas 
+- En el 2007, el presidente publicó un artículo titulado =="EL PERRO DEL HORTELANO"==, en el cual planteó que ciertas comunidades nativas se ==OPONÍAN AL PROGRESO== al empeñarse en mantener ==IMPRODUCTIVAS SUS TIERRAS== 
+- En el 2009 se produjo denominado =="BAGUAZO"==, que dejó 33 muertos en Bagua y un desaparecido. El motivo fue la reacción de los nativos ante la intención del Gobierno de ==CONCESIONAR AL CAPITAL EXTRANJERO== varios territorios amazónicos. Los responsables fueron el presidente del gabinete, ==YEHUDE SIMONS==, y la ministra del interior, ==MERCEDES CABANILLAS==  
+- Los remanentes de Sendero Luminoso se reorganizaron militarmente en la región del ==VRAEM== 
 
-✔**ACOTENCIMIENTOS**:
-- Venció con su partido ==**"PERUANOS POR EL CAMBIO"**==, en reñidas elecciones, a Keiko Fujimori
-- En su campaña prometió ofrecer: =="**AGUA PARA TODOS LOS PERUANOS**"==. Sin embargo, en la práctica no cumplió, por la renuncia e interpelación de varios de sus ministros
-- El Perú aguantó la catástrofe del fenómeno del ==**NIÑO COSTERO**==
-- Estalló la ==**HUELGA DE PROFESORES DEL SUTEP**== por el aumento de sueldos
-- En este gobierno, tanto Ollanta Humala y Nadine Heredia fueron investigados en presión preventiva, por el presunto delito de ==**LAVADO DE ACTIVOS**==, dinero recibido por la empresa brasileña ==**ODEBRECHT**==
-- Tras la renuncia de Kuczynski, tuvo que asumir el poder el primer vicepresidente Martín Vizcarra
-
->[!sidenote]- **PEDRO PABLO KUCZNSKY**
-![Pedro Pablo Kucznsky.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Pedro%20Pablo%20Kucznsky.png)
+✔ **POLÍTICA** 
+- Fue un gobierno conservador
+- El Gobierno mostró una ineficiente tarea de reconstrucción en Pisco tras el terremoto del 2007
+- El año 2007, la justicia peruana ==LOGRÓ LA EXTRADICIÓN DE ALBERTO FUJIMORI==, capturado en Chile
+- El Perú pasó a convertirse en el ==PRIMER PRODUCTOR MUNDIAL DE COCAÍNA== 
+- En el 2008 salen a la luz los llamados ==PETROAUDIOS==, conversaciones telefónicas que comprometieron a ==FUNCIONARIOS APRISTAS== con actos de ==CORRUPCIÓN== en las ==CONCESIONES PETROLERAS== que realizaba el Estado. Este escándalo originó la caída del gabinete presidido por ==JORGE DEL CASTILLO== ("Tío George")
+- En el año 2011, estalló un nuevo caso de corrupción conocido como los ==NARCOINDULTOS==. Usando su prerrogativa presidencial se dio indulto a una gran cantidad de presos por narcotráfico. El responsable de esta organización criminal fue ==FACUNDO CHINGUEL==, presidente de la comisión de gracias presidenciales
+- El año 2009, el Estado peruano presentó un ==RECLAMO LIMÍTROFE CONTRA EL ESTADO CHILENO==, a través de su embajador ==ALAN WAGNER==, ante la Corte Internacional de Justicia de La Haya 
 
 ---
-**GOBIERNO DE MARTÍN VIZCARRA (2018-2020)**
+**GOBIERNO DE OLLANTA HUMALA (2011 - 2016)** 
 
-✔ **ACONTECIMIENTOS**
-- Asumió el poder el 23 de marzo de 2018
-- El 29 de julio de 2018, convocó a un ==**REFERÉNDUM**==
-- Se declaró nulo el indulto de Alberto Fujimori y ordenó su regreso al penal
-- El fiscal ==**DOMÍNGUEZ PÉREZ**== sustentó el pedido de presión preventiva contra ==**KEIKO FUJIMORI**==, por haber recibido dinero para sus campañas electorales del 2011 - 2016 por ==**ODEBRECHT**==
-- Los comuneros de las Bambas, entraron en conflicto con la empresa Glencore - Xstrata 
-- Detención preventiva de 36 meses a PPK, cuya salud empeoró 
-- ==**ALAN GARCÍA SE SUICIDÓ EN SU CASA**== 
-- El 30 de septiembre del 2019, anunció la ==**DISOLUCIÒN CONSTITUCIONAL DEL CONGRESO**== y la convocatoria a nuevas elecciones parlamentarias
-- Enfrentó la ==**PANDEMIA POR EL CORONARIVRUS (COVID - 19)**==
+✔ **CONTEXTO INTERNACIONAL**
+- Crisis económica en Europa desde el año 2008
+- Tensión política entre Corea del norte y Corea del Sur
 
->[!sidenote]- **MARTÍN VIZCARRA**
-![Martín Vizcarra.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mart%C3%ADn%20Vizcarra.png)
+✔ **LLEGADA AL PODER** 
+- Ollanta Humala y Keiko Fujimori compitieron en la segunda vuelta. Ambos candidatos tuvieron fuertes críticas por el tema de derechos humanos 
+- A Keiko se le acuso de seguir vinculada al régimen de su padre
+- A Ollanta fue acusado por cometer abusos de derechos humanos contra la población nativa de la selva, destacando en ==MADRE MÍA Y AUCAYACU==, se le acusó de tener vínculos con el ==PRESIDENTE VENEZOLANO HUGO CHÁVEZ== 
 
----
-**GOBIERNO DE MANUEL ARTURO MERINO DE LAMA (2020)**
+|              **PRIMERA VUELTA**               |  **SEGUNDA VUELTA**   |
+|:---------------------------------------------:|:---------------------:|
+|       Ollanta Humala (Gana Perú) 31,7%        | Ollanta Humala 51,4 % |
+|      Keiko Fujimori (Fuerza 2011) 23,5%       | Keiko Fujimori 48,6%  |
+| Pedro Pablo Kuczynski (Unidad Nacional) 18,5% |                       |
+|     Alejandro Toledo (Perú Posible) 15,6%     |                       |
+|  Luis Castañeda (Solidaridad Nacional) 9,8%   |                       |
 
-✔ **ACONTECIMIENTOS**
-- Fue presidente de la República del 10 al 15 de noviembre de 2020
-- Desde la declaración de vacancia por incapacidad moral contra Martín Vizcarra hasta su renuncia debido a las protestas en su contra que dejaron un saldo de dos jóvenes fallecidos
+✔ **ECONOMÍA** 
+- Bajo la dirección del presidente del Consejo de Ministros, ==SALOMÓN LERNER GHITIS==, se acordó el pago de un ==GRAVAMEN== por partes de las ==EMPRESAS MINERAS DE 3000 MILLONES DE SOLES POR AÑO== durante los cinco años que dure el gobierno
+- Continuaron las ==POLÍTICAS NEOLIBERALES==, la disciplina fiscal y el crecimiento macroeconómico 
+- Gira del presidente de Europa para captar las inversiones extranjeras 
+- Se estableció el ==AUMENTO DE LA RENUMARACIÓN MÍNIMA VITAL== en S/.150 adicionales
 
->[!sidenote]- **MANUEL ARTURO MERINO DE LAMA**
-![Manuel Arturo Merino de Lama.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Manuel%20Arturo%20Merino%20de%20Lama.png)
+✔ **SOCIEDAD** 
+- Creó el ==MINISTERIO DE DESARROLLO E INCLUSIÓN SOCIAL (MIDIS)== e inició los programas sociales como ==PENSIÓN 95, CUNAS MÁS Y BECA 18==. Tendencia asistencialista
+- Se promulgó la ==LEY DE CONSULTA PREVIA==, que busca incluir la opinión de las comunidades campesinas y minorías étnicas
+- En su campaña electoral había planteado a la población que ==¡CONGA NO VA!== como proyecto minero, pero en el poder hará todo lo contrario
+- Surgió una gran protesta en ==CAJAMARCA== en octubre del 2011, empezando un paro de seis días en ==CELENDÍN, HUALGAYOC Y CONTUMAZÁ== contra el ==PROYECYO CONGA== de la empresa ==YANACOCHA==, que se proponía eliminar ==CUATRO LAGUNAS== de la zona para ==EXTRAER ORO== 
+- ==PROTESTA SOCIAL EN CUSCO (2012)==: La población de la ==PROVINCIA DE ESPINAR== inició su protesta contra la ==MINERA XSTRATA TINTAYA== debido a la ==CONTAMINACIÓN== 
+- Promulgó la ==LEY DE SERVICIO CIVIL== que pretendía unificar los regímenes de trabajadores públicas, puesto que los servidores públicos pueden estar bajo contrato administrativo de servicios (CAS), contratados como privados
+- ==LEY DE RÉGIMEN LABORAL== o la ==LEY PULPÍN==. Fue rechazada por los jóvenes que vieron recortados sus derechos laborales. Fue derogada
 
----
-**GOBIERNO DE FRANCISCO RAFAEL SAGASTI HOCHHAUSLER (2020-2021)**
-
-✔ **ACONTECIMIENTOS**
-- Luego de la renuncia de Manuel Merino a la presidencia, y las protestas de 2020, el 16 de noviembre de 2020 Sagasti fue elegido presidente del Congreso de la República  del Perú y seguidamente asumió la presidencia de la República por ==**SUCESIÓN CONSTITUCIONAL**==
-- Su gobierno marcó como ==**EJES DE CONTENCIÓN**== de la pandemia de COVID-19, ante lo cual gestionó la compra de más de 80 millones de vacunas de diferentes laboratorios
-- Su gobierno coincidió con el desarrollo de conflictos sociales como el paro agrario en Ica, Piura, La Libertad y Apurímac que, dejó cinco fallecidos
-
->[!sidenote]- **FRANCISCO RAFAEL SAGASTI**
-![Francisco Rafael Sagasti.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Francisco%20Rafael%20Sagasti.png)
-
----
-**GOBIERNO DE JOSÉ PEDRO CASTILLO TERRONES (2021-2022)**
-
-✔ **ACONTECIMIENTOS**
-
->[!sidenote]- **JOSÉ PEDRO CASTILLO TERRONES**
-![José Pedro Castillo Terrones.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Jos%C3%A9%20Pedro%20Castillo%20Terrones.png)
+✔ **POLÍTICA** 
+- 
 
 ---
-**GOBIERNO DE DINA ERCILIA BOLUARTE ZEGARRA (2022-2024)**
+**CRISIS POLÍTICA Y BICENTENARIO (2016 - 2021)** 
 
-✔ **ACONTECMIENTOS**
+✔ **ELECCIONES PRESIDENCIALES 2016** 
 
->[!sidenote]- **DINA ERCILIA BOLUARTE ZEGARRA**
-![Dina Ercilia Boluarte Zegarra.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Dina%20Ercilia%20Boluarte%20Zegarra.jpg)
+|    **PRIMERA VUELTA**     |      **SEGUNDA VUELTA**      |
+|:-------------------------:|:----------------------------:|
+|    Keiko Fujimori 39%     | Pedro Pablo Kuczynski 50,12% |
+| Pedro Pablo Kuczynski 21% |    Keiko Fujimori 49,88%     |
+|   Verónica Mendoza 18%    |                              |
+
+✔ **PEDRO PABLO KUCZYNSKI (2016 - 2018)** 
+- La oposición al regreso del fujimorismo terminó respaldando a PPK, quien ganó por escasos 40 000 votos aproximadamente, originando el ==RESENTIMIENTO== y la ==REELECCIÓN FUJIMORISTA==, que inició el ==BOICOT AL NUEVO GOBIERNO== 
+- Fue un gobierno que no generó expectativas por el continuismo del ==MODELO NEOLIBERAL==  
+
+✅ **EJECUTIVO VS. LEGISLATIVO** 
+- El nuevo presidente juramentó el 28 de julio del 2016 con una ==OPOSICIÓN PARLAMENTARIA== de 77 congresistas 
+- En 2016, el Parlamento ==ATACÓ LA REFORMA EDUCATIVA==, el ==ENFOQUE DE GÉNERO== y se terminó ==CENSURANDO AL MINISTRO DE EDUCACIÓN JAIME SAAVEDRA==. El fujimorismo adoptó el discurso conservador =="PROFAMILIA"== para debilitar las reformas en el campo educativo
+- ==INTERESES CONTRA LA SUNEDU==: Reforma fujimorista que atacó el proceso de reforma universitaria liderado por la Sunedu 
+
+✅ **CASO LAVA JATO** 
+- A partir de las denuncias e investigaciones en ==EE.UU. Y BRASIL==, se conoció el caso de corrupción de la ==EMPRESA BRASILEÑA ODEBRECH== y varios ==GOBIERNOS SUDAMERICANOS== 
+- En febrero del 2017, el ==JUEZ CONCEPCIÓN CARHUANCHO== dictó prisión al ==EXPRESIDENTE ALEJANDRO TOLEDO==, acusado de haber recibido un millonario soborno de la empresa Odebrech. ==TOLEDO FUE DETERNIDO EN EE.UU. EN EL 2019== 
+- En julio del 2017, el mismo juez ordenó la prisión de ==OLLANTA HUMALA Y NADINE HEREDIA== por presuntamente haber recibido dinero de la empresa brasileña para su campaña presidencial
+
+✅ **VACANCIA Y RENUNCIA** 
+- En diciembre del 2017, el Congreso inició un proceso de vacancia contra el presidente por estar relacionado con los negociados entre ==ODEBRECHT Y EL GOBIERNO DE TOLEDO==. No prosperó gracias al respaldo que recibió de ==KENYI FUJIMORI Y UNA FACCIÓN DEL FUJIMORISMO== a cambio del ==INDULTO PRESIDENCIAL DE ALBERTO FUJIMORI== 
+- ==KEIKO FUJIMORI== junto a la bancada de ==FRENTE AMPLIO==, sumó a un segundo pedido de vacancia. La moción de vacancia no se llegó a votar pues Kuczynski renunció a la presidencia al exhibirse ==VIDEOS== donde se exponía una ==COMPRA DE VOTOS CONTRA SU VACANCIA== 
+
+✔ **MARTÍN VIZCARRA (2018 - 2020)** 
+- El expresidente regional de Moquegua, embajador peruano en Canadá y primer vicepresidente de la República, Martín Vizcarra, asume la presidencia
+- Se comprometió a combatir los actos de corrupción y rodeándose de asesores de su ámbito regional
+
+✅ **ODEBRECHT Y LOS PRESIDENTES DEL PERÚ** 
+- 
+
+![1. ELEMENTOS GRÁFICOS/Caso Lava Jato.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Caso%20Lava%20Jato.png)
+<center>Caso Lava Jato: 2020, el año de las acusaciones </center>
+
+✅ **CUELLOS BLANCOS** 
+- En julio del 2018 estalla el nuevo escándalo al difundirse ==AUDIOS== de una red de corrupción en el ==PODER JUDICIAL==, que involucraba al Consejo Nacional de Magistratura y al juez supremo ==CÉSAR HINOSTROZA==, quien fugó a España. Involucraban también al nombrado fiscal de la nación ==PEDRO CHÁVARRY==, quien gozaba de inmunidad. 
+
+✅ **REFORMA POLÍTICA** 
+- El Ejecutivo encabezó la propuesta de reforma política convocando a un ==REFERÉNDUM== en diciembre del 2018, donde se aprobaron tres reformas principales en torno al ==FINANCIAMIENTO DE LOS PARTIDOS, LA REELECCIÓN CONGRESAL Y LA SUSTITUCIÓN DEL CONSEJO NACIONAL DE LA MAGISTRATURA== 
+- Se estableció la ==JUNTA NACIONAL DE JUSTICIA== como un nuevo órgano frente al desprestigio del antiguo Consejo Nacional de Magistratura 
+
+✅ **CUESTIÓN DE CONFIANZA Y DISOLUCIÓN DEL CONGRESO** 
+- Frente a la cerrada posición del Congreso de llevar a cabo la ==ELECCIÓN DE MIEMBROS DEL TRIBUNAL CONSTITUCIONAL==, el presidente del Consejo de Ministros, ==SALVADOR SOLAR==, presentó una moción de confianza, la cual culminó en la ==DISOLUCIÓN DEL CONGRESO== en septiembre del 2019 y la convocatoria a un nuevo Congreso 
+- El nuevo Congreso optó por hacer la oposición al Gobierno y ganar popularidad a hacer de políticas populistas 
+
+![1. ELEMENTOS GRÁFICOS/Congreso elegido el 2020.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Congreso%20elegido%20el%202020.png)
+<center>Elecciones congresales del 2020</center>
+
+✅ **OTROS HECHOS** 
+- LAS BAMBAS: En febrero del 2019 se presenta un conflicto entre las comunidades campesinas y la ==MINERA LAS BAMBAS== para la construcción de carreteras dentro de las tierras comunales 
+- TÍA MARÍA: En julio 2019 se produce un nuevo conflicto social en ==ISLAY, AREQUIPA==, con la empresa ==SOUTHERM==. Se presentó un audio del presidente Vizcarra respaldando la postura de las comunidades; en agosto ==REVOCA LA LICENCIA A LA MINERA== 
+- CLASIFICACIÓN A RUSIA 2018
+- JUEGOS PANAMERICANOS Y PARAPANAMERICANOS LIMA 2019
+- LEY DE PLÁSTICOS: Con el objetivo de reducir el uso de plásticos 
+- Se mantuvo el enfoque de género en el programa curricular de la ==EDUCACIÓN BÁSICA== 
+- Uso de ==OCTÓGONOS== con los alimentos 
+
+![1. ELEMENTOS GRÁFICOS/Octógonos.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Oct%C3%B3gonos.png)
+<center>Uso de octógonos para fomentar mejores hábitos alimenticios </center>
+
+✅ **LA PANDEMIA** 
+- En marzo del 2020, el Gobierno anunció el inicio de un ==ESTADO DE EMERGENCIA== y el confinamiento obligatorio debido a la pandemia del COVID - 19, la cual comenzó con una medida provisional de 15 días y se ha ido prolongando hasta el 2021
+- Colapsó el deficiente sistema de salud, las desigualdades estructurales, la incapacidad del Gobierno y la irresponsabilidad de algunos sectores de la población han provocado un balance mortal
+- El Gobierno estableció la entrega de bonos a miles de familias y políticas de emergencia
+- El modelo neoliberal llegaba a la máxima expresión convirtiendo la ==VIDA EN UNA MERCANCIA== 
+- Fue el contexto de nuevos enfrentamientos entre el Ejecutivo y el Legislativo  
+
+✅ **VACANCIA PRESIDENCIAL O GOLPE DE ESTADO** 
+- Se comenzaron a difundir ==AUDIOS== del personal allegado al presidente Vizcarra, los cuales fueron utilizados para ==PROMOVER SU VACANCIA== por el conocido caso ==RICHARD SWIN (RICHARD CISNEROS)== 
+- PRIMER INTENTO DE VACANCIA: Promovido por ==EDGAR ALARCÓN==, excontralor de la República; no prosperó 
+- SEGUNDO INTERNO DE VACANCIA: En noviembre de 2020, se llevó a cavo en lo que fue entendido por la mayoría de la población como un ==GOLPE DE ESTADO CONGRESAL==. Los =="GOLPISTAS"== se aferraron al poder desatando enfrentamiento. Culminó con el saldo de dos jóvenes muertos 
+- ==MANUEL MERINO==, presidente del Congreso, fue proclamado presidente del Perú. Gobernó desde el 10 de noviembre hasta el 15 de noviembre del 2020
+
+![1. ELEMENTOS GRÁFICOS/Golpe al congresista.jpeg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Golpe%20al%20congresista.jpeg)
+<center>Vacancia del presidente Martín Vizcarra con 105 votos </center>
+
+✅ **GENERACIÓN DEL BICENTENARIO** 
+- A pesar del miedo a contagiarse por el COVID-19, la movilización fue masiva
+- Destacaron, por su papel dinámico, jóvenes entre 18 y 25 años, los que fueron bautizados como ==LA GENERACIÓN DEL BICENTENARIO== por el contexto
+
+![1. ELEMENTOS GRÁFICOS/Generación del Bicentenario.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Generaci%C3%B3n%20del%20Bicentenario.png)
+<center>"Que se vayan todos"</center>
+
+✔ **FRANCISCO SAGASTI (2020 - 2021)** 
+- Miembro del Partido Morado, asumió la presidencia
+- Su gobierno no ha mostrado capacidad de gestionar la crisis sanitaria 
+- Se lograron cerrar contratos para ==COMPRAR VACUNAS== y llegaron las primeras dosis al país
+- ==CASO VACUNAGATE==: Surgieron denuncias por la ==VACUNACIÓN IRREGULAR== del expresidente ==VIZCARRA== y otros funcionarios de su Gobierno
+
+![1. ELEMENTOS GRÁFICOS/Caso Vacunagate.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Caso%20Vacunagate.png)
+<center>Escándalo en el Perú: el caso Vacunagate </center>
 
 ---
 **PRÁCTICA**
