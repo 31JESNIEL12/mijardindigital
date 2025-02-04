@@ -302,8 +302,8 @@
 ✔ **CARÁCTER METÁLICO (CM), FUERZA REDUCTORA O ELECTROPOSITIVIDAD** 
 - Es la capacidad de ==PERDER ELECTRONES== (OXIDACIÓN)
 - El elemento metálico, provoca la reducción de otra sustancia, por lo que se le llama ==AGENTE REDUCTOR O SIMPLEMENTE REDUCTOR== 
-- PERIODO: Aumenta al ==DISMINUIR LA CARGA NUCLEAR== 
-- GRUPO: Aumenta conforme se ==ELEVA LA CARGA NUCLEAR== 
+- PERIODO: Aumenta al ==DISMINUIR LA CARGA NUCLEAR== (Izquierda a Derecha)
+- GRUPO: Aumenta conforme se ==ELEVA LA CARGA NUCLEAR== (Arriba a Abajo)
 
 ✔ **CARÁCTER NO METÁLICO (CNM), FUERZA OXIDANTE** 
 - Es la capacidad de ==GANAR ELECTRONES== (REDUCCIÓN) 
@@ -400,7 +400,7 @@
 <center>Variación general de la energía de ionización</center>
 
 ✅ **CASOS DE EXCEPCIÓN** 
-- Se explican con la ==RELGA DE ESTABILIDAD== que dice que los átomos neutros o ionizados, que poseen todo sus orbitales llenos o semillenos en el subnivel de mayor energía relativa, que poseen una estabilidad adicional 
+- Se explican con la ==REGLA DE ESTABILIDAD== que dice que los ==ÁTOMOS NEUTRO O IONIZADOS==, que poseen todo sus orbitales llenos o semillenos en el subnivel de mayor energía relativa, que poseen una ==ESTABILIDAD ADICIONAL== 
 - MISMO PERIODO: ==II A > III A== - ==V A > VI A==
 
 ✔ **AFINIDAD ELECTRÓNICA (AI)** 
