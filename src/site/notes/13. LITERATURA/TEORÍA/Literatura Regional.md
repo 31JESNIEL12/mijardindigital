@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/13-literatura/teoria/literatura-regional/","tags":["Literatura","Teoría","UNPRG"]}
 ---
 
-# TEORÍA
 ---
 **LITERATURA REGIONAL** 
 
@@ -12,367 +11,258 @@
 ---
 **POESÍA REGIONAL** 
 
-**JOSÉ EUFEMIO LORA Y LORA**
-(1885-1907)
+✔ **JOSÉ ALFREDO DELGADO BRAVO (1924 - 2008)** 
+- ==MONSEFUANO==, hijo de don José Delgado Llontop y Doña Carmen Bravo
+- Estudio secundaria en el colegio ==SAN JOSÉ== de Chiclayo, estudio lengua y literatura en la ==U.N.P.R.G.==, posteriormente en la ==U.N.M.S.M.==  
+- ESPOSA: Alicia Elías 
+- Compuso el ==HIMNO DE LA CIUDAD DE CHICLAYO== 
 
-✔ **BIOGRAFÍA**
-- Nació el 27 de febrero de 1902 en Chiclayo
-- Sus padres fueron Juan Dios Lora y Cordero (Ilustre parlamentario, educador y magistrado) y Rosaura Olivares
-- A los 5 años vio a su padre sollozando por la muerte de su sobrino poeta en Francia
-- Cursó sus estudios secundarios en el Colegio Nacional San Juan, de Trujillo (1916-1919)
-- Se traslado a Lima, donde prestó sus servicios a la Biblioteca Nacional y contribuyó a las tareas de las universidades populares González Prada (1923)
-- En 1925 publicó su primer poemario, **==Diánidas==**, y en 1926 colaboró asiduamente en la revista Poliedro
-- En 1930 se incorporó al **==partido aprista==**, tomando el cargo de Secretario General
-- Fue desterrado a Chile  (1934), en donde sufrió la muerte de sus 4 hijos
-- Volvió al Perú con sus hijos Juan, José, Mirta y sus esposa Ana Gricelda Cortinez Cáceres (1946)
-- Estableció en su ciudad natal, donde dirigió **==Hechos==** (1946-1948), diario aprista.
-- Al efectuarse el golpe de estado del general Manuel Odría (1948), fue recluido en el presidio de la isla El Frontón
-- Al año siguiente de su muerte sus amigos publicaron su último poemario: **=="Con sabor a mamey" (1962)==**
+✅ **SOBRENOMBRES** 
+- "EL MOSCÓN" 
+- "EL COSMONSEFUANO"
 
-✔ **POEMARIOS**
-- Diánidas (1925). 
-- Lydia (1927).
-- Chiclayo de Juan José Lora (1955). 
-- Con sabor a mamey (1962).  Obra póstuma: “Anunciación”
+>[!sidenote]- **RECORDAR** 
+>Durante el [[13. LITERATURA/PRÁCTICA/Costumbrismo Peruano\|COSTUMBRISMO PERUANO]], Manuel Ascencio Segura (CRIOLLISMO) fundó "El moscón" 
 
-![José Eufemio Lora y Lora.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Jos%C3%A9%20Eufemio%20Lora%20y%20Lora.jpg)
+✅ **PREMIOS**
+- 1958: Juegos Florales de la Escuela Normal (CHICLAYO)
+- 1958: "Botón de Oro", concurso organizado por el Centro Progresista 
+- 1959: Juegos Florales por centenario del "San José" 
+- 1981: Juegos Florales del círculo Departamental de Empleados
+- 1982: Juegos Florales de la UNPRG
 
-**NICANOR DE LA FUENTES SIFUENTES**
-(1902-2009)
+✅ **POESÍA** 
+- =="LA CASA DE RUANA"== 
+- =="LAS HORAS NATURALES"== 
+- "Historia íntima de mi tierra en el mar" 
+- "País llamado esperanza" 
+- "Canto labriego junto al mar" 
+- "Para todos los mundos cantos" 
+- "Aldeas junto al cosmos o Cosmonsefú"  
 
-✔ **BIOGRAFÍA**
-- Seudónimo: Nixa
-- Considerado: "El Amauta del Periodismo Nacional"
-- Nació en Pacasmayo (La Libertad)
-- Desde 1918 radicó en Chiclayo
-- En la década 20, en pleno auge del **==Vanguardismo==**, colaborando con la revista "Amauta" (Publicó poemas) y "Labor" (Ambos fundados por **José Carlos Mariátegui**), y obras revistas de alcance nacional y regional
-- Perteneció a la Generación Centenario
-- Mantuvo una estrecha relación con el grupo "El Norte"
-- Desde 1952 publica en el diario "La Industria" la columna "A propósito" → Columna periodística que nos brinda día a día su conocimiento de anécdotas, aspectos históricos regionales y nacionales, o de personajes ilustres
+✅ **ENSAYOS** 
+- "Los móviles existenciales de Trilce" 
+- "La poesía dualista de JELIL" 
+- "Ucrania y la bicromía de la lírica de Valdelomar" 
+- "El universo poético de Eguren" 
 
-✔ **DISTINCIONES**
-- Doctor Honoris causa de la Universidad “Ricardo Palma”.
-- 1995: Premio “Amauta del Periodismo Nacional”
-- 2002: En el centenario de su nacimiento recibió La Corona de Laurel por el Instituto Nacional de Chiclayo y la Municipalidad de Chiclayo.
+✅ **TEATRO** 
+- "Los sueños vienen del mar" 
+- "La piedra rebelde"
 
-✔ **¿POR QUÉ NIXA?**
-- Según Antonio Oliva: "Porque es descendiente de un cacique Mochica”.
-- Según Manuel Pantigoso (X): "Porque cuando don Nicanor empieza a escribir su nombre como Nixa – nor, pero con el tiempo y a pedido de la gente lo reduce a Nixa”.
+✅ **PEDAGOGÍA** 
+- "Introducción a la historia del arte"
+- "Lecciones preliminares de lingüística" 
 
-✔ **CARACTERÍSTICAS DE SU OBRA** 
-- Por su apego a la vanguardia sus poemas tienen un carácter universalista.
-- Por su amor al terruño chiclayano tiene obras que expresan el nativismo costeño.
-- Sus poemas están envueltos de un carácter nostálgico y humanístico.
+✔ **NICANOR DE LA FUENTE SIFUENTES (1902 - 2009)** 
+- Nació en ==SAN JOSÉ DE BELLAVISTA (PACASMAYO)== 
+- Fue un ==POETA VANGUARDISTA== 
+- Nació su amor por la Literatura a los ==16 AÑOS== al escuchar un conferencia dada por ==VALDELOMAR== en el ==TEATRO "DOS DE MAYO"== en Chiclayo 
+- PRIMER POEMA: Lo publica en la revista =="FRÍVOLA"== (1922)
+- Tiene militancia con el ==PARTIDO APRISTA== siendo amigo de ==V.R. HAYA DE LA TORRE== en 1931
+- ESPOSA: Ida Silva Laguila 
+- Fue perseguido por ==SÁNCHEZ CERRO== quien le clausura su ==PERIÓDICO "LA HORA"== 
+- PRIMER POEMARIO: =="LAS BARAJAS Y LOS DADOS DEL ALBA"== (1938)
+- SEGUNDO POEMARIO: =="LA FERIA DE LOS ROMANCES"== (1940)
+- En 1952, escribe su columna =="A PROPÓSITO"== en el ==DIARIO "LA INDUSTRIA"==, leyendo esta columna nos enteramos de ==FEDERICO VILLAREAL==, Alfredo Lapoint, Lora y Cordero, Bruning, ==JOSÉ EUFEMIO LORA Y LORA==, Diego Ferre, Mario Puga, ==ABELARDO QUIÑONES==, etc.
 
-✔ **PRODUCCIÓN LITERARIA**
+✅ **SOBRENOMBRES** 
+- INICIALMENTE: "ALEJANDRO NADAL" 
+- DEFINITIVAMENTE: =="NIXA"== 
+	- Lo utiliza lo primera vez cuando trabajaba en el ==PERIÓDICO "LA TARDE"== 
+- "PATRIARCA DE LAS LETRAS LAMBAYECANAS" 
+- ""AMAUTA DEL PERIODISMO" 
 
-✅ Poesía:
-- “Las Barajas y los Dados del Alba”
-- “La Feria de los Romances”
-- “El Libro de los Tránsitos Eternos”
-- “El Aire y otros Poemas”
-- “Huacatil”
-- “Paisaje para colgar en la Pared”
-- “La Broma de los Romances y el Soneto”
-- "Jacinto Peje y otras Audiencias”
-- “Tres Poemas”.
+✅ **POESÍA** 
+- "Las barajas y los dados del alba" 
+	- Dedicado a su madre
+- "La feria de los romances"
+- "El aire y otros poemas"
+- "Huacantil"
+- "El libro de los tránsitos eternos" 
+- "Paisajes para colgar en la pared"
+- "Las bromas de los romances y los sonetos"
+- "Jacinto, Peje y otras audiencias" 
 
-✅ Narrativo:
-- “Historia y Anécdota del Arroz en Lambayeque”
-- “Chiclayo en la Anécdota”
-- "Los Hombres de mi Provincia”.
+✅ **PROSA** 
+- "A propósito" 
+- "Historia anécdota del arroz de Lambayeque" 
+- "Los hombres de mi provincia" 
 
-![Nicanor de la Fuentes Sifuentes.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Nicanor%20de%20la%20Fuentes%20Sifuentes.jpg)
+✔ **JOSÉ EUFEMIO LORA Y LORA (1885-1907)** 
+- ==CHICLAYANO==, nacido en 1884 y murió en París en 1907
+- Es el ==MÁS GRANDE POETA LAMBAYECANO== 
+- Fue un ==POETA MODERNISTA==, discípulo de Rubén Darío
+- ÚNICO LIBRO: =="ANUNCIACIÓN"==, obra editada póstumamente por la Casa Garnier Hnos. 
+- SEGÚN VENTURA GARCÍA CALDERÓN: "Él no era ni sajón, ni bohemio"
 
-**ALFREDO JOSÉ DELGADO BRAVO**
+✅ **SOBRENOMBRES** 
+- "JELYL"
 
-✔ **BIOGRAFÍA**
-- Nació en Monsefú
-- Ha compuesto el **==HIMNO DE CHICLAYO==** y acuñado el término **"Cosmonsefú"**
-- Fue docente de la UNPRG, UPCH, ISP "Santo Toribio de Mogrovejo", Colegio Nacional "San José" y el instituto "Ricardo Palma"
-- Pertenece a la **Generación de las Letras Peruanas**
-
-✔ **PREMIOS OBTENIDOS**
-- Premio de los Juegos Florales de la Escuela Normal (Chiclayo) gracias a su obra “Las Horas Naturales”.
-- Premio Botón de Oro (en Monsefú) por su obra “Historia íntima de la Tierra y el Mar”.
-- Premio Centenario Colegio Nacional “San José” por su obra “País llamado Esperanza”.
-- Premio de los Juego Florales del Círculo Departamental de Empleados por su Obra: “Canto Labriego junto al mar”.
-- Premio en los Juegos Florales de la U. N. P. R. G. gracias a su obra “Para todos los Mundos: Cantos Comunicantes”.
-
-✔ **PRODUCCIÓN LITERARIA**
-
-✅ Ensayo:
-- “La Poesía de JELYL”
-- “Ucronia y Biocronia en la línea de Valdelomar”
-- “El Universo Poético”
-
-✅ **Poesía:**
-- “La Casa Ruana” 
-- “Poema de Adán y su Morada”
-- “Las Horas Naturales”
-- “Historia íntima de la Tierra y el Mar”
-- “País llamado Esperanza”
-- “Canto Labriego junto al Mar”
-- “Para todos los Mundos: Cantos Comunicantes”.
-
-✅ **Literatura Pedagógica:**
-- “Introducción a la Historia del Arte”
-- “Lecciones Preliminares de Lingüística”.
-
-![Alfredo José Delgado Bravo.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Alfredo%20Jos%C3%A9%20Delgado%20Bravo.jpg)
-
-**HILDEBRANDO BRIONES VELA**
-(1943-Actualidad)
-
-✔ **BIOGRAFÍA**
-- Nació en Zaña el 10 de julio de 1943
-- Estudio primaria en la Escuela 231 de Zaña
-- Estudio secundaria en el colegio nacional mixto 'Santo Toribio de Mogrovejo' 
-- A lo 18 años comienza a componer sus primeros garabatos de décimas, pero a los 20 años compone su primera décima titulada **=="Mi collera"==** en alusión a sus amigos de su pueblo
-- En 1964 conoce a **==DON NICOMEDES SANTACRUZ==**
-- En 1968 asiste al Primer encuentro de Decimistas del PERU que se realizó en la ciudad de Lima y que reunió a los mejores decimistas del Perú
-- En 1995 publica su primer libro titulado **=='AL LUNDERO LE DA ZAÑA'==** 
-- En el 2002 publica su segundo libro titulado **=='ASI ES LA CIUDAD DE ZAÑA'==** 
-- En el 2004 publica su tercer libro titulado **=='CAYALTI: DULCE CANTO AL MUNDO'==** 
-- En el 2009 presenta su cuarto libro titulado **=='EL CANDIL DEL NORTE'.==** 
-
-✔ **PREMIOS OBTENIDOS**
-- Medalla de oro a la Cultura por parte de la Municipalidad de Zaña y a la vez fue nombrado Embajador de la cultura en Zaña
-- Diploma de Honor a la cultura del Instituto Nacional de Cultura de Chiclayo
-- En el año 2005 Medalla de Oro a la Cultura por parte de la Universidad Nacional 'Pedro Ruiz Gallo', entre otros premios.
-
-| NEGRO                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | YO TENGO LA PIEL MORENA                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Negrito merecumbé  <br>Negrito zurrimbambino  <br>Negro que de noche vino  <br>Trayendo leche y café  <br><br>No quiere domí el neguito  <br>seguro que lo han ojiau  <br>y si no lo has santiguau  <br>no cerrará su ojito  <br>aunque le cante bonito  <br>versos de cuna al bebé,  <br>mi niño coló café  <br>carita de noche oscura  <br>tuyo es mi amor, mi ternura  <br>negrito merecumbé  <br><br>Su pare medio blanquito  <br>no le tiene voluntad  <br>no quiere ser su papá  <br>porque ha salido neguito  <br>pero mi negro es bonito  <br>cara linda, labio fino  <br>es el negro más divino  <br>que dio la naturaleza  <br>mientras la madre le reza  <br>negrito zurrimbambino  <br><br>La negra es papá y mamá  <br>y el negrito va creciendo  <br>solito va comprendiendo  <br>el porqué de su orfandad  <br>si lo negó su papá  <br>porque el color no combino  <br>él labrará su destino  <br>con el sudor de su frente  <br>aunque murmure la gente  <br>negro que noche vino  <br><br>Vino de noche y sin nombre  <br>seguro hasta sin permiso  <br>y si tiene el pelo rizo  <br>como para que se asombre  <br>algún día seré un hombre  <br>medita el negro con fe  <br>mamá el hombre que amó uté!!  <br>fue un reverendo carajo!  <br>no vino ni por lo bajo  <br>trayendo leche y café.  <br><br> | Negro, ¡levanta la frente!<br>y mira al mundo parejo<br>y no te muestres perplejo<br>pues tú también eres gente.<br><br>Y puede que más decente<br>que muchos blancos tú seas,<br>pero para que te veas<br>igual que todo hombre digno<br>de ese racista maligno<br>en sus complejos ¡no creas!<br><br>No tienes por qué sentir vergüenza<br>de tu color que a San Martín<br>un favor todos solemos pedir.<br>Y acostúmbrate a decir<br>aunque estés en tierra ajena:<br>“Yo tengo la piel morena<br>pero blanco el corazón<br>y si me dicen carbón<br>no crean que me dan pena”.<br> |
-
-![Hildebrando Briones Vela.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Hildebrando%20Briones%20Vela.png)
+✅ **ANUNCIACIÓN** 
+- Tendencia modernista 
 
 ---
-### Narrativa Regional
----
-**MARIO FLORÍAN DÍAZ**
-(1917-1999)
+**NARRATIVA REGIONAL** 
 
-✔ **BIBLIOGRAFÍA**
-- Nació en Nanshá - Contumazá (Cajamarca)
-- Estudió en Trujillo y luego en la UNMSM graduándose como Doctor en Educación
-- Calificado por Arguedas como: "El Juglar Andinista"
-- Considerado como: "El máximo representante de la Poesía Indigenista"
+✔ **MARIO FLORIÁN (1917 - 1999)** 
+- Nació en ==CONTUMAZA, CAJAMARCA== 
+- Estudio Literatura en la Universidad de Trujillo e historia en U.N.M.S.M
+- Poeta lírico de la ==CORRIENTE NEOINDIGENISTA== 
+- ARGUEDAS: =="EL JUGLAR ANDINISTA== 
 
-✔ **PREMIOS OBTENIDOS**
-- Primer Premio en los Juegos Florales organizado por la UNMSM – 1940
-- Premio Nacional de Poesía en 1944, gracias al poemario “Urpi”.
-- Premio Nacional de Fomento a la cultura, gracias a la obra “Los Mitimaes”
-- Premio Nacional de Literatura en 1976, compartido con Adolfo Westphalen y Luis Alberto Sánchez.
-- Mario Florián se ha caracterizado por ser un gran estudioso de nuestra tradición andina.
+✅ **PREMIOS** 
+- 1940: Premio de los Juegos Florales U.N.M.S.M. "Tono de Fauna"
+- 1994: Premio Nacional de Poesía "José Santos Chocano". =="URPI"== 
+- 1957: Premio Nacional del Fomento a la Cultura. =="LOS MITIMAES"== 
+- 1976: Premio Nacional de Literatura 
 
-✔ **CARACTERÍSTICAS DE SUS OBRAS**
-- Su poesía tiene gran intensidad expresiva
-- Evoca con maestría los Yaravíes
-- Su obra conjuga lo culto y lo literario.
+✅ **LÍRICA**
+- =="URPI"== 
+- "Alma" 
+- "Tono de fauna"
+- "Noval" 
+- "Brevedad de lágrima" 
+- "Voz para tu nieve" 
+- "Tierra del sol" 
+- "Arte mural" 
+- "Naturaleza viva" 
+- "El juglar andinista" 
+- "Las parias" 
+- "Agonía" 
+- "Pedro Palana" 
+- "El cantor de Ollantaytambo" 
+- "Canto augural"
+- "Escritura para ausentes"
+- "Inka Ruma" 
+- "La masa" 
 
-**José María Arguedas** afirmó: “Mario Florián es el mejor representante de la poesía indigenista, casi el único poeta que ha realizado el milagro de crear poesía en la que se siente el tono de la canción popular india…”
+✅ **NOVELA** 
+- "Abel Fundador" 
+- =="LOS MITIMAES"== (1957) 
+	- AMBIENTADA: 1935 - 1940
+	- TEMA: La lucha de los mitimaes por adaptar al nuevo medio físico y social
+	- ESPÍRITU CRESPO: Deja su pueblo de Yopadón para buscar mejor vida en la costa ==(FARFÁN)== 
+	- CANDELARIA NINÁN: Esposa del Espíritu, ayuda en lo que puede a su esposo es muy brava por eso se le apoda =="LA CANDELA"==, ama a sus hijos más que nada
+	- SEGUNDO CRESPO: Es el segundo hijo, estudia en Lima, primeo educación y luego derecho, vuelve para preparar el ==ABUSO HACIA SUS PADRES INDÍGENAS== 
+	- FILEMÓN - DOLORES: Hijos de los Crespo, Dolores muerte en el incendio de su casa ocasionado por los hacendados 
+	- FU CHING Y FELIPE COLLAZOS: Son hacendados envidiosos, quieren frenar la prosperidad de Espíritu 
+	- TEÓFENES VEGEL: =="EL MATASIETE"==, trabaja con los hacendados, busca hacer daño a espíritu, se enfrenta y espíritu lo mató en defensa propia 
 
-✔ **PRODUCCIÓN LITERARIO**
+✔  **MARIO PUGA IMAÑA (1915 - 1959)** 
+- Poeta, ensayista y novelista ==TRUJILLANO== 
+- Fue ==DESTERRADO A MÉXICO== donde fundo su revista =="HUMANIDADES"== 
 
-✅ Poesía
-- “Alma”
-- “Arte Mural”
-- “Tono de Fauna”
-- “Canto Augural”
-- “Brevedad de Lágrima”
-- “Voz para tu Nieve”
-- “Agonía”
-- “Tierras del Sol”
-- “Noval”
-- “La Masa”
-- “Inka Runa”
-- “Pedro Palana”
-- “Urpi”
-- “El Juglar Andinista”
-- “Escritura para Ausentes”
-- “Naturaleza viva”
-- “Cantar de Ollantaytambo”
-- “Poesía”
-- “Machupicchu en Voces Triunfantes”
-- “Un ícono Mural en Batán Grande”
-- “Florecimiento Animado”
-- “Himno Patriótico a Túpac Amaru, nuestro paladín”,
+✅ **POESIA** 
+- "Tres poemas civiles" 
+- "Elegía a la muerte de Léon" 
+- "Fraternidad frente al dolor" 
+- "Lo Humano y lo distante"
+- "Ternura" 
 
-✅ Cuento
-- “Tío Lino”
+✅ **CUENTO** 
+- "Ahí nomás" 
 
-✅ Novela
-- “Los Mitimaes”
-- “Abel Fabulador”
+✅ **NOVELA**
+- =="PUERTO CHOLO"== 
+	- MEJOR NOVELA LAMBAYECANA
+	- "LA NOVELA DEL PESCADOR PERUANO"
+	- AMBIENTADA: 1930
+	- ESCENARIO: Puerto Eten
+	- TEMA: La vida de los habitantes de un pueblo de pescadores del Perú
+	- MANUEL FIESTAS: ==CHOLO TRABAJADOR Y PESCADOR==, sindicalista. Viaja por 20 años en busca de trabajo, peor encuentra ==EXPLOTACIÓN== de las grandes empresas. Regresa enfermo a su casa 
+	- JACINTA: Esposa de Fiestas, espera a su esposo por 20 años
+	- JUAN PEDRO: Hijo de fiestas, apenas casado, ==MUERTE EN UN MAREMOTO== 
+	- DON ISIDRO: Dueño de lanchas, hombre amable y considerado
+	- DON MACHILE: Vecino y amigo de Fiestas con La Morena, su esposa
+	- ISABEL: Hija de Machile y esposa de Juan pedro, ==QUEDABA VIUDA Y EMBARAZADA==  
+	- CARLOS PUESCAS: Dirigente de ==GREMIO DE LANCHEROS== 
+	- GROVE: Chileno, amigo de Fiestas
+	- ÁNGEL FERRAT: Marinero español, sindicalista, hombre justo
+	- DON ALMANZOR: Médico, humanitario 
+	- MAYOR PANCHO: Alcalde, jefe policial 
+	- DON AUGUSTO: Administrador de la Empresa del Ferrocarril de Eten
 
-✅ Ensayo
-- “Literatura Quechua”
-- “Épica inkaika”
+✔ **CARLOS CAMINO CALDERÓN (1884 - 1956)** 
+- ==LIMEÑO== que se sintió atraído por las creencias y supercherías mítico - psicológicas difundidas en el norte del Perú
 
-✔ **URPI**
-- El libro poético consta de poemas de inspiración vernacular
-- Son los poemas más auténticos del Canto indígena tradicional
-- Ganó el Premio Nacional de Poesía – 1944.
+✅ **OBRAS**
+- "La cruz de Santiago" 
+- "El molino" 
+- "La ilusión del oriente"
+- =="EL DAÑO"== 
+	- TEMA: Las costumbres de la costa norte del Perú (BRUJERÍA Y LIMPIA)
+	- DON JOSÉ MIGUEL NAVARRETE: =="EL AS DEL NORTE"==, adinerado comerciante usurero. Tramposo, ==ASESINADO POR BRUJERÍA==
+	- GUILLERMO NAVARRETE: ==HIJO DE DÓN JOSÉ MIGUEL==. Llega a Lima a modernizar el negocio paterno, esto hace que el vieja ==APARTE A SEBASTIANA DE LOS NEGOCIOS==, que al verse relegado recurre al daño
+	- BALTASAR ESQUÉN: Indígena mochica, dueño de una parcela, pero bien abastecida de agua. Al ser ==DESPOJADO POR NAVARRETE== se hace primero ==CANTANTE DE CHICHEROS==, quiso ser ==BANDOLERO==, pero termina como ==COHOTEO==, amigo de Sebastina y del afamado ==BRUJO MALERO DE SALAS==, Lorenzo Ipanaqué  
+	- LA TÍA ROSITA: Hermana de la madre de Guillermo, cría a su sobrino en Lima, le da una vida tranquila y adinerada 
+	- SEBASTIÁN ORREGO: ==SEGUNDA ESPOSA DE NAVARRETE==. Es trabajadora pero ambiciosa, ==MATA CON BRUJERÍA A SU ESPOSO== y también ==CASTIGA A GUILLERMO E ISABEL SUS HIJASTROS== 
+	- MARTÍN AGUILAR "EL COJO AGUILAR": Hombre de confianza de don José Miguel, ==SUPUESTO PADRE DE ISABEL== 
+	- DOÑA PASCUALITA MURO: "Comadre" de Navarrete y esposa del Cojo Aguilar, madre de Isabel
+	- ISABEL AGUILAR: Hija del cojo y Pascualita, aunque se cree que su verdadero padre es Miguel. "Ahijada" de Navarrete, su belleza perturba a Guillermo Navarrete 
+	- LORENZO IPANAQUÉ: Natural de Batangrande, es el ==BRUJO MALERO== 
+	- NARCISO PISCOYA: De Salas, es el ==BRUJO CURANDERO==, intenta ayudar a Miguel, pero es demasiado tarde. Trabaja junto a sus ==SORBEDORES==: Casimiro Farroñán, Miguel Peche y Mateo Semaqué (RASTREADOR) 
 
-✅ PASTORALLA
+✔ **GILBERTO MAXE SUXE (1960)** 
+- Nacido en la ==PROVINCIA DE SANTA CRUZ (CAJAMARCA)== en 1960
+- Estudio en la UNPRG en la especialidad de lengua y literatura, graduándose con el reconocimiento de "Mención Honrosa" con la tesis de lingüística =="INFLUENCIA LEXICAL"== 
+- Fue docente en el C.E. 11073 Shancapampa, comunidad quechua hablante del ==DISTRITO DE INCACHUASI, PROVINCIA DE FERREÑAFE==, donde publicó un texto de lecto - escritura titulado ==TRAKUNAPAQ== (1987)
+- En el 2003 publica su controversia novela =="EL DIÁLOGO DE LOS INFIELES"== 
 
-Pastorala.
-Más hermosa que la luz de la nieve,
-Más que la luz del agua enamorada,
-Más que la luz bailando en los arco iris.
-Pastorala.
-Pastorala.
-¿Qué labio de cuculí es más dulce,
-Qué lágrima de quena más mielada,
-Que tu canto que cae como la lluvia
-Pequeña, pequeñita, sobre las flores?
-Pastorala.
-Pastorala.
+✅ **OBRAS** 
+- "El tabardillo" 
+- "Diálogos de los infelices" 
+- =="LOS TRES CONSEJOS"== 
+	- GÉNERO: Narrativo
+	- ESPECIE: Novela
+	- GENARO RAMIREZ (MARCELINO CALLIRGOS): Deja el hogar por 20 años
+	- RITA: Esposa, espera al marido
+	- DON ISRAEL SANTA CRUZ: Pago en tres años
+	- BENJAMÓN GONZALES: Es el mejor amo que tuvo Genaro, ==LE DIO LOS TRES CONSEJOS== 
+	- FRANCISCO SUAREZ: Dueño de una posada, tenía una esposa loca que tenía amarrada a una mesa 
+	- MATEO: Es el hijo de Genaro y Rita
 
-✔ **LOS MITIMAES**
-- Ganó el Premio Nacional de Fomento de la cultura “Ricardo Palma” correspondiente al año de 1957.
-- Género narrativo. Especie: novela.
-- Es una obra que está enmarcada dentro de la novela realista, novela social, novela rural
-- La temática es: La odisea viva de “Los Transplantados del Terruño” de la sierra a la costa y la lucha por la adaptación al nuevo medio físico y humano.
-- Mitimae: Significa forastero, transplantado a otra 
+🔷 **CONSEJOS** 
+- ==NUNCA TOMES ATAJOS EN TU VIDA==: Caminos cortos y desconocidos te pueden costar la vida
+- ==NUNCA SEAS CURIOSOS DE AQUELLO QUE REPRESENTA EL MAL==: Puede ser fatal
+- ==NUNCA TOMES DECISIONES EN MOMENTOS DE ODIO Y DOLOR==: Puedes arrepentirte demasiado tarde
 
-✅ Personajes
-- Espíritu Crespo
-- Ña Candelaria (esposa de Espíritu)
-- Filemón, Jerónima, Dolores (hijo de Crespo)
-- Segundo Crespo (hijo de Espíritu quien recupera las tierras de su padre)
-- Felipe Fu Ching.
+✔ **ANDRÉS DÍAZ NÚÑEZ (1943)** 
+- Nació en ==CAJAMARCA==, en el ==CASERÍO CHAMES== 
+- Ingresó en 1964 a la ==UNIVERSIDAD DE TRUJILLO== y, en 1966 conoce al novelista ==CIRO ALEGRÍA== 
+- En 1972 fundó el ==GRUPO LITERARIO "PIRKA"== 
 
-“Los actores de los Mitimaes muerden el polvo de la derrota ajena debido a la saña feudal de los latifundistas y sus esbirros. Se estrellan contra una realidad horrendamente inicua. Pierden la batalla. Pero sus vástagos, sus retoños, en un nuevo intento de lucha, consiguen derrotar a la injusticia. Triunfan y ganan la guerra social. Uno de estos retoños termina llevando al campesino comunitario de la costa a la conquista de nuevas tierras (…) donde el pueblo en forma cooperativa, como tomando la delantera a la Reforma Agraria”.
-Espíritu Crespo dejó el ambiente serrano (Yopadán) para buscar mejor posibilidades de vida en la costa. Aquí compra las tierras de nombre El Espinal y La Culebra (en Farfán), pero al poco tiempo estas parcelas le fueron arrebatadas por Felipe Fu Ching. A la vez que la desgracia se apoderó de la familia. Sin embargo, después de la muerte de Ña Candelaria don Espíritu decidió que su hijo mayor, Segundo, fuera a estudiar a la costa.
-Segundo estudió educación. Luego, Derecho y llegó a recuperar las antiguas tierras de su padre en la costa. Luego, Segundo se propuso irrigar las tierras desérticas para la comunidad de Farfán, proyecto que se realizó y benefició a mucha gente.
+✅ **PREMIOS**
+- 1971: Primer puesto de los Juegos Florales Tadio Delcar 
+- 1972: Botón de oro de los Juegos Florales en zonal Educ. N° 11
+- 1973: Segundo puesto del concurso Himno Colegio
+- 1973: Primer puesto de Poesía Radio Heroica 
+- 1983: Nro Peruano. Cuento UNEAL Florales (UNPRG) 
+- 1984: Primer puesto de los 111° Juegos Florales de la UNPRG
+- 1985: Primer "Rómulo León Saldívar" (INC - PIURA) 
+- 1987: Primer Juegos Florales de la Sociedad Amantes de las Artes
 
-![Mario Florían Díaz.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mario%20Flor%C3%ADan%20D%C3%ADaz.jpg)
+✅ **POESÍA**
+- "Piedra dura corazón sensible" 
+- "Nublada mañana de otoño" 
 
-**CARLOS CAMINO CALDERÓN**
-(1884-1956)
+✅ **CUENTO** 
+- "El doctor crúdel" 
+- "Paredes de viento" 
 
-✔ **BIOGRAFÍA**
-- Nació en Lima en 1 884
-- Representante del Nativismo Norteño con filiación modernista
-- Notable narrador regionalista y folklorista. 
-- Estudió en la UNMSM, pero dejó los estudios para viajar por Inglaterra, Japón, China, India, Arabia, África del Norte, Malasia y Austria. 
-- Fue secretario del Ministerio del Fomento
-- Fue Canciller en el Consulado de Guayaquil (Ecuador)
-- Fue director de Archivo de la UNT
-- Terminó como vendedor de quincallas.
-
-✔ **OBRAS**
-- “Ildefonso” / “La cruz de Santiago”
-- “El daño” / “La ilusión de Oriente”
-- “Mi molino” / “Cuentos de la costa”
-- “Tradiciones de Trujillo”
-- “Tradiciones de Piura”
-
-✔ **EL DAÑO**
-- Novela del indio costeño
-- Escrita en 1 942. Ambientada en el oncenio de Leguía
-- Pinta la costumbre secular de la brujería. El escenario es el pago de “La Cuchilla” . Lambayeque.
-
-✅ Personajes:
-- José Miguel Navarrete, gamonal, celoso en su pago.
-- Guillermo. Limeño. hijo de José Miguel, 22 años.
-- Sebastiana, segunda mujer de José Miguel, serrana, laboriosa, ordenada, pero que soluciona todo con brujería.
-- Baltazar Esquén, indio analfabeto , lacayo de Sebastiana.
-- Lorenzo Ipanaqué, brujo malero de Batangrande
-- Piscoya, limpiador de Salas
-
-![Carlos Camino Calderón.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Carlos%20Camino%20Calder%C3%B3n.jpg)
-
-
-**MARIO PUGA IMAÑA**
-(1915-1959)
-
-✔ **BIBLIOGRAFÍA**
-- Trujillo 1 915. Radicó en Chiclayo, estudiando en el Centenario “San José” . Se gradúa como abogado en la UNMSM
-- Por sus ideales políticos fue perseguido, encarcelado y luego exiliado en Méjico en 1 949
-- Allá realiza actividades literarias e intelectuales fundando la revista **==“Humanismo”==**. 
-- En 1 956 regresa al Perú ; reside en Chiclayo. 
-- Muere en 1 959.
-
-✔ **OBRAS**
-- “Puerto Cholo”
-- “Lo humano y lo distante”
-- “Tres poemas civiles”
-- “Ahí nomás” (Conjunto de cuentos; póstumos)
-
-✔ **PUERTO CHOLO**
-- Describe la vida apacible de Eten, hasta la llegada del capitalismo y la consiguiente lucha de clases. El protagonista, el cholo pescador Manuel Fiestas. La Jacinta, su mujer . Don Pirinchico. Don Augusto.
-
-![Mario Puga Imaña.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Mario%20Puga%20Ima%C3%B1a.jpg)
-
-**ANDRÉS DÍAS NUÑEZ**
-(1943-Actualidad)
-
-✔ **BIBLIOGRAFÍA**
-- Nació en el caserío de Chames, distrito de Conchán, provincia de Chota (Cajamarca)
-- Proviene de una familia dedicado a las labores agrícolas de condición modesta.
-- Sus estudios primarios y secundarios los realizó en el Colegio de Chalamarca, Pacha y en el Colegio San Juan de Chota; sus estudios superiores, en Trujillo (Educación) y en Lambayeque (Derecho).
-- A partir de 1974, hasta hoy, trabaja en la UNPRG dictando la cátedra de Lengua y Literatura.
-- En el plano literario Andrés Díaz Núñez formó parte del grupo literario “Pirca” del cual es uno de los fundadores.
-
-✔ **PRODUCCIÓN LITERARIA**
-
-✅ Poesía
-- “Piedra Dura y Corazón Sensible”.
-
-✅ Cuentos:
-- “El Doctor Crúdel”
-- “Atilano por Caminos Desconocidos”
-- “Cosechando bajo el Sol”, “Paredes de Viento”.
-
-✅ Novelas
-- “Las Flores Negras de Adela”
-- “Los Hombres que parecen Sombras”
-- “Rastros Sangrantes”
-
-✔ **LOS HOMBRES QUE PARECEN SOMBRAS**
-- Esta obra presenta las anomalías biológicas que padece una familia completa
-- Estas anomalías también están presentes en los animales que la familia criaba.
-
-Converge en la obra una mujer que tiene dos váginas (una grande y la otra pequeña), su segundo esposo con dos penes; sus hijas son siameses, comparten el mismo órgano sexual. Éstas tienen cada una un marido distinto; y dos hijos más: Largión, que padecía de gigantismo, había nacido por la vagina grande; un enanito, que alcanzaba en una caja de fósforo, había nacido por la vagina pequeña. Un niño que podía ver a través de las paredes.
-
-✔ **RASTROS SANGRIENTOS**
-- Esta novela al principio fue cuento, y como tal ganó el Premio Nor Peruano del cuento (1983) en los I Juegos Florales organizado por la Unión de Escritores y Artistas Lambayecanos (UNEAL).
-- La obra también ganó el Premio Nacional “Rómulo León Saldivar”.
-- El tema: El problema de las invasiones y las adversidades que se padece. Este problema está patente en todo el territorio del Perú. Por ello es que la ciudad en que está ambientada toma las primeras sílabas del antiguo Tawantinsuyo: Concochinan (Constisuyo, Collasuyo, Chinchaysuyo, Antisuyo).
-
-Empieza en una barriada con un sangriento desalojo, mostrando la paupérrima vida de sus habitantes, en la costa. Grimaldo recuerda su vida anterior en su pueblo natal Cocochinán, su mujer, ante el alto costo de hospital y servicios médicos da a luz en un parque desamparada a la segunda de sus hijas, muere una de ellas. Grimaldino ante las desagracias pierde la razón y lo internan en un hospital y su mujer busca trabajo como doméstica, visita a su esposo y Grimaldino recupera poco a poco el juicio y sigue sus estudios de Derecho en la Universidad de Los Luceros.
-
-![Andrés Días Núñez.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Andr%C3%A9s%20D%C3%ADas%20N%C3%BA%C3%B1ez.jpg)
-
-**GILBERTO MAXE SUXE**
-(1960-Actualidad)
-
-✔ **BIOGRAFÍA**
-- Nació en Tostén, Pulán, provincia de Santa Cruz, Cajamarca en 1960
-- Hijo de padres agricultores: Arístedes Maxe Villalobos y Albertina Suxe Barturén.
-- Sus estudios primarios los realizó en su lugar de nacimiento, los secundarios en el colegio Juan Ugaz de su provincia, donde demostró su inclinación por la Gramática y la matemática; y los superiores en la **Universidad Pedro Ruiz Gallo** en la especialidad de lengua y literatura, graduándose en el reconocimiento de **“Mención Honrosa”** con la tesis lingüística titulada **==“Influencia lexical del idioma castellano en el idioma quechua”==**
-- Su labor docente inició en el C. E. 11073 de Shancapampa, comunidad quechuahablante del distrito de Incahuasi, provincia de Ferreñafe, donde público un texto de lecto escritura **==“Yat’ rakunapaq”==** (1987). Trabajo que lo impone como el pionero de la educación bilingüe pese a las múltiples críticas.
-- Entre 1987- 2001 en el colegio secundario del distrito de Chongoyape. Actualmente labora en el centenario Colegio Nacional de “San José” de la provincia de Chiclayo. En diciembre publica su controvertida novela **==“El dialogo de los infelices”==**
-
-✔ **OBRAS**
-
-✅ Novelas
-- La casa del tío Lule
-- El tabaridillo
-- Los tres consejos
-
-✅ Tesis
-- “Como domina el castellano al quechua”
-
-✔ **LOS TRES CONSEJOS**
-- La historia de esta novela trascurre en un ambiente muy colorido y accidentado.
-- Características propias del paisaje de la región de la sierra, específicamente de la quechua y de la yunga. Los ríos, las lluvias, las zarzas, frutos y variedades de plantas dibujan el escenario donde Genaro Ramírez nos atrae para hacernos cómplices de su venturosa, azarosa, arriesgada y desdichada vida.
-- El motivo del trajinar de Genaro de un lugar a otro, hasta ausentarse por veinte años de su hogar es la mentira que ha hecho a ojos de la familia de su esposa Rita María y también de ésta, una verdad.
-
-![Gilberto Maxe Suxe.jpg](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Gilberto%20Maxe%20Suxe.jpg)
+✅ **NOVELA** 
+- "Los hombres que parecen sombra" 
+- =="RASTROS SANGRANTES"== 
+	- TEMA: Las vicisitudes vivenciales que atraviesan los invasores y establecen un pueblo joven
+	- GRIMALDINO CARHUAPOMA: Estudiante de derecho, débil de carácter pues no pudo soportar los problemas y ==SE ALOCÓ== 
+	- LUSDENA ARENALES: Esposa de Grimaldino, enfermera, mujer abnegada que ayuda y acompaña a su esposo aún en los peores momentos 
+	- DALILA CARHUAPOMA: Hija de ambos, logra salir adelante junto a sus padres y le ayuda la fe que tuvo en Dios
+	- LOREDINA: Segunda hija, ==SE GESTÓ EN EL BASURERO==, por eso nació enferma, en gusanada, producto de esto ==MURIÓ== 
+	- CAPITÁN BRACAMONTE: Jefe policial, desaloja a los invasores del algodonal, allí, ==BORRACHO MATÓ A SU COMPAÑERO ELEODORO SAYAVERDE== y ==CULPÓ A LOS INVASORES== entre ellos a ==GRIMALDINO== 
+	- ELEODORO SAYAVERDE: Policía asesinado por su compañero
+	- GODOFREDO VIDALÓN: Antiguo patrón de Grimaldino, Grimaldino lo busca para ==COBRARLE UNA VIEJA DEUDA==, al ser víctima de su ex patrón, ==ESTE LO MATA CON UNAS TIJERAS== 
+	- ANGELINA BARRAGÁN: Jura vengar la muerte de su marido, por eso ==ENVENENA A LOS LOCOS== del hospital psiquiátrico, pero no logra matar a Grimaldino 
+	- LINFOCIA CAYANA: Es la sirvienta de Angelina, ==MATA A SU PATRONA== y lo confiesa todo en una carta
 
 ---
 **PRÁCTICA**:
