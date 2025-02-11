@@ -12,6 +12,10 @@
 ✔ **DEFINICIÓN** 
 - Tejido constituido por ==ABUNDANTES CÉLULAS== pocas diferencias o transformadas, entre las cuales hay ==ESCASA SUSTANCIA INTERCELULAR== 
 
+✔ **ETIMOLOGÍA**
+- EPI: Sobre
+- TELIO: Acúmulo
+
 ✔ **FUNCIONES**
 - PROTECCIÓN: Epidermis
 - SECRECIÓN: Glándulas lagrimales 
@@ -30,6 +34,7 @@
 - En los bordes presentan azúcares ==(GLUCOCÁLIX)== 
 - Presenta terminaciones nerviosas 
 - Tiene gran ==CAPACIDAD DE REGENERACIÓN== 
+- Carecen de inervación
 
 ![1. ELEMENTOS GRÁFICOS/Epitelio.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Epitelio.png)
 <center>Superficies de las células epiteliales</center>
