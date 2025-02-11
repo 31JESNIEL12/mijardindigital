@@ -27,7 +27,7 @@
 
 ✔ **CARACTERÍSTICAS**
 - Deriva de las ==TRES CAPAS GERMINATIVAS==: ectodermo, mesodermo y endodermo. 
-- Presenta células con ==FORMAS GEOMÉTRICAS==. Estas se encuentran unidas mediante ==UNIONES OCLUSIVAS==, las cuales sellan y evitan espacios entre ellas; y las ==UNIONES ADHERENTES==, las cuales resisten la tensión 
+- Presenta células con ==FORMAS GEOMÉTRICAS==. Estas se encuentran unidas mediante ==UNIONES OCLUSIVAS O ESTRECHAS==, las cuales sellan y evitan espacios entre ellas; y las ==UNIONES ADHERENTES==, las cuales resisten la tensión 
 - En la base de las células epiteliales, se ubica la ==MEMBRANA BASAL==, la cual sirve de apoyo. Esta está compuesta por ==LÁMINA BASAL== y la ==LÁMINA LÚCIDA O RETICULAR==. Actúa como filtro en los riñones y dirige la migración celular durante el desarrollo y la reparación de los tejidos
 - Es un ==TEJIDO AVASCULAR==, es decir, no posee vasos sanguíneos ni linfáticos. Se nutre por ==DIFUSIÓN== a partir de los vasos sanguíneos del ==TEJIDO CONECTIVO== subyacente
 - Se ==RENUEVAN CONSTANTEMENTE==, gracias a las continuas divisiones mitóticas
