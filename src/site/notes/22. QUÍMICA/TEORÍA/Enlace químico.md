@@ -257,7 +257,7 @@
 ---
 **MOLÉCULAS POLARES Y NO POLARES** 
 
-✔ **MOLÉCULAS POLARES (μ<sub>R</sub> > 0) 
+✔ **MOLÉCULAS POLARES (μ<sub>R</sub> > 0)**
 - Una molécula polar es ==ASIMÉTRICA== respecto al ==ÁTOMO CENTRAL==, por lo que ==POSEE UN MOMENTO DIPOLAR== o, en otras palabras, el centro de cargas positivas y el de cargas negativas se encuentran separados a cierta distancia
 - Es un pequeño dipolo 
 - Las moléculas polares, en forma de vapor se orientan o desvían dentro de un campo eléctrico
