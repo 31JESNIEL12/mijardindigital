@@ -61,6 +61,93 @@ ENTRE LA PRIMERA Y LA SEGUNDA GUERRA MUNDIAL
 <center>John Maynard Keynes</center>
 
 ---
+**EL ASCENSO DE LOS REGÍMENES FASCISTAS** 
+
+✔ **DEFINICIÓN** 
+- El fascismo es una ideología y sistema de gobierno ==TOTALITARIO== sumergido en Europa tras la ==PRIMERA GUERRA MUNDIAL==, opuestos a la democracia liberal y al comunismo, otorgándole un ==PODER ABSOLUTO AL ESTADO== amparando a un ==NACIONALISMO EXACERBADO== 
+- Contaron con el apoyo de la ==BURGUESÍA INDUSTRIAL== y el respaldo de ==GRAN PARTE DEL PUEBLO== 
+- PAÍSES MÁS SALTANTES: Italia, Alemania y España
+
+✔ **CONTEXTO**
+- La Gran Depresión (1929 - 1939)
+
+✔ **CARACTERÍSTICAS**
+- TOTALITARISMO: El Estado ejerce el control absoluto del poder
+- CORPORATIVISMO: Concilia los intereses de los burgueses y de los obreros, y eliminar la lucha de clases
+- CHAUVINISMO: Fomento del ultranacionalismo
+- CAUDILLISMO: El poder es ejercidos por los caudillos (MILITARES)
+- ANTICOMUNISMO Y ANTIDEMOCRÁTICO: Considera que los sistema de gobierno son nocivos para el pueblo
+- ANTILIBERAL
+- REVANCHISMO
+- ANTISEMITISMO: Odio hacia los judíos
+
+✔ **CAUSAS**
+- Crisis post Primera Guerra Mundial
+- Crisis económica luego de 1929
+- El Tratado de Versalles (1919)
+- El avance de las ideas socialistas ([[17. HISTORIA UNIVERSAL/TEORÍA/Revolución Rusa\|REVOLUCIÓN RUSA]]) 
+- Radicalización de los movimientos nacionalistas ==(ULTRANACIONALISMO)==. 
+- Las malas experiencias con los gobiernos democráticos
+
+✔ **FASCISMO ITALIANO** 
+- FUNDACIÓN: Italia (1921): ==PARTITO NAZIONALE FASCISTA (PNF)== 
+- LÍDER: ==BENITO MUSSOLINI EL DUCE== 
+- Llegó al poder mediante la ==MARCHA DE ROMA==, en la que 25 000 fascistas italianos ==("CAMISAS NEGRAS")== toman la capital en 1922
+- El rey ==VÍCTOR MANUEL III== le entrega el poder a Mussolini (PRIMER MINISTRO)
+- Se recortan las libertades individuales para dar ==MAYOR PODER== al ==ESTADO==. Solo se permite la existencia de un partido, el PNF.
+- TRATADO O CONCORDATO DE LETRÁN (1929): Se da una alianza con la ==IGLESIA CATÓLICA (PAPA PÍO XI)== y se crea la ==CIUDAD DEL VATICANO==, que pasa a ser un país independiente
+- CARTA DE LABORO: Se limitan los derechos y libertades al trabajador para favorecer el control corporativista de la sociedad
+- EJE DE BERLÍN - ROMA (1936): Los gobiernos fascistas ==ITALIAN, ALEMÁN Y JAPONÉS== se aliaban para iniciar una ==POLÍTICA EXPANSIONISTA== 
+- Mussolini ordena la ==INVASIÓN== a ==ETIOPÍA (1936)== y ==ALBANIA (1939)== 
+
+![1. ELEMENTOS GRÁFICOS/Fascismo Italiano.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Fascismo%20Italiano.png)
+<center>Fascismo Italiano: Benito Mussolini</center>
+
+✔ **NAZISMO ALEMÁN** 
+- LÍDER: ==ADOLF HITLER EL FÜHRER== (TERCER REICH)
+- BASE IDEOLÓGICA: "Mein Kampf" (1925)
+	- Del alemán: "Mi Lucha" 
+- Comparte la misma esencia con el fascismo italiano, pero agregándole el componente del ==RACISMO== 
+- En 1920 surge el ==PARTIDO OBRERO NACIONAL SOCIALISTA NAZI== para captar el apoyo de la clase trabajadora. Utiliza un discurso ==NACIONALISTA Y RACISTA== Plantea la existencia de una ==RAZA SUPERIOR (ARIA ALEMANA)== 
+- PUTSH DE MÜNICH (1923): Intento de golpe de Estado fallido, Hitler es apresado
+- En la cárcel, Hitler escribe su libro "Mein Kampf", en él justifica la necesidad de ==EXPANSIONISMO== con la ==TESIS DEL ESPACIO VITAL==  
+- Tras salir de prisión, Hitler aprovecha de su gran habilidad para la oratoria y logra impulsar en la población un sentimiento ==ULTRANACIONALISTA== 
+- En 1933, ==HINDENBURG==, presidente de la ==REPÚBLICA DE WEIMAR==, elige a Hitler como canciller ante el fuerte respaldo popular
+- En 1934, Hindenburg muerte y Hitler asume la presidencia. Se inicia el ==TERCER REICH (TERCER IMPERIO ALEMÁN)== 
+- NOCHE DE LOS CUCHILLO LARGOS (OPERACIONES COLIBRÍ): Asesinato de todos los opositores nazis de Hitler
+- SS: Fuerza militar de protección e inteligencia dirigida por ==HEINRICH HIMMLER== 
+- NOCHE DE LOS CRISTALES ROTOS: Fueron atentados ==CONTRA LOS JUDÍOS== y sus propiedades. Hitler promovió su ==ANTISEMITISMO==, culpándolos de ser aliados de los países enemigos de Alemania 
+- Hitler impulsó una alianza entre el ==ESTADO FASCISTA== y los ==GRANDES EMPRESARIOS== de Alemania
+- HIGIENE RACIAL: Se hace uso de la ==EUTANASIA Y EUGENESIA== para eliminar personas con problemas de salud física o mental. Se prohíbe el cruce racial entre alemanes y judíos u otros grupos étnicos inferiores
+- Se empiezan a establecer ==GUETOS O BARRIOS== en las ciudades donde debía ser recluidos y vigilados los judíos. Posteriormente serían enviados a morir en los ==CAMPOS DE CONCENTRACIÓN== 
+- Hitler promovió la persecución de los comunistas y otros partidos alemanes
+
+![1. ELEMENTOS GRÁFICOS/El Canciller Hitler.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/El%20Canciller%20Hitler.png)
+<center>Hindenburg proclama canciller a Hitler</center> 
+
+✔ **FALANGISMO** 
+- Surge en España en 1934 con la creación de la Falange Española de las Juntas Ofensivas Nacional Sindicalista (JONS)
+
+✅ **GUERRA CIVIL ESPAÑOLA (1936 - 1939)** 
+- Fue un proceso de guerra política interna, que condujo la ==CAÍDA DE LA REPÚBLICA ESPAÑOLA== y la llegada al poder de ==FRANCISCO FRANCO==, que impuso una ==DICTADURA FASCISTA== 
+- En 1931 se había establecido la Segunda República Española, a bajo la presidencia de ==NICETO ALCALÁ ZAMORA==. Con el respaldo del Partido Republicano y el Partido Socialista Español, establece ==MEDIDAS REFORMISTAS== en el campo y social. 
+	- Se implementó la ==REFORMA AGRARIA==, donde se concedieron algunos derechos laborales al obrero
+	- Se redactó la ==CONSTITUCIÓN==, donde establecían España como un ==ESTADO LAICO== (El Estado se separa de la Religión)
+- En 1933 se suspendieron las reformas debido a la ==OPOSICIÓN== de la ==ÉLITE BURGUESA==, la ==IGLESIA CATÓLICA== y ==PARTE DEL EJÉRCITO== 
+- En 1934, ==ANTONIO PRIMO DE RIVERA== funda el JONS, la cual fue apoyada por la burguesía la Iglesia Católica y parte de los militares
+- En 1936, los fascistas españoles (FALANGISTAS), dirigidos por el general ==FRANCISCO FRANCO==, iniciaron una guerra contra el gobierno republiacano
+	- FALANGISTAS: Contó con el apoyo de Hitler, el cual ordena que la aviación alemana bombardee sobre la ==CIUDAD DE GUERNICA== 
+	- GOBIERNO REPUBLICANO: Contó con escaso apoyo por parte de EE.UU., Inglaterra y la URSS
+- En 1939, Francisco Franco ocupa Madrid y toma el control del poder a través de un gobierno fascista. 
+- Estrecha lazos con la ==ALEMANIA NAZI== y la ==ITALIA DE MUSSOLINI==. Aun así, no se involucró en la [[17. HISTORIA UNIVERSAL/TEORÍA/Segunda Guerra Mundial\|SEGUNDA GUERRA MUNDIAL]]
+
+>[!sidenote]- **RECORDAR** 
+>En 1939, se publica la obra póstuma de César Vallejo: España, aparta de mí este cáliz. El cual habla sobre este conflicto interno.
+
+![1. ELEMENTOS GRÁFICOS/Guerra Civil Española.png](/img/user/1.%20ELEMENTOS%20GR%C3%81FICOS/Guerra%20Civil%20Espa%C3%B1ola.png)
+<center>Guerra Civil Española</center>
+
+---
 **PRÁCTICA:** 
 >[[17. HISTORIA UNIVERSAL/PRÁCTICA/Periodo entre guerras\|PRESIONA AQUÍ]]
 
